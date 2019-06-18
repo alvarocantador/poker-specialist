@@ -1,0 +1,84 @@
+PERIODICIDADE DA ANALISE:
+Toda vez que são recolhidas informações de log é executado o motor de inferência tantas quantas vezes forem as ações identificadas no log.
+
+OBSERVAÇÕES
+* Não estaremos analisando a estratégia dos outros jogadores neste momento, apesar de ter a clareza de que este fator é muito importante para o jogo como um todo.
+* A análise é por mão jogada, portanto não estaremos analisando a performance do jogador em longo do torneio ou durante vários torneios, apesar de ter a clareza de que este fator é muito importante para o jogo como um todo.
+* A análise é feita apenas em mãos que ainda não tiveram um aumento sobre a aposta inicial.
+
+NOMENCLATURA
+============
+@xpto  -> Variáveis de entrada de dados coletadas dos logs
+#xpto  -> Variáveis de entrada pelo usuario
+"xpto" -> Mensagens do sistema
+
+CONSTANTES (Maiúsculas)
+=======================
+Tipo do Jogo = TORNEIO, OUTRO
+Modalidade do Jogo = TEXAS_HOLDEM, OUTRO
+Quantidade deJogadores por Mesa = NOVE_LUGARES, OUTRO
+
+MOTOR DE INFERÊNCIA
+===================
+@EntradaDeDados
+ |
+Já foi informado o número do jogo a ser analisado? |não -> "Favor informar o número do jogo: " __#NumeroDoJogo__
+ |sim
+O @NumeroDoJogo é o mesmo do #NumeroDoJogo informado? |não -> Nada a ser feito. Aguardando próxima interação.
+ |sim
+O @TipoDoJogo é TORNEIO? |não -> "Só é possível analisar jogos do tipo torneio."
+ |sim
+A @Modalidade do jogo é TEXAS_HOLDEM? |não -> "Só é possível analisar a modalidade de jogo Texas Hold'em."
+ |sim
+A @QuantidadeDeJogadores por mesa é de NOVE_LUGARES? |não -> "Só é possível analisar torneios com 9 jogadores por mesa."
+ |sim 
+Já foi informado o nickname do jogador a ser analisado? |não -> "Favor informar o nickname do jogador: " __#Jogador__
+ |sim
+O #Jogador está entre os @Participantes do jogo? |não -> "Só é possível analisar jogos que o #Jogador estiver participando."
+ |sim
+O jogo @Comecou? |não -> Nada a ser feito. Aguardando iniciar o torneio.
+ |sim
+É a vez do #Jogador fazer uma ação? |não -> Nada a ser feito. Aguardando chegar a vez do #Jogador.
+ |sim
+A aposta ainda é o valor inicial do Big Blind? |não -> "Só é possível analisar a mãos que nenhum jogador aumentou previamente."
+ |sim
+Qual é a @StreetEmAndamento e a @PosiçãoNaMesa do #jogador?
+ |==================================================================================
+ | opções de street: @PFlop, @Flop, @Turn, @River
+ | opções de posição: @UTG, @UTG+1, @MP1, @MP2, @HJ, @CO, @BTN, @SB, @BB
+ |==================================================================================
+
+@PFlop e (@UTG ou @UTG+1 ou @MP1 ou @MP2 ou @HJ ou @CO ou @BTN ou @SB ou @BB)
+=============================================================================
+Minha @mao é do GRUPO_MAO_1_2? |não -> "Você deveria correr."
+ |sim -> "Você deveria aumentar para " + ((@BigBlind * 3) + rand(-0,5 a +0,5))
+
+@PFlop e (@UTG+1 ou @MP1 ou @MP2 ou @HJ ou @CO ou @BTN ou @SB ou @BB)
+=============================================================================
+Minha @mao é do GRUPO_MAO_1_2_3? |não -> "Você deveria correr."
+ |sim -> "Você deveria aumentar para " + ((@BigBlind * 3) + rand(-0,5 a +0,5))
+
+@PFlop e (@MP1 ou @MP2 ou @HJ ou @CO ou @BTN ou @SB ou @BB)
+=============================================================================
+Minha @mao é do GRUPO_MAO_1_2_3_4? |não -> "Você deveria correr."
+ |sim -> "Você deveria aumentar para " + ((@BigBlind * 3) + rand(-0,5 a +0,5))
+
+@PFlop e (@MP2 ou @HJ ou @CO ou @BTN ou @SB)
+=============================================================================
+Minha @mao é do GRUPO_MAO_1_2_3_4_5? |não -> "Você deveria correr."
+ |sim -> "Você deveria aumentar para " + ((@BigBlind * 3) + rand(-0,5 a +0,5))
+
+@PFlop e (@HJ ou @CO ou @BTN)
+=============================================================================
+Minha @mao é do GRUPO_MAO_1_2_3_4_5_6? |não -> "Você deveria correr."
+ |sim -> "Você deveria aumentar para " + ((@BigBlind * 3) + rand(-0,5 a +0,5))
+
+@PFlop e (@CO ou @BTN)
+=============================================================================
+Minha @mao é do GRUPO_MAO_1_2_3_4_5_6_7? |não -> "Você deveria correr."
+ |sim -> "Você deveria aumentar para " + ((@BigBlind * 3) + rand(-0,5 a +0,5))
+
+@PFlop e (@BTN)
+=============================================================================
+Minha @mao é do GRUPO_MAO_1_2_3_4_5_6_7_8? |não -> "Você deveria correr."
+ |sim -> "Você deveria aumentar para " + ((@BigBlind * 3) + rand(-0,5 a +0,5))
