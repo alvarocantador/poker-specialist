@@ -6,7 +6,8 @@ setup(name='poker-specialist',
       license='MIT',
       install_requires=[
           'pyknow',
-          'lark-parser'
+          'lark-parser',
+          'python-dotenv'
       ],
     
       zip_safe=False)
