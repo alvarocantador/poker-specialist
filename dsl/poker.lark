@@ -2,7 +2,7 @@ start: game?
 
 // game: header table seat+ ante* small_blind big_blind hole_cards received_card action* flop action* (turn action*)? river? (show_down show_down_player+)? prize_collect* tournament_finished* summary total_pot board seat_result*
 
-game: header table seat+ after_button* ante* small_blind big_blind hole_cards received_card action* (flop action*)? (turn action*)? (river action*)? (show_down (show_down_player | prize_collect| mucks_hand | tournament_finished | returned | chat | win)+ )? summary total_pot board? seat_result*
+game: header table seat+ after_button* ante* small_blind big_blind hole_cards received_card action* flop? turn? river? (show_down (show_down_player | prize_collect| mucks_hand | tournament_finished | returned | chat | win)+ )? summary total_pot board? seat_result*
 
 header: hand tournament blind "- " DATE_ISO
 hand: "PokerStars Hand #" NUMBER
@@ -43,9 +43,9 @@ is_sitting_out: player IS_OUT
 chat: player "said, " WHATEVER
 
 
-flop: "*** FLOP *** " card_set
-turn: "*** TURN *** " card_set+ 
-river: "*** RIVER *** " card_set+
+flop: "*** FLOP *** " card_set  action*
+turn: "*** TURN *** " card_set+  action*
+river: "*** RIVER *** " card_set+  action*
 
 show_down: "*** SHOW DOWN ***" 
 show_down_player: player ": shows" card_set WHATEVER
