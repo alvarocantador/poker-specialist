@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.23.1">
+    <mindmap>
+        <meta>
+            <guid guid="75AAA6A528989066690D378F"></guid>
+            <title text="POKER"></title>
+            <style key="system.soft-palette"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="100" x="3311.66" y="-90.00"></scrollstate>
+            <selection guid="At3A4mMM3FV2Kr2BQVyFoA" type="node" id="29"></selection>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="BFa36Qgc3ZYs_npaf_Pi9g" x="447.92" y="419.23" layout="strict-horizontal" palette="1" colorinfo="-1" text=" POKER" textfmt="plain">
+                <style>
+                    <fillcolor r="157" g="239" b="255"></fillcolor>
+                    <strokecolor r="0" g="173" b="206"></strokecolor>
+                </style>
+                <fillcolor r="157" g="239" b="255"></fillcolor>
+                <strokecolor r="0" g="173" b="206"></strokecolor>
+                <note>PERIODICIDADE DA ANALISE:
+Toda vez que são recolhidas informações de log é executado o motor de inferência tantas quantas vezes forem as ações identificadas no log.
+
+OBSERVAÇÕES
+* Não estaremos analisando a estratégia dos outros jogadores neste momento, apesar de ter a clareza de que este fator é muito importante para o jogo como um todo.
+* A análise é por mão jogada, portanto não estaremos analisando a performance do jogador em longo do torneio ou durante vários torneios, apesar de ter a clareza de que este fator é muito importante para o jogo como um todo.
+* A análise é feita apenas em mãos que ainda não tiveram um aumento sobre a aposta inicial.
+
+NOMENCLATURA
+=============
+@xpto  -&gt; Variáveis de entrada de dados coletadas dos logs
+#xpto  -&gt; Variáveis de entrada pelo usuario
+"xpto" -&gt; Mensagens do sistema
+
+CONSTANTES (Maiúsculas)
+====================
+Tipo do Jogo:
+- TORNEIO
+- OUTRO
+Modalidade do Jogo
+- TEXAS_HOLDEM
+- OUTRO
+Quantidade de Jogadores por Mesa:
+- NOVE_LUGARES
+- OUTRO
+Apostas:
+- RAISE_1 = (@BigBlind * 3) + (@BigBlind * rand(-0,5 a +0,5))</note>
+            </topic>
+            <topic id="1" parent="0" guid="IL8_fzOqXTQED-cwHsowBg" x="661.56" y="419.23" palette="3" colorinfo="3" text="Tem o #NumeroDoJogo?" textfmt="plain"></topic>
+            <topic id="2" parent="1" guid="UfWUYzjVVvVv7GzCPtGByA" x="943.14" y="388.40" palette="0" colorinfo="-1" text="se SIM: O @NumeroDoJogo é o\Nmesmo que o #NumeroDoJogo?" textfmt="plain">
+                <style>
+                    <fillcolor r="195" g="255" b="176"></fillcolor>
+                    <strokecolor r="50" g="216" b="0"></strokecolor>
+                </style>
+                <fillcolor r="195" g="255" b="176"></fillcolor>
+                <strokecolor r="50" g="216" b="0"></strokecolor>
+            </topic>
+            <topic id="3" parent="2" guid="KwVwuCfWsWMyE_iYL1wooQ" x="1183.30" y="357.57" text="se SIM: O\N@TipoDoJogo é\NTorneio?" textfmt="plain"></topic>
+            <topic id="4" parent="3" guid="VpKhGxur5Icy1qPOd1Hgmg" x="1420.04" y="326.73" text="se SIM: A @ModalidadeDoJogo\Né TEXAS_HOLDEM?" textfmt="plain"></topic>
+            <topic id="5" parent="4" guid="T1ZBuzbmiv8WHBCgPlZAmQ" x="1739.25" y="295.90" text="se SIM: A @QuantidadeDeJogadores por\Nmesa é de NOVE_LUGARES?" textfmt="plain"></topic>
+            <topic id="6" parent="5" guid="bEFVEhVaMZ4HXQGhF0bFyg" x="2042.46" y="265.07" text="se SIM: Já foi informado o\N#Jogador a ser analisado?" textfmt="plain"></topic>
+            <topic id="7" parent="6" guid="GINtK3Xy-gIfHc60WOi7uQ" x="2320.32" y="234.24" text="se SIM: O #Jogador está entre os\N@Participantes do jogo?" textfmt="plain"></topic>
+            <topic id="8" parent="7" guid="GEPadE5FydMSqsrAajlu2A" x="2569.58" y="195.18" text="se SIM: O\N@JogoComecou?" textfmt="plain"></topic>
+            <topic id="9" parent="8" guid="L1L1D2GMJsgewi_Vfqk2yg" x="2775.49" y="164.35" text="se SIM: O\N@JogadorDaVez é o\N#Jogador?" textfmt="plain"></topic>
+            <topic id="10" parent="9" guid="SjhyFERceQUb-syjB2lVFQ" x="2997.22" y="133.51" text="se SIM: A @Aposta é o\N@BigBlind?" textfmt="plain"></topic>
+            <topic id="11" parent="10" guid="F7__hR3WZeh8yZvBRxL0lQ" x="3232.57" y="94.45" palette="0" colorinfo="-1" text="se SIM: Qual a @Street?" textfmt="plain">
+                <style>
+                    <fillcolor r="195" g="255" b="176"></fillcolor>
+                    <strokecolor r="50" g="216" b="0"></strokecolor>
+                </style>
+                <fillcolor r="195" g="255" b="176"></fillcolor>
+                <strokecolor r="50" g="216" b="0"></strokecolor>
+            </topic>
+            <topic id="12" parent="11" guid="f2KMsBuLy5dFvCtfF9U-dw" x="3464.72" y="1.96" palette="0" colorinfo="-1" text="se PRE_FLOP: Qual a\N@MaoDoJogador?" textfmt="plain">
+                <style>
+                    <fillcolor r="195" g="255" b="176"></fillcolor>
+                    <strokecolor r="50" g="216" b="0"></strokecolor>
+                </style>
+                <fillcolor r="195" g="255" b="176"></fillcolor>
+                <strokecolor r="50" g="216" b="0"></strokecolor>
+            </topic>
+            <topic id="13" parent="12" guid="AjpY3SLy-SYigPMLAZzljQ" x="3737.61" y="-427.17" palette="0" colorinfo="-1" text="se GRUPO_MAO_1_2: &quot;Você deveria\Naumentar para &quot; + RAISE_1" textfmt="plain">
+                <style>
+                    <fillcolor r="195" g="255" b="176"></fillcolor>
+                    <strokecolor r="50" g="216" b="0"></strokecolor>
+                </style>
+                <fillcolor r="195" g="255" b="176"></fillcolor>
+                <strokecolor r="50" g="216" b="0"></strokecolor>
+            </topic>
+            <topic id="14" parent="12" guid="Pn7EvWg9HmoZciQEDujQyg" x="3705.23" y="-323.45" text="se GRUPO_MAO_3: Qual a\N@PosicaoDoJogador?" textfmt="plain"></topic>
+            <topic id="15" parent="14" guid="bn97R0uXIiJ29mv8CaFISA" x="4003.87" y="-354.28" palette="0" colorinfo="-1" text="se UTG+1 ou MP1 ou MP2 ou HJ ou CO\Nou BTN ou SB ou BB: &quot;Você deveria\Naumentar para &quot; RAISE_1" textfmt="plain">
+                <style>
+                    <fillcolor r="195" g="255" b="176"></fillcolor>
+                    <strokecolor r="50" g="216" b="0"></strokecolor>
+                </style>
+                <fillcolor r="195" g="255" b="176"></fillcolor>
+                <strokecolor r="50" g="216" b="0"></strokecolor>
+            </topic>
+            <topic id="16" parent="14" guid="RZhK2XnQpVZoU5jiNBfGIA" x="3924.96" y="-284.38" palette="0" colorinfo="-1" text="se UTG: &quot;Você\Ndeveria correr.&quot;" textfmt="plain">
+                <style>
+                    <fillcolor r="253" g="182" b="176"></fillcolor>
+                    <strokecolor r="211" g="18" b="4"></strokecolor>
+                </style>
+                <fillcolor r="253" g="182" b="176"></fillcolor>
+                <strokecolor r="211" g="18" b="4"></strokecolor>
+            </topic>
+            <topic id="17" parent="12" guid="YjC8aVIs22x9U8pZDHXsdg" x="3705.23" y="-177.66" text="se GRUPO_MAO_4: Qual a\N@PosicaoDoJogador?" textfmt="plain"></topic>
+            <topic id="18" parent="17" guid="S0n6vw-c4YVQRVZqNkK77Q" x="3982.75" y="-208.49" palette="0" colorinfo="-1" text="se MP1 ou MP2 ou HJ ou CO ou\NBTN ou SB ou BB: &quot;Você deveria\Naumentar para &quot; RAISE_1" textfmt="plain">
+                <style>
+                    <fillcolor r="195" g="255" b="176"></fillcolor>
+                    <strokecolor r="50" g="216" b="0"></strokecolor>
+                </style>
+                <fillcolor r="195" g="255" b="176"></fillcolor>
+                <strokecolor r="50" g="216" b="0"></strokecolor>
+            </topic>
+            <topic id="19" parent="17" guid="RWfHeF9KBN49uQ5oJ5iD4Q" x="3946.43" y="-138.60" palette="0" colorinfo="-1" text="se UTG ou UTG+1:\N&quot;Você deveria correr.&quot;" textfmt="plain">
+                <style>
+                    <fillcolor r="253" g="182" b="176"></fillcolor>
+                    <strokecolor r="211" g="18" b="4"></strokecolor>
+                </style>
+                <fillcolor r="253" g="182" b="176"></fillcolor>
+                <strokecolor r="211" g="18" b="4"></strokecolor>
+            </topic>
+            <topic id="20" parent="12" guid="HJznAGHa2_AYrHwcaPFZeA" x="3699.39" y="-31.87" text="se GRUPO_MAO_5: Qual\Na @PosicaoDoJogador?" textfmt="plain"></topic>
+            <topic id="21" parent="20" guid="MXbgSzsM2MI0DnBYThPHSw" x="3956.99" y="-62.71" palette="0" colorinfo="-1" text="se MP2 ou HJ ou CO ou BTN\Nou SB: &quot;Você deveria\Naumentar para &quot; RAISE_1" textfmt="plain">
+                <style>
+                    <fillcolor r="195" g="255" b="176"></fillcolor>
+                    <strokecolor r="50" g="216" b="0"></strokecolor>
+                </style>
+                <fillcolor r="195" g="255" b="176"></fillcolor>
+                <strokecolor r="50" g="216" b="0"></strokecolor>
+            </topic>
+            <topic id="22" parent="20" guid="HOe0sky67HQ3BSDEPleglQ" x="3973.13" y="7.19" palette="0" colorinfo="-1" text="se UTG ou UTG+1 ou MP1 ou BB:\N&quot;Você deveria correr.&quot;" textfmt="plain">
+                <style>
+                    <fillcolor r="253" g="182" b="176"></fillcolor>
+                    <strokecolor r="211" g="18" b="4"></strokecolor>
+                </style>
+                <fillcolor r="253" g="182" b="176"></fillcolor>
+                <strokecolor r="211" g="18" b="4"></strokecolor>
+            </topic>
+            <topic id="23" parent="12" guid="IW_r4w3vjCI5wWpXZR3q1A" x="3699.39" y="105.68" text="se GRUPO_MAO_6: Qual\Na @PosicaoDoJogador?" textfmt="plain"></topic>
+            <topic id="24" parent="23" guid="ULFS12QBdLNBi8-iU48TuQ" x="3980.42" y="74.85" palette="0" colorinfo="-1" text="se HJ ou CO ou BTN: &quot;Você deveria\Naumentar para &quot; RAISE_1" textfmt="plain">
+                <style>
+                    <fillcolor r="195" g="255" b="176"></fillcolor>
+                    <strokecolor r="50" g="216" b="0"></strokecolor>
+                </style>
+                <fillcolor r="195" g="255" b="176"></fillcolor>
+                <strokecolor r="50" g="216" b="0"></strokecolor>
+            </topic>
+            <topic id="25" parent="23" guid="Wqp4lnDGixsjdYtpTP33rg" x="3997.25" y="136.51" palette="0" colorinfo="-1" text="se UTG ou UTG+1 ou MP1 ou MP2 ou SB\Nou BB: &quot;Você deveria correr.&quot;" textfmt="plain">
+                <style>
+                    <fillcolor r="253" g="182" b="176"></fillcolor>
+                    <strokecolor r="211" g="18" b="4"></strokecolor>
+                </style>
+                <fillcolor r="253" g="182" b="176"></fillcolor>
+                <strokecolor r="211" g="18" b="4"></strokecolor>
+            </topic>
+            <topic id="26" parent="12" guid="clN_F1_qx7xAi-lKdI3X9A" x="3714.38" y="243.24" text="se GRUPO_MAO_7:\NQual a @PosicaoDoJogador?" textfmt="plain"></topic>
+            <topic id="27" parent="26" guid="Rw5RCDe2jSQU65lZElhLyA" x="3989.01" y="204.18" palette="0" colorinfo="-1" text="se CO ou BTN: &quot;Você deveria\Naumentar para &quot; RAISE_1" textfmt="plain">
+                <style>
+                    <fillcolor r="195" g="255" b="176"></fillcolor>
+                    <strokecolor r="50" g="216" b="0"></strokecolor>
+                </style>
+                <fillcolor r="195" g="255" b="176"></fillcolor>
+                <strokecolor r="50" g="216" b="0"></strokecolor>
+            </topic>
+            <topic id="28" parent="26" guid="R1NuqWUw78RImwe1DOu5gw" x="3988.72" y="274.07" palette="0" colorinfo="-1" text="se UTG ou UTG+1 ou MP1 ou\NMP2 ou HOJE ou SB ou BB:\N&quot;Você deveria correr.&quot;" textfmt="plain">
+                <style>
+                    <fillcolor r="253" g="182" b="176"></fillcolor>
+                    <strokecolor r="211" g="18" b="4"></strokecolor>
+                </style>
+                <fillcolor r="253" g="182" b="176"></fillcolor>
+                <strokecolor r="211" g="18" b="4"></strokecolor>
+            </topic>
+            <topic id="29" parent="12" guid="At3A4mMM3FV2Kr2BQVyFoA" x="3714.38" y="389.02" text="se GRUPO_MAO_8:\NQual a @PosicaoDoJogador?" textfmt="plain"></topic>
+            <topic id="30" parent="29" guid="XwGVGjDuoJdBA3-jJGlckg" x="3976.31" y="349.96" palette="0" colorinfo="-1" text="se BTN: &quot;Você deveria\Naumentar para &quot; RAISE_1" textfmt="plain">
+                <style>
+                    <fillcolor r="195" g="255" b="176"></fillcolor>
+                    <strokecolor r="50" g="216" b="0"></strokecolor>
+                </style>
+                <fillcolor r="195" g="255" b="176"></fillcolor>
+                <strokecolor r="50" g="216" b="0"></strokecolor>
+            </topic>
+            <topic id="31" parent="29" guid="EDildn68jgxMAeBzQa-FwQ" x="3997.45" y="419.86" palette="0" colorinfo="-1" text="se UTG ou UTG+1 ou MP1 ou\NMP2 ou HJ ou CO ou SB ou BB:\N&quot;Você deveria correr.&quot;" textfmt="plain">
+                <style>
+                    <fillcolor r="253" g="182" b="176"></fillcolor>
+                    <strokecolor r="211" g="18" b="4"></strokecolor>
+                </style>
+                <fillcolor r="253" g="182" b="176"></fillcolor>
+                <strokecolor r="211" g="18" b="4"></strokecolor>
+            </topic>
+            <topic id="32" parent="11" guid="RxgbyDiEEfMiC9M2ROWPBg" x="3477.38" y="495.75" palette="0" colorinfo="-1" text="se FLOP: &quot;Não é possível\Nanalisar ações no FLOP&quot;" textfmt="plain">
+                <style>
+                    <fillcolor r="253" g="182" b="176"></fillcolor>
+                    <strokecolor r="211" g="18" b="4"></strokecolor>
+                </style>
+                <fillcolor r="253" g="182" b="176"></fillcolor>
+                <strokecolor r="211" g="18" b="4"></strokecolor>
+            </topic>
+            <topic id="33" parent="11" guid="KkUwDUpwC5RkhxGWDDaPpQ" x="3478.16" y="557.41" palette="0" colorinfo="-1" text="se TURN: &quot;Não é possível\Nanalisar ações no TURN&quot;" textfmt="plain">
+                <style>
+                    <fillcolor r="253" g="182" b="176"></fillcolor>
+                    <strokecolor r="211" g="18" b="4"></strokecolor>
+                </style>
+                <fillcolor r="253" g="182" b="176"></fillcolor>
+                <strokecolor r="211" g="18" b="4"></strokecolor>
+            </topic>
+            <topic id="34" parent="11" guid="GyHNARaZmkdbNm9wc7KCEQ" x="3480.11" y="619.08" palette="0" colorinfo="-1" text="se RIVER: &quot;Não é possível\Nanalisar ações no RIVER&quot;" textfmt="plain">
+                <style>
+                    <fillcolor r="253" g="182" b="176"></fillcolor>
+                    <strokecolor r="211" g="18" b="4"></strokecolor>
+                </style>
+                <fillcolor r="253" g="182" b="176"></fillcolor>
+                <strokecolor r="211" g="18" b="4"></strokecolor>
+            </topic>
+            <topic id="35" parent="10" guid="BHueZgQY7v1vIOLuVVlMhg" x="3263.70" y="691.97" palette="0" colorinfo="-1" text="se NÃO: &quot;Só é possível analisar a\Nmãos que nenhum jogador\Naumentou previamente.&quot;" textfmt="plain">
+                <style>
+                    <fillcolor r="253" g="182" b="176"></fillcolor>
+                    <strokecolor r="211" g="18" b="4"></strokecolor>
+                </style>
+                <fillcolor r="253" g="182" b="176"></fillcolor>
+                <strokecolor r="211" g="18" b="4"></strokecolor>
+            </topic>
+            <topic id="36" parent="9" guid="GHKxxzTeQHY8_3djBLQG2Q" x="3048.22" y="764.86" palette="0" colorinfo="-1" text="se NÃO: Nada a ser feito. Aguardando\Nchegar a vez do #Jogador." textfmt="plain">
+                <style>
+                    <fillcolor r="253" g="181" b="177"></fillcolor>
+                    <strokecolor r="211" g="17" b="4"></strokecolor>
+                </style>
+                <fillcolor r="253" g="181" b="177"></fillcolor>
+                <strokecolor r="211" g="17" b="4"></strokecolor>
+            </topic>
+            <topic id="37" parent="8" guid="YfFfmAHkZuRbDf5daQyAYQ" x="2805.98" y="829.53" palette="0" colorinfo="-1" text="se NÃO: Nada a ser feito.\NAguardando iniciar o torneio." textfmt="plain">
+                <style>
+                    <fillcolor r="253" g="181" b="177"></fillcolor>
+                    <strokecolor r="211" g="17" b="4"></strokecolor>
+                </style>
+                <fillcolor r="253" g="181" b="177"></fillcolor>
+                <strokecolor r="211" g="17" b="4"></strokecolor>
+            </topic>
+            <topic id="38" parent="7" guid="UN2uIBOnEIgutYL5J3BPOw" x="2611.00" y="902.42" palette="0" colorinfo="-1" text="se NÃO: &quot;Só é possível\Nanalisar jogos que o #Jogador\Nestiver participando.&quot;" textfmt="plain">
+                <style>
+                    <fillcolor r="253" g="181" b="177"></fillcolor>
+                    <strokecolor r="211" g="17" b="4"></strokecolor>
+                </style>
+                <fillcolor r="253" g="181" b="177"></fillcolor>
+                <strokecolor r="211" g="17" b="4"></strokecolor>
+            </topic>
+            <topic id="39" parent="6" guid="BxsgyAKXN4IpCvCgBhRijQ" x="2298.34" y="975.31" palette="0" colorinfo="-1" text="se NÃO: &quot;Favor informar o\Njogador: &quot; #Jogador" textfmt="plain">
+                <style>
+                    <fillcolor r="253" g="181" b="177"></fillcolor>
+                    <strokecolor r="211" g="17" b="4"></strokecolor>
+                </style>
+                <fillcolor r="253" g="181" b="177"></fillcolor>
+                <strokecolor r="211" g="17" b="4"></strokecolor>
+            </topic>
+            <topic id="40" parent="5" guid="PTDjATlw-jlGou5rbSRx-w" x="2089.74" y="1039.98" palette="0" colorinfo="-1" text="se NÃO: &quot;Só é possível analisar torneios\Ncom 9 jogadores por mesa.&quot;" textfmt="plain">
+                <style>
+                    <fillcolor r="253" g="181" b="177"></fillcolor>
+                    <strokecolor r="211" g="17" b="4"></strokecolor>
+                </style>
+                <fillcolor r="253" g="181" b="177"></fillcolor>
+                <strokecolor r="211" g="17" b="4"></strokecolor>
+            </topic>
+            <topic id="41" parent="4" guid="WJC1EBOrlcVvOZwjcNSPhQ" x="1724.97" y="1104.64" palette="0" colorinfo="-1" text="se NÃO: &quot;Só é possível analisar a\Nmodalidade de jogo Texas Hold'em.&quot;" textfmt="plain">
+                <style>
+                    <fillcolor r="253" g="182" b="176"></fillcolor>
+                    <strokecolor r="211" g="18" b="4"></strokecolor>
+                </style>
+                <fillcolor r="253" g="182" b="176"></fillcolor>
+                <strokecolor r="211" g="18" b="4"></strokecolor>
+            </topic>
+            <topic id="42" parent="3" guid="fvlBxU5Gdp1qnB_oKKEgbA" x="1421.76" y="1169.30" palette="0" colorinfo="-1" text="se NÃO: &quot;Só é possível analisar\Njogos do tipo torneio.&quot;" textfmt="plain">
+                <style>
+                    <fillcolor r="253" g="181" b="177"></fillcolor>
+                    <strokecolor r="211" g="17" b="4"></strokecolor>
+                </style>
+                <fillcolor r="253" g="181" b="177"></fillcolor>
+                <strokecolor r="211" g="17" b="4"></strokecolor>
+            </topic>
+            <topic id="43" parent="2" guid="QGVOjiJQ4HIvJ_seOcIPBw" x="1225.99" y="1233.97" palette="0" colorinfo="-1" text="se NÃO: Nada a ser feito.\NAguardando jogo informado." textfmt="plain">
+                <style>
+                    <fillcolor r="253" g="181" b="177"></fillcolor>
+                    <strokecolor r="211" g="17" b="4"></strokecolor>
+                </style>
+                <fillcolor r="253" g="181" b="177"></fillcolor>
+                <strokecolor r="211" g="17" b="4"></strokecolor>
+            </topic>
+            <topic id="44" parent="1" guid="bv_-3jVayhN_PiD9SQbBCA" x="951.52" y="1298.63" palette="0" colorinfo="-1" text="se NÃO: &quot;Favor informar o número\Ndo jogo: &quot; #NumeroDoJogo" textfmt="plain">
+                <style>
+                    <fillcolor r="253" g="181" b="177"></fillcolor>
+                    <strokecolor r="211" g="17" b="4"></strokecolor>
+                </style>
+                <fillcolor r="253" g="181" b="177"></fillcolor>
+                <strokecolor r="211" g="17" b="4"></strokecolor>
+            </topic>
+        </topics>
+        <relations></relations>
+        <node-groups></node-groups>
+    </mindmap>
+</simplemind-mindmaps>
