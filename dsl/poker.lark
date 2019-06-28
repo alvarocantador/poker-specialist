@@ -2,7 +2,7 @@ start: game?
 
 // game: header table seat+ ante* small_blind big_blind hole_cards received_card action* flop action* (turn action*)? river? (show_down show_down_player+)? prize_collect* tournament_finished* summary total_pot board seat_result*
 
-game: header table seat+ after_button* ante* small_blind big_blind hole_cards received_card action* flop? turn? river? (show_down (show_down_player | prize_collect| mucks_hand | tournament_finished | returned | chat | win)+ )? summary total_pot board? seat_result*
+game: header table seat+ after_button* ante* small_blind big_blind hole_cards received_card action* flop? turn? river? show_down? summary
 
 header: hand tournament blind "- " DATE_ISO
 hand: "PokerStars Hand #" NUMBER
@@ -25,7 +25,7 @@ hole_cards: "*** HOLE CARDS ***"
 
 received_card: "Dealt to " player card_set
 
-action: raise | bet | fold | call | timeout | check | uncalled_bet | prize_collect_hand | hide_hand | timeout_disconnected | disconnected | connected | chat | returned | is_sitting_out
+action: raise | bet | fold | call | timeout | check | uncalled_bet | prize_collect_hand | hide_hand | timeout_disconnected | disconnected | connected | chat | returned | is_sitting_out | show_down_player
 raise: player ": bets " NUMBER IS_ALL_IN?
 bet: player ": raises " NUMBER " to " NUMBER IS_ALL_IN?
 fold: player ": folds" card_set? " "?
@@ -40,14 +40,6 @@ disconnected: player "is disconnected" " "?
 connected: player "is connected" " "?
 is_sitting_out: player IS_OUT
 
-chat: player "said, " WHATEVER
-
-
-flop: "*** FLOP *** " card_set  action*
-turn: "*** TURN *** " card_set+  action*
-river: "*** RIVER *** " card_set+  action*
-
-show_down: "*** SHOW DOWN ***" 
 show_down_player: player ": shows" card_set WHATEVER
 mucks_hand: player ": mucks hand"
 win: player " wins the tournament and receives " (NUMBER | MONEY) " - congratulations!"
@@ -61,8 +53,6 @@ prize_bounty_collect: player " wins the " NUMBER " bounty for eliminating" (WORD
 
 tournament_finished: player " finished the tournament" (" in " PLACE " place")? (" and received " NUMBER "."? )?
 
-summary: "*** SUMMARY ***"
-// Total pot 6510 Main pot 4500. Side pot-1 750. Side pot-2 1260. | Rake 0 
 total_pot: total_pot_single | total_pot_many
 total_pot_single: "Total pot " NUMBER "| " rake
 total_pot_many: "Total pot " NUMBER " " pot_main pot_side+ " | " rake
@@ -72,10 +62,22 @@ rake: "Rake " NUMBER
 board: "Board " card_set
 seat_result: "Seat " NUMBER ": " WHATEVER
 
+flop: FLOP_MESSAGE card_set action*
+turn: TURN_MESSAGE card_set+  action*
+river: RIVER_MESSAGE card_set+  action*
+show_down: SHOW_DOWN_MESSAGE (show_down_player | prize_collect| mucks_hand | tournament_finished | returned | chat | win)+
+summary: SUMMARY_MESSAGE total_pot board? seat_result*
 
 player: PLAYER_NAME
 card_set:  "[" (card  " "?)* "]"
 card: (CARD_NUMBER | ACE | TEN | KING | JACK | QUEEN ) SUIT
+chat: player "said, " WHATEVER
+
+FLOP_MESSAGE: "*** FLOP ***"
+TURN_MESSAGE: "*** TURN ***"
+RIVER_MESSAGE: "*** RIVER ***"
+SHOW_DOWN_MESSAGE: "*** SHOW DOWN ***"
+SUMMARY_MESSAGE: "*** SUMMARY ***"
 
 CARD_NUMBER: "2".."9"
 ACE: "A"
