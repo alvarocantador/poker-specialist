@@ -70,7 +70,7 @@ summary: SUMMARY_MESSAGE total_pot board? seat_result*
 
 player: PLAYER_NAME
 card_set:  "[" (card  " "?)* "]"
-card: (CARD_NUMBER | ACE | TEN | KING | JACK | QUEEN ) SUIT
+card: CARD_VALUE SUIT
 chat: player "said, " WHATEVER
 
 FLOP_MESSAGE: "*** FLOP ***"
@@ -79,6 +79,7 @@ RIVER_MESSAGE: "*** RIVER ***"
 SHOW_DOWN_MESSAGE: "*** SHOW DOWN ***"
 SUMMARY_MESSAGE: "*** SUMMARY ***"
 
+CARD_VALUE: CARD_NUMBER | ACE | TEN | KING | JACK | QUEEN 
 CARD_NUMBER: "2".."9"
 ACE: "A"
 TEN: "T"
@@ -98,7 +99,7 @@ IS_OUT: " "? "is sitting out"
 PLAYER_NAME: /.+?(?=(:|\(|\[| collected| finished| showed| folded| has | is | will be | said,?| wins ))/
 
 PLACE: NUMBER+ ( "st"| "nd" | "th" | "rd" )
-ROMAN_NUMBER: ("I" | "V" | "X" | "L" | "C" | "M")+
+ROMAN_NUMBER: ("I" | "V" | "X" | "L" | "C" | "M")+" "? 
 DATE_ISO: DATEYMD " " TIME
 TIME: NUMBER ":" NUMBER ":" NUMBER " " WORD
 DATEYMD: NUMBER "/" NUMBER "/" NUMBER

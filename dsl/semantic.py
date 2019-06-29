@@ -20,11 +20,15 @@ class PokerSemantic(Transformer):
     def chips(self, token):
         return ast.literal_eval(token[0])
 
-    # @v_args(inline=True)
     def seat(self, token):
         self.engine.declare(Player(name=token[1], 
             chips=token[2], 
             seat=ast.literal_eval(token[0]),
             is_out=(len(token) == 4 and token[3].type == "IS_OUT")))
 
+    def received_card(self, token):
+        self.engine.declare(ReceivedCard(player=token[0], cards=token[1].children))
+
+    def card(self, token):
+        return { 'value': token[0].value, 'suit': token[1].value }
     

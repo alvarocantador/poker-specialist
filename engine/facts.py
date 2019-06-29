@@ -9,7 +9,10 @@ class Blind(Fact):
 class Hand(Fact):
     id = Field(int, mandatory=True)
 
-# Player(name, chips, BB's, cards?, suited=None, me=true/false, group?, seat)
+
+class ReceivedCard(Fact):
+    player = Field(str, mandatory=True)
+    cards = Field(list)
 
 
 class Player(Fact):
