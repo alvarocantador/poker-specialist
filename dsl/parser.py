@@ -9,7 +9,7 @@ language = Lark.open('./dsl/poker.lark')
 logging.debug("Finished loading language syntax")
 
 
-def run(hand_history, semantic=PokerSemantic()):
+def interpret(hand_history, semantic=PokerSemantic()):
     hands = hand_history.split("\n\n\n")
     tress = [ language.parse(hand) for hand in hands ]
-    [ semantic.transform(tree) for tree in tress ]
+    for tree in tress: yield semantic.transform(tree)
