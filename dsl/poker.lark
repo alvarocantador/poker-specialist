@@ -2,7 +2,7 @@ start: game?
 
 // game: header table seat+ ante* small_blind big_blind hole_cards received_card action* flop action* (turn action*)? river? (show_down show_down_player+)? prize_collect* tournament_finished* summary total_pot board seat_result*
 
-game: header table seat+ after_button* ante* small_blind big_blind hole_cards received_card action* flop? turn? river? show_down? summary
+game: header table (seat | ante)+ after_button* ante* small_blind big_blind hole_cards received_card action* flop? turn? river? show_down? summary
 
 header: hand tournament blind "- " DATE_ISO
 hand: "PokerStars Hand #" NUMBER
@@ -92,7 +92,7 @@ HEARTS: "h"
 SPADES: "s"
 
 IS_ALL_IN: "and is all-in"
-IS_OUT: "is sitting out"
+IS_OUT: " "? "is sitting out"
 
 // PLAYER_NAME: (WORD | NUMBER)+ (" " (WORD | NUMBER)+)?
 PLAYER_NAME: /.+?(?=(:|\(|\[| collected| finished| showed| folded| has | is | will be | said,?| wins ))/
@@ -113,6 +113,6 @@ WHATEVER: (PHRASE | NUMBER | SYMBOL)+
 
 %import common.LCASE_LETTER 
 %import common.UCASE_LETTER 
-%import common.NUMBER
-%import common.WS
+%import common.NUMBER 
+%import common.WS 
 %ignore WS

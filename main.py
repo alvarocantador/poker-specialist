@@ -13,9 +13,9 @@ from dsl.parser import *
 from dsl.semantic import *
 
 from engine.main import *
-format
 histories = read_all_tournaments()
 engine = PokerInference()
+engine.reset()
 
 for history in histories: # enumerable
     semantic = PokerSemantic(engine=engine)

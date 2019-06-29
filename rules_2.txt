@@ -1,7 +1,5 @@
-Hand(number)
-Card(value, suit)
-Cards(card1, card2, suited=None)
-Player(name, chips, BB's, cards?, me=true/false, group?, seat)
+cards = [card1, card2]
+Player(name, chips, BB's, cards?, suited=None, me=true/false, group?, seat)
 Blind(small, big)
 Seat(number, name)
 
