@@ -65,7 +65,7 @@ seat_result: "Seat " NUMBER ": " WHATEVER
 flop: FLOP_MESSAGE card_set action*
 turn: TURN_MESSAGE card_set+  action*
 river: RIVER_MESSAGE card_set+  action*
-show_down: SHOW_DOWN_MESSAGE (show_down_player | prize_collect| mucks_hand | tournament_finished | returned | chat | win)+
+show_down: SHOW_DOWN_MESSAGE (show_down_player | prize_collect| mucks_hand | tournament_finished | returned | chat | win | is_sitting_out)+
 summary: SUMMARY_MESSAGE total_pot board? seat_result*
 
 player: PLAYER_NAME
