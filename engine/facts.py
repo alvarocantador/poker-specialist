@@ -1,6 +1,7 @@
 from pyknow import *
 
 
+
 class UserInput(Fact):
     tournamentId = Field(int, default=0)
     playerName = Field(str, default='')
