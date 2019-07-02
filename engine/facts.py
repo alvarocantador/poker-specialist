@@ -1,6 +1,16 @@
 from pyknow import *
 
 
+class UserInput(Fact):
+    tournamentId = Field(int, default=0)
+    playerName = Field(str, default='')
+    is_ok = Field(bool, default=False)
+
+
+class Tournament(Fact):
+    id = Field(int, default=0)
+
+
 class Blind(Fact):
     small = Field(int, mandatory=True)
     big = Field(int, mandatory=True)
