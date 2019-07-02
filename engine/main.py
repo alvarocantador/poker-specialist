@@ -15,7 +15,7 @@ class PokerInference(KnowledgeEngine):
 
     @Rule(AS.user_input << UserInput(playerName=''))
     def ask_player_name(self, user_input):
-        self.modify(user_input, playerName=input("Qual o nickname do jogador? "))
+        self.modify(user_input, playerName=input("Qual o nome do jogador? "))
 
     @Rule(AS.user_input << UserInput(is_ok=False),
           NOT(UserInput(tournamentId=0)),

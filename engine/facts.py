@@ -7,6 +7,7 @@ class UserInput(Fact):
     is_ok = Field(bool, default=False)
 
 
+
 class Tournament(Fact):
     id = Field(int, default=0)
 
