@@ -7,35 +7,38 @@ class PokerInference(KnowledgeEngine):
     @DefFacts()
     def _initial_action(self):
         yield UserInput()
-        yield Tournament()
+        # yield Game()
 
-    @Rule(AS.user_input << UserInput(tournamentId=0))
-    def ask_tournament_id(self, user_input):
-        self.modify(user_input, tournamentId=int(input("Qual o ID do torneio? ")))
+    @Rule(AS.user_input << UserInput(gameId=''))
+    def ask_game_id(self, user_input):
+        self.modify(user_input, gameId=input("Qual o ID do jogo? "))
 
     @Rule(AS.user_input << UserInput(playerName=''))
     def ask_player_name(self, user_input):
         self.modify(user_input, playerName=input("Qual o nome do jogador? "))
 
     @Rule(AS.user_input << UserInput(is_ok=False),
-          NOT(UserInput(tournamentId=0)),
+          NOT(UserInput(gameId='')),
           NOT(UserInput(playerName='')),
+          Game(type='TOURNAMENT'),
+          Game(modality='NLH'),
+          Game(players_for_table=9),
           AS.player << Player(),
-          AS.tournament << Tournament(),
-          TEST(lambda user_input, tournament: tournament['id'] == user_input['tournamentId']),
+          AS.game << Game(),
+          TEST(lambda user_input, game: game['id'] == user_input['gameId']),
           TEST(lambda user_input, player: player['name'] == user_input['playerName']))
-    def test_tournament_and_player(self, user_input, tournament, player):
+    def test_game_and_player(self, user_input, game, player):
         self.modify(user_input, is_ok=True)
-        print("Torneio e jogador encontrados. Iniciando analise das mãos.")
+        print("Jogo e jogador encontrados. Iniciando analise das mãos.")
 
     @Rule(AS.user_input << UserInput(is_ok=False),
-          NOT(UserInput(tournamentId=0)),
-          AS.tournament << Tournament(),
-          TEST(lambda user_input, tournament: tournament['id'] != user_input['tournamentId']))
-    def test_tournament_id(self, user_input, tournament):
-        print("{0} {1}".format(tournament['id'], user_input['tournamentId']))
-        self.modify(user_input, tournamentId=0, is_ok=False)
-        print("Torneio não encontrado.")
+          NOT(UserInput(gameId='')),
+          AS.game << Game(),
+          TEST(lambda user_input, game: game['id'] != user_input['gameId']))
+    def test_game_id(self, user_input, game):
+        print("{0} {1}".format(game['id'], user_input['gameId']))
+        self.modify(user_input, gameId='', is_ok=False)
+        print("Jogo não encontrado.")
 
     @Rule(AS.user_input << UserInput(is_ok=False),
           NOT(UserInput(playerName='')),
@@ -44,6 +47,38 @@ class PokerInference(KnowledgeEngine):
     def test_player_name(self, user_input):
         self.modify(user_input, playerName='', is_ok=False)
         print("Jogador não encontrado.")
+
+    @Rule(AS.game << Game(),
+          NOT(Game(type='TOURNAMENT')),
+          NOT(Game(type='')),
+          NOT(UserInput(gameId='')),
+          NOT(UserInput(playerName='')))
+    def test_game_type(self, game):
+        self.modify(game, type='', is_ok=False)
+        print("O tipo de jogo {0} não pode ser analisado.".format(game['type']))
+
+    @Rule(AS.game << Game(),
+          NOT(Game(modality='NLH')),
+          NOT(Game(modality='')),
+          NOT(UserInput(gameId='')),
+          NOT(UserInput(playerName='')))
+    def test_game_modality(self, game):
+        self.modify(game, modality='', is_ok=False)
+        print("A modalidade de jogo {0} não pode ser analisado.".format(game['modality']))
+
+    @Rule(AS.game << Game(),
+          NOT(Game(players_for_table=9)),
+          NOT(Game(players_for_table=None)),
+          NOT(UserInput(gameId='')),
+          NOT(UserInput(playerName='')))
+    def test_game_players_for_table(self, game):
+        self.modify(game, players_for_table=None, is_ok=False)
+        print("Somente jogos com 9 jogadores por mesa podem ser analisados.".format(game['modality']))
+
+    @Rule(UserInput(is_ok=True),
+          Action(street='PREFLOP'))
+    def preflop_action(self):
+        print("Colocar novas regras aqui.")
 
     # @Rule(UserInput(is_ok=True),
     #       AS.player << Player(bbs=None), AS.blind << Blind())
@@ -60,12 +95,13 @@ class PokerInference(KnowledgeEngine):
     #     self.retract(received_card)
 
 
-
 # to test
 engine = PokerInference()
 engine.reset()
-engine.declare(Player(name='AlyCWB', chips=1500, seat=1),
+engine.declare(Game(id='1', type='TOURNAMENT', modality='NLH', players_for_table=9),
+               Player(name='a', chips=1500, seat=1),
                Blind(small=10, big=20),
-               Tournament(id=1),)
-               # ReceivedCard(player='AlyCWB', cards=[])
+               Action(street='PREFLOP', group=1, position='BTN'))
+# ReceivedCard(player='AlyCWB', cards=[]),
+
 engine.run()

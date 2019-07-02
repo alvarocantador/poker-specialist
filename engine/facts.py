@@ -1,15 +1,17 @@
 from pyknow import *
 
 
-
 class UserInput(Fact):
-    tournamentId = Field(int, default=0)
+    gameId = Field(str, default='')
     playerName = Field(str, default='')
     is_ok = Field(bool, default=False)
 
 
-class Tournament(Fact):
-    id = Field(int, default=0)
+class Game(Fact):
+    id = Field(str, mandatory=True)
+    type = Field(str, mandatory=True) # TOURNAMENT
+    modality = Field(str, mandatory=True) # NLH
+    players_for_table = Field(int, default=None)
 
 
 class Blind(Fact):
@@ -35,4 +37,10 @@ class Player(Fact):
     cards = Field(list)
     suited = Field(bool)
     me = Field(bool)
-    group = Field(int)
+
+
+class Action(Fact):
+    street = Field(str, mandatory=True)  # PREFLOP | FLOP | TURN | RIVER
+    group = Field(int, mandatory=True)
+    position = Field(str, mandatory=True)  # SB | BB | UTG | UTG+1 | MP1 | MP2 | HJ | CO | BNT
+
