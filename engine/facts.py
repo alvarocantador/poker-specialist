@@ -41,6 +41,7 @@ class Player(Fact):
 
 class Action(Fact):
     street = Field(str, mandatory=True)  # PREFLOP | FLOP | TURN | RIVER
-    group = Field(int, mandatory=True)
+    group = Field(int, mandatory=True)  # 1, 2, 3, 4, 5, 6, 7 or 8
     position = Field(str, mandatory=True)  # SB | BB | UTG | UTG+1 | MP1 | MP2 | HJ | CO | BNT
+    is_raised = Field(bool, mandatory=True)  # True or False
 
