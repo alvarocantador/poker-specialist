@@ -1,9 +1,10 @@
 from pyknow import *
 
+
 class Game(Fact):
     id = Field(str, mandatory=True)
-    type = Field(str, mandatory=True) # TOURNAMENT
-    modality = Field(str, mandatory=True) # NLH
+    type = Field(str, mandatory=True)  # TOURNAMENT
+    modality = Field(str, mandatory=True)  # NLH
     players_for_table = Field(int, default=None)
 
 
@@ -33,14 +34,14 @@ class Player(Fact):
     group = Field(int)  # 1, 2, 3, 4, 5, 6, 7 or 8
 
 
-
 class Action(Fact):
-    id=Field(int, mandatory=True)
+    id = Field(int, mandatory=True)
     type = Field(str, mandatory=True)
     player = Field(str, mandatory=True)
     street = Field(str, mandatory=True)  # PREFLOP | FLOP | TURN | RIVER
     position = Field(str)  # SB | BB | UTG | UTG+1 | MP1 | MP2 | HJ | CO | BNT
     is_raised = Field(bool)  # True or False
+
 
 class Suggestion(Fact):
     street = Field(str, mandatory=True)  # PREFLOP | FLOP | TURN | RIVER

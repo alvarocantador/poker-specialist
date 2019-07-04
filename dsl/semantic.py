@@ -51,6 +51,9 @@ class PokerSemantic(Transformer):
     
     def bet(self, token):
         return { 'action': 'raise', 'player': token[0], 'chips': ast.literal_eval(token[1]) }
+    
+    def check(self, token):
+        return { 'action': 'check', 'player': token[0] }
 
     def timeout(self, token):
         return { 'action': 'timeout', 'player': token[0] }
