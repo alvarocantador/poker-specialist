@@ -26,7 +26,7 @@ class PokerConsole:
         print("Player: {} | Blinds: {}".format(me['name'], me['bbs']))
         print("Seat: {} | Group: {}".format(me['seat'], me['group']))
         print("CARDS {}{}, {}{}".format(me['card_1_v'], me['card_1_s'], me['card_2_v'], me['card_2_s']))
-        print("")
+        print("BOARD: ")
         print("SUGGESTIONS:")
         print("* PREFLOP:")
         [print("-> " + suggestion['message']) for suggestion in suggestions if suggestion['street'] == 'PREFLOP']
