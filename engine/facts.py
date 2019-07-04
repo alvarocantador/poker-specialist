@@ -1,5 +1,6 @@
 from pyknow import *
 
+
 class Blind(Fact):
     small = Field(int, mandatory=True)
     big = Field(int, mandatory=True)
@@ -44,11 +45,12 @@ class Suggestion(Fact):
     street = Field(str, mandatory=True)  # PREFLOP | FLOP | TURN | RIVER
     message = Field(str, mandatory=True)
 
+
 class Table(Fact):
     cards_str = Field(str, default=None)
     cards = Field(list)
 
 
-class GameSummary():
-    pot=Field(int, mandatory=True)
+class GameSummary(Fact):
+    pot = Field(int, mandatory=True)
     bbs = Field(float, default=None)

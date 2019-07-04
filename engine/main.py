@@ -282,3 +282,7 @@ class PokerInference(KnowledgeEngine):
     def set_table_cards_string(self, table):
         self.modify(table, cards_str=''.join(["{}{} ".format(card['value'], card['suit']) for card in table['cards']]))
 
+
+    @Rule(AS.game << GameSummary(bbs=None), AS.blind << Blind())
+    def set_summary_bbs(self, game, blind):
+        self.modify(game, bbs=game['pot']/blind['big'])

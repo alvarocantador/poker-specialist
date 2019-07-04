@@ -66,6 +66,15 @@ class PokerSemantic(Transformer):
     def uncalled_bet(self, token):
         pass
     
+    def total_pot(self, token):
+        self.engine.declare(GameSummary(pot=token[0]))
+
+    def total_pot_many(self, token):
+        return ast.literal_eval(token[0])
+        
+    def total_pot_single(self, token):
+        return ast.literal_eval(token[0])
+
     def _street_actions(self, token, street):
         act = 0
         act_array = []
