@@ -57,8 +57,8 @@ class PokerInference(KnowledgeEngine):
                     group=0)
 
         # Descricao das cartas
-        cards_desc = '{0}{1},{2}{3}'.format(f_card['value'], f_card['suit'], s_card['value'], s_card['suit'])
-        self.declare(Suggestion(street='PREFLOP', message='Cartas recebidas: {0}'.format(cards_desc)))
+        # cards_desc = '{0}{1},{2}{3}'.format(f_card['value'], f_card['suit'], s_card['value'], s_card['suit'])
+        # self.declare(Suggestion(street='PREFLOP', message='Cartas recebidas: {0}'.format(cards_desc)))
 
     @Rule(AS.action << Action(me=False),
           AS.player << Player(me=True),
@@ -73,7 +73,7 @@ class PokerInference(KnowledgeEngine):
                                          action_me['act'] == action['act']))
     def is_prefop_raised_act_1(self, action_me):
         self.modify(action_me, is_raised=True)
-        self.declare(Suggestion(street='PREFLOP', message='Aumentaram no pre flop'))
+        # self.declare(Suggestion(street='PREFLOP', message='Aumentaram no pre flop'))
 
     @Rule(AS.player << Player(group=0),
           TEST(lambda player: (player['card_1_v'] == 1 and player['card_2_v'] == 1) or
@@ -85,7 +85,7 @@ class PokerInference(KnowledgeEngine):
                ))
     def preflop_define_group_1(self, player):
         self.modify(player, group=1)
-        self.declare(Suggestion(street='PREFLOP', message='MAO GRUPO 1'))
+        # self.declare(Suggestion(street='PREFLOP', message='MAO GRUPO 1'))
 
     @Rule(AS.player << Player(group=0),
           TEST(lambda player: (player['card_1_v'] == 10 and player['card_2_v'] == 10) or
@@ -96,7 +96,7 @@ class PokerInference(KnowledgeEngine):
                ))
     def preflop_define_group_2(self, player):
         self.modify(player, group=2)
-        self.declare(Suggestion(street='PREFLOP', message='MAO GRUPO 2'))
+        # self.declare(Suggestion(street='PREFLOP', message='MAO GRUPO 2'))
 
     @Rule(AS.player << Player(group=0),
           TEST(lambda player: (player['card_1_v'] == 9 and player['card_2_v'] == 9) or
@@ -108,7 +108,7 @@ class PokerInference(KnowledgeEngine):
                ))
     def preflop_define_group_3(self, player):
         self.modify(player, group=3)
-        self.declare(Suggestion(street='PREFLOP', message='MAO GRUPO 3'))
+        # self.declare(Suggestion(street='PREFLOP', message='MAO GRUPO 3'))
 
     @Rule(AS.player << Player(group=0),
           TEST(lambda player: (player['card_1_v'] == 8 and player['card_2_v'] == 8) or
@@ -122,13 +122,7 @@ class PokerInference(KnowledgeEngine):
                ))
     def preflop_define_group_4(self, player):
         self.modify(player, group=4)
-        self.declare(Suggestion(street='PREFLOP', message='MAO GRUPO 4'))
-
-
-
-
-
-
+        # self.declare(Suggestion(street='PREFLOP', message='MAO GRUPO 4'))
 
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
