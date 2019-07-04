@@ -280,8 +280,7 @@ class PokerInference(KnowledgeEngine):
     #     self.declare(Suggestion(street='PREFLOP', 'Desistir da mão'))
 
 
-    # @Rule(UserInput(is_ok=True),
-    #       AS.player << Player(bbs=None), AS.blind << Blind())
-    # def set_player_big_blinds(self, player, blind):
-    #     self.modify(player, bbs=player['chips']/blind['big'])
+    @Rule(AS.player << Player(bbs=None), AS.blind << Blind())
+    def set_player_big_blinds(self, player, blind):
+        self.modify(player, bbs=player['chips']/blind['big'])
 
