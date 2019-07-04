@@ -2,7 +2,7 @@ start: game?
 
 // game: header table seat+ ante* small_blind big_blind hole_cards received_card action* flop action* (turn action*)? river? (show_down show_down_player+)? prize_collect* tournament_finished* summary total_pot board seat_result*
 
-game: header table (seat | ante)+ after_button* ante* small_blind big_blind hole_cards received_card action* flop? turn? river? show_down? summary
+game: header table (seat | ante)+ after_button* ante* small_blind big_blind hole_cards received_card pre_flop flop? turn? river? show_down? summary
 
 header: hand tournament blind "- " DATE_ISO
 hand: "PokerStars Hand #" NUMBER
@@ -26,7 +26,7 @@ hole_cards: "*** HOLE CARDS ***"
 received_card: "Dealt to " player card_set
 
 action: raise | bet | fold | call | timeout | check | uncalled_bet | prize_collect_hand | hide_hand | timeout_disconnected | disconnected | connected | chat | returned | is_sitting_out | show_down_player
-raise: player ": bets " NUMBER IS_ALL_IN?
+raise: player ": bets " NUMBER IS_ALL_IN? -> raised
 bet: player ": raises " NUMBER " to " NUMBER IS_ALL_IN?
 fold: player ": folds" card_set? " "?
 call: player ": calls " NUMBER IS_ALL_IN?
@@ -62,6 +62,7 @@ rake: "Rake " NUMBER
 board: "Board " card_set
 seat_result: "Seat " NUMBER ": " WHATEVER
 
+pre_flop: action+
 flop: FLOP_MESSAGE card_set action*
 turn: TURN_MESSAGE card_set+  action*
 river: RIVER_MESSAGE card_set+  action*

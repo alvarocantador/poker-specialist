@@ -1,12 +1,5 @@
 from pyknow import *
 
-
-class UserInput(Fact):
-    gameId = Field(str, default='')
-    playerName = Field(str, default='')
-    is_ok = Field(bool, default=False)
-
-
 class Game(Fact):
     id = Field(str, mandatory=True)
     type = Field(str, mandatory=True) # TOURNAMENT
@@ -37,11 +30,18 @@ class Player(Fact):
     cards = Field(list)
     suited = Field(bool)
     me = Field(bool)
+    group = Field(int)  # 1, 2, 3, 4, 5, 6, 7 or 8
+
 
 
 class Action(Fact):
+    id=Field(int, mandatory=True)
+    type = Field(str, mandatory=True)
+    player = Field(str, mandatory=True)
     street = Field(str, mandatory=True)  # PREFLOP | FLOP | TURN | RIVER
-    group = Field(int, mandatory=True)  # 1, 2, 3, 4, 5, 6, 7 or 8
-    position = Field(str, mandatory=True)  # SB | BB | UTG | UTG+1 | MP1 | MP2 | HJ | CO | BNT
-    is_raised = Field(bool, mandatory=True)  # True or False
+    position = Field(str)  # SB | BB | UTG | UTG+1 | MP1 | MP2 | HJ | CO | BNT
+    is_raised = Field(bool)  # True or False
 
+class Suggestion(Fact):
+    street = Field(str, mandatory=True)  # PREFLOP | FLOP | TURN | RIVER
+    message = Field(str, mandatory=True)
