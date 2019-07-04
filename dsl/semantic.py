@@ -81,7 +81,7 @@ class PokerSemantic(Transformer):
         action_array = []
         for i, v in  enumerate(token):
             action = v.children[0]
-            if isinstance(action, NoneType) or action['action'] == 'timeout':
+            if isinstance(action, type(None)) or action['action'] == 'timeout':
                 continue
             act_array.append(action['player'])
             act = act_array.count(action['player'])

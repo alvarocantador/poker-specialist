@@ -122,7 +122,78 @@ class PokerInference(KnowledgeEngine):
                ))
     def preflop_define_group_4(self, player):
         self.modify(player, group=4)
-        # self.declare(Suggestion(street='PREFLOP', message='MAO GRUPO 4'))
+
+    @Rule(AS.player << Player(group=0),
+          TEST(lambda player: (player['card_1_v'] == 7 and player['card_2_v'] == 7) or
+                              (player['card_1_v'] <= 9 and player['card_1_v'] >= 2 and player['card_2_v'] == 1 and player['suited']) or
+                              (player['card_1_v'] == 12 and player['card_2_v'] == 9 and player['suited']) or
+                              (player['card_1_v'] == 10 and player['card_2_v'] == 8 and player['suited']) or
+                              (player['card_1_v'] == 9 and player['card_2_v'] == 7 and player['suited']) or
+                              (player['card_1_v'] == 8 and player['card_2_v'] == 7 and player['suited']) or
+                              (player['card_1_v'] == 7 and player['card_2_v'] == 6 and player['suited']) or
+                              (player['card_1_v'] == 6 and player['card_2_v'] == 5 and player['suited']) or
+                              (player['card_1_v'] == 13 and player['card_2_v'] == 11 and not player['suited']) or
+                              (player['card_1_v'] == 12 and player['card_2_v'] == 11 and not player['suited']) or
+                              (player['card_1_v'] == 11 and player['card_2_v'] == 10 and not player['suited'])
+               ))
+    def preflop_define_group_5(self, player):
+        self.modify(player, group=5)
+
+    @Rule(AS.player << Player(group=0),
+          TEST(lambda player: (player['card_1_v'] == 6 and player['card_2_v'] == 6) or
+                              (player['card_1_v'] == 5 and player['card_2_v'] == 5) or
+                              (player['card_1_v'] <= 13 and player['card_2_v'] == 9 and player['suited']) or
+                              (player['card_1_v'] == 11 and player['card_2_v'] == 8 and player['suited']) or
+                              (player['card_1_v'] == 8 and player['card_2_v'] == 6 and player['suited']) or
+                              (player['card_1_v'] == 7 and player['card_2_v'] == 5 and player['suited']) or
+                              (player['card_1_v'] == 5 and player['card_2_v'] == 4 and player['suited']) or
+                              (player['card_1_v'] == 10 and player['card_2_v'] == 1 and not player['suited']) or
+                              (player['card_1_v'] == 9 and player['card_2_v'] == 1 and not player['suited']) or
+                              (player['card_1_v'] == 13 and player['card_2_v'] == 10 and not player['suited']) or
+                              (player['card_1_v'] == 12 and player['card_2_v'] == 10 and not player['suited'])
+               ))
+    def preflop_define_group_6(self, player):
+        self.modify(player, group=6)
+
+    @Rule(AS.player << Player(group=0),
+          TEST(lambda player: (player['card_1_v'] == 4 and player['card_2_v'] == 4) or
+                              (player['card_1_v'] == 3 and player['card_2_v'] == 3) or
+                              (player['card_1_v'] == 2 and player['card_2_v'] == 2) or
+                              (player['card_1_v'] == 13 and player['card_2_v'] <= 8 and player['card_2_v'] >= 2 and player['card_2_v'] == 13 and player['suited']) or
+                              (player['card_1_v'] == 12 and player['card_2_v'] == 8 and player['suited']) or
+                              (player['card_1_v'] == 10 and player['card_2_v'] == 7 and player['suited']) or
+                              (player['card_1_v'] == 6 and player['card_2_v'] == 4 and player['suited']) or
+                              (player['card_1_v'] == 5 and player['card_2_v'] == 3 and player['suited']) or
+                              (player['card_1_v'] == 4 and player['card_2_v'] == 3 and player['suited']) or
+                              (player['card_1_v'] <= 8 and player['card_1_v'] >= 6 and player['card_2_v'] == 1 and not player['suited']) or
+                              (player['card_1_v'] == 11 and player['card_2_v'] == 9 and not player['suited']) or
+                              (player['card_1_v'] == 10 and player['card_2_v'] == 9 and not player['suited']) or
+                              (player['card_1_v'] == 8 and player['card_2_v'] == 8 and not player['suited'])
+               ))
+    def preflop_define_group_7(self, player):
+        self.modify(player, group=7)
+
+    @Rule(AS.player << Player(group=0),
+          TEST(lambda player: (player['card_1_v'] == 11 and player['card_2_v'] <= 7 and player['card_2_v'] >= 2 and player['card_2_v'] == 13 and player['suited']) or
+                              (player['card_1_v'] == 9 and player['card_2_v'] == 6 and player['suited']) or
+                              (player['card_1_v'] == 8 and player['card_2_v'] == 5 and player['suited']) or
+                              (player['card_1_v'] == 7 and player['card_2_v'] == 4 and player['suited']) or
+                              (player['card_1_v'] == 4 and player['card_2_v'] == 2 and player['suited']) or
+                              (player['card_1_v'] == 3 and player['card_2_v'] == 2 and player['suited']) or
+                              (player['card_1_v'] <= 5 and player['card_1_v'] >= 2 and player['card_2_v'] == 1 and not player['suited']) or
+                              (player['card_1_v'] == 13 and player['card_2_v'] == 9 and not player['suited']) or
+                              (player['card_1_v'] == 12 and player['card_2_v'] == 9 and not player['suited']) or
+                              (player['card_1_v'] == 11 and player['card_2_v'] == 8 and not player['suited']) or
+                              (player['card_1_v'] == 10 and player['card_2_v'] == 8 and not player['suited']) or
+                              (player['card_1_v'] == 8 and player['card_2_v'] == 7 and not player['suited']) or
+                              (player['card_1_v'] == 7 and player['card_2_v'] == 7 and not player['suited']) or
+                              (player['card_1_v'] == 6 and player['card_2_v'] == 5 and not player['suited']) or
+                              (player['card_1_v'] == 5 and player['card_2_v'] == 5 and not player['suited'])
+               ))
+    def preflop_define_group_8(self, player):
+        self.modify(player, group=8)
+
+
 
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
@@ -172,106 +243,89 @@ class PokerInference(KnowledgeEngine):
     def preflop_group_4_fold(self):
         self.declare(Suggestion(street='PREFLOP', message='Desistir da mão'))
 
-    # @Rule(UserInput(is_ok=True),
-    #       Action(street='PREFLOP'),
-    #       Action(is_raised=False),
-    #       AS.action << Action(),
-    #       TEST(lambda action: action['group'] == 5),
-    #       TEST(lambda action: action['position'] == 'MP2' or
-    #                           action['position'] == 'HJ' or
-    #                           action['position'] == 'CO' or
-    #                           action['position'] == 'BTN' or
-    #                           action['position'] == 'SB'))
-    # def preflop_group_5_raise(self):
-    #     print("Sugestão de AUMENTAR a aposta!")
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 5),
+          TEST(lambda action: action['position'] == 'MP2' or
+                              action['position'] == 'HJ' or
+                              action['position'] == 'CO' or
+                              action['position'] == 'BTN' or
+                              action['position'] == 'SB'))
+    def preflop_group_5_raise(self):
+        self.declare(Suggestion(street='PREFLOP', message='Aumentar a aposta'))
 
-    # @Rule(UserInput(is_ok=True),
-    #       Action(street='PREFLOP'),
-    #       Action(is_raised=False),
-    #       AS.action << Action(),
-    #       TEST(lambda action: action['group'] == 5),
-    #       TEST(lambda action: action['position'] == 'MP1' or
-    #                           action['position'] == 'UTG+1' or
-    #                           action['position'] == 'UTG' or
-    #                           action['position'] == 'BB'))
-    # def preflop_group_5_fold(self):
-    #     print("Sugestão de DESISTIR da mão!")
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 5),
+          TEST(lambda action: action['position'] == 'MP1' or
+                              action['position'] == 'UTG+1' or
+                              action['position'] == 'UTG' or
+                              action['position'] == 'BB'))
+    def preflop_group_5_fold(self):
+        self.declare(Suggestion(street='PREFLOP', message='Desistir da mão'))
 
-    # @Rule(UserInput(is_ok=True),
-    #       Action(street='PREFLOP'),
-    #       Action(is_raised=False),
-    #       AS.action << Action(),
-    #       TEST(lambda action: action['group'] == 6),
-    #       TEST(lambda action: action['position'] == 'HJ' or
-    #                           action['position'] == 'CO' or
-    #                           action['position'] == 'BTN'))
-    # def preflop_group_6_raise(self):
-    #     print("Sugestão de AUMENTAR a aposta!")
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 6),
+          TEST(lambda action: action['position'] == 'HJ' or
+                              action['position'] == 'CO' or
+                              action['position'] == 'BTN'))
+    def preflop_group_6_raise(self):
+        self.declare(Suggestion(street='PREFLOP', message='Aumentar a aposta'))
 
-    # @Rule(UserInput(is_ok=True),
-    #       Action(street='PREFLOP'),
-    #       Action(is_raised=False),
-    #       AS.action << Action(),
-    #       TEST(lambda action: action['group'] == 6),
-    #       TEST(lambda action: action['position'] == 'MP1' or
-    #                           action['position'] == 'MP2' or
-    #                           action['position'] == 'UTG+1' or
-    #                           action['position'] == 'UTG' or
-    #                           action['position'] == 'SB' or
-    #                           action['position'] == 'BB'))
-    # def preflop_group_6_fold(self):
-    #     print("Sugestão de DESISTIR da mão!")
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 6),
+          TEST(lambda action: action['position'] == 'MP1' or
+                              action['position'] == 'MP2' or
+                              action['position'] == 'UTG+1' or
+                              action['position'] == 'UTG' or
+                              action['position'] == 'SB' or
+                              action['position'] == 'BB'))
+    def preflop_group_6_fold(self):
+        self.declare(Suggestion(street='PREFLOP', message='Desistir da mão'))
 
-    # @Rule(UserInput(is_ok=True),
-    #       Action(street='PREFLOP'),
-    #       Action(is_raised=False),
-    #       AS.action << Action(),
-    #       TEST(lambda action: action['group'] == 7),
-    #       TEST(lambda action: action['position'] == 'HJ' or
-    #                           action['position'] == 'CO' or
-    #                           action['position'] == 'BTN'))
-    # def preflop_group_7_raise(self):
-    #     print("Sugestão de AUMENTAR a aposta!")
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 7),
+          TEST(lambda action: action['position'] == 'HJ' or
+                              action['position'] == 'CO' or
+                              action['position'] == 'BTN'))
+    def preflop_group_7_raise(self):
+        self.declare(Suggestion(street='PREFLOP', message='Aumentar a aposta'))
 
-    # @Rule(UserInput(is_ok=True),
-    #       Action(street='PREFLOP'),
-    #       Action(is_raised=False),
-    #       AS.action << Action(),
-    #       TEST(lambda action: action['group'] == 7),
-    #       TEST(lambda action: action['position'] == 'MP1' or
-    #                           action['position'] == 'MP2' or
-    #                           action['position'] == 'UTG+1' or
-    #                           action['position'] == 'UTG' or
-    #                           action['position'] == 'SB' or
-    #                           action['position'] == 'BB'))
-    # def preflop_group_7_fold(self):
-    #     print("Sugestão de DESISTIR da mão!")
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 7),
+          TEST(lambda action: action['position'] == 'MP1' or
+                              action['position'] == 'MP2' or
+                              action['position'] == 'UTG+1' or
+                              action['position'] == 'UTG' or
+                              action['position'] == 'SB' or
+                              action['position'] == 'BB'))
+    def preflop_group_7_fold(self):
+        self.declare(Suggestion(street='PREFLOP', message='Desistir da mão'))
 
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 8),
+          TEST(lambda action: action['position'] == 'BTN'))
+    def preflop_group_8_raise(self):
+        self.declare(Suggestion(street='PREFLOP', message='Aumentar a aposta'))
 
-    # @Rule(UserInput(is_ok=True),
-    #       Action(street='PREFLOP'),
-    #       Action(is_raised=False),
-    #       AS.action << Action(),
-    #       TEST(lambda action: action['group'] == 8),
-    #       TEST(lambda action: action['position'] == 'BTN'))
-    # def preflop_group_8_raise(self):
-    #     print("Sugestão de AUMENTAR a aposta!")
-
-    # @Rule(UserInput(is_ok=True),
-    #       Action(street='PREFLOP'),
-    #       Action(is_raised=False),
-    #       AS.action << Action(),
-    #       TEST(lambda action: action['group'] == 8),
-    #       TEST(lambda action: action['position'] == 'MP1' or
-    #                           action['position'] == 'MP2' or
-    #                           action['position'] == 'UTG+1' or
-    #                           action['position'] == 'UTG' or
-    #                           action['position'] == 'HJ' or
-    #                           action['position'] == 'CO' or
-    #                           action['position'] == 'SB' or
-    #                           action['position'] == 'BB'))
-    # def preflop_group_8_fold(self):
-    #     self.declare(Suggestion(street='PREFLOP', 'Desistir da mão'))
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 8),
+          TEST(lambda action: action['position'] == 'MP1' or
+                              action['position'] == 'MP2' or
+                              action['position'] == 'UTG+1' or
+                              action['position'] == 'UTG' or
+                              action['position'] == 'HJ' or
+                              action['position'] == 'CO' or
+                              action['position'] == 'SB' or
+                              action['position'] == 'BB'))
+    def preflop_group_8_fold(self):
+        self.declare(Suggestion(street='PREFLOP', message='Desistir da mão'))
 
 
     @Rule(AS.player << Player(bbs=None), AS.blind << Blind())
@@ -281,7 +335,6 @@ class PokerInference(KnowledgeEngine):
     @Rule(AS.table << Table(cards_str=None))
     def set_table_cards_string(self, table):
         self.modify(table, cards_str=''.join(["{}{} ".format(card['value'], card['suit']) for card in table['cards']]))
-
 
     @Rule(AS.game << GameSummary(bbs=None), AS.blind << Blind())
     def set_summary_bbs(self, game, blind):
