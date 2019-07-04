@@ -129,7 +129,6 @@ class PokerInference(KnowledgeEngine):
 
 
 
-
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 1 or player['group'] == 2))
