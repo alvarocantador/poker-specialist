@@ -51,3 +51,4 @@ class Action(Fact):
 class Suggestion(Fact):
     street = Field(str, mandatory=True)  # PREFLOP | FLOP | TURN | RIVER
     message = Field(str, mandatory=True)
+
