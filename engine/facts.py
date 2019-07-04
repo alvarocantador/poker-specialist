@@ -1,13 +1,5 @@
 from pyknow import *
 
-
-class Game(Fact):
-    id = Field(str, mandatory=True)
-    type = Field(str, mandatory=True)  # TOURNAMENT
-    modality = Field(str, mandatory=True)  # NLH
-    players_for_table = Field(int, default=None)
-
-
 class Blind(Fact):
     small = Field(int, mandatory=True)
     big = Field(int, mandatory=True)
@@ -52,3 +44,11 @@ class Suggestion(Fact):
     street = Field(str, mandatory=True)  # PREFLOP | FLOP | TURN | RIVER
     message = Field(str, mandatory=True)
 
+class Table(Fact):
+    cards_str = Field(str, default=None)
+    cards = Field(list)
+
+
+class GameSummary():
+    pot=Field(int, mandatory=True)
+    bbs = Field(float, default=None)

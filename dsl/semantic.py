@@ -30,6 +30,9 @@ class PokerSemantic(Transformer):
     def received_card(self, token):
         self.engine.declare(ReceivedCard(player=token[0], cards=token[1].children))
 
+    def board(self, token):
+        self.engine.declare(Table(cards=token[0].children))
+
     def pre_flop(self, token):
        self._street_actions(token, 'PREFLOP')
     

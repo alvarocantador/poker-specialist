@@ -278,3 +278,7 @@ class PokerInference(KnowledgeEngine):
     def set_player_big_blinds(self, player, blind):
         self.modify(player, bbs=player['chips']/blind['big'])
 
+    @Rule(AS.table << Table(cards_str=None))
+    def set_table_cards_string(self, table):
+        self.modify(table, cards_str=''.join(["{}{} ".format(card['value'], card['suit']) for card in table['cards']]))
+
