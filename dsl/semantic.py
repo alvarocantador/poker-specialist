@@ -30,12 +30,38 @@ class PokerSemantic(Transformer):
         self.engine.declare(ReceivedCard(player=token[0], cards=token[1].children))
 
     def pre_flop(self, token):
+        act = 0
         act_array = []
+        action_array = []
         for i, v in  enumerate(token):
             action = v.children[0]
-            if(action['action'] == 'timeout'): continue
+            if action['action'] == 'timeout':
+                continue
             act_array.append(action['player'])
-            self.engine.declare(Action(street='PREFLOP', player=action['player'], type=action['action'], id=i, act=act_array.count(action['player'])))
+            act = act_array.count(action['player'])
+            action_array.append({'player': action['player'], 'type': action['action'], 'id': i, 'act': act, 'position': ''})
+
+        # Position
+        positions = ['BB', 'SB', 'BTN', 'CO', 'HJ', 'MP2', 'MP1', 'UTG+1', 'UTG']
+        i = 0
+        for a in reversed(action_array):
+            a['position'] = positions[i]
+
+            if i == 0:
+                first_a = a
+
+            if a['act'] != act:
+                if i == 2:
+                    first_a['position'] = positions[2]
+                a['position'] = positions[0]
+                act = a['act']
+                i = 1
+            else:
+                i = i + 1
+
+        # Add Fact (just to add in order. Could be part of the prior FOR
+        for a in action_array:
+            self.engine.declare(Action(street='PREFLOP', player=a['player'], type=a['type'], id=a['id'], act=a['act'], position=a['position']))
 
     def card(self, token):
         return { 'value': token[0].value, 'suit': token[1].value }
