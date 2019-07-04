@@ -1,0 +1,2449 @@
+﻿PokerStars Hand #201629983083: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level I (10/20) - 2019/06/22 11:26:45 ET
+Table '2635115335 15' 9-max Seat #1 is the button
+Seat 1: Aukrel (1500 in chips) 
+Seat 2: wesleyhennrique (1500 in chips) 
+Seat 3: FishNuncaMai (1500 in chips) 
+Seat 4: Taargeett (1500 in chips) 
+Seat 5: Ivankurach (1500 in chips) 
+Seat 6: ThierrySerpa (1500 in chips) 
+Seat 7: Ivanich54 (1500 in chips) 
+Seat 8: STAS317 (1500 in chips) 
+Seat 9: Firewaled (1500 in chips) 
+wesleyhennrique: posts small blind 10
+FishNuncaMai: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [Ac 8c]
+Taargeett: folds 
+Ivankurach: calls 20
+ThierrySerpa: folds 
+Ivanich54: folds 
+STAS317: calls 20
+Firewaled: folds 
+Aukrel: folds 
+wesleyhennrique: folds 
+FishNuncaMai: checks 
+*** FLOP *** [Qs 4c 9h]
+FishNuncaMai: checks 
+Ivankurach: bets 60
+STAS317: calls 60
+FishNuncaMai: raises 1420 to 1480 and is all-in
+Ivankurach: calls 1420 and is all-in
+STAS317: folds 
+*** TURN *** [Qs 4c 9h] [9c]
+*** RIVER *** [Qs 4c 9h 9c] [Qh]
+*** SHOW DOWN ***
+FishNuncaMai: shows [4d 9s] (a full house, Nines full of Queens)
+Ivankurach: shows [Ah Ad] (two pair, Aces and Queens)
+FishNuncaMai collected 3090 from pot
+Ivankurach finished the tournament in 350th place
+*** SUMMARY ***
+Total pot 3090 | Rake 0 
+Board [Qs 4c 9h 9c Qh]
+Seat 1: Aukrel (button) folded before Flop (didn't bet)
+Seat 2: wesleyhennrique (small blind) folded before Flop
+Seat 3: FishNuncaMai (big blind) showed [4d 9s] and won (3090) with a full house, Nines full of Queens
+Seat 4: Taargeett folded before Flop (didn't bet)
+Seat 5: Ivankurach showed [Ah Ad] and lost with two pair, Aces and Queens
+Seat 6: ThierrySerpa folded before Flop (didn't bet)
+Seat 7: Ivanich54 folded before Flop (didn't bet)
+Seat 8: STAS317 folded on the Flop
+Seat 9: Firewaled folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201630010721: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level I (10/20) - 2019/06/22 11:27:45 ET
+Table '2635115335 15' 9-max Seat #2 is the button
+Seat 1: Aukrel (1500 in chips) 
+Seat 2: wesleyhennrique (1490 in chips) 
+Seat 3: FishNuncaMai (3090 in chips) 
+Seat 4: Taargeett (1500 in chips) 
+Seat 6: ThierrySerpa (1500 in chips) 
+Seat 7: Ivanich54 (1500 in chips) 
+Seat 8: STAS317 (1420 in chips) 
+Seat 9: Firewaled (1500 in chips) 
+FishNuncaMai: posts small blind 10
+Taargeett: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [6c Jc]
+ThierrySerpa: raises 20 to 40
+Ivanich54: raises 100 to 140
+STAS317: folds 
+Firewaled: folds 
+Aukrel: folds 
+wesleyhennrique: folds 
+FishNuncaMai: folds 
+Taargeett: folds 
+ThierrySerpa: folds 
+Uncalled bet (100) returned to Ivanich54
+Ivanich54 collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | Rake 0 
+Seat 1: Aukrel folded before Flop (didn't bet)
+Seat 2: wesleyhennrique (button) folded before Flop (didn't bet)
+Seat 3: FishNuncaMai (small blind) folded before Flop
+Seat 4: Taargeett (big blind) folded before Flop
+Seat 6: ThierrySerpa folded before Flop
+Seat 7: Ivanich54 collected (110)
+Seat 8: STAS317 folded before Flop (didn't bet)
+Seat 9: Firewaled folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201630027111: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level I (10/20) - 2019/06/22 11:28:21 ET
+Table '2635115335 15' 9-max Seat #3 is the button
+Seat 1: Aukrel (1500 in chips) 
+Seat 2: wesleyhennrique (1490 in chips) 
+Seat 3: FishNuncaMai (3080 in chips) 
+Seat 4: Taargeett (1480 in chips) 
+Seat 5: NIX2013 (1460 in chips) 
+Seat 6: ThierrySerpa (1460 in chips) 
+Seat 7: Ivanich54 (1570 in chips) 
+Seat 8: STAS317 (1420 in chips) 
+Seat 9: Firewaled (1500 in chips) 
+Taargeett: posts small blind 10
+NIX2013: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [Jd 7h]
+ThierrySerpa: folds 
+Ivanich54: folds 
+STAS317: folds 
+Firewaled has timed out
+Firewaled: folds 
+Firewaled is sitting out
+Aukrel: raises 20 to 40
+wesleyhennrique: folds 
+FishNuncaMai: folds 
+Firewaled has returned
+Taargeett: folds 
+NIX2013: calls 20
+*** FLOP *** [Ad 8c 6h]
+NIX2013: checks 
+Aukrel: bets 80
+NIX2013: folds 
+Uncalled bet (80) returned to Aukrel
+Aukrel collected 90 from pot
+Aukrel: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Ad 8c 6h]
+Seat 1: Aukrel collected (90)
+Seat 2: wesleyhennrique folded before Flop (didn't bet)
+Seat 3: FishNuncaMai (button) folded before Flop (didn't bet)
+Seat 4: Taargeett (small blind) folded before Flop
+Seat 5: NIX2013 (big blind) folded on the Flop
+Seat 6: ThierrySerpa folded before Flop (didn't bet)
+Seat 7: Ivanich54 folded before Flop (didn't bet)
+Seat 8: STAS317 folded before Flop (didn't bet)
+Seat 9: Firewaled folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201630050252: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level I (10/20) - 2019/06/22 11:29:11 ET
+Table '2635115335 15' 9-max Seat #4 is the button
+Seat 1: Aukrel (1550 in chips) 
+Seat 2: wesleyhennrique (1490 in chips) 
+Seat 3: FishNuncaMai (3080 in chips) 
+Seat 4: Taargeett (1470 in chips) 
+Seat 5: NIX2013 (1420 in chips) 
+Seat 6: ThierrySerpa (1460 in chips) 
+Seat 7: Ivanich54 (1570 in chips) 
+Seat 8: STAS317 (1420 in chips) 
+Seat 9: Firewaled (1500 in chips) 
+NIX2013: posts small blind 10
+ThierrySerpa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [2d Js]
+Ivanich54: raises 80 to 100
+STAS317: raises 230 to 330
+Firewaled: raises 230 to 560
+Aukrel: folds 
+wesleyhennrique: folds 
+FishNuncaMai: folds 
+Taargeett: folds 
+NIX2013: folds 
+ThierrySerpa: folds 
+Ivanich54: folds 
+STAS317: raises 860 to 1420 and is all-in
+Firewaled: calls 860
+*** FLOP *** [6d Qc 2h]
+*** TURN *** [6d Qc 2h] [7c]
+*** RIVER *** [6d Qc 2h 7c] [Td]
+*** SHOW DOWN ***
+STAS317: shows [Ac Kh] (high card Ace)
+Firewaled: shows [9c Ah] (high card Ace - lower kicker)
+STAS317 collected 2970 from pot
+*** SUMMARY ***
+Total pot 2970 | Rake 0 
+Board [6d Qc 2h 7c Td]
+Seat 1: Aukrel folded before Flop (didn't bet)
+Seat 2: wesleyhennrique folded before Flop (didn't bet)
+Seat 3: FishNuncaMai folded before Flop (didn't bet)
+Seat 4: Taargeett (button) folded before Flop (didn't bet)
+Seat 5: NIX2013 (small blind) folded before Flop
+Seat 6: ThierrySerpa (big blind) folded before Flop
+Seat 7: Ivanich54 folded before Flop
+Seat 8: STAS317 showed [Ac Kh] and won (2970) with high card Ace
+Seat 9: Firewaled showed [9c Ah] and lost with high card Ace
+
+
+
+PokerStars Hand #201630077965: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level II (15/30) - 2019/06/22 11:30:11 ET
+Table '2635115335 15' 9-max Seat #5 is the button
+Seat 1: Aukrel (1550 in chips) 
+Seat 2: wesleyhennrique (1490 in chips) 
+Seat 3: FishNuncaMai (3080 in chips) 
+Seat 4: Taargeett (1470 in chips) 
+Seat 5: NIX2013 (1410 in chips) 
+Seat 6: ThierrySerpa (1440 in chips) 
+Seat 7: Ivanich54 (1470 in chips) 
+Seat 8: STAS317 (2970 in chips) 
+Seat 9: Firewaled (80 in chips) 
+ThierrySerpa: posts small blind 15
+Ivanich54: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [Kd Th]
+STAS317: folds 
+Firewaled: raises 50 to 80 and is all-in
+Aukrel: calls 80
+wesleyhennrique: folds 
+FishNuncaMai: folds 
+Taargeett: folds 
+NIX2013: folds 
+ThierrySerpa: folds 
+Ivanich54: raises 220 to 300
+Aukrel: calls 220
+*** FLOP *** [8s 6s 4d]
+Ivanich54: bets 300
+Aukrel: raises 950 to 1250 and is all-in
+Ivanich54: calls 870 and is all-in
+Uncalled bet (80) returned to Aukrel
+*** TURN *** [8s 6s 4d] [5c]
+*** RIVER *** [8s 6s 4d 5c] [4s]
+*** SHOW DOWN ***
+Ivanich54: shows [Js Jh] (two pair, Jacks and Fours)
+Aukrel: shows [8h 9h] (two pair, Eights and Fours)
+Ivanich54 collected 2780 from side pot
+Firewaled: shows [Qh 9s] (a pair of Fours)
+Ivanich54 collected 255 from main pot
+Firewaled finished the tournament in 306th place
+*** SUMMARY ***
+Total pot 3035 Main pot 255. Side pot 2780. | Rake 0 
+Board [8s 6s 4d 5c 4s]
+Seat 1: Aukrel showed [8h 9h] and lost with two pair, Eights and Fours
+Seat 2: wesleyhennrique folded before Flop (didn't bet)
+Seat 3: FishNuncaMai folded before Flop (didn't bet)
+Seat 4: Taargeett folded before Flop (didn't bet)
+Seat 5: NIX2013 (button) folded before Flop (didn't bet)
+Seat 6: ThierrySerpa (small blind) folded before Flop
+Seat 7: Ivanich54 (big blind) showed [Js Jh] and won (3035) with two pair, Jacks and Fours
+Seat 8: STAS317 folded before Flop (didn't bet)
+Seat 9: Firewaled showed [Qh 9s] and lost with a pair of Fours
+
+
+
+PokerStars Hand #201630110931: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level II (15/30) - 2019/06/22 11:31:05 ET
+Table '2635115335 15' 9-max Seat #6 is the button
+Seat 1: Aukrel (80 in chips) 
+Seat 2: wesleyhennrique (1490 in chips) 
+Seat 3: FishNuncaMai (3080 in chips) 
+Seat 4: Taargeett (1470 in chips) 
+Seat 5: NIX2013 (1410 in chips) 
+Seat 6: ThierrySerpa (1425 in chips) 
+Seat 7: Ivanich54 (3035 in chips) 
+Seat 8: STAS317 (2970 in chips) 
+Ivanich54: posts small blind 15
+STAS317: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [Ah 3c]
+Aukrel: raises 50 to 80 and is all-in
+wesleyhennrique: folds 
+FishNuncaMai: folds 
+Taargeett: calls 80
+NIX2013: folds 
+ThierrySerpa: folds 
+Ivanich54: calls 65
+STAS317: calls 50
+*** FLOP *** [Ks Qh 8h]
+Ivanich54: checks 
+STAS317: checks 
+Taargeett: bets 250
+Ivanich54: folds 
+STAS317: folds 
+Uncalled bet (250) returned to Taargeett
+*** TURN *** [Ks Qh 8h] [2s]
+*** RIVER *** [Ks Qh 8h 2s] [Kc]
+*** SHOW DOWN ***
+Aukrel: shows [7d 6s] (a pair of Kings)
+Taargeett: shows [Ah 3c] (a pair of Kings - Ace kicker)
+Taargeett collected 320 from pot
+Aukrel finished the tournament in 296th place
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [Ks Qh 8h 2s Kc]
+Seat 1: Aukrel showed [7d 6s] and lost with a pair of Kings
+Seat 2: wesleyhennrique folded before Flop (didn't bet)
+Seat 3: FishNuncaMai folded before Flop (didn't bet)
+Seat 4: Taargeett showed [Ah 3c] and won (320) with a pair of Kings
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: ThierrySerpa (button) folded before Flop (didn't bet)
+Seat 7: Ivanich54 (small blind) folded on the Flop
+Seat 8: STAS317 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #201630135126: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level II (15/30) - 2019/06/22 11:31:58 ET
+Table '2635115335 15' 9-max Seat #7 is the button
+Seat 2: wesleyhennrique (1490 in chips) 
+Seat 3: FishNuncaMai (3080 in chips) 
+Seat 4: Taargeett (1710 in chips) 
+Seat 5: NIX2013 (1410 in chips) 
+Seat 6: ThierrySerpa (1425 in chips) 
+Seat 7: Ivanich54 (2955 in chips) 
+Seat 8: STAS317 (2890 in chips) 
+Seat 9: Bugiga1986 (2920 in chips) 
+STAS317: posts small blind 15
+Bugiga1986: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [5d Ks]
+wesleyhennrique: folds 
+FishNuncaMai: calls 30
+Taargeett: folds 
+NIX2013: folds 
+ThierrySerpa: calls 30
+Ivanich54: calls 30
+STAS317: calls 15
+Bugiga1986: checks 
+*** FLOP *** [7h 7d Kh]
+STAS317: checks 
+Bugiga1986: bets 30
+FishNuncaMai: folds 
+ThierrySerpa: calls 30
+Ivanich54: calls 30
+STAS317: folds 
+*** TURN *** [7h 7d Kh] [4d]
+Bugiga1986: bets 30
+ThierrySerpa: calls 30
+Ivanich54: calls 30
+*** RIVER *** [7h 7d Kh 4d] [2s]
+Bugiga1986: checks 
+ThierrySerpa: checks 
+Ivanich54: checks 
+*** SHOW DOWN ***
+Bugiga1986: shows [Jc Kd] (two pair, Kings and Sevens)
+ThierrySerpa: mucks hand 
+Ivanich54: mucks hand 
+Bugiga1986 collected 330 from pot
+*** SUMMARY ***
+Total pot 330 | Rake 0 
+Board [7h 7d Kh 4d 2s]
+Seat 2: wesleyhennrique folded before Flop (didn't bet)
+Seat 3: FishNuncaMai folded on the Flop
+Seat 4: Taargeett folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: ThierrySerpa mucked [Ah 5h]
+Seat 7: Ivanich54 (button) mucked [Ac 5c]
+Seat 8: STAS317 (small blind) folded on the Flop
+Seat 9: Bugiga1986 (big blind) showed [Jc Kd] and won (330) with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #201630170872: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level III (20/40) - 2019/06/22 11:33:16 ET
+Table '2635115335 15' 9-max Seat #8 is the button
+Seat 1: tat56 (1320 in chips) 
+Seat 2: wesleyhennrique (1490 in chips) 
+Seat 3: FishNuncaMai (3050 in chips) 
+Seat 4: Taargeett (1710 in chips) 
+Seat 5: NIX2013 (1410 in chips) 
+Seat 6: ThierrySerpa (1335 in chips) 
+Seat 7: Ivanich54 (2865 in chips) 
+Seat 8: STAS317 (2860 in chips) 
+Seat 9: Bugiga1986 (3160 in chips) 
+Bugiga1986: posts small blind 20
+tat56: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Taargeett [2c 6s]
+wesleyhennrique: folds 
+FishNuncaMai: calls 40
+Taargeett: folds 
+NIX2013: folds 
+ThierrySerpa: folds 
+Ivanich54: calls 40
+STAS317: calls 40
+Bugiga1986: calls 20
+tat56: checks 
+*** FLOP *** [Ks As 8h]
+Bugiga1986: checks 
+tat56: checks 
+FishNuncaMai: bets 92
+Ivanich54: calls 92
+STAS317: calls 92
+Bugiga1986: folds 
+tat56: folds 
+*** TURN *** [Ks As 8h] [8d]
+FishNuncaMai: checks 
+Ivanich54: checks 
+STAS317: bets 80
+FishNuncaMai: calls 80
+Ivanich54: calls 80
+*** RIVER *** [Ks As 8h 8d] [7d]
+FishNuncaMai: bets 2838 and is all-in
+Ivanich54: folds 
+STAS317: folds 
+Uncalled bet (2838) returned to FishNuncaMai
+FishNuncaMai collected 716 from pot
+FishNuncaMai: doesn't show hand 
+*** SUMMARY ***
+Total pot 716 | Rake 0 
+Board [Ks As 8h 8d 7d]
+Seat 1: tat56 (big blind) folded on the Flop
+Seat 2: wesleyhennrique folded before Flop (didn't bet)
+Seat 3: FishNuncaMai collected (716)
+Seat 4: Taargeett folded before Flop (didn't bet)
+Seat 5: NIX2013 folded before Flop (didn't bet)
+Seat 6: ThierrySerpa folded before Flop (didn't bet)
+Seat 7: Ivanich54 folded on the River
+Seat 8: STAS317 (button) folded on the River
+Seat 9: Bugiga1986 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #201630218529: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level III (20/40) - 2019/06/22 11:34:59 ET
+Table '2635115335 15' 9-max Seat #9 is the button
+Seat 1: tat56 (1280 in chips) 
+Seat 2: wesleyhennrique (1490 in chips) 
+Seat 3: FishNuncaMai (3554 in chips) 
+Seat 4: Taargeett (1710 in chips) 
+Seat 5: NIX2013 (1410 in chips) 
+Seat 6: ThierrySerpa (1335 in chips) 
+Seat 7: Ivanich54 (2653 in chips) 
+Seat 8: STAS317 (2648 in chips) 
+Seat 9: Bugiga1986 (3120 in chips) 
+tat56: posts small blind 20
+wesleyhennrique: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Taargeett [Ks Kc]
+FishNuncaMai: folds 
+Taargeett: raises 40 to 80
+NIX2013: calls 80
+ThierrySerpa: raises 1255 to 1335 and is all-in
+Ivanich54: folds 
+STAS317: folds 
+Bugiga1986: folds 
+tat56: folds 
+wesleyhennrique: folds 
+Taargeett: calls 1255
+NIX2013: calls 1255
+*** FLOP *** [2d Jh 5s]
+Taargeett: checks 
+NIX2013: bets 75 and is all-in
+Taargeett: calls 75
+*** TURN *** [2d Jh 5s] [7h]
+*** RIVER *** [2d Jh 5s 7h] [Jc]
+*** SHOW DOWN ***
+Taargeett: shows [Ks Kc] (two pair, Kings and Jacks)
+NIX2013: shows [Td Th] (two pair, Jacks and Tens)
+Taargeett collected 150 from side pot
+ThierrySerpa: shows [Kh 9s] (a pair of Jacks)
+Taargeett collected 4065 from main pot
+NIX2013 finished the tournament in 264th place
+ThierrySerpa finished the tournament in 265th place
+*** SUMMARY ***
+Total pot 4215 Main pot 4065. Side pot 150. | Rake 0 
+Board [2d Jh 5s 7h Jc]
+Seat 1: tat56 (small blind) folded before Flop
+Seat 2: wesleyhennrique (big blind) folded before Flop
+Seat 3: FishNuncaMai folded before Flop (didn't bet)
+Seat 4: Taargeett showed [Ks Kc] and won (4215) with two pair, Kings and Jacks
+Seat 5: NIX2013 showed [Td Th] and lost with two pair, Jacks and Tens
+Seat 6: ThierrySerpa showed [Kh 9s] and lost with a pair of Jacks
+Seat 7: Ivanich54 folded before Flop (didn't bet)
+Seat 8: STAS317 folded before Flop (didn't bet)
+Seat 9: Bugiga1986 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201630243780: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level IV (25/50) - 2019/06/22 11:35:54 ET
+Table '2635115335 15' 9-max Seat #1 is the button
+Seat 1: tat56 (1260 in chips) 
+Seat 2: wesleyhennrique (1450 in chips) 
+Seat 3: FishNuncaMai (3554 in chips) 
+Seat 4: Taargeett (4515 in chips) 
+Seat 5: Frank90130 (3110 in chips) 
+Seat 7: Ivanich54 (2653 in chips) 
+Seat 8: STAS317 (2648 in chips) 
+Seat 9: Bugiga1986 (3120 in chips) 
+wesleyhennrique: posts small blind 25
+FishNuncaMai: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Taargeett [6s Ah]
+Taargeett: folds 
+Frank90130: raises 50 to 100
+Ivanich54: folds 
+STAS317: folds 
+Bugiga1986: calls 100
+tat56: calls 100
+wesleyhennrique: folds 
+FishNuncaMai: folds 
+*** FLOP *** [Kc 7h 5d]
+Frank90130: checks 
+Bugiga1986: checks 
+tat56: checks 
+*** TURN *** [Kc 7h 5d] [9c]
+Frank90130: bets 100
+Bugiga1986: calls 100
+tat56: calls 100
+*** RIVER *** [Kc 7h 5d 9c] [4s]
+Frank90130: checks 
+Bugiga1986: checks 
+tat56: checks 
+*** SHOW DOWN ***
+Frank90130: shows [7c Qs] (a pair of Sevens)
+Bugiga1986: mucks hand 
+tat56: shows [Tc Kd] (a pair of Kings)
+tat56 collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [Kc 7h 5d 9c 4s]
+Seat 1: tat56 (button) showed [Tc Kd] and won (675) with a pair of Kings
+Seat 2: wesleyhennrique (small blind) folded before Flop
+Seat 3: FishNuncaMai (big blind) folded before Flop
+Seat 4: Taargeett folded before Flop (didn't bet)
+Seat 5: Frank90130 showed [7c Qs] and lost with a pair of Sevens
+Seat 7: Ivanich54 folded before Flop (didn't bet)
+Seat 8: STAS317 folded before Flop (didn't bet)
+Seat 9: Bugiga1986 mucked [8h Jh]
+
+
+
+PokerStars Hand #201630266771: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level IV (25/50) - 2019/06/22 11:36:44 ET
+Table '2635115335 15' 9-max Seat #2 is the button
+Seat 1: tat56 (1735 in chips) 
+Seat 2: wesleyhennrique (1425 in chips) 
+Seat 3: FishNuncaMai (3504 in chips) 
+Seat 4: Taargeett (4515 in chips) 
+Seat 5: Frank90130 (2910 in chips) 
+Seat 6: eduardoluz11 (5255 in chips) 
+Seat 7: Ivanich54 (2653 in chips) 
+Seat 8: STAS317 (2648 in chips) 
+Seat 9: Bugiga1986 (2920 in chips) 
+FishNuncaMai: posts small blind 25
+Taargeett: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Taargeett [Jc 3h]
+Frank90130: folds 
+eduardoluz11: calls 50
+Ivanich54: calls 50
+STAS317: folds 
+Bugiga1986: calls 50
+tat56: raises 50 to 100
+wesleyhennrique: calls 100
+FishNuncaMai: folds 
+Taargeett: folds 
+eduardoluz11: calls 50
+Ivanich54: calls 50
+Bugiga1986: calls 50
+*** FLOP *** [2s 9d 7c]
+eduardoluz11: checks 
+Ivanich54: checks 
+Bugiga1986: checks 
+tat56: checks 
+wesleyhennrique: checks 
+*** TURN *** [2s 9d 7c] [5h]
+eduardoluz11: bets 288
+Ivanich54: folds 
+Bugiga1986: folds 
+tat56: calls 288
+wesleyhennrique: folds 
+*** RIVER *** [2s 9d 7c 5h] [9c]
+eduardoluz11: bets 576
+tat56: folds 
+Uncalled bet (576) returned to eduardoluz11
+eduardoluz11 collected 1151 from pot
+*** SUMMARY ***
+Total pot 1151 | Rake 0 
+Board [2s 9d 7c 5h 9c]
+Seat 1: tat56 folded on the River
+Seat 2: wesleyhennrique (button) folded on the Turn
+Seat 3: FishNuncaMai (small blind) folded before Flop
+Seat 4: Taargeett (big blind) folded before Flop
+Seat 5: Frank90130 folded before Flop (didn't bet)
+Seat 6: eduardoluz11 collected (1151)
+Seat 7: Ivanich54 folded on the Turn
+Seat 8: STAS317 folded before Flop (didn't bet)
+Seat 9: Bugiga1986 folded on the Turn
+
+
+
+PokerStars Hand #201630317679: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level IV (25/50) - 2019/06/22 11:38:34 ET
+Table '2635115335 15' 9-max Seat #3 is the button
+Seat 1: tat56 (1347 in chips) 
+Seat 2: wesleyhennrique (1325 in chips) 
+Seat 3: FishNuncaMai (3479 in chips) 
+Seat 4: Taargeett (4465 in chips) 
+Seat 5: Frank90130 (2910 in chips) 
+Seat 6: eduardoluz11 (6018 in chips) 
+Seat 7: Ivanich54 (2553 in chips) 
+Seat 8: STAS317 (2648 in chips) 
+Seat 9: Bugiga1986 (2820 in chips) 
+Taargeett: posts small blind 25
+Frank90130: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Taargeett [As 9c]
+eduardoluz11: calls 50
+Ivanich54: folds 
+STAS317: folds 
+Bugiga1986: calls 50
+tat56: folds 
+wesleyhennrique: folds 
+FishNuncaMai: raises 75 to 125
+Taargeett: folds 
+Frank90130: calls 75
+eduardoluz11: calls 75
+Bugiga1986: calls 75
+*** FLOP *** [9h 7c Td]
+Frank90130: checks 
+eduardoluz11: bets 263
+Bugiga1986: folds 
+FishNuncaMai: calls 263
+Frank90130: calls 263
+*** TURN *** [9h 7c Td] [Ks]
+Frank90130: checks 
+eduardoluz11: checks 
+FishNuncaMai: bets 581
+Frank90130: folds 
+eduardoluz11: calls 581
+*** RIVER *** [9h 7c Td Ks] [9s]
+eduardoluz11: checks 
+FishNuncaMai: bets 2510 and is all-in
+eduardoluz11: folds 
+Uncalled bet (2510) returned to FishNuncaMai
+FishNuncaMai collected 2476 from pot
+FishNuncaMai: doesn't show hand 
+*** SUMMARY ***
+Total pot 2476 | Rake 0 
+Board [9h 7c Td Ks 9s]
+Seat 1: tat56 folded before Flop (didn't bet)
+Seat 2: wesleyhennrique folded before Flop (didn't bet)
+Seat 3: FishNuncaMai (button) collected (2476)
+Seat 4: Taargeett (small blind) folded before Flop
+Seat 5: Frank90130 (big blind) folded on the Turn
+Seat 6: eduardoluz11 folded on the River
+Seat 7: Ivanich54 folded before Flop (didn't bet)
+Seat 8: STAS317 folded before Flop (didn't bet)
+Seat 9: Bugiga1986 folded on the Flop
+
+
+
+PokerStars Hand #201630366353: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level V (30/60) - 2019/06/22 11:40:21 ET
+Table '2635115335 15' 9-max Seat #4 is the button
+Seat 1: tat56 (1347 in chips) 
+Seat 2: wesleyhennrique (1325 in chips) 
+Seat 3: FishNuncaMai (4986 in chips) 
+Seat 4: Taargeett (4440 in chips) 
+Seat 5: Frank90130 (2522 in chips) 
+Seat 6: eduardoluz11 (5049 in chips) 
+Seat 7: Ivanich54 (2553 in chips) 
+Seat 8: STAS317 (2648 in chips) 
+Seat 9: Bugiga1986 (2695 in chips) 
+Frank90130: posts small blind 30
+eduardoluz11: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Taargeett [7c 9s]
+Ivanich54: folds 
+STAS317: folds 
+Bugiga1986: calls 60
+tat56 has timed out
+tat56: folds 
+tat56 is sitting out
+wesleyhennrique: folds 
+FishNuncaMai: folds 
+Taargeett: folds 
+Frank90130: calls 30
+eduardoluz11: checks 
+*** FLOP *** [3h 8s 4h]
+Frank90130: checks 
+eduardoluz11: bets 90
+Bugiga1986: raises 90 to 180
+Frank90130: calls 180
+eduardoluz11: raises 4809 to 4989 and is all-in
+Bugiga1986: folds 
+Frank90130: folds 
+Uncalled bet (4809) returned to eduardoluz11
+eduardoluz11 collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [3h 8s 4h]
+Seat 1: tat56 folded before Flop (didn't bet)
+Seat 2: wesleyhennrique folded before Flop (didn't bet)
+Seat 3: FishNuncaMai folded before Flop (didn't bet)
+Seat 4: Taargeett (button) folded before Flop (didn't bet)
+Seat 5: Frank90130 (small blind) folded on the Flop
+Seat 6: eduardoluz11 (big blind) collected (720)
+Seat 7: Ivanich54 folded before Flop (didn't bet)
+Seat 8: STAS317 folded before Flop (didn't bet)
+Seat 9: Bugiga1986 folded on the Flop
+
+
+
+PokerStars Hand #201630399812: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level V (30/60) - 2019/06/22 11:41:34 ET
+Table '2635115335 15' 9-max Seat #5 is the button
+Seat 1: tat56 (1347 in chips) is sitting out
+Seat 2: wesleyhennrique (1325 in chips) 
+Seat 3: FishNuncaMai (4986 in chips) 
+Seat 4: Taargeett (4440 in chips) 
+Seat 5: Frank90130 (2282 in chips) 
+Seat 6: eduardoluz11 (5529 in chips) 
+Seat 7: Ivanich54 (2553 in chips) 
+Seat 8: STAS317 (2648 in chips) 
+Seat 9: Bugiga1986 (2455 in chips) 
+eduardoluz11: posts small blind 30
+Ivanich54: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Taargeett [2c Kh]
+tat56 has returned
+STAS317: folds 
+Bugiga1986: calls 60
+tat56: folds 
+wesleyhennrique: folds 
+FishNuncaMai: folds 
+Taargeett: folds 
+Frank90130: calls 60
+eduardoluz11: folds 
+Ivanich54: checks 
+*** FLOP *** [Jc 3h 9h]
+Ivanich54: checks 
+Bugiga1986: bets 60
+Frank90130: folds 
+Ivanich54: folds 
+Uncalled bet (60) returned to Bugiga1986
+Bugiga1986 collected 210 from pot
+Bugiga1986: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Board [Jc 3h 9h]
+Seat 1: tat56 folded before Flop (didn't bet)
+Seat 2: wesleyhennrique folded before Flop (didn't bet)
+Seat 3: FishNuncaMai folded before Flop (didn't bet)
+Seat 4: Taargeett folded before Flop (didn't bet)
+Seat 5: Frank90130 (button) folded on the Flop
+Seat 6: eduardoluz11 (small blind) folded before Flop
+Seat 7: Ivanich54 (big blind) folded on the Flop
+Seat 8: STAS317 folded before Flop (didn't bet)
+Seat 9: Bugiga1986 collected (210)
+
+
+
+PokerStars Hand #201630417464: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level VI (40/80) - 2019/06/22 11:42:12 ET
+Table '2635115335 15' 9-max Seat #6 is the button
+Seat 1: tat56 (1347 in chips) 
+Seat 2: wesleyhennrique (1325 in chips) 
+Seat 3: FishNuncaMai (4986 in chips) 
+Seat 4: Taargeett (4440 in chips) 
+Seat 5: Frank90130 (2222 in chips) 
+Seat 6: eduardoluz11 (5499 in chips) 
+Seat 7: Ivanich54 (2493 in chips) 
+Seat 8: STAS317 (2648 in chips) 
+Seat 9: Bugiga1986 (2605 in chips) 
+Ivanich54: posts small blind 40
+STAS317: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Taargeett [Qd 8d]
+Bugiga1986: calls 80
+tat56: folds 
+wesleyhennrique: folds 
+FishNuncaMai: folds 
+Taargeett: raises 110 to 190
+Frank90130: calls 190
+eduardoluz11: raises 5309 to 5499 and is all-in
+Ivanich54: folds 
+STAS317: folds 
+Bugiga1986: folds 
+Taargeett: folds 
+Frank90130: calls 2032 and is all-in
+Uncalled bet (3277) returned to eduardoluz11
+*** FLOP *** [5c Kd 5s]
+*** TURN *** [5c Kd 5s] [6d]
+*** RIVER *** [5c Kd 5s 6d] [4s]
+*** SHOW DOWN ***
+Frank90130: shows [Kh 9h] (two pair, Kings and Fives)
+eduardoluz11: shows [As Qc] (a pair of Fives)
+Frank90130 collected 4834 from pot
+*** SUMMARY ***
+Total pot 4834 | Rake 0 
+Board [5c Kd 5s 6d 4s]
+Seat 1: tat56 folded before Flop (didn't bet)
+Seat 2: wesleyhennrique folded before Flop (didn't bet)
+Seat 3: FishNuncaMai folded before Flop (didn't bet)
+Seat 4: Taargeett folded before Flop
+Seat 5: Frank90130 showed [Kh 9h] and won (4834) with two pair, Kings and Fives
+Seat 6: eduardoluz11 (button) showed [As Qc] and lost with a pair of Fives
+Seat 7: Ivanich54 (small blind) folded before Flop
+Seat 8: STAS317 (big blind) folded before Flop
+Seat 9: Bugiga1986 folded before Flop
+
+
+
+PokerStars Hand #201630438062: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level VI (40/80) - 2019/06/22 11:42:56 ET
+Table '2635115335 15' 9-max Seat #7 is the button
+Seat 1: tat56 (1347 in chips) 
+Seat 2: wesleyhennrique (1325 in chips) 
+Seat 3: FishNuncaMai (4986 in chips) 
+Seat 4: Taargeett (4250 in chips) 
+Seat 5: Frank90130 (4834 in chips) 
+Seat 6: eduardoluz11 (3277 in chips) 
+Seat 7: Ivanich54 (2453 in chips) 
+Seat 8: STAS317 (2568 in chips) 
+Seat 9: Bugiga1986 (2525 in chips) 
+STAS317: posts small blind 40
+Bugiga1986: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Taargeett [3s Jc]
+tat56: calls 80
+wesleyhennrique: folds 
+FishNuncaMai: calls 80
+Taargeett: folds 
+Frank90130: folds 
+eduardoluz11: raises 3197 to 3277 and is all-in
+Ivanich54: folds 
+STAS317: folds 
+Bugiga1986: folds 
+tat56: calls 1267 and is all-in
+FishNuncaMai: folds 
+Uncalled bet (1930) returned to eduardoluz11
+*** FLOP *** [Qs 2d Kc]
+*** TURN *** [Qs 2d Kc] [8c]
+*** RIVER *** [Qs 2d Kc 8c] [4s]
+*** SHOW DOWN ***
+tat56: shows [4h 5h] (a pair of Fours)
+eduardoluz11: shows [Ts Ks] (a pair of Kings)
+eduardoluz11 collected 2894 from pot
+tat56 finished the tournament in 199th place
+*** SUMMARY ***
+Total pot 2894 | Rake 0 
+Board [Qs 2d Kc 8c 4s]
+Seat 1: tat56 showed [4h 5h] and lost with a pair of Fours
+Seat 2: wesleyhennrique folded before Flop (didn't bet)
+Seat 3: FishNuncaMai folded before Flop
+Seat 4: Taargeett folded before Flop (didn't bet)
+Seat 5: Frank90130 folded before Flop (didn't bet)
+Seat 6: eduardoluz11 showed [Ts Ks] and won (2894) with a pair of Kings
+Seat 7: Ivanich54 (button) folded before Flop (didn't bet)
+Seat 8: STAS317 (small blind) folded before Flop
+Seat 9: Bugiga1986 (big blind) folded before Flop
+
+
+
+PokerStars Hand #201630464902: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level VI (40/80) - 2019/06/22 11:43:55 ET
+Table '2635115335 6' 9-max Seat #3 is the button
+Seat 1: BUT41 (1970 in chips) 
+Seat 2: sam-r86 (1940 in chips) 
+Seat 3: stephane lel (7225 in chips) 
+Seat 4: cologne404 (7030 in chips) 
+Seat 5: TIMExRELAPSING (1345 in chips) is sitting out
+Seat 6: mcduff1313 (1855 in chips) 
+Seat 7: Taargeett (4250 in chips) 
+Seat 8: BraconeR26 (3440 in chips) 
+Seat 9: RUSSIANACIST (1320 in chips) is sitting out
+cologne404: posts small blind 40
+TIMExRELAPSING: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Taargeett [4h 2d]
+mcduff1313: folds 
+Taargeett: folds 
+BraconeR26: raises 160 to 240
+RUSSIANACIST: folds 
+BUT41: calls 240
+sam-r86: folds 
+stephane lel: calls 240
+cologne404: folds 
+TIMExRELAPSING: folds 
+*** FLOP *** [7s 8s 3s]
+BraconeR26: checks 
+BUT41: checks 
+BraconeR26 has returned
+stephane lel: checks 
+*** TURN *** [7s 8s 3s] [4c]
+BraconeR26: checks 
+BUT41: checks 
+stephane lel: bets 240
+BraconeR26: calls 240
+BUT41: calls 240
+*** RIVER *** [7s 8s 3s 4c] [2s]
+BraconeR26: bets 1560
+BUT41: folds 
+stephane lel: folds 
+Uncalled bet (1560) returned to BraconeR26
+BraconeR26 collected 1560 from pot
+BraconeR26: doesn't show hand 
+BraconeR26 is sitting out
+*** SUMMARY ***
+Total pot 1560 | Rake 0 
+Board [7s 8s 3s 4c 2s]
+Seat 1: BUT41 folded on the River
+Seat 2: sam-r86 folded before Flop (didn't bet)
+Seat 3: stephane lel (button) folded on the River
+Seat 4: cologne404 (small blind) folded before Flop
+Seat 5: TIMExRELAPSING (big blind) folded before Flop
+Seat 6: mcduff1313 folded before Flop (didn't bet)
+Seat 7: Taargeett folded before Flop (didn't bet)
+Seat 8: BraconeR26 collected (1560)
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201630492859: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level VII (50/100) - 2019/06/22 11:44:56 ET
+Table '2635115335 6' 9-max Seat #4 is the button
+Seat 1: BUT41 (1490 in chips) 
+Seat 2: sam-r86 (1940 in chips) 
+Seat 3: stephane lel (6745 in chips) 
+Seat 4: cologne404 (6990 in chips) 
+Seat 5: TIMExRELAPSING (1265 in chips) is sitting out
+Seat 6: mcduff1313 (1855 in chips) 
+Seat 7: Taargeett (4250 in chips) 
+Seat 8: BraconeR26 (4520 in chips) is sitting out
+Seat 9: RUSSIANACIST (1320 in chips) is sitting out
+TIMExRELAPSING: posts small blind 50
+mcduff1313: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [Js 6c]
+Taargeett: folds 
+BraconeR26: folds 
+RUSSIANACIST: folds 
+BUT41: folds 
+sam-r86: raises 120 to 220
+stephane lel: calls 220
+cologne404: folds 
+TIMExRELAPSING: folds 
+mcduff1313: folds 
+*** FLOP *** [2h 6s 7d]
+sam-r86: bets 300
+stephane lel: calls 300
+*** TURN *** [2h 6s 7d] [Kc]
+sam-r86: checks 
+stephane lel: bets 600
+sam-r86: folds 
+Uncalled bet (600) returned to stephane lel
+stephane lel collected 1190 from pot
+stephane lel: doesn't show hand 
+*** SUMMARY ***
+Total pot 1190 | Rake 0 
+Board [2h 6s 7d Kc]
+Seat 1: BUT41 folded before Flop (didn't bet)
+Seat 2: sam-r86 folded on the Turn
+Seat 3: stephane lel collected (1190)
+Seat 4: cologne404 (button) folded before Flop (didn't bet)
+Seat 5: TIMExRELAPSING (small blind) folded before Flop
+Seat 6: mcduff1313 (big blind) folded before Flop
+Seat 7: Taargeett folded before Flop (didn't bet)
+Seat 8: BraconeR26 folded before Flop (didn't bet)
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201630515663: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level VII (50/100) - 2019/06/22 11:45:46 ET
+Table '2635115335 6' 9-max Seat #5 is the button
+Seat 1: BUT41 (1490 in chips) 
+Seat 2: sam-r86 (1420 in chips) 
+Seat 3: stephane lel (7415 in chips) 
+Seat 4: cologne404 (6990 in chips) 
+Seat 5: TIMExRELAPSING (1215 in chips) is sitting out
+Seat 6: mcduff1313 (1755 in chips) 
+Seat 7: Taargeett (4250 in chips) 
+Seat 8: BraconeR26 (4520 in chips) is sitting out
+Seat 9: RUSSIANACIST (1320 in chips) is sitting out
+mcduff1313: posts small blind 50
+Taargeett: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [5c 7d]
+BraconeR26: folds 
+RUSSIANACIST: folds 
+BUT41: calls 100
+sam-r86: folds 
+stephane lel: folds 
+cologne404: calls 100
+TIMExRELAPSING: folds 
+mcduff1313: folds 
+Taargeett: checks 
+*** FLOP *** [2s Ah 5s]
+Taargeett: checks 
+BUT41: checks 
+cologne404: checks 
+*** TURN *** [2s Ah 5s] [Qd]
+Taargeett: checks 
+BUT41: checks 
+cologne404: checks 
+*** RIVER *** [2s Ah 5s Qd] [5d]
+Taargeett: bets 100
+BUT41: calls 100
+cologne404: folds 
+*** SHOW DOWN ***
+Taargeett: shows [5c 7d] (three of a kind, Fives)
+BUT41: mucks hand 
+BraconeR26 has returned
+Taargeett collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Board [2s Ah 5s Qd 5d]
+Seat 1: BUT41 mucked [3c 2c]
+Seat 2: sam-r86 folded before Flop (didn't bet)
+Seat 3: stephane lel folded before Flop (didn't bet)
+Seat 4: cologne404 folded on the River
+Seat 5: TIMExRELAPSING (button) folded before Flop (didn't bet)
+Seat 6: mcduff1313 (small blind) folded before Flop
+Seat 7: Taargeett (big blind) showed [5c 7d] and won (550) with three of a kind, Fives
+Seat 8: BraconeR26 folded before Flop (didn't bet)
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201630533830: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level VII (50/100) - 2019/06/22 11:46:26 ET
+Table '2635115335 6' 9-max Seat #6 is the button
+Seat 1: BUT41 (1290 in chips) 
+Seat 2: sam-r86 (1420 in chips) 
+Seat 3: stephane lel (7415 in chips) 
+Seat 4: cologne404 (6890 in chips) 
+Seat 5: TIMExRELAPSING (1215 in chips) is sitting out
+Seat 6: mcduff1313 (1705 in chips) 
+Seat 7: Taargeett (4600 in chips) 
+Seat 8: BraconeR26 (4520 in chips) 
+Seat 9: RUSSIANACIST (1320 in chips) is sitting out
+Taargeett: posts small blind 50
+BraconeR26: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [6d Ts]
+RUSSIANACIST: folds 
+BUT41: folds 
+sam-r86: folds 
+stephane lel: calls 100
+cologne404: calls 100
+TIMExRELAPSING: folds 
+mcduff1313: folds 
+Taargeett: calls 50
+BraconeR26: checks 
+*** FLOP *** [Jh 8h Js]
+Taargeett: checks 
+BraconeR26: checks 
+stephane lel: checks 
+cologne404: checks 
+*** TURN *** [Jh 8h Js] [Jd]
+Taargeett: checks 
+BraconeR26: checks 
+stephane lel: checks 
+cologne404: checks 
+*** RIVER *** [Jh 8h Js Jd] [2d]
+Taargeett: checks 
+TIMExRELAPSING is disconnected 
+BraconeR26: checks 
+stephane lel: checks 
+cologne404: checks 
+*** SHOW DOWN ***
+Taargeett: shows [6d Ts] (three of a kind, Jacks)
+BraconeR26: shows [2c Qc] (a full house, Jacks full of Deuces)
+stephane lel: mucks hand 
+cologne404: mucks hand 
+BraconeR26 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [Jh 8h Js Jd 2d]
+Seat 1: BUT41 folded before Flop (didn't bet)
+Seat 2: sam-r86 folded before Flop (didn't bet)
+Seat 3: stephane lel mucked [5s Ks]
+Seat 4: cologne404 mucked [Kd Ad]
+Seat 5: TIMExRELAPSING folded before Flop (didn't bet)
+Seat 6: mcduff1313 (button) folded before Flop (didn't bet)
+Seat 7: Taargeett (small blind) showed [6d Ts] and lost with three of a kind, Jacks
+Seat 8: BraconeR26 (big blind) showed [2c Qc] and won (400) with a full house, Jacks full of Deuces
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201630566568: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level VII (50/100) - 2019/06/22 11:47:37 ET
+Table '2635115335 6' 9-max Seat #7 is the button
+Seat 1: BUT41 (1290 in chips) 
+Seat 2: sam-r86 (1420 in chips) 
+Seat 3: stephane lel (7315 in chips) 
+Seat 4: cologne404 (6790 in chips) 
+Seat 5: TIMExRELAPSING (1215 in chips) is sitting out
+Seat 6: mcduff1313 (1705 in chips) 
+Seat 7: Taargeett (4500 in chips) 
+Seat 8: BraconeR26 (4820 in chips) 
+Seat 9: RUSSIANACIST (1320 in chips) is sitting out
+BraconeR26: posts small blind 50
+RUSSIANACIST: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [Th 6h]
+BUT41: folds 
+sam-r86: folds 
+stephane lel: calls 100
+cologne404: folds 
+TIMExRELAPSING: folds 
+mcduff1313: folds 
+Taargeett: raises 100 to 200
+BraconeR26: folds 
+RUSSIANACIST: folds 
+stephane lel: calls 100
+*** FLOP *** [7s 3c As]
+stephane lel: checks 
+Taargeett: bets 200
+stephane lel: calls 200
+*** TURN *** [7s 3c As] [8h]
+stephane lel: checks 
+Taargeett: checks 
+*** RIVER *** [7s 3c As 8h] [7d]
+stephane lel: checks 
+Taargeett: bets 950
+stephane lel: folds 
+Uncalled bet (950) returned to Taargeett
+Taargeett collected 950 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [7s 3c As 8h 7d]
+Seat 1: BUT41 folded before Flop (didn't bet)
+Seat 2: sam-r86 folded before Flop (didn't bet)
+Seat 3: stephane lel folded on the River
+Seat 4: cologne404 folded before Flop (didn't bet)
+Seat 5: TIMExRELAPSING folded before Flop (didn't bet)
+Seat 6: mcduff1313 folded before Flop (didn't bet)
+Seat 7: Taargeett (button) collected (950)
+Seat 8: BraconeR26 (small blind) folded before Flop
+Seat 9: RUSSIANACIST (big blind) folded before Flop
+
+
+
+PokerStars Hand #201630588719: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level VIII (60/120) - 2019/06/22 11:48:26 ET
+Table '2635115335 6' 9-max Seat #8 is the button
+Seat 1: BUT41 (1290 in chips) 
+Seat 2: sam-r86 (1420 in chips) 
+Seat 3: stephane lel (6915 in chips) 
+Seat 4: cologne404 (6790 in chips) 
+Seat 5: TIMExRELAPSING (1215 in chips) is sitting out
+Seat 6: mcduff1313 (1705 in chips) 
+Seat 7: Taargeett (5050 in chips) 
+Seat 8: BraconeR26 (4770 in chips) 
+Seat 9: RUSSIANACIST (1220 in chips) is sitting out
+RUSSIANACIST: posts small blind 60
+BUT41: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Taargeett [Ah 9h]
+sam-r86: folds 
+stephane lel: folds 
+cologne404: calls 120
+TIMExRELAPSING: folds 
+mcduff1313: folds 
+Taargeett: raises 160 to 280
+BraconeR26: folds 
+RUSSIANACIST: folds 
+BUT41: calls 160
+cologne404: calls 160
+*** FLOP *** [Ad 8c 3s]
+BUT41: checks 
+cologne404: checks 
+Taargeett: bets 290
+BUT41: folds 
+cologne404: folds 
+Uncalled bet (290) returned to Taargeett
+Taargeett collected 900 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [Ad 8c 3s]
+Seat 1: BUT41 (big blind) folded on the Flop
+Seat 2: sam-r86 folded before Flop (didn't bet)
+Seat 3: stephane lel folded before Flop (didn't bet)
+Seat 4: cologne404 folded on the Flop
+Seat 5: TIMExRELAPSING folded before Flop (didn't bet)
+Seat 6: mcduff1313 folded before Flop (didn't bet)
+Seat 7: Taargeett collected (900)
+Seat 8: BraconeR26 (button) folded before Flop (didn't bet)
+Seat 9: RUSSIANACIST (small blind) folded before Flop
+
+
+
+PokerStars Hand #201630611171: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level VIII (60/120) - 2019/06/22 11:49:15 ET
+Table '2635115335 6' 9-max Seat #9 is the button
+Seat 1: BUT41 (1010 in chips) 
+Seat 2: sam-r86 (1420 in chips) 
+Seat 3: stephane lel (6915 in chips) 
+Seat 4: cologne404 (6510 in chips) 
+Seat 5: TIMExRELAPSING (1215 in chips) is sitting out
+Seat 6: mcduff1313 (1705 in chips) 
+Seat 7: Taargeett (5670 in chips) 
+Seat 8: BraconeR26 (4770 in chips) 
+Seat 9: RUSSIANACIST (1160 in chips) is sitting out
+BUT41: posts small blind 60
+sam-r86: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Taargeett [6h 7d]
+stephane lel: folds 
+cologne404: calls 120
+TIMExRELAPSING: folds 
+mcduff1313: folds 
+Taargeett: folds 
+BraconeR26: folds 
+RUSSIANACIST: folds 
+BUT41: calls 60
+sam-r86: checks 
+*** FLOP *** [5h Jh Qc]
+BUT41: checks 
+sam-r86: checks 
+cologne404: bets 120
+BUT41: calls 120
+sam-r86: folds 
+*** TURN *** [5h Jh Qc] [7h]
+BUT41: checks 
+cologne404: checks 
+*** RIVER *** [5h Jh Qc 7h] [2c]
+BUT41: checks 
+cologne404: checks 
+*** SHOW DOWN ***
+BUT41: shows [Ts 9s] (high card Queen)
+cologne404: shows [6s Ad] (high card Ace)
+cologne404 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [5h Jh Qc 7h 2c]
+Seat 1: BUT41 (small blind) showed [Ts 9s] and lost with high card Queen
+Seat 2: sam-r86 (big blind) folded on the Flop
+Seat 3: stephane lel folded before Flop (didn't bet)
+Seat 4: cologne404 showed [6s Ad] and won (600) with high card Ace
+Seat 5: TIMExRELAPSING folded before Flop (didn't bet)
+Seat 6: mcduff1313 folded before Flop (didn't bet)
+Seat 7: Taargeett folded before Flop (didn't bet)
+Seat 8: BraconeR26 folded before Flop (didn't bet)
+Seat 9: RUSSIANACIST (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201630627360: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level VIII (60/120) - 2019/06/22 11:49:51 ET
+Table '2635115335 6' 9-max Seat #1 is the button
+Seat 1: BUT41 (770 in chips) 
+Seat 2: sam-r86 (1300 in chips) 
+Seat 3: stephane lel (6915 in chips) 
+Seat 4: cologne404 (6870 in chips) 
+Seat 5: TIMExRELAPSING (1215 in chips) is sitting out
+Seat 6: mcduff1313 (1705 in chips) 
+Seat 7: Taargeett (5670 in chips) 
+Seat 8: BraconeR26 (4770 in chips) 
+Seat 9: RUSSIANACIST (1160 in chips) is sitting out
+sam-r86: posts small blind 60
+stephane lel: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Taargeett [9d 6d]
+cologne404: folds 
+TIMExRELAPSING: folds 
+mcduff1313: folds 
+Taargeett: raises 120 to 240
+BraconeR26: folds 
+RUSSIANACIST: folds 
+BUT41: folds 
+sam-r86: folds 
+stephane lel: calls 120
+*** FLOP *** [4h 4d Ad]
+stephane lel: bets 240
+Taargeett: calls 240
+*** TURN *** [4h 4d Ad] [6c]
+stephane lel: bets 480
+Taargeett: calls 480
+*** RIVER *** [4h 4d Ad 6c] [8d]
+stephane lel: checks 
+Taargeett: bets 840
+stephane lel: calls 840
+*** SHOW DOWN ***
+Taargeett: shows [9d 6d] (a flush, Ace high)
+stephane lel: mucks hand 
+Taargeett collected 3660 from pot
+*** SUMMARY ***
+Total pot 3660 | Rake 0 
+Board [4h 4d Ad 6c 8d]
+Seat 1: BUT41 (button) folded before Flop (didn't bet)
+Seat 2: sam-r86 (small blind) folded before Flop
+Seat 3: stephane lel (big blind) mucked [7s Ah]
+Seat 4: cologne404 folded before Flop (didn't bet)
+Seat 5: TIMExRELAPSING folded before Flop (didn't bet)
+Seat 6: mcduff1313 folded before Flop (didn't bet)
+Seat 7: Taargeett showed [9d 6d] and won (3660) with a flush, Ace high
+Seat 8: BraconeR26 folded before Flop (didn't bet)
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201630657228: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level IX (75/150) - 2019/06/22 11:50:56 ET
+Table '2635115335 6' 9-max Seat #2 is the button
+Seat 1: BUT41 (770 in chips) 
+Seat 2: sam-r86 (1240 in chips) 
+Seat 3: stephane lel (5115 in chips) 
+Seat 4: cologne404 (6870 in chips) 
+Seat 5: TIMExRELAPSING (1215 in chips) is sitting out
+Seat 6: mcduff1313 (1705 in chips) 
+Seat 7: Taargeett (7530 in chips) 
+Seat 8: BraconeR26 (4770 in chips) 
+Seat 9: RUSSIANACIST (1160 in chips) is sitting out
+stephane lel: posts small blind 75
+cologne404: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [Js 6c]
+TIMExRELAPSING: folds 
+mcduff1313: folds 
+Taargeett: folds 
+TIMExRELAPSING has returned
+BraconeR26: raises 300 to 450
+RUSSIANACIST: folds 
+BUT41: folds 
+sam-r86: folds 
+stephane lel: folds 
+cologne404: folds 
+Uncalled bet (300) returned to BraconeR26
+BraconeR26 collected 375 from pot
+BraconeR26: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: BUT41 folded before Flop (didn't bet)
+Seat 2: sam-r86 (button) folded before Flop (didn't bet)
+Seat 3: stephane lel (small blind) folded before Flop
+Seat 4: cologne404 (big blind) folded before Flop
+Seat 5: TIMExRELAPSING folded before Flop (didn't bet)
+Seat 6: mcduff1313 folded before Flop (didn't bet)
+Seat 7: Taargeett folded before Flop (didn't bet)
+Seat 8: BraconeR26 collected (375)
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201630664912: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level IX (75/150) - 2019/06/22 11:51:13 ET
+Table '2635115335 6' 9-max Seat #3 is the button
+Seat 1: BUT41 (770 in chips) 
+Seat 2: sam-r86 (1240 in chips) 
+Seat 3: stephane lel (5040 in chips) 
+Seat 4: cologne404 (6720 in chips) 
+Seat 5: TIMExRELAPSING (1215 in chips) 
+Seat 6: mcduff1313 (1705 in chips) 
+Seat 7: Taargeett (7530 in chips) 
+Seat 8: BraconeR26 (4995 in chips) 
+Seat 9: RUSSIANACIST (1160 in chips) is sitting out
+cologne404: posts small blind 75
+TIMExRELAPSING: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [As Kc]
+mcduff1313: folds 
+Taargeett: raises 200 to 350
+BraconeR26: calls 350
+RUSSIANACIST: folds 
+BUT41: folds 
+sam-r86: folds 
+stephane lel: folds 
+cologne404: calls 275
+TIMExRELAPSING: calls 200
+*** FLOP *** [Js 9h 7d]
+cologne404: checks 
+TIMExRELAPSING: checks 
+Taargeett: bets 250
+BraconeR26: calls 250
+cologne404: folds 
+TIMExRELAPSING: folds 
+*** TURN *** [Js 9h 7d] [8c]
+Taargeett: bets 350
+BraconeR26: calls 350
+*** RIVER *** [Js 9h 7d 8c] [Qh]
+Taargeett: bets 450
+BraconeR26: calls 450
+*** SHOW DOWN ***
+Taargeett: shows [As Kc] (high card Ace)
+BraconeR26: shows [Ac Tc] (a straight, Eight to Queen)
+BraconeR26 collected 3500 from pot
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Board [Js 9h 7d 8c Qh]
+Seat 1: BUT41 folded before Flop (didn't bet)
+Seat 2: sam-r86 folded before Flop (didn't bet)
+Seat 3: stephane lel (button) folded before Flop (didn't bet)
+Seat 4: cologne404 (small blind) folded on the Flop
+Seat 5: TIMExRELAPSING (big blind) folded on the Flop
+Seat 6: mcduff1313 folded before Flop (didn't bet)
+Seat 7: Taargeett showed [As Kc] and lost with high card Ace
+Seat 8: BraconeR26 showed [Ac Tc] and won (3500) with a straight, Eight to Queen
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201630702529: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level IX (75/150) - 2019/06/22 11:52:35 ET
+Table '2635115335 6' 9-max Seat #4 is the button
+Seat 1: BUT41 (770 in chips) 
+Seat 2: sam-r86 (1240 in chips) 
+Seat 3: stephane lel (5040 in chips) 
+Seat 4: cologne404 (6370 in chips) 
+Seat 5: TIMExRELAPSING (865 in chips) 
+Seat 6: mcduff1313 (1705 in chips) 
+Seat 7: Taargeett (6130 in chips) 
+Seat 8: BraconeR26 (7095 in chips) 
+Seat 9: RUSSIANACIST (1160 in chips) is sitting out
+TIMExRELAPSING: posts small blind 75
+mcduff1313: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [8s Ts]
+Taargeett: folds 
+BraconeR26: folds 
+RUSSIANACIST: folds 
+BUT41: folds 
+sam-r86: folds 
+stephane lel: folds 
+cologne404: folds 
+TIMExRELAPSING: raises 715 to 865 and is all-in
+Taargeett is sitting out
+mcduff1313: folds 
+Uncalled bet (715) returned to TIMExRELAPSING
+TIMExRELAPSING collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: BUT41 folded before Flop (didn't bet)
+Seat 2: sam-r86 folded before Flop (didn't bet)
+Seat 3: stephane lel folded before Flop (didn't bet)
+Seat 4: cologne404 (button) folded before Flop (didn't bet)
+Seat 5: TIMExRELAPSING (small blind) collected (300)
+Seat 6: mcduff1313 (big blind) folded before Flop
+Seat 7: Taargeett folded before Flop (didn't bet)
+Seat 8: BraconeR26 folded before Flop (didn't bet)
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201630714420: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level IX (75/150) - 2019/06/22 11:53:01 ET
+Table '2635115335 6' 9-max Seat #5 is the button
+Seat 1: BUT41 (770 in chips) 
+Seat 2: sam-r86 (1240 in chips) 
+Seat 3: stephane lel (5040 in chips) 
+Seat 4: cologne404 (6370 in chips) 
+Seat 5: TIMExRELAPSING (1015 in chips) 
+Seat 6: mcduff1313 (1555 in chips) 
+Seat 7: Taargeett (6130 in chips) is sitting out
+Seat 8: BraconeR26 (7095 in chips) 
+Seat 9: RUSSIANACIST (1160 in chips) is sitting out
+mcduff1313: posts small blind 75
+Taargeett: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [Qd 7d]
+Taargeett has returned
+BraconeR26: raises 300 to 450
+RUSSIANACIST: folds 
+BUT41: raises 320 to 770 and is all-in
+sam-r86: folds 
+stephane lel: folds 
+cologne404: folds 
+TIMExRELAPSING: raises 245 to 1015 and is all-in
+mcduff1313: raises 540 to 1555 and is all-in
+Taargeett: folds 
+BraconeR26: folds 
+Uncalled bet (540) returned to mcduff1313
+*** FLOP *** [8c 8h Th]
+*** TURN *** [8c 8h Th] [Jc]
+*** RIVER *** [8c 8h Th Jc] [Ad]
+*** SHOW DOWN ***
+mcduff1313: shows [Kh Kc] (two pair, Kings and Eights)
+TIMExRELAPSING: shows [9s 4c] (a pair of Eights)
+mcduff1313 collected 490 from side pot
+BUT41: shows [As 6s] (two pair, Aces and Eights)
+BUT41 collected 2910 from main pot
+TIMExRELAPSING finished the tournament in 141st place
+*** SUMMARY ***
+Total pot 3400 Main pot 2910. Side pot 490. | Rake 0 
+Board [8c 8h Th Jc Ad]
+Seat 1: BUT41 showed [As 6s] and won (2910) with two pair, Aces and Eights
+Seat 2: sam-r86 folded before Flop (didn't bet)
+Seat 3: stephane lel folded before Flop (didn't bet)
+Seat 4: cologne404 folded before Flop (didn't bet)
+Seat 5: TIMExRELAPSING (button) showed [9s 4c] and lost with a pair of Eights
+Seat 6: mcduff1313 (small blind) showed [Kh Kc] and won (490) with two pair, Kings and Eights
+Seat 7: Taargeett (big blind) folded before Flop
+Seat 8: BraconeR26 folded before Flop
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201630743449: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level X (100/200) - 2019/06/22 11:54:06 ET
+Table '2635115335 6' 9-max Seat #6 is the button
+Seat 1: BUT41 (2910 in chips) 
+Seat 2: sam-r86 (1240 in chips) 
+Seat 3: stephane lel (5040 in chips) 
+Seat 4: cologne404 (6370 in chips) 
+Seat 6: mcduff1313 (1030 in chips) 
+Seat 7: Taargeett (5980 in chips) 
+Seat 8: BraconeR26 (6645 in chips) 
+Seat 9: RUSSIANACIST (1160 in chips) is sitting out
+BUT41: posts the ante 20
+sam-r86: posts the ante 20
+stephane lel: posts the ante 20
+cologne404: posts the ante 20
+mcduff1313: posts the ante 20
+Taargeett: posts the ante 20
+BraconeR26: posts the ante 20
+RUSSIANACIST: posts the ante 20
+Taargeett: posts small blind 100
+BraconeR26: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [Qh 4h]
+RUSSIANACIST: folds 
+BUT41: folds 
+sam-r86: folds 
+stephane lel: folds 
+cologne404: folds 
+mcduff1313: folds 
+Taargeett: raises 200 to 400
+BraconeR26: calls 200
+*** FLOP *** [5c 5s 7d]
+Taargeett: checks 
+BraconeR26: bets 960
+Taargeett: folds 
+Uncalled bet (960) returned to BraconeR26
+BraconeR26 collected 960 from pot
+BraconeR26: doesn't show hand 
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [5c 5s 7d]
+Seat 1: BUT41 folded before Flop (didn't bet)
+Seat 2: sam-r86 folded before Flop (didn't bet)
+Seat 3: stephane lel folded before Flop (didn't bet)
+Seat 4: cologne404 folded before Flop (didn't bet)
+Seat 6: mcduff1313 (button) folded before Flop (didn't bet)
+Seat 7: Taargeett (small blind) folded on the Flop
+Seat 8: BraconeR26 (big blind) collected (960)
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201630761843: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level X (100/200) - 2019/06/22 11:54:46 ET
+Table '2635115335 6' 9-max Seat #7 is the button
+Seat 1: BUT41 (2890 in chips) 
+Seat 2: sam-r86 (1220 in chips) 
+Seat 3: stephane lel (5020 in chips) 
+Seat 4: cologne404 (6350 in chips) 
+Seat 6: mcduff1313 (1010 in chips) 
+Seat 7: Taargeett (5560 in chips) 
+Seat 8: BraconeR26 (7185 in chips) 
+Seat 9: RUSSIANACIST (1140 in chips) is sitting out
+BUT41: posts the ante 20
+sam-r86: posts the ante 20
+stephane lel: posts the ante 20
+cologne404: posts the ante 20
+mcduff1313: posts the ante 20
+Taargeett: posts the ante 20
+BraconeR26: posts the ante 20
+RUSSIANACIST: posts the ante 20
+BraconeR26: posts small blind 100
+RUSSIANACIST: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [7c Ks]
+BUT41: folds 
+sam-r86: folds 
+stephane lel: folds 
+cologne404: folds 
+mcduff1313: folds 
+Taargeett: folds 
+BraconeR26: folds 
+Uncalled bet (100) returned to RUSSIANACIST
+RUSSIANACIST collected 360 from pot
+RUSSIANACIST: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Seat 1: BUT41 folded before Flop (didn't bet)
+Seat 2: sam-r86 folded before Flop (didn't bet)
+Seat 3: stephane lel folded before Flop (didn't bet)
+Seat 4: cologne404 folded before Flop (didn't bet)
+Seat 6: mcduff1313 folded before Flop (didn't bet)
+Seat 7: Taargeett (button) folded before Flop (didn't bet)
+Seat 8: BraconeR26 (small blind) folded before Flop
+Seat 9: RUSSIANACIST (big blind) collected (360)
+
+
+
+PokerStars Hand #201630915535: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level X (100/200) - 2019/06/22 12:01:35 ET
+Table '2635115335 6' 9-max Seat #8 is the button
+Seat 1: BUT41 (2870 in chips) 
+Seat 2: sam-r86 (1200 in chips) 
+Seat 3: stephane lel (5000 in chips) 
+Seat 4: cologne404 (6330 in chips) 
+Seat 5: Spam86by (6685 in chips) 
+Seat 6: mcduff1313 (990 in chips) 
+Seat 7: Taargeett (5540 in chips) 
+Seat 8: BraconeR26 (7065 in chips) 
+Seat 9: RUSSIANACIST (1380 in chips) 
+BUT41: posts the ante 20
+sam-r86: posts the ante 20
+stephane lel: posts the ante 20
+cologne404: posts the ante 20
+Spam86by: posts the ante 20
+mcduff1313: posts the ante 20
+Taargeett: posts the ante 20
+BraconeR26: posts the ante 20
+RUSSIANACIST: posts the ante 20
+RUSSIANACIST: posts small blind 100
+BUT41: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [5s 9c]
+sam-r86: folds 
+stephane lel: folds 
+cologne404: raises 200 to 400
+Spam86by has timed out
+Spam86by: folds 
+Spam86by is sitting out
+mcduff1313: calls 400
+Taargeett: folds 
+BraconeR26: folds 
+RUSSIANACIST has timed out
+RUSSIANACIST: folds 
+RUSSIANACIST is sitting out
+BUT41: folds 
+*** FLOP *** [9s Qh Kd]
+cologne404: checks 
+mcduff1313: checks 
+*** TURN *** [9s Qh Kd] [Jd]
+cologne404: bets 200
+mcduff1313: calls 200
+*** RIVER *** [9s Qh Kd Jd] [Jc]
+cologne404: bets 400
+mcduff1313: calls 370 and is all-in
+Uncalled bet (30) returned to cologne404
+*** SHOW DOWN ***
+cologne404: shows [Kh Ks] (a full house, Kings full of Jacks)
+mcduff1313: shows [Ah Jh] (three of a kind, Jacks)
+cologne404 collected 2420 from pot
+mcduff1313 finished the tournament in 130th place
+*** SUMMARY ***
+Total pot 2420 | Rake 0 
+Board [9s Qh Kd Jd Jc]
+Seat 1: BUT41 (big blind) folded before Flop
+Seat 2: sam-r86 folded before Flop (didn't bet)
+Seat 3: stephane lel folded before Flop (didn't bet)
+Seat 4: cologne404 showed [Kh Ks] and won (2420) with a full house, Kings full of Jacks
+Seat 5: Spam86by folded before Flop (didn't bet)
+Seat 6: mcduff1313 showed [Ah Jh] and lost with three of a kind, Jacks
+Seat 7: Taargeett folded before Flop (didn't bet)
+Seat 8: BraconeR26 (button) folded before Flop (didn't bet)
+Seat 9: RUSSIANACIST (small blind) folded before Flop
+
+
+
+PokerStars Hand #201630974282: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level XI (125/250) - 2019/06/22 12:03:45 ET
+Table '2635115335 6' 9-max Seat #9 is the button
+Seat 1: BUT41 (2650 in chips) 
+Seat 2: sam-r86 (1180 in chips) 
+Seat 3: stephane lel (4980 in chips) 
+Seat 4: cologne404 (7760 in chips) 
+Seat 5: Spam86by (6665 in chips) is sitting out
+Seat 7: Taargeett (5520 in chips) 
+Seat 8: BraconeR26 (7045 in chips) 
+Seat 9: RUSSIANACIST (1260 in chips) is sitting out
+BUT41: posts the ante 25
+sam-r86: posts the ante 25
+stephane lel: posts the ante 25
+cologne404: posts the ante 25
+Spam86by: posts the ante 25
+Taargeett: posts the ante 25
+BraconeR26: posts the ante 25
+RUSSIANACIST: posts the ante 25
+BUT41: posts small blind 125
+sam-r86: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Taargeett [2h Kh]
+stephane lel: folds 
+cologne404: calls 250
+Spam86by: folds 
+Taargeett: folds 
+BraconeR26: folds 
+RUSSIANACIST: folds 
+BUT41: calls 125
+sam-r86: checks 
+*** FLOP *** [7c 8d 5h]
+BUT41: bets 2375 and is all-in
+sam-r86: folds 
+cologne404: folds 
+Uncalled bet (2375) returned to BUT41
+BUT41 collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Board [7c 8d 5h]
+Seat 1: BUT41 (small blind) collected (950)
+Seat 2: sam-r86 (big blind) folded on the Flop
+Seat 3: stephane lel folded before Flop (didn't bet)
+Seat 4: cologne404 folded on the Flop
+Seat 5: Spam86by folded before Flop (didn't bet)
+Seat 7: Taargeett folded before Flop (didn't bet)
+Seat 8: BraconeR26 folded before Flop (didn't bet)
+Seat 9: RUSSIANACIST (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201630993676: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level XI (125/250) - 2019/06/22 12:04:27 ET
+Table '2635115335 6' 9-max Seat #1 is the button
+Seat 1: BUT41 (3325 in chips) 
+Seat 2: sam-r86 (905 in chips) 
+Seat 3: stephane lel (4955 in chips) 
+Seat 4: cologne404 (7485 in chips) 
+Seat 5: Spam86by (6640 in chips) is sitting out
+Seat 7: Taargeett (5495 in chips) 
+Seat 8: BraconeR26 (7020 in chips) 
+Seat 9: RUSSIANACIST (1235 in chips) is sitting out
+BUT41: posts the ante 25
+sam-r86: posts the ante 25
+stephane lel: posts the ante 25
+cologne404: posts the ante 25
+Spam86by: posts the ante 25
+Taargeett: posts the ante 25
+BraconeR26: posts the ante 25
+RUSSIANACIST: posts the ante 25
+sam-r86: posts small blind 125
+stephane lel: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Taargeett [6d 6h]
+cologne404: calls 250
+Spam86by: folds 
+Taargeett: calls 250
+BraconeR26: folds 
+RUSSIANACIST: folds 
+BUT41: folds 
+sam-r86: folds 
+stephane lel: raises 4680 to 4930 and is all-in
+cologne404: folds 
+Taargeett: folds 
+Uncalled bet (4680) returned to stephane lel
+stephane lel collected 1075 from pot
+stephane lel: doesn't show hand 
+*** SUMMARY ***
+Total pot 1075 | Rake 0 
+Seat 1: BUT41 (button) folded before Flop (didn't bet)
+Seat 2: sam-r86 (small blind) folded before Flop
+Seat 3: stephane lel (big blind) collected (1075)
+Seat 4: cologne404 folded before Flop
+Seat 5: Spam86by folded before Flop (didn't bet)
+Seat 7: Taargeett folded before Flop
+Seat 8: BraconeR26 folded before Flop (didn't bet)
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201631006563: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level XI (125/250) - 2019/06/22 12:04:55 ET
+Table '2635115335 6' 9-max Seat #2 is the button
+Seat 1: BUT41 (3300 in chips) 
+Seat 2: sam-r86 (755 in chips) 
+Seat 3: stephane lel (5755 in chips) 
+Seat 4: cologne404 (7210 in chips) 
+Seat 5: Spam86by (6615 in chips) is sitting out
+Seat 7: Taargeett (5220 in chips) 
+Seat 8: BraconeR26 (6995 in chips) 
+Seat 9: RUSSIANACIST (1210 in chips) is sitting out
+BUT41: posts the ante 25
+sam-r86: posts the ante 25
+stephane lel: posts the ante 25
+cologne404: posts the ante 25
+Spam86by: posts the ante 25
+Taargeett: posts the ante 25
+BraconeR26: posts the ante 25
+RUSSIANACIST: posts the ante 25
+stephane lel: posts small blind 125
+cologne404: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Taargeett [Ad 5d]
+Spam86by: folds 
+Taargeett: folds 
+BraconeR26: raises 500 to 750
+RUSSIANACIST: folds 
+BUT41: folds 
+sam-r86: folds 
+stephane lel: folds 
+cologne404: calls 500
+*** FLOP *** [9s 2c Ts]
+cologne404: checks 
+BraconeR26: bets 750
+cologne404: folds 
+Uncalled bet (750) returned to BraconeR26
+BraconeR26 collected 1825 from pot
+BraconeR26: doesn't show hand 
+*** SUMMARY ***
+Total pot 1825 | Rake 0 
+Board [9s 2c Ts]
+Seat 1: BUT41 folded before Flop (didn't bet)
+Seat 2: sam-r86 (button) folded before Flop (didn't bet)
+Seat 3: stephane lel (small blind) folded before Flop
+Seat 4: cologne404 (big blind) folded on the Flop
+Seat 5: Spam86by folded before Flop (didn't bet)
+Seat 7: Taargeett folded before Flop (didn't bet)
+Seat 8: BraconeR26 collected (1825)
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201631028764: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level XI (125/250) - 2019/06/22 12:05:43 ET
+Table '2635115335 6' 9-max Seat #3 is the button
+Seat 1: BUT41 (3275 in chips) 
+Seat 2: sam-r86 (730 in chips) 
+Seat 3: stephane lel (5605 in chips) 
+Seat 4: cologne404 (6435 in chips) 
+Seat 5: Spam86by (6590 in chips) is sitting out
+Seat 6: lkfbr101 (21417 in chips) 
+Seat 7: Taargeett (5195 in chips) 
+Seat 8: BraconeR26 (8045 in chips) 
+Seat 9: RUSSIANACIST (1185 in chips) is sitting out
+BUT41: posts the ante 25
+sam-r86: posts the ante 25
+stephane lel: posts the ante 25
+cologne404: posts the ante 25
+Spam86by: posts the ante 25
+lkfbr101: posts the ante 25
+Taargeett: posts the ante 25
+BraconeR26: posts the ante 25
+RUSSIANACIST: posts the ante 25
+cologne404: posts small blind 125
+Spam86by: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Taargeett [7h 8s]
+lkfbr101: calls 250
+Taargeett: folds 
+BraconeR26: folds 
+RUSSIANACIST: folds 
+BUT41: folds 
+sam-r86: folds 
+stephane lel: folds 
+cologne404: calls 125
+Spam86by: folds 
+*** FLOP *** [Tc 8c 6h]
+cologne404: bets 250
+lkfbr101: raises 20892 to 21142 and is all-in
+cologne404: folds [6c]
+Uncalled bet (20892) returned to lkfbr101
+lkfbr101 collected 1475 from pot
+*** SUMMARY ***
+Total pot 1475 | Rake 0 
+Board [Tc 8c 6h]
+Seat 1: BUT41 folded before Flop (didn't bet)
+Seat 2: sam-r86 folded before Flop (didn't bet)
+Seat 3: stephane lel (button) folded before Flop (didn't bet)
+Seat 4: cologne404 (small blind) folded on the Flop
+Seat 5: Spam86by (big blind) folded before Flop
+Seat 6: lkfbr101 collected (1475)
+Seat 7: Taargeett folded before Flop (didn't bet)
+Seat 8: BraconeR26 folded before Flop (didn't bet)
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201631043002: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level XI (125/250) - 2019/06/22 12:06:14 ET
+Table '2635115335 6' 9-max Seat #4 is the button
+Seat 1: BUT41 (3250 in chips) 
+Seat 2: sam-r86 (705 in chips) 
+Seat 3: stephane lel (5580 in chips) 
+Seat 4: cologne404 (5910 in chips) 
+Seat 5: Spam86by (6315 in chips) is sitting out
+Seat 6: lkfbr101 (22367 in chips) 
+Seat 7: Taargeett (5170 in chips) 
+Seat 8: BraconeR26 (8020 in chips) 
+Seat 9: RUSSIANACIST (1160 in chips) is sitting out
+BUT41: posts the ante 25
+sam-r86: posts the ante 25
+stephane lel: posts the ante 25
+cologne404: posts the ante 25
+Spam86by: posts the ante 25
+lkfbr101: posts the ante 25
+Taargeett: posts the ante 25
+BraconeR26: posts the ante 25
+RUSSIANACIST: posts the ante 25
+Spam86by: posts small blind 125
+lkfbr101: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Taargeett [6d 9h]
+Taargeett: folds 
+BraconeR26: folds 
+RUSSIANACIST: folds 
+BUT41: folds 
+sam-r86: folds 
+Spam86by has returned
+stephane lel: folds 
+cologne404: calls 250
+Spam86by: calls 125
+lkfbr101: checks 
+*** FLOP *** [5s 9d Qh]
+Spam86by: bets 250
+lkfbr101: folds 
+cologne404: folds 
+Uncalled bet (250) returned to Spam86by
+Spam86by collected 975 from pot
+Spam86by: doesn't show hand 
+*** SUMMARY ***
+Total pot 975 | Rake 0 
+Board [5s 9d Qh]
+Seat 1: BUT41 folded before Flop (didn't bet)
+Seat 2: sam-r86 folded before Flop (didn't bet)
+Seat 3: stephane lel folded before Flop (didn't bet)
+Seat 4: cologne404 (button) folded on the Flop
+Seat 5: Spam86by (small blind) collected (975)
+Seat 6: lkfbr101 (big blind) folded on the Flop
+Seat 7: Taargeett folded before Flop (didn't bet)
+Seat 8: BraconeR26 folded before Flop (didn't bet)
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201631061455: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level XII (150/300) - 2019/06/22 12:06:53 ET
+Table '2635115335 6' 9-max Seat #5 is the button
+Seat 1: BUT41 (3225 in chips) 
+Seat 2: sam-r86 (680 in chips) 
+Seat 3: stephane lel (5555 in chips) 
+Seat 4: cologne404 (5635 in chips) 
+Seat 5: Spam86by (7015 in chips) 
+Seat 6: lkfbr101 (22092 in chips) 
+Seat 7: Taargeett (5145 in chips) 
+Seat 8: BraconeR26 (7995 in chips) 
+Seat 9: RUSSIANACIST (1135 in chips) is sitting out
+BUT41: posts the ante 30
+sam-r86: posts the ante 30
+stephane lel: posts the ante 30
+cologne404: posts the ante 30
+Spam86by: posts the ante 30
+lkfbr101: posts the ante 30
+Taargeett: posts the ante 30
+BraconeR26: posts the ante 30
+RUSSIANACIST: posts the ante 30
+lkfbr101: posts small blind 150
+Taargeett: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Taargeett [Ts Ah]
+BraconeR26: folds 
+RUSSIANACIST: folds 
+BUT41: folds 
+sam-r86: raises 350 to 650 and is all-in
+stephane lel: folds 
+cologne404: folds 
+Spam86by: folds 
+lkfbr101: folds 
+Taargeett: calls 350
+*** FLOP *** [Jh Jd 9s]
+*** TURN *** [Jh Jd 9s] [3s]
+*** RIVER *** [Jh Jd 9s 3s] [Js]
+*** SHOW DOWN ***
+Taargeett: shows [Ts Ah] (three of a kind, Jacks)
+sam-r86: shows [6s 6h] (a full house, Jacks full of Sixes)
+sam-r86 collected 1720 from pot
+*** SUMMARY ***
+Total pot 1720 | Rake 0 
+Board [Jh Jd 9s 3s Js]
+Seat 1: BUT41 folded before Flop (didn't bet)
+Seat 2: sam-r86 showed [6s 6h] and won (1720) with a full house, Jacks full of Sixes
+Seat 3: stephane lel folded before Flop (didn't bet)
+Seat 4: cologne404 folded before Flop (didn't bet)
+Seat 5: Spam86by (button) folded before Flop (didn't bet)
+Seat 6: lkfbr101 (small blind) folded before Flop
+Seat 7: Taargeett (big blind) showed [Ts Ah] and lost with three of a kind, Jacks
+Seat 8: BraconeR26 folded before Flop (didn't bet)
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201631075045: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level XII (150/300) - 2019/06/22 12:07:23 ET
+Table '2635115335 6' 9-max Seat #6 is the button
+Seat 1: BUT41 (3195 in chips) 
+Seat 2: sam-r86 (1720 in chips) 
+Seat 3: stephane lel (5525 in chips) 
+Seat 4: cologne404 (5605 in chips) 
+Seat 5: Spam86by (6985 in chips) 
+Seat 6: lkfbr101 (21912 in chips) 
+Seat 7: Taargeett (4465 in chips) 
+Seat 8: BraconeR26 (7965 in chips) 
+Seat 9: RUSSIANACIST (1105 in chips) is sitting out
+BUT41: posts the ante 30
+sam-r86: posts the ante 30
+stephane lel: posts the ante 30
+cologne404: posts the ante 30
+Spam86by: posts the ante 30
+lkfbr101: posts the ante 30
+Taargeett: posts the ante 30
+BraconeR26: posts the ante 30
+RUSSIANACIST: posts the ante 30
+Taargeett: posts small blind 150
+BraconeR26: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Taargeett [7c 9s]
+RUSSIANACIST: folds 
+BUT41: calls 300
+sam-r86: folds 
+stephane lel: folds 
+cologne404: calls 300
+Spam86by: raises 6655 to 6955 and is all-in
+lkfbr101: calls 6955
+Taargeett: folds 
+BraconeR26: folds 
+BUT41: folds 
+cologne404: folds 
+*** FLOP *** [2c 7h Td]
+*** TURN *** [2c 7h Td] [6h]
+*** RIVER *** [2c 7h Td 6h] [Js]
+*** SHOW DOWN ***
+Spam86by: shows [9h Th] (a pair of Tens)
+lkfbr101: shows [Ts Ac] (a pair of Tens - Ace kicker)
+lkfbr101 collected 15230 from pot
+Spam86by finished the tournament in 113th place
+*** SUMMARY ***
+Total pot 15230 | Rake 0 
+Board [2c 7h Td 6h Js]
+Seat 1: BUT41 folded before Flop
+Seat 2: sam-r86 folded before Flop (didn't bet)
+Seat 3: stephane lel folded before Flop (didn't bet)
+Seat 4: cologne404 folded before Flop
+Seat 5: Spam86by showed [9h Th] and lost with a pair of Tens
+Seat 6: lkfbr101 (button) showed [Ts Ac] and won (15230) with a pair of Tens
+Seat 7: Taargeett (small blind) folded before Flop
+Seat 8: BraconeR26 (big blind) folded before Flop
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201631092439: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level XII (150/300) - 2019/06/22 12:08:00 ET
+Table '2635115335 6' 9-max Seat #7 is the button
+Seat 1: BUT41 (2865 in chips) 
+Seat 2: sam-r86 (1690 in chips) 
+Seat 3: stephane lel (5495 in chips) 
+Seat 4: cologne404 (5275 in chips) 
+Seat 6: lkfbr101 (30157 in chips) 
+Seat 7: Taargeett (4285 in chips) 
+Seat 8: BraconeR26 (7635 in chips) 
+Seat 9: RUSSIANACIST (1075 in chips) is sitting out
+BUT41: posts the ante 30
+sam-r86: posts the ante 30
+stephane lel: posts the ante 30
+cologne404: posts the ante 30
+lkfbr101: posts the ante 30
+Taargeett: posts the ante 30
+BraconeR26: posts the ante 30
+RUSSIANACIST: posts the ante 30
+BraconeR26: posts small blind 150
+RUSSIANACIST: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Taargeett [4h 7c]
+BUT41: calls 300
+sam-r86: folds 
+stephane lel: folds 
+cologne404: folds 
+lkfbr101: folds 
+Taargeett: folds 
+BraconeR26: folds 
+RUSSIANACIST: folds 
+BUT41 collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Seat 1: BUT41 collected (990)
+Seat 2: sam-r86 folded before Flop (didn't bet)
+Seat 3: stephane lel folded before Flop (didn't bet)
+Seat 4: cologne404 folded before Flop (didn't bet)
+Seat 6: lkfbr101 folded before Flop (didn't bet)
+Seat 7: Taargeett (button) folded before Flop (didn't bet)
+Seat 8: BraconeR26 (small blind) folded before Flop
+Seat 9: RUSSIANACIST (big blind) folded before Flop
+
+
+
+PokerStars Hand #201631115257: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level XII (150/300) - 2019/06/22 12:08:49 ET
+Table '2635115335 6' 9-max Seat #8 is the button
+Seat 1: BUT41 (3525 in chips) 
+Seat 2: sam-r86 (1660 in chips) 
+Seat 3: stephane lel (5465 in chips) 
+Seat 4: cologne404 (5245 in chips) 
+Seat 5: iikashmir (5210 in chips) 
+Seat 6: lkfbr101 (30127 in chips) 
+Seat 7: Taargeett (4255 in chips) 
+Seat 8: BraconeR26 (7455 in chips) 
+Seat 9: RUSSIANACIST (745 in chips) is sitting out
+BUT41: posts the ante 30
+sam-r86: posts the ante 30
+stephane lel: posts the ante 30
+cologne404: posts the ante 30
+iikashmir: posts the ante 30
+lkfbr101: posts the ante 30
+Taargeett: posts the ante 30
+BraconeR26: posts the ante 30
+RUSSIANACIST: posts the ante 30
+RUSSIANACIST: posts small blind 150
+BUT41: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Taargeett [Ts 5d]
+sam-r86: folds 
+stephane lel: folds 
+cologne404: folds 
+iikashmir: folds 
+lkfbr101: folds 
+Taargeett: folds 
+BraconeR26: raises 600 to 900
+RUSSIANACIST: folds 
+BUT41: folds 
+Uncalled bet (600) returned to BraconeR26
+BraconeR26 collected 1020 from pot
+BraconeR26: doesn't show hand 
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Seat 1: BUT41 (big blind) folded before Flop
+Seat 2: sam-r86 folded before Flop (didn't bet)
+Seat 3: stephane lel folded before Flop (didn't bet)
+Seat 4: cologne404 folded before Flop (didn't bet)
+Seat 5: iikashmir folded before Flop (didn't bet)
+Seat 6: lkfbr101 folded before Flop (didn't bet)
+Seat 7: Taargeett folded before Flop (didn't bet)
+Seat 8: BraconeR26 (button) collected (1020)
+Seat 9: RUSSIANACIST (small blind) folded before Flop
+
+
+
+PokerStars Hand #201631134084: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level XIII (200/400) - 2019/06/22 12:09:30 ET
+Table '2635115335 6' 9-max Seat #9 is the button
+Seat 1: BUT41 (3195 in chips) 
+Seat 2: sam-r86 (1630 in chips) 
+Seat 3: stephane lel (5435 in chips) 
+Seat 4: cologne404 (5215 in chips) 
+Seat 5: iikashmir (5180 in chips) 
+Seat 6: lkfbr101 (30097 in chips) 
+Seat 7: Taargeett (4225 in chips) 
+Seat 8: BraconeR26 (8145 in chips) 
+Seat 9: RUSSIANACIST (565 in chips) is sitting out
+BUT41: posts the ante 40
+sam-r86: posts the ante 40
+stephane lel: posts the ante 40
+cologne404: posts the ante 40
+iikashmir: posts the ante 40
+lkfbr101: posts the ante 40
+Taargeett: posts the ante 40
+BraconeR26: posts the ante 40
+RUSSIANACIST: posts the ante 40
+BUT41: posts small blind 200
+sam-r86: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Taargeett [8d Qh]
+stephane lel: calls 400
+cologne404: folds 
+iikashmir: folds 
+lkfbr101: calls 400
+Taargeett: folds 
+BraconeR26: folds 
+RUSSIANACIST: folds 
+BUT41: calls 200
+sam-r86: checks 
+*** FLOP *** [8s Qs Qc]
+BUT41: checks 
+sam-r86: checks 
+stephane lel: checks 
+lkfbr101: checks 
+*** TURN *** [8s Qs Qc] [5c]
+BUT41: checks 
+sam-r86: checks 
+stephane lel: checks 
+lkfbr101: checks 
+*** RIVER *** [8s Qs Qc 5c] [4c]
+BUT41: bets 400
+sam-r86: folds 
+stephane lel: calls 400
+lkfbr101: folds 
+*** SHOW DOWN ***
+BUT41: shows [Qd Kh] (three of a kind, Queens)
+stephane lel: shows [9c Tc] (a flush, Queen high)
+stephane lel collected 2760 from pot
+*** SUMMARY ***
+Total pot 2760 | Rake 0 
+Board [8s Qs Qc 5c 4c]
+Seat 1: BUT41 (small blind) showed [Qd Kh] and lost with three of a kind, Queens
+Seat 2: sam-r86 (big blind) folded on the River
+Seat 3: stephane lel showed [9c Tc] and won (2760) with a flush, Queen high
+Seat 4: cologne404 folded before Flop (didn't bet)
+Seat 5: iikashmir folded before Flop (didn't bet)
+Seat 6: lkfbr101 folded on the River
+Seat 7: Taargeett folded before Flop (didn't bet)
+Seat 8: BraconeR26 folded before Flop (didn't bet)
+Seat 9: RUSSIANACIST (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201631163593: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level XIII (200/400) - 2019/06/22 12:10:34 ET
+Table '2635115335 6' 9-max Seat #1 is the button
+Seat 1: BUT41 (2355 in chips) 
+Seat 2: sam-r86 (1190 in chips) 
+Seat 3: stephane lel (7355 in chips) 
+Seat 5: iikashmir (5140 in chips) 
+Seat 6: lkfbr101 (29657 in chips) 
+Seat 7: Taargeett (4185 in chips) 
+Seat 8: BraconeR26 (8105 in chips) 
+Seat 9: RUSSIANACIST (525 in chips) is sitting out
+BUT41: posts the ante 40
+sam-r86: posts the ante 40
+stephane lel: posts the ante 40
+iikashmir: posts the ante 40
+lkfbr101: posts the ante 40
+Taargeett: posts the ante 40
+BraconeR26: posts the ante 40
+RUSSIANACIST: posts the ante 40
+sam-r86: posts small blind 200
+stephane lel: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Taargeett [Qc 4d]
+iikashmir: folds 
+lkfbr101: calls 400
+Taargeett: folds 
+BraconeR26: folds 
+RUSSIANACIST: folds 
+BUT41: folds 
+sam-r86: folds 
+stephane lel: checks 
+*** FLOP *** [Tc 3d 5s]
+stephane lel: checks 
+lkfbr101: checks 
+*** TURN *** [Tc 3d 5s] [9c]
+stephane lel: checks 
+lkfbr101: bets 400
+stephane lel: calls 400
+*** RIVER *** [Tc 3d 5s 9c] [Qd]
+stephane lel: checks 
+lkfbr101: bets 800
+stephane lel: folds 
+Uncalled bet (800) returned to lkfbr101
+lkfbr101 collected 2120 from pot
+*** SUMMARY ***
+Total pot 2120 | Rake 0 
+Board [Tc 3d 5s 9c Qd]
+Seat 1: BUT41 (button) folded before Flop (didn't bet)
+Seat 2: sam-r86 (small blind) folded before Flop
+Seat 3: stephane lel (big blind) folded on the River
+Seat 5: iikashmir folded before Flop (didn't bet)
+Seat 6: lkfbr101 collected (2120)
+Seat 7: Taargeett folded before Flop (didn't bet)
+Seat 8: BraconeR26 folded before Flop (didn't bet)
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201631189146: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level XIII (200/400) - 2019/06/22 12:11:30 ET
+Table '2635115335 6' 9-max Seat #2 is the button
+Seat 1: BUT41 (2315 in chips) 
+Seat 2: sam-r86 (950 in chips) 
+Seat 3: stephane lel (6515 in chips) 
+Seat 4: GoldenTerry777 (2675 in chips) 
+Seat 5: iikashmir (5100 in chips) 
+Seat 6: lkfbr101 (30937 in chips) 
+Seat 7: Taargeett (4145 in chips) 
+Seat 8: BraconeR26 (8065 in chips) 
+Seat 9: RUSSIANACIST (485 in chips) is sitting out
+BUT41: posts the ante 40
+sam-r86: posts the ante 40
+stephane lel: posts the ante 40
+GoldenTerry777: posts the ante 40
+iikashmir: posts the ante 40
+lkfbr101: posts the ante 40
+Taargeett: posts the ante 40
+BraconeR26: posts the ante 40
+RUSSIANACIST: posts the ante 40
+stephane lel: posts small blind 200
+GoldenTerry777: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Taargeett [6c 4s]
+iikashmir: folds 
+lkfbr101: calls 400
+Taargeett: folds 
+BraconeR26: folds 
+RUSSIANACIST: folds 
+BUT41: raises 1875 to 2275 and is all-in
+sam-r86: folds 
+stephane lel: folds 
+GoldenTerry777: folds 
+lkfbr101: calls 1875
+*** FLOP *** [8h 9s 4d]
+*** TURN *** [8h 9s 4d] [Ts]
+*** RIVER *** [8h 9s 4d Ts] [2d]
+*** SHOW DOWN ***
+lkfbr101: shows [8d Ac] (a pair of Eights)
+BUT41: shows [Kd Ks] (a pair of Kings)
+BUT41 collected 5510 from pot
+*** SUMMARY ***
+Total pot 5510 | Rake 0 
+Board [8h 9s 4d Ts 2d]
+Seat 1: BUT41 showed [Kd Ks] and won (5510) with a pair of Kings
+Seat 2: sam-r86 (button) folded before Flop (didn't bet)
+Seat 3: stephane lel (small blind) folded before Flop
+Seat 4: GoldenTerry777 (big blind) folded before Flop
+Seat 5: iikashmir folded before Flop (didn't bet)
+Seat 6: lkfbr101 showed [8d Ac] and lost with a pair of Eights
+Seat 7: Taargeett folded before Flop (didn't bet)
+Seat 8: BraconeR26 folded before Flop (didn't bet)
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201631201085: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level XIII (200/400) - 2019/06/22 12:11:56 ET
+Table '2635115335 6' 9-max Seat #3 is the button
+Seat 1: BUT41 (5510 in chips) 
+Seat 2: sam-r86 (910 in chips) 
+Seat 3: stephane lel (6275 in chips) 
+Seat 4: GoldenTerry777 (2235 in chips) 
+Seat 5: iikashmir (5060 in chips) 
+Seat 6: lkfbr101 (28622 in chips) 
+Seat 7: Taargeett (4105 in chips) 
+Seat 8: BraconeR26 (8025 in chips) 
+Seat 9: RUSSIANACIST (445 in chips) is sitting out
+BUT41: posts the ante 40
+sam-r86: posts the ante 40
+stephane lel: posts the ante 40
+GoldenTerry777: posts the ante 40
+iikashmir: posts the ante 40
+lkfbr101: posts the ante 40
+Taargeett: posts the ante 40
+BraconeR26: posts the ante 40
+RUSSIANACIST: posts the ante 40
+GoldenTerry777: posts small blind 200
+iikashmir: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Taargeett [Ah 7d]
+lkfbr101: calls 400
+Taargeett: raises 3665 to 4065 and is all-in
+BraconeR26: folds 
+RUSSIANACIST: folds 
+BUT41: folds 
+sam-r86: folds 
+stephane lel: folds 
+GoldenTerry777: folds 
+iikashmir: folds 
+lkfbr101: calls 3665
+*** FLOP *** [Ks 4d 2h]
+*** TURN *** [Ks 4d 2h] [9h]
+*** RIVER *** [Ks 4d 2h 9h] [7s]
+*** SHOW DOWN ***
+lkfbr101: shows [Qh Ts] (high card King)
+Taargeett: shows [Ah 7d] (a pair of Sevens)
+Taargeett collected 9090 from pot
+*** SUMMARY ***
+Total pot 9090 | Rake 0 
+Board [Ks 4d 2h 9h 7s]
+Seat 1: BUT41 folded before Flop (didn't bet)
+Seat 2: sam-r86 folded before Flop (didn't bet)
+Seat 3: stephane lel (button) folded before Flop (didn't bet)
+Seat 4: GoldenTerry777 (small blind) folded before Flop
+Seat 5: iikashmir (big blind) folded before Flop
+Seat 6: lkfbr101 showed [Qh Ts] and lost with high card King
+Seat 7: Taargeett showed [Ah 7d] and won (9090) with a pair of Sevens
+Seat 8: BraconeR26 folded before Flop (didn't bet)
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201631215734: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level XIV (250/500) - 2019/06/22 12:12:28 ET
+Table '2635115335 6' 9-max Seat #4 is the button
+Seat 1: BUT41 (5470 in chips) 
+Seat 2: sam-r86 (870 in chips) 
+Seat 3: stephane lel (6235 in chips) 
+Seat 4: GoldenTerry777 (1995 in chips) 
+Seat 5: iikashmir (4620 in chips) 
+Seat 6: lkfbr101 (24517 in chips) 
+Seat 7: Taargeett (9090 in chips) 
+Seat 8: BraconeR26 (7985 in chips) 
+Seat 9: RUSSIANACIST (405 in chips) is sitting out
+BUT41: posts the ante 50
+sam-r86: posts the ante 50
+stephane lel: posts the ante 50
+GoldenTerry777: posts the ante 50
+iikashmir: posts the ante 50
+lkfbr101: posts the ante 50
+Taargeett: posts the ante 50
+BraconeR26: posts the ante 50
+RUSSIANACIST: posts the ante 50
+iikashmir: posts small blind 250
+lkfbr101: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Taargeett [Ac 5h]
+Taargeett: folds 
+BraconeR26: folds 
+RUSSIANACIST: folds 
+BUT41: calls 500
+sam-r86: folds 
+stephane lel: folds 
+GoldenTerry777: folds 
+iikashmir: folds 
+lkfbr101: checks 
+*** FLOP *** [2d 6s Th]
+lkfbr101: checks 
+BUT41: checks 
+*** TURN *** [2d 6s Th] [7s]
+lkfbr101: bets 1700
+BUT41: calls 1700
+*** RIVER *** [2d 6s Th 7s] [2h]
+lkfbr101: bets 5100
+BUT41: calls 3220 and is all-in
+Uncalled bet (1880) returned to lkfbr101
+*** SHOW DOWN ***
+lkfbr101: shows [Td 6d] (two pair, Tens and Sixes)
+BUT41: shows [9h 9c] (two pair, Nines and Deuces)
+lkfbr101 collected 11540 from pot
+BUT41 finished the tournament in 89th place
+*** SUMMARY ***
+Total pot 11540 | Rake 0 
+Board [2d 6s Th 7s 2h]
+Seat 1: BUT41 showed [9h 9c] and lost with two pair, Nines and Deuces
+Seat 2: sam-r86 folded before Flop (didn't bet)
+Seat 3: stephane lel folded before Flop (didn't bet)
+Seat 4: GoldenTerry777 (button) folded before Flop (didn't bet)
+Seat 5: iikashmir (small blind) folded before Flop
+Seat 6: lkfbr101 (big blind) showed [Td 6d] and won (11540) with two pair, Tens and Sixes
+Seat 7: Taargeett folded before Flop (didn't bet)
+Seat 8: BraconeR26 folded before Flop (didn't bet)
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201631242557: Tournament #2635115335, $0.09+$0.01 USD Hold'em No Limit - Level XIV (250/500) - 2019/06/22 12:13:26 ET
+Table '2635115335 6' 9-max Seat #5 is the button
+Seat 2: sam-r86 (820 in chips) 
+Seat 3: stephane lel (6185 in chips) 
+Seat 4: GoldenTerry777 (1945 in chips) 
+Seat 5: iikashmir (4320 in chips) 
+Seat 6: lkfbr101 (30587 in chips) 
+Seat 7: Taargeett (9040 in chips) 
+Seat 8: BraconeR26 (7935 in chips) 
+Seat 9: RUSSIANACIST (355 in chips) is sitting out
+sam-r86: posts the ante 50
+stephane lel: posts the ante 50
+GoldenTerry777: posts the ante 50
+iikashmir: posts the ante 50
+lkfbr101: posts the ante 50
+Taargeett: posts the ante 50
+BraconeR26: posts the ante 50
+RUSSIANACIST: posts the ante 50
+lkfbr101: posts small blind 250
+Taargeett: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Taargeett [Js Jd]
+BraconeR26: folds 
+RUSSIANACIST: folds 
+sam-r86: folds 
+stephane lel: calls 500
+GoldenTerry777: calls 500
+iikashmir: folds 
+lkfbr101: calls 250
+Taargeett: raises 2500 to 3000
+stephane lel: folds 
+GoldenTerry777: calls 1395 and is all-in
+lkfbr101: calls 2500
+*** FLOP *** [Ad Qd 7c]
+lkfbr101: checks 
+Taargeett: bets 5990 and is all-in
+lkfbr101: calls 5990
+*** TURN *** [Ad Qd 7c] [5s]
+*** RIVER *** [Ad Qd 7c 5s] [As]
+*** SHOW DOWN ***
+lkfbr101: shows [Qc 8c] (two pair, Aces and Queens)
+Taargeett: shows [Js Jd] (two pair, Aces and Jacks)
+lkfbr101 collected 14190 from side pot
+GoldenTerry777: shows [Ah 6h] (three of a kind, Aces)
+GoldenTerry777 collected 6585 from main pot
+Taargeett finished the tournament in 84th place
+*** SUMMARY ***
+Total pot 20775 Main pot 6585. Side pot 14190. | Rake 0 
+Board [Ad Qd 7c 5s As]
+Seat 2: sam-r86 folded before Flop (didn't bet)
+Seat 3: stephane lel folded before Flop
+Seat 4: GoldenTerry777 showed [Ah 6h] and won (6585) with three of a kind, Aces
+Seat 5: iikashmir (button) folded before Flop (didn't bet)
+Seat 6: lkfbr101 (small blind) showed [Qc 8c] and won (14190) with two pair, Aces and Queens
+Seat 7: Taargeett (big blind) showed [Js Jd] and lost with two pair, Aces and Jacks
+Seat 8: BraconeR26 folded before Flop (didn't bet)
+Seat 9: RUSSIANACIST folded before Flop (didn't bet)
+
+
+

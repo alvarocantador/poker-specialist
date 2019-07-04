@@ -1,0 +1,900 @@
+﻿PokerStars Hand #201243855774: Tournament #2620370278, 8700+1300 Hold'em No Limit - Level I (10/20) - 2019/06/09 20:05:01 ET
+Table '2620370278 18' 9-max Seat #1 is the button
+Seat 1: katjelko1 (1500 in chips) 
+Seat 2: Taargeett (1500 in chips) 
+Seat 3: angelbolivi@ (1500 in chips) 
+Seat 4: mathgod4all (1500 in chips) 
+Seat 5: 77Lithium77 (1500 in chips) 
+Seat 6: christiansgz (1500 in chips) 
+Seat 7: Newfie1601 (1500 in chips) 
+Seat 8: trombaco (1500 in chips) 
+Seat 9: pokerman5869 (1500 in chips) 
+Taargeett: posts small blind 10
+angelbolivi@: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [Jd Ts]
+mathgod4all: folds 
+77Lithium77: folds 
+christiansgz: calls 20
+Newfie1601: calls 20
+trombaco: calls 20
+pokerman5869: folds 
+katjelko1: folds 
+Taargeett: raises 40 to 60
+angelbolivi@ has timed out
+angelbolivi@: folds 
+christiansgz: calls 40
+Newfie1601: calls 40
+trombaco: calls 40
+*** FLOP *** [3s Qc Qh]
+Taargeett: checks 
+christiansgz: bets 60
+Newfie1601: calls 60
+trombaco: calls 60
+Taargeett: folds 
+*** TURN *** [3s Qc Qh] [Ah]
+christiansgz: bets 180
+Newfie1601: calls 180
+trombaco: folds 
+*** RIVER *** [3s Qc Qh Ah] [Jc]
+christiansgz: bets 1200 and is all-in
+Newfie1601 has timed out
+Newfie1601: folds 
+Uncalled bet (1200) returned to christiansgz
+christiansgz collected 800 from pot
+christiansgz: doesn't show hand 
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [3s Qc Qh Ah Jc]
+Seat 1: katjelko1 (button) folded before Flop (didn't bet)
+Seat 2: Taargeett (small blind) folded on the Flop
+Seat 3: angelbolivi@ (big blind) folded before Flop
+Seat 4: mathgod4all folded before Flop (didn't bet)
+Seat 5: 77Lithium77 folded before Flop (didn't bet)
+Seat 6: christiansgz collected (800)
+Seat 7: Newfie1601 folded on the River
+Seat 8: trombaco folded on the Turn
+Seat 9: pokerman5869 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201243907235: Tournament #2620370278, 8700+1300 Hold'em No Limit - Level I (10/20) - 2019/06/09 20:07:17 ET
+Table '2620370278 18' 9-max Seat #2 is the button
+Seat 1: katjelko1 (1500 in chips) 
+Seat 2: Taargeett (1440 in chips) 
+Seat 3: angelbolivi@ (1480 in chips) 
+Seat 4: mathgod4all (1500 in chips) 
+Seat 5: 77Lithium77 (1500 in chips) 
+Seat 6: christiansgz (2000 in chips) 
+Seat 7: Newfie1601 (1200 in chips) is sitting out
+Seat 8: trombaco (1380 in chips) 
+Seat 9: pokerman5869 (1500 in chips) 
+angelbolivi@: posts small blind 10
+mathgod4all: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [Qc Th]
+Newfie1601 is disconnected 
+77Lithium77: folds 
+christiansgz: folds 
+Newfie1601: folds 
+trombaco: calls 20
+pokerman5869: folds 
+katjelko1: calls 20
+Taargeett: raises 40 to 60
+angelbolivi@: calls 50
+mathgod4all: folds 
+trombaco: calls 40
+katjelko1: calls 40
+*** FLOP *** [8s Ad 6h]
+angelbolivi@: bets 260
+trombaco: calls 260
+katjelko1: folds 
+Taargeett: folds 
+*** TURN *** [8s Ad 6h] [2s]
+angelbolivi@: bets 20
+trombaco: raises 410 to 430
+Newfie1601 is disconnected 
+angelbolivi@: raises 410 to 840
+trombaco: calls 410
+*** RIVER *** [8s Ad 6h 2s] [5h]
+angelbolivi@: bets 20
+trombaco: raises 200 to 220 and is all-in
+angelbolivi@: calls 200
+*** SHOW DOWN ***
+trombaco: shows [6c As] (two pair, Aces and Sixes)
+angelbolivi@: shows [Ah Td] (a pair of Aces)
+trombaco collected 2900 from pot
+*** SUMMARY ***
+Total pot 2900 | Rake 0 
+Board [8s Ad 6h 2s 5h]
+Seat 1: katjelko1 folded on the Flop
+Seat 2: Taargeett (button) folded on the Flop
+Seat 3: angelbolivi@ (small blind) showed [Ah Td] and lost with a pair of Aces
+Seat 4: mathgod4all (big blind) folded before Flop
+Seat 5: 77Lithium77 folded before Flop (didn't bet)
+Seat 6: christiansgz folded before Flop (didn't bet)
+Seat 7: Newfie1601 folded before Flop (didn't bet)
+Seat 8: trombaco showed [6c As] and won (2900) with two pair, Aces and Sixes
+Seat 9: pokerman5869 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201243939080: Tournament #2620370278, 8700+1300 Hold'em No Limit - Level I (10/20) - 2019/06/09 20:08:44 ET
+Table '2620370278 18' 9-max Seat #3 is the button
+Seat 1: katjelko1 (1440 in chips) 
+Seat 2: Taargeett (1380 in chips) 
+Seat 3: angelbolivi@ (100 in chips) 
+Seat 4: mathgod4all (1480 in chips) 
+Seat 6: christiansgz (2000 in chips) 
+Seat 7: Newfie1601 (1200 in chips) 
+Seat 8: trombaco (2900 in chips) 
+Seat 9: pokerman5869 (1500 in chips) 
+mathgod4all: posts small blind 10
+christiansgz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [Kd Td]
+Newfie1601 is connected 
+Newfie1601: calls 20
+trombaco: folds 
+pokerman5869: folds 
+katjelko1: folds 
+Taargeett: raises 60 to 80
+angelbolivi@: raises 20 to 100 and is all-in
+mathgod4all: folds 
+christiansgz: calls 80
+Newfie1601: calls 80
+Taargeett: calls 20
+*** FLOP *** [6d Ts As]
+christiansgz: checks 
+Newfie1601: checks 
+Taargeett: bets 40
+christiansgz: calls 40
+Newfie1601: calls 40
+*** TURN *** [6d Ts As] [Qc]
+christiansgz: checks 
+Newfie1601: checks 
+Taargeett: bets 530
+christiansgz: folds 
+Newfie1601: folds 
+Uncalled bet (530) returned to Taargeett
+*** RIVER *** [6d Ts As Qc] [4c]
+*** SHOW DOWN ***
+Taargeett: shows [Kd Td] (a pair of Tens)
+Taargeett collected 120 from side pot
+angelbolivi@: shows [2d 9d] (high card Ace)
+Taargeett collected 410 from main pot
+angelbolivi@ finished the tournament
+*** SUMMARY ***
+Total pot 530 Main pot 410. Side pot 120. | Rake 0 
+Board [6d Ts As Qc 4c]
+Seat 1: katjelko1 folded before Flop (didn't bet)
+Seat 2: Taargeett showed [Kd Td] and won (530) with a pair of Tens
+Seat 3: angelbolivi@ (button) showed [2d 9d] and lost with high card Ace
+Seat 4: mathgod4all (small blind) folded before Flop
+Seat 6: christiansgz (big blind) folded on the Turn
+Seat 7: Newfie1601 folded on the Turn
+Seat 8: trombaco folded before Flop (didn't bet)
+Seat 9: pokerman5869 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201243960711: Tournament #2620370278, 8700+1300 Hold'em No Limit - Level I (10/20) - 2019/06/09 20:09:43 ET
+Table '2620370278 18' 9-max Seat #4 is the button
+Seat 1: katjelko1 (1440 in chips) 
+Seat 2: Taargeett (1770 in chips) 
+Seat 4: mathgod4all (1470 in chips) 
+Seat 5: ArtsyB (1500 in chips) out of hand (moved from another table into small blind)
+Seat 6: christiansgz (1860 in chips) 
+Seat 7: Newfie1601 (1060 in chips) 
+Seat 8: trombaco (2900 in chips) 
+Seat 9: pokerman5869 (1500 in chips) 
+ArtsyB will be allowed to play after the button
+christiansgz: posts small blind 10
+Newfie1601: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [Qd 2d]
+trombaco: folds 
+pokerman5869: folds 
+katjelko1: folds 
+Taargeett: folds 
+mathgod4all: calls 20
+christiansgz: calls 10
+Newfie1601: checks 
+*** FLOP *** [Jc Js Qh]
+christiansgz: checks 
+Newfie1601: checks 
+mathgod4all: checks 
+*** TURN *** [Jc Js Qh] [Kd]
+christiansgz: checks 
+Newfie1601: checks 
+mathgod4all: checks 
+*** RIVER *** [Jc Js Qh Kd] [7d]
+christiansgz: checks 
+Newfie1601: bets 20
+mathgod4all: calls 20
+christiansgz: folds 
+*** SHOW DOWN ***
+Newfie1601: shows [2c 8c] (a pair of Jacks)
+mathgod4all: shows [6h Jh] (three of a kind, Jacks)
+mathgod4all collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [Jc Js Qh Kd 7d]
+Seat 1: katjelko1 folded before Flop (didn't bet)
+Seat 2: Taargeett folded before Flop (didn't bet)
+Seat 4: mathgod4all (button) showed [6h Jh] and won (100) with three of a kind, Jacks
+Seat 6: christiansgz (small blind) folded on the River
+Seat 7: Newfie1601 (big blind) showed [2c 8c] and lost with a pair of Jacks
+Seat 8: trombaco folded before Flop (didn't bet)
+Seat 9: pokerman5869 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201243980770: Tournament #2620370278, 8700+1300 Hold'em No Limit - Level II (15/30) - 2019/06/09 20:10:38 ET
+Table '2620370278 18' 9-max Seat #6 is the button
+Seat 1: katjelko1 (1440 in chips) 
+Seat 2: Taargeett (1770 in chips) 
+Seat 3: HOWIEH369 (1500 in chips) 
+Seat 4: mathgod4all (1530 in chips) 
+Seat 5: ArtsyB (1500 in chips) 
+Seat 6: christiansgz (1840 in chips) 
+Seat 7: Newfie1601 (1020 in chips) 
+Seat 9: pokerman5869 (1500 in chips) 
+Newfie1601: posts small blind 15
+pokerman5869: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [4h 7d]
+katjelko1: folds 
+Taargeett: folds 
+HOWIEH369: calls 30
+mathgod4all: calls 30
+ArtsyB: folds 
+christiansgz: folds 
+Newfie1601: calls 15
+pokerman5869: checks 
+*** FLOP *** [3s 3h 7c]
+Newfie1601: checks 
+pokerman5869: checks 
+HOWIEH369: checks 
+mathgod4all: bets 60
+Newfie1601: calls 60
+pokerman5869: folds 
+HOWIEH369: folds 
+*** TURN *** [3s 3h 7c] [Kh]
+Newfie1601: checks 
+mathgod4all: bets 90
+Newfie1601: folds 
+Uncalled bet (90) returned to mathgod4all
+mathgod4all collected 240 from pot
+mathgod4all: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Board [3s 3h 7c Kh]
+Seat 1: katjelko1 folded before Flop (didn't bet)
+Seat 2: Taargeett folded before Flop (didn't bet)
+Seat 3: HOWIEH369 folded on the Flop
+Seat 4: mathgod4all collected (240)
+Seat 5: ArtsyB folded before Flop (didn't bet)
+Seat 6: christiansgz (button) folded before Flop (didn't bet)
+Seat 7: Newfie1601 (small blind) folded on the Turn
+Seat 9: pokerman5869 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #201244006803: Tournament #2620370278, 8700+1300 Hold'em No Limit - Level II (15/30) - 2019/06/09 20:11:49 ET
+Table '2620370278 18' 9-max Seat #7 is the button
+Seat 1: katjelko1 (1440 in chips) 
+Seat 2: Taargeett (1770 in chips) 
+Seat 3: HOWIEH369 (1470 in chips) 
+Seat 4: mathgod4all (1680 in chips) 
+Seat 5: ArtsyB (1500 in chips) 
+Seat 6: christiansgz (1840 in chips) 
+Seat 7: Newfie1601 (930 in chips) 
+Seat 8: mnplayer14 (1500 in chips) out of hand (moved from another table into small blind)
+Seat 9: pokerman5869 (1470 in chips) 
+mnplayer14 will be allowed to play after the button
+pokerman5869: posts small blind 15
+katjelko1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [5c 7s]
+Taargeett: folds 
+HOWIEH369: raises 90 to 120
+mathgod4all: folds 
+ArtsyB: folds 
+christiansgz: calls 120
+Newfie1601: folds 
+pokerman5869: folds 
+katjelko1: calls 90
+*** FLOP *** [6c Kd 3h]
+katjelko1: checks 
+HOWIEH369: bets 188
+christiansgz: raises 188 to 376
+katjelko1: folds 
+HOWIEH369: folds 
+Uncalled bet (188) returned to christiansgz
+christiansgz collected 751 from pot
+christiansgz: doesn't show hand 
+*** SUMMARY ***
+Total pot 751 | Rake 0 
+Board [6c Kd 3h]
+Seat 1: katjelko1 (big blind) folded on the Flop
+Seat 2: Taargeett folded before Flop (didn't bet)
+Seat 3: HOWIEH369 folded on the Flop
+Seat 4: mathgod4all folded before Flop (didn't bet)
+Seat 5: ArtsyB folded before Flop (didn't bet)
+Seat 6: christiansgz collected (751)
+Seat 7: Newfie1601 (button) folded before Flop (didn't bet)
+Seat 9: pokerman5869 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201244029040: Tournament #2620370278, 8700+1300 Hold'em No Limit - Level II (15/30) - 2019/06/09 20:12:42 ET
+Table '2620370278 18' 9-max Seat #9 is the button
+Seat 1: katjelko1 (1320 in chips) 
+Seat 2: Taargeett (1770 in chips) 
+Seat 3: HOWIEH369 (1162 in chips) 
+Seat 4: mathgod4all (1680 in chips) 
+Seat 5: ArtsyB (1500 in chips) 
+Seat 6: christiansgz (2283 in chips) 
+Seat 7: Newfie1601 (930 in chips) 
+Seat 8: mnplayer14 (1500 in chips) 
+Seat 9: pokerman5869 (1455 in chips) 
+katjelko1: posts small blind 15
+Taargeett: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [Ac Js]
+HOWIEH369: calls 30
+mathgod4all: folds 
+ArtsyB: calls 30
+christiansgz: calls 30
+Newfie1601: folds 
+mnplayer14: folds 
+pokerman5869: folds 
+katjelko1: raises 90 to 120
+Taargeett: raises 90 to 210
+HOWIEH369: calls 180
+ArtsyB: folds 
+christiansgz: folds 
+katjelko1: calls 90
+*** FLOP *** [4h Qc 8s]
+katjelko1: checks 
+Taargeett: bets 210
+HOWIEH369: folds 
+katjelko1: calls 210
+*** TURN *** [4h Qc 8s] [7s]
+katjelko1: checks 
+Taargeett: bets 1110
+katjelko1: folds 
+Uncalled bet (1110) returned to Taargeett
+Taargeett collected 1110 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 1110 | Rake 0 
+Board [4h Qc 8s 7s]
+Seat 1: katjelko1 (small blind) folded on the Turn
+Seat 2: Taargeett (big blind) collected (1110)
+Seat 3: HOWIEH369 folded on the Flop
+Seat 4: mathgod4all folded before Flop (didn't bet)
+Seat 5: ArtsyB folded before Flop
+Seat 6: christiansgz folded before Flop
+Seat 7: Newfie1601 folded before Flop (didn't bet)
+Seat 8: mnplayer14 folded before Flop (didn't bet)
+Seat 9: pokerman5869 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201244055959: Tournament #2620370278, 8700+1300 Hold'em No Limit - Level II (15/30) - 2019/06/09 20:13:57 ET
+Table '2620370278 18' 9-max Seat #1 is the button
+Seat 1: katjelko1 (900 in chips) 
+Seat 2: Taargeett (2460 in chips) 
+Seat 3: HOWIEH369 (952 in chips) 
+Seat 4: mathgod4all (1680 in chips) 
+Seat 5: ArtsyB (1470 in chips) 
+Seat 6: christiansgz (2253 in chips) 
+Seat 7: Newfie1601 (930 in chips) 
+Seat 8: mnplayer14 (1500 in chips) 
+Seat 9: pokerman5869 (1455 in chips) 
+Taargeett: posts small blind 15
+HOWIEH369: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [Ts 8c]
+mathgod4all: folds 
+ArtsyB: folds 
+christiansgz: calls 30
+Newfie1601: calls 30
+mnplayer14: calls 30
+pokerman5869: folds 
+katjelko1: calls 30
+Taargeett: folds 
+HOWIEH369: checks 
+*** FLOP *** [4h 4d Js]
+HOWIEH369: checks 
+christiansgz: checks 
+Newfie1601: checks 
+mnplayer14: checks 
+katjelko1: checks 
+*** TURN *** [4h 4d Js] [Qc]
+HOWIEH369: checks 
+christiansgz: checks 
+Newfie1601: bets 30
+mnplayer14: folds 
+katjelko1: calls 30
+HOWIEH369: folds 
+christiansgz: folds 
+*** RIVER *** [4h 4d Js Qc] [Ah]
+Newfie1601: bets 30
+katjelko1: raises 90 to 120
+Newfie1601: raises 90 to 210
+katjelko1: raises 630 to 840 and is all-in
+Newfie1601: calls 630
+*** SHOW DOWN ***
+katjelko1: shows [Kd Td] (a straight, Ten to Ace)
+Newfie1601: shows [Qs Jc] (two pair, Queens and Jacks)
+katjelko1 collected 1905 from pot
+*** SUMMARY ***
+Total pot 1905 | Rake 0 
+Board [4h 4d Js Qc Ah]
+Seat 1: katjelko1 (button) showed [Kd Td] and won (1905) with a straight, Ten to Ace
+Seat 2: Taargeett (small blind) folded before Flop
+Seat 3: HOWIEH369 (big blind) folded on the Turn
+Seat 4: mathgod4all folded before Flop (didn't bet)
+Seat 5: ArtsyB folded before Flop (didn't bet)
+Seat 6: christiansgz folded on the Turn
+Seat 7: Newfie1601 showed [Qs Jc] and lost with two pair, Queens and Jacks
+Seat 8: mnplayer14 folded on the Turn
+Seat 9: pokerman5869 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201244091152: Tournament #2620370278, 8700+1300 Hold'em No Limit - Level III (25/50) - 2019/06/09 20:15:35 ET
+Table '2620370278 18' 9-max Seat #2 is the button
+Seat 1: katjelko1 (1905 in chips) 
+Seat 2: Taargeett (2445 in chips) 
+Seat 3: HOWIEH369 (922 in chips) 
+Seat 4: mathgod4all (1680 in chips) 
+Seat 5: ArtsyB (1470 in chips) 
+Seat 6: christiansgz (2223 in chips) 
+Seat 7: Newfie1601 (30 in chips) 
+Seat 8: mnplayer14 (1470 in chips) 
+Seat 9: pokerman5869 (1455 in chips) 
+HOWIEH369: posts small blind 25
+mathgod4all: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Taargeett [5d Td]
+ArtsyB: calls 50
+christiansgz: folds 
+Newfie1601: calls 30 and is all-in
+mnplayer14: raises 50 to 100
+pokerman5869: folds 
+katjelko1: calls 100
+Taargeett: folds 
+HOWIEH369: folds 
+mathgod4all: folds 
+ArtsyB: calls 50
+*** FLOP *** [8h Tc Qd]
+ArtsyB: checks 
+mnplayer14: bets 203
+katjelko1: folds 
+ArtsyB: calls 203
+*** TURN *** [8h Tc Qd] [As]
+ArtsyB: checks 
+mnplayer14: checks 
+*** RIVER *** [8h Tc Qd As] [Js]
+ArtsyB: bets 350
+mnplayer14: calls 350
+*** SHOW DOWN ***
+ArtsyB: shows [Jc Kc] (a straight, Ten to Ace)
+mnplayer14: mucks hand 
+ArtsyB collected 1336 from side pot
+Newfie1601: mucks hand 
+ArtsyB collected 175 from main pot
+Newfie1601 finished the tournament
+*** SUMMARY ***
+Total pot 1511 Main pot 175. Side pot 1336. | Rake 0 
+Board [8h Tc Qd As Js]
+Seat 1: katjelko1 folded on the Flop
+Seat 2: Taargeett (button) folded before Flop (didn't bet)
+Seat 3: HOWIEH369 (small blind) folded before Flop
+Seat 4: mathgod4all (big blind) folded before Flop
+Seat 5: ArtsyB showed [Jc Kc] and won (1511) with a straight, Ten to Ace
+Seat 6: christiansgz folded before Flop (didn't bet)
+Seat 7: Newfie1601 mucked [4d 4s]
+Seat 8: mnplayer14 mucked [9c 9s]
+Seat 9: pokerman5869 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201244112781: Tournament #2620370278, 8700+1300 Hold'em No Limit - Level III (25/50) - 2019/06/09 20:16:35 ET
+Table '2620370278 18' 9-max Seat #3 is the button
+Seat 1: katjelko1 (1805 in chips) 
+Seat 2: Taargeett (2445 in chips) 
+Seat 3: HOWIEH369 (897 in chips) 
+Seat 4: mathgod4all (1630 in chips) 
+Seat 5: ArtsyB (2328 in chips) 
+Seat 6: christiansgz (2223 in chips) 
+Seat 8: mnplayer14 (817 in chips) 
+Seat 9: pokerman5869 (1455 in chips) 
+mathgod4all: posts small blind 25
+ArtsyB: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Taargeett [9s 7c]
+christiansgz: raises 50 to 100
+mnplayer14: raises 717 to 817 and is all-in
+pokerman5869: folds 
+katjelko1: folds 
+Taargeett: folds 
+HOWIEH369: folds 
+mathgod4all: folds 
+ArtsyB: folds 
+christiansgz: calls 717
+*** FLOP *** [Qd Js Kc]
+*** TURN *** [Qd Js Kc] [Ts]
+*** RIVER *** [Qd Js Kc Ts] [Ac]
+*** SHOW DOWN ***
+christiansgz: shows [Td Tc] (a straight, Ten to Ace)
+mnplayer14: shows [Ad Kh] (a straight, Ten to Ace)
+christiansgz collected 855 from pot
+mnplayer14 collected 854 from pot
+*** SUMMARY ***
+Total pot 1709 | Rake 0 
+Board [Qd Js Kc Ts Ac]
+Seat 1: katjelko1 folded before Flop (didn't bet)
+Seat 2: Taargeett folded before Flop (didn't bet)
+Seat 3: HOWIEH369 (button) folded before Flop (didn't bet)
+Seat 4: mathgod4all (small blind) folded before Flop
+Seat 5: ArtsyB (big blind) folded before Flop
+Seat 6: christiansgz showed [Td Tc] and won (855) with a straight, Ten to Ace
+Seat 8: mnplayer14 showed [Ad Kh] and won (854) with a straight, Ten to Ace
+Seat 9: pokerman5869 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201244126856: Tournament #2620370278, 8700+1300 Hold'em No Limit - Level III (25/50) - 2019/06/09 20:17:15 ET
+Table '2620370278 18' 9-max Seat #4 is the button
+Seat 1: katjelko1 (1805 in chips) 
+Seat 2: Taargeett (2445 in chips) 
+Seat 3: HOWIEH369 (897 in chips) 
+Seat 4: mathgod4all (1605 in chips) 
+Seat 5: ArtsyB (2278 in chips) 
+Seat 6: christiansgz (2261 in chips) 
+Seat 7: freshcats (1500 in chips) 
+Seat 8: mnplayer14 (854 in chips) 
+Seat 9: pokerman5869 (1455 in chips) 
+ArtsyB: posts small blind 25
+christiansgz: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Taargeett [Ad 5s]
+freshcats: folds 
+mnplayer14: raises 804 to 854 and is all-in
+pokerman5869: calls 854
+katjelko1: folds 
+Taargeett: folds 
+HOWIEH369: folds 
+mathgod4all: folds 
+ArtsyB: calls 829
+christiansgz: folds 
+*** FLOP *** [Qs 4d 8d]
+ArtsyB: checks 
+pokerman5869: checks 
+*** TURN *** [Qs 4d 8d] [Ts]
+ArtsyB: checks 
+pokerman5869: checks 
+*** RIVER *** [Qs 4d 8d Ts] [2c]
+ArtsyB: checks 
+pokerman5869: checks 
+*** SHOW DOWN ***
+ArtsyB: shows [2h Ah] (a pair of Deuces)
+mnplayer14: shows [6c 6s] (a pair of Sixes)
+pokerman5869: shows [Jh Jd] (a pair of Jacks)
+pokerman5869 collected 2612 from pot
+mnplayer14 finished the tournament
+*** SUMMARY ***
+Total pot 2612 | Rake 0 
+Board [Qs 4d 8d Ts 2c]
+Seat 1: katjelko1 folded before Flop (didn't bet)
+Seat 2: Taargeett folded before Flop (didn't bet)
+Seat 3: HOWIEH369 folded before Flop (didn't bet)
+Seat 4: mathgod4all (button) folded before Flop (didn't bet)
+Seat 5: ArtsyB (small blind) showed [2h Ah] and lost with a pair of Deuces
+Seat 6: christiansgz (big blind) folded before Flop
+Seat 7: freshcats folded before Flop (didn't bet)
+Seat 8: mnplayer14 showed [6c 6s] and lost with a pair of Sixes
+Seat 9: pokerman5869 showed [Jh Jd] and won (2612) with a pair of Jacks
+
+
+
+PokerStars Hand #201244139665: Tournament #2620370278, 8700+1300 Hold'em No Limit - Level III (25/50) - 2019/06/09 20:17:52 ET
+Table '2620370278 18' 9-max Seat #5 is the button
+Seat 1: katjelko1 (1805 in chips) 
+Seat 2: Taargeett (2445 in chips) 
+Seat 3: HOWIEH369 (897 in chips) 
+Seat 4: mathgod4all (1605 in chips) 
+Seat 5: ArtsyB (1424 in chips) 
+Seat 6: christiansgz (2211 in chips) 
+Seat 7: freshcats (1500 in chips) 
+Seat 9: pokerman5869 (3213 in chips) 
+christiansgz: posts small blind 25
+freshcats: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Taargeett [3d 4d]
+pokerman5869: folds 
+katjelko1: folds 
+Taargeett: folds 
+HOWIEH369: folds 
+mathgod4all: calls 50
+ArtsyB: calls 50
+christiansgz: calls 25
+freshcats: raises 50 to 100
+mathgod4all: calls 50
+ArtsyB: calls 50
+christiansgz: calls 50
+*** FLOP *** [Ks 4s 5s]
+christiansgz: bets 150
+freshcats: folds 
+mathgod4all: calls 150
+ArtsyB: calls 150
+*** TURN *** [Ks 4s 5s] [6d]
+christiansgz: bets 300
+mathgod4all: calls 300
+ArtsyB: folds 
+*** RIVER *** [Ks 4s 5s 6d] [5d]
+christiansgz: checks 
+mathgod4all: checks 
+*** SHOW DOWN ***
+christiansgz: shows [2c Kh] (two pair, Kings and Fives)
+mathgod4all: mucks hand 
+christiansgz collected 1450 from pot
+*** SUMMARY ***
+Total pot 1450 | Rake 0 
+Board [Ks 4s 5s 6d 5d]
+Seat 1: katjelko1 folded before Flop (didn't bet)
+Seat 2: Taargeett folded before Flop (didn't bet)
+Seat 3: HOWIEH369 folded before Flop (didn't bet)
+Seat 4: mathgod4all mucked [Js Ac]
+Seat 5: ArtsyB (button) folded on the Turn
+Seat 6: christiansgz (small blind) showed [2c Kh] and won (1450) with two pair, Kings and Fives
+Seat 7: freshcats (big blind) folded on the Flop
+Seat 9: pokerman5869 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201244178367: Tournament #2620370278, 8700+1300 Hold'em No Limit - Level III (25/50) - 2019/06/09 20:19:42 ET
+Table '2620370278 18' 9-max Seat #6 is the button
+Seat 1: katjelko1 (1805 in chips) 
+Seat 2: Taargeett (2445 in chips) 
+Seat 3: HOWIEH369 (897 in chips) 
+Seat 4: mathgod4all (1055 in chips) 
+Seat 5: ArtsyB (1174 in chips) 
+Seat 6: christiansgz (3111 in chips) 
+Seat 7: freshcats (1400 in chips) 
+Seat 8: Satisverb (1500 in chips) 
+Seat 9: pokerman5869 (3213 in chips) 
+freshcats: posts small blind 25
+Satisverb: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Taargeett [3h 8c]
+pokerman5869: folds 
+katjelko1: calls 50
+Taargeett: folds 
+HOWIEH369: folds 
+mathgod4all: calls 50
+ArtsyB: folds 
+christiansgz: folds 
+freshcats: folds 
+Satisverb: checks 
+*** FLOP *** [4c 6h 2c]
+Satisverb: checks 
+katjelko1: checks 
+mathgod4all: checks 
+*** TURN *** [4c 6h 2c] [Qh]
+Satisverb: checks 
+katjelko1: bets 50
+mathgod4all: calls 50
+Satisverb: calls 50
+*** RIVER *** [4c 6h 2c Qh] [8h]
+Satisverb: checks 
+katjelko1: bets 50
+mathgod4all: raises 450 to 500
+Satisverb: folds 
+katjelko1: folds 
+Uncalled bet (450) returned to mathgod4all
+mathgod4all collected 425 from pot
+mathgod4all: doesn't show hand 
+*** SUMMARY ***
+Total pot 425 | Rake 0 
+Board [4c 6h 2c Qh 8h]
+Seat 1: katjelko1 folded on the River
+Seat 2: Taargeett folded before Flop (didn't bet)
+Seat 3: HOWIEH369 folded before Flop (didn't bet)
+Seat 4: mathgod4all collected (425)
+Seat 5: ArtsyB folded before Flop (didn't bet)
+Seat 6: christiansgz (button) folded before Flop (didn't bet)
+Seat 7: freshcats (small blind) folded before Flop
+Seat 8: Satisverb (big blind) folded on the River
+Seat 9: pokerman5869 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201244207367: Tournament #2620370278, 8700+1300 Hold'em No Limit - Level IV (50/100) - 2019/06/09 20:21:05 ET
+Table '2620370278 18' 9-max Seat #7 is the button
+Seat 1: katjelko1 (1655 in chips) 
+Seat 2: Taargeett (2445 in chips) 
+Seat 3: HOWIEH369 (897 in chips) 
+Seat 4: mathgod4all (1330 in chips) 
+Seat 5: ArtsyB (1174 in chips) 
+Seat 6: christiansgz (3111 in chips) 
+Seat 7: freshcats (1375 in chips) 
+Seat 8: Satisverb (1400 in chips) 
+Seat 9: pokerman5869 (3213 in chips) 
+Satisverb: posts small blind 50
+pokerman5869: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [4d 7d]
+katjelko1: calls 100
+Taargeett: folds 
+HOWIEH369: calls 100
+mathgod4all: folds 
+ArtsyB: calls 100
+christiansgz: calls 100
+pokerman5869 is disconnected 
+freshcats: folds 
+Satisverb: calls 50
+pokerman5869 is connected 
+pokerman5869: checks 
+*** FLOP *** [Jd Jc 7h]
+Satisverb: checks 
+pokerman5869: checks 
+katjelko1: checks 
+HOWIEH369: checks 
+ArtsyB: checks 
+christiansgz: checks 
+*** TURN *** [Jd Jc 7h] [6s]
+Satisverb: checks 
+pokerman5869: checks 
+katjelko1: checks 
+HOWIEH369: checks 
+ArtsyB: checks 
+christiansgz: checks 
+*** RIVER *** [Jd Jc 7h 6s] [6c]
+Satisverb: bets 100
+pokerman5869: raises 800 to 900
+katjelko1: folds 
+HOWIEH369: folds 
+ArtsyB: folds 
+christiansgz: folds 
+Satisverb: calls 800
+*** SHOW DOWN ***
+pokerman5869: shows [Js 4h] (a full house, Jacks full of Sixes)
+Satisverb: mucks hand 
+pokerman5869 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Board [Jd Jc 7h 6s 6c]
+Seat 1: katjelko1 folded on the River
+Seat 2: Taargeett folded before Flop (didn't bet)
+Seat 3: HOWIEH369 folded on the River
+Seat 4: mathgod4all folded before Flop (didn't bet)
+Seat 5: ArtsyB folded on the River
+Seat 6: christiansgz folded on the River
+Seat 7: freshcats (button) folded before Flop (didn't bet)
+Seat 8: Satisverb (small blind) mucked [6h 9c]
+Seat 9: pokerman5869 (big blind) showed [Js 4h] and won (2400) with a full house, Jacks full of Sixes
+
+
+
+PokerStars Hand #201244254258: Tournament #2620370278, 8700+1300 Hold'em No Limit - Level IV (50/100) - 2019/06/09 20:23:20 ET
+Table '2620370278 18' 9-max Seat #8 is the button
+Seat 1: katjelko1 (1555 in chips) 
+Seat 2: Taargeett (2445 in chips) 
+Seat 4: mathgod4all (1330 in chips) 
+Seat 5: ArtsyB (1074 in chips) 
+Seat 6: christiansgz (3011 in chips) 
+Seat 7: freshcats (1375 in chips) 
+Seat 8: Satisverb (400 in chips) 
+Seat 9: pokerman5869 (4613 in chips) 
+pokerman5869: posts small blind 50
+katjelko1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [9h 2d]
+Taargeett: folds 
+mathgod4all: folds 
+ArtsyB: calls 100
+christiansgz: folds 
+freshcats: calls 100
+Satisverb: calls 100
+pokerman5869: calls 50
+katjelko1: checks 
+*** FLOP *** [5h 7d As]
+pokerman5869: checks 
+katjelko1: checks 
+ArtsyB: bets 200
+freshcats: calls 200
+Satisverb: calls 200
+pokerman5869: folds 
+katjelko1: folds 
+*** TURN *** [5h 7d As] [Qc]
+ArtsyB: bets 500
+freshcats: raises 575 to 1075 and is all-in
+Satisverb: calls 100 and is all-in
+ArtsyB: folds 
+Uncalled bet (575) returned to freshcats
+*** RIVER *** [5h 7d As Qc] [3h]
+*** SHOW DOWN ***
+freshcats: shows [Kh Ac] (a pair of Aces)
+freshcats collected 800 from side pot
+Satisverb: shows [2s 3d] (a pair of Threes)
+freshcats collected 1400 from main pot
+Satisverb finished the tournament
+*** SUMMARY ***
+Total pot 2200 Main pot 1400. Side pot 800. | Rake 0 
+Board [5h 7d As Qc 3h]
+Seat 1: katjelko1 (big blind) folded on the Flop
+Seat 2: Taargeett folded before Flop (didn't bet)
+Seat 4: mathgod4all folded before Flop (didn't bet)
+Seat 5: ArtsyB folded on the Turn
+Seat 6: christiansgz folded before Flop (didn't bet)
+Seat 7: freshcats showed [Kh Ac] and won (2200) with a pair of Aces
+Seat 8: Satisverb (button) showed [2s 3d] and lost with a pair of Threes
+Seat 9: pokerman5869 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #201244275263: Tournament #2620370278, 8700+1300 Hold'em No Limit - Level IV (50/100) - 2019/06/09 20:24:20 ET
+Table '2620370278 18' 9-max Seat #9 is the button
+Seat 1: katjelko1 (1455 in chips) 
+Seat 2: Taargeett (2445 in chips) 
+Seat 3: kovalchyk10 (1500 in chips) 
+Seat 4: mathgod4all (1330 in chips) 
+Seat 5: ArtsyB (274 in chips) 
+Seat 6: christiansgz (3011 in chips) 
+Seat 7: freshcats (2775 in chips) 
+Seat 9: pokerman5869 (4513 in chips) 
+katjelko1: posts small blind 50
+Taargeett: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [5h Jc]
+kovalchyk10: calls 100
+mathgod4all: folds 
+ArtsyB: calls 100
+christiansgz: folds 
+freshcats: calls 100
+pokerman5869: calls 100
+katjelko1: calls 50
+Taargeett: checks 
+*** FLOP *** [Qh 7s Ad]
+katjelko1: checks 
+Taargeett: checks 
+kovalchyk10: checks 
+ArtsyB: checks 
+freshcats: bets 100
+pokerman5869: folds 
+katjelko1: folds 
+Taargeett: folds 
+kovalchyk10: calls 100
+ArtsyB: folds 
+*** TURN *** [Qh 7s Ad] [6s]
+kovalchyk10: checks 
+freshcats: bets 100
+kovalchyk10: calls 100
+*** RIVER *** [Qh 7s Ad 6s] [Kd]
+kovalchyk10: checks 
+freshcats: bets 100
+kovalchyk10: calls 100
+*** SHOW DOWN ***
+freshcats: shows [7c Ah] (two pair, Aces and Sevens)
+kovalchyk10: mucks hand 
+freshcats collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [Qh 7s Ad 6s Kd]
+Seat 1: katjelko1 (small blind) folded on the Flop
+Seat 2: Taargeett (big blind) folded on the Flop
+Seat 3: kovalchyk10 mucked [3h 6h]
+Seat 4: mathgod4all folded before Flop (didn't bet)
+Seat 5: ArtsyB folded on the Flop
+Seat 6: christiansgz folded before Flop (didn't bet)
+Seat 7: freshcats showed [7c Ah] and won (1200) with two pair, Aces and Sevens
+Seat 9: pokerman5869 (button) folded on the Flop
+
+
+

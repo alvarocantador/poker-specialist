@@ -1,0 +1,527 @@
+﻿PokerStars Hand #201616717593: Tournament #2634833788, 17000+3000 Hold'em No Limit - Level I (10/20) - 2019/06/21 22:12:17 ET
+Table '2634833788 4' 9-max Seat #1 is the button
+Seat 1: Pao Branco11 (1500 in chips) is sitting out
+Seat 2: EmmaLei (1500 in chips) 
+Seat 3: Papabear5206 (1500 in chips) 
+Seat 4: Taargeett (1500 in chips) is sitting out
+Seat 5: 1978newbie (1500 in chips) 
+Seat 6: 8275960 (1500 in chips) is sitting out
+Seat 7: WILDMAN395P (1500 in chips) 
+Seat 8: aleperni (1500 in chips) is sitting out
+Seat 9: LombardJohn (1500 in chips) 
+EmmaLei: posts small blind 10
+Papabear5206: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [8d 3d]
+Taargeett: folds 
+1978newbie: folds 
+8275960: calls 20
+WILDMAN395P: folds 
+aleperni: calls 20
+LombardJohn: folds 
+Pao Branco11: folds 
+EmmaLei: calls 10
+Papabear5206 has timed out
+Papabear5206: checks 
+*** FLOP *** [6c Jd Ks]
+EmmaLei: checks 
+Papabear5206 has timed out
+Papabear5206: checks 
+8275960: checks 
+aleperni: bets 120
+EmmaLei: folds 
+Papabear5206 has timed out
+Papabear5206: folds 
+8275960: folds 
+Uncalled bet (120) returned to aleperni
+aleperni collected 80 from pot
+aleperni: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6c Jd Ks]
+Seat 1: Pao Branco11 (button) folded before Flop (didn't bet)
+Seat 2: EmmaLei (small blind) folded on the Flop
+Seat 3: Papabear5206 (big blind) folded on the Flop
+Seat 4: Taargeett folded before Flop (didn't bet)
+Seat 5: 1978newbie folded before Flop (didn't bet)
+Seat 6: 8275960 folded on the Flop
+Seat 7: WILDMAN395P folded before Flop (didn't bet)
+Seat 8: aleperni collected (80)
+Seat 9: LombardJohn folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201616745487: Tournament #2634833788, 17000+3000 Hold'em No Limit - Level I (10/20) - 2019/06/21 22:14:01 ET
+Table '2634833788 4' 9-max Seat #2 is the button
+Seat 1: Pao Branco11 (1500 in chips) is sitting out
+Seat 2: EmmaLei (1480 in chips) 
+Seat 3: Papabear5206 (1480 in chips) is sitting out
+Seat 4: Taargeett (1500 in chips) 
+Seat 5: 1978newbie (1500 in chips) 
+Seat 6: 8275960 (1480 in chips) 
+Seat 7: WILDMAN395P (1500 in chips) 
+Seat 8: aleperni (1560 in chips) 
+Seat 9: LombardJohn (1500 in chips) 
+Papabear5206: posts small blind 10
+Taargeett: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [Kd 9s]
+1978newbie: calls 20
+8275960: calls 20
+WILDMAN395P: folds 
+aleperni: folds 
+LombardJohn: calls 20
+Pao Branco11: folds 
+EmmaLei: calls 20
+Papabear5206: folds 
+Taargeett: checks 
+*** FLOP *** [Jd Jh 5c]
+Taargeett: checks 
+1978newbie: checks 
+8275960: checks 
+LombardJohn: bets 20
+EmmaLei: folds 
+Taargeett: folds 
+1978newbie: folds 
+8275960: folds 
+Uncalled bet (20) returned to LombardJohn
+LombardJohn collected 110 from pot
+LombardJohn: doesn't show hand 
+*** SUMMARY ***
+Total pot 110 | Rake 0 
+Board [Jd Jh 5c]
+Seat 1: Pao Branco11 folded before Flop (didn't bet)
+Seat 2: EmmaLei (button) folded on the Flop
+Seat 3: Papabear5206 (small blind) folded before Flop
+Seat 4: Taargeett (big blind) folded on the Flop
+Seat 5: 1978newbie folded on the Flop
+Seat 6: 8275960 folded on the Flop
+Seat 7: WILDMAN395P folded before Flop (didn't bet)
+Seat 8: aleperni folded before Flop (didn't bet)
+Seat 9: LombardJohn collected (110)
+
+
+
+PokerStars Hand #201616759346: Tournament #2634833788, 17000+3000 Hold'em No Limit - Level I (10/20) - 2019/06/21 22:14:53 ET
+Table '2634833788 4' 9-max Seat #3 is the button
+Seat 1: Pao Branco11 (1500 in chips) 
+Seat 2: EmmaLei (1460 in chips) 
+Seat 3: Papabear5206 (1470 in chips) is sitting out
+Seat 4: Taargeett (1480 in chips) 
+Seat 5: 1978newbie (1480 in chips) 
+Seat 6: 8275960 (1460 in chips) 
+Seat 7: WILDMAN395P (1500 in chips) 
+Seat 8: aleperni (1560 in chips) 
+Seat 9: LombardJohn (1590 in chips) 
+Taargeett: posts small blind 10
+1978newbie: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [Ah 9s]
+8275960: calls 20
+WILDMAN395P: folds 
+aleperni: folds 
+LombardJohn: calls 20
+Pao Branco11: folds 
+EmmaLei: calls 20
+Papabear5206: folds 
+Taargeett: folds 
+1978newbie: checks 
+*** FLOP *** [4s 8d Td]
+1978newbie: checks 
+8275960: checks 
+LombardJohn: checks 
+EmmaLei: checks 
+*** TURN *** [4s 8d Td] [8h]
+1978newbie: checks 
+8275960: checks 
+LombardJohn: checks 
+EmmaLei: checks 
+*** RIVER *** [4s 8d Td 8h] [Js]
+1978newbie: checks 
+8275960: checks 
+LombardJohn: bets 90
+EmmaLei: calls 90
+1978newbie: folds 
+8275960: folds 
+*** SHOW DOWN ***
+LombardJohn: shows [2c Jh] (two pair, Jacks and Eights)
+EmmaLei: shows [7c Jc] (two pair, Jacks and Eights)
+LombardJohn collected 135 from pot
+EmmaLei collected 135 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [4s 8d Td 8h Js]
+Seat 1: Pao Branco11 folded before Flop (didn't bet)
+Seat 2: EmmaLei showed [7c Jc] and won (135) with two pair, Jacks and Eights
+Seat 3: Papabear5206 (button) folded before Flop (didn't bet)
+Seat 4: Taargeett (small blind) folded before Flop
+Seat 5: 1978newbie (big blind) folded on the River
+Seat 6: 8275960 folded on the River
+Seat 7: WILDMAN395P folded before Flop (didn't bet)
+Seat 8: aleperni folded before Flop (didn't bet)
+Seat 9: LombardJohn showed [2c Jh] and won (135) with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #201616780449: Tournament #2634833788, 17000+3000 Hold'em No Limit - Level I (10/20) - 2019/06/21 22:16:11 ET
+Table '2634833788 4' 9-max Seat #4 is the button
+Seat 1: Pao Branco11 (1500 in chips) 
+Seat 2: EmmaLei (1485 in chips) 
+Seat 3: Papabear5206 (1470 in chips) 
+Seat 4: Taargeett (1470 in chips) 
+Seat 5: 1978newbie (1460 in chips) 
+Seat 6: 8275960 (1440 in chips) 
+Seat 7: WILDMAN395P (1500 in chips) 
+Seat 8: aleperni (1560 in chips) 
+Seat 9: LombardJohn (1615 in chips) 
+1978newbie: posts small blind 10
+8275960: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [8d 5c]
+WILDMAN395P: folds 
+aleperni: calls 20
+LombardJohn: calls 20
+Pao Branco11: calls 20
+EmmaLei: calls 20
+Papabear5206: calls 20
+Taargeett: folds 
+1978newbie: calls 10
+8275960: checks 
+*** FLOP *** [Th Ts 3c]
+1978newbie: checks 
+8275960: checks 
+aleperni: checks 
+LombardJohn: bets 140
+Pao Branco11: folds 
+EmmaLei: folds 
+Papabear5206: folds 
+1978newbie: folds 
+8275960: folds 
+aleperni: folds 
+Uncalled bet (140) returned to LombardJohn
+LombardJohn collected 140 from pot
+LombardJohn: doesn't show hand 
+*** SUMMARY ***
+Total pot 140 | Rake 0 
+Board [Th Ts 3c]
+Seat 1: Pao Branco11 folded on the Flop
+Seat 2: EmmaLei folded on the Flop
+Seat 3: Papabear5206 folded on the Flop
+Seat 4: Taargeett (button) folded before Flop (didn't bet)
+Seat 5: 1978newbie (small blind) folded on the Flop
+Seat 6: 8275960 (big blind) folded on the Flop
+Seat 7: WILDMAN395P folded before Flop (didn't bet)
+Seat 8: aleperni folded on the Flop
+Seat 9: LombardJohn collected (140)
+
+
+
+PokerStars Hand #201616797874: Tournament #2634833788, 17000+3000 Hold'em No Limit - Level I (10/20) - 2019/06/21 22:17:16 ET
+Table '2634833788 4' 9-max Seat #5 is the button
+Seat 1: Pao Branco11 (1480 in chips) 
+Seat 2: EmmaLei (1465 in chips) 
+Seat 3: Papabear5206 (1450 in chips) 
+Seat 4: Taargeett (1470 in chips) 
+Seat 5: 1978newbie (1440 in chips) 
+Seat 6: 8275960 (1420 in chips) 
+Seat 7: WILDMAN395P (1500 in chips) 
+Seat 8: aleperni (1540 in chips) 
+Seat 9: LombardJohn (1735 in chips) 
+8275960: posts small blind 10
+WILDMAN395P: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [4c 7s]
+aleperni: calls 20
+LombardJohn: raises 70 to 90
+Pao Branco11: calls 90
+EmmaLei: folds 
+Papabear5206 has timed out
+Papabear5206: folds 
+Taargeett: folds 
+1978newbie: folds 
+8275960: folds 
+WILDMAN395P: calls 70
+aleperni: calls 70
+*** FLOP *** [Kc 6d 6s]
+WILDMAN395P: checks 
+aleperni: checks 
+LombardJohn: checks 
+Pao Branco11: bets 160
+WILDMAN395P: folds 
+aleperni: folds 
+LombardJohn: folds 
+Uncalled bet (160) returned to Pao Branco11
+Pao Branco11 collected 370 from pot
+Pao Branco11: doesn't show hand 
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Board [Kc 6d 6s]
+Seat 1: Pao Branco11 collected (370)
+Seat 2: EmmaLei folded before Flop (didn't bet)
+Seat 3: Papabear5206 folded before Flop (didn't bet)
+Seat 4: Taargeett folded before Flop (didn't bet)
+Seat 5: 1978newbie (button) folded before Flop (didn't bet)
+Seat 6: 8275960 (small blind) folded before Flop
+Seat 7: WILDMAN395P (big blind) folded on the Flop
+Seat 8: aleperni folded on the Flop
+Seat 9: LombardJohn folded on the Flop
+
+
+
+PokerStars Hand #201616820549: Tournament #2634833788, 17000+3000 Hold'em No Limit - Level II (15/30) - 2019/06/21 22:18:41 ET
+Table '2634833788 4' 9-max Seat #6 is the button
+Seat 1: Pao Branco11 (1760 in chips) 
+Seat 2: EmmaLei (1465 in chips) 
+Seat 3: Papabear5206 (1450 in chips) is sitting out
+Seat 4: Taargeett (1470 in chips) 
+Seat 5: 1978newbie (1440 in chips) 
+Seat 6: 8275960 (1410 in chips) 
+Seat 7: WILDMAN395P (1410 in chips) 
+Seat 8: aleperni (1450 in chips) 
+Seat 9: LombardJohn (1645 in chips) 
+WILDMAN395P: posts small blind 15
+aleperni: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [Td 9h]
+LombardJohn: raises 360 to 390
+Pao Branco11: folds 
+EmmaLei: calls 390
+Papabear5206: folds 
+Taargeett: folds 
+1978newbie: folds 
+8275960: folds 
+WILDMAN395P: folds 
+aleperni: calls 360
+*** FLOP *** [7d Ts 3d]
+aleperni has timed out
+aleperni: checks 
+LombardJohn: bets 1255 and is all-in
+EmmaLei: calls 1075 and is all-in
+aleperni: folds 
+Uncalled bet (180) returned to LombardJohn
+*** TURN *** [7d Ts 3d] [Ks]
+*** RIVER *** [7d Ts 3d Ks] [3h]
+*** SHOW DOWN ***
+LombardJohn: shows [Kd 8d] (two pair, Kings and Threes)
+EmmaLei: shows [Jh Jd] (two pair, Jacks and Threes)
+LombardJohn collected 3335 from pot
+EmmaLei finished the tournament in 43rd place
+*** SUMMARY ***
+Total pot 3335 | Rake 0 
+Board [7d Ts 3d Ks 3h]
+Seat 1: Pao Branco11 folded before Flop (didn't bet)
+Seat 2: EmmaLei showed [Jh Jd] and lost with two pair, Jacks and Threes
+Seat 3: Papabear5206 folded before Flop (didn't bet)
+Seat 4: Taargeett folded before Flop (didn't bet)
+Seat 5: 1978newbie folded before Flop (didn't bet)
+Seat 6: 8275960 (button) folded before Flop (didn't bet)
+Seat 7: WILDMAN395P (small blind) folded before Flop
+Seat 8: aleperni (big blind) folded on the Flop
+Seat 9: LombardJohn showed [Kd 8d] and won (3335) with two pair, Kings and Threes
+
+
+
+PokerStars Hand #201616850061: Tournament #2634833788, 17000+3000 Hold'em No Limit - Level II (15/30) - 2019/06/21 22:19:59 ET
+Table '2634833788 4' 9-max Seat #7 is the button
+Seat 1: Pao Branco11 (1760 in chips) 
+Seat 3: Papabear5206 (1450 in chips) is sitting out
+Seat 4: Taargeett (1470 in chips) 
+Seat 5: 1978newbie (1440 in chips) 
+Seat 6: 8275960 (1410 in chips) 
+Seat 7: WILDMAN395P (1395 in chips) 
+Seat 8: aleperni (1060 in chips) 
+Seat 9: LombardJohn (3515 in chips) 
+aleperni: posts small blind 15
+LombardJohn: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [Jd 7h]
+Pao Branco11: folds 
+Papabear5206: folds 
+Taargeett: folds 
+1978newbie: folds 
+8275960: calls 30
+WILDMAN395P: calls 30
+aleperni: calls 15
+LombardJohn: raises 3485 to 3515 and is all-in
+8275960: folds 
+WILDMAN395P: folds 
+aleperni: folds 
+Uncalled bet (3485) returned to LombardJohn
+LombardJohn collected 120 from pot
+LombardJohn: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Pao Branco11 folded before Flop (didn't bet)
+Seat 3: Papabear5206 folded before Flop (didn't bet)
+Seat 4: Taargeett folded before Flop (didn't bet)
+Seat 5: 1978newbie folded before Flop (didn't bet)
+Seat 6: 8275960 folded before Flop
+Seat 7: WILDMAN395P (button) folded before Flop
+Seat 8: aleperni (small blind) folded before Flop
+Seat 9: LombardJohn (big blind) collected (120)
+
+
+
+PokerStars Hand #201616859988: Tournament #2634833788, 17000+3000 Hold'em No Limit - Level II (15/30) - 2019/06/21 22:20:37 ET
+Table '2634833788 4' 9-max Seat #8 is the button
+Seat 1: Pao Branco11 (1760 in chips) 
+Seat 3: Papabear5206 (1450 in chips) is sitting out
+Seat 4: Taargeett (1470 in chips) 
+Seat 5: 1978newbie (1440 in chips) 
+Seat 6: 8275960 (1380 in chips) 
+Seat 7: WILDMAN395P (1365 in chips) 
+Seat 8: aleperni (1030 in chips) 
+Seat 9: LombardJohn (3605 in chips) 
+LombardJohn: posts small blind 15
+Pao Branco11: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [5h Ks]
+Papabear5206: folds 
+Taargeett: folds 
+1978newbie: folds 
+8275960: calls 30
+WILDMAN395P: calls 30
+aleperni: calls 30
+LombardJohn: calls 15
+Pao Branco11: checks 
+*** FLOP *** [2c 5d As]
+LombardJohn: checks 
+Pao Branco11: checks 
+8275960: checks 
+WILDMAN395P: checks 
+aleperni: checks 
+*** TURN *** [2c 5d As] [8h]
+LombardJohn: checks 
+Pao Branco11: bets 150
+8275960: folds 
+WILDMAN395P: folds 
+aleperni: calls 150
+LombardJohn: folds 
+*** RIVER *** [2c 5d As 8h] [2d]
+Pao Branco11: checks 
+aleperni: checks 
+*** SHOW DOWN ***
+Pao Branco11: shows [9d Ah] (two pair, Aces and Deuces)
+aleperni: mucks hand 
+Pao Branco11 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [2c 5d As 8h 2d]
+Seat 1: Pao Branco11 (big blind) showed [9d Ah] and won (450) with two pair, Aces and Deuces
+Seat 3: Papabear5206 folded before Flop (didn't bet)
+Seat 4: Taargeett folded before Flop (didn't bet)
+Seat 5: 1978newbie folded before Flop (didn't bet)
+Seat 6: 8275960 folded on the Turn
+Seat 7: WILDMAN395P folded on the Turn
+Seat 8: aleperni (button) mucked [4d Kd]
+Seat 9: LombardJohn (small blind) folded on the Turn
+
+
+
+PokerStars Hand #201616882927: Tournament #2634833788, 17000+3000 Hold'em No Limit - Level II (15/30) - 2019/06/21 22:22:05 ET
+Table '2634833788 4' 9-max Seat #9 is the button
+Seat 1: Pao Branco11 (2030 in chips) 
+Seat 3: Papabear5206 (1450 in chips) 
+Seat 4: Taargeett (1470 in chips) 
+Seat 5: 1978newbie (1440 in chips) 
+Seat 6: 8275960 (1350 in chips) 
+Seat 7: WILDMAN395P (1335 in chips) 
+Seat 8: aleperni (850 in chips) 
+Seat 9: LombardJohn (3575 in chips) 
+Pao Branco11: posts small blind 15
+Papabear5206: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [Js Ad]
+Taargeett: raises 60 to 90
+1978newbie: folds 
+8275960: calls 90
+WILDMAN395P: calls 90
+aleperni: folds 
+LombardJohn: folds 
+Pao Branco11: folds 
+Papabear5206: calls 60
+*** FLOP *** [Kd As 8d]
+Papabear5206: checks 
+Taargeett: bets 65
+8275960: calls 65
+WILDMAN395P: calls 65
+Papabear5206: calls 65
+*** TURN *** [Kd As 8d] [Kh]
+Papabear5206: checks 
+Taargeett: checks 
+8275960: checks 
+WILDMAN395P: bets 30
+Papabear5206: calls 30
+Taargeett: raises 1285 to 1315 and is all-in
+8275960: folds 
+WILDMAN395P: calls 1150 and is all-in
+Papabear5206: folds 
+Uncalled bet (135) returned to Taargeett
+*** RIVER *** [Kd As 8d Kh] [2c]
+*** SHOW DOWN ***
+Taargeett: shows [Js Ad] (two pair, Aces and Kings)
+WILDMAN395P: shows [3s Ks] (three of a kind, Kings)
+WILDMAN395P collected 3025 from pot
+*** SUMMARY ***
+Total pot 3025 | Rake 0 
+Board [Kd As 8d Kh 2c]
+Seat 1: Pao Branco11 (small blind) folded before Flop
+Seat 3: Papabear5206 (big blind) folded on the Turn
+Seat 4: Taargeett showed [Js Ad] and lost with two pair, Aces and Kings
+Seat 5: 1978newbie folded before Flop (didn't bet)
+Seat 6: 8275960 folded on the Turn
+Seat 7: WILDMAN395P showed [3s Ks] and won (3025) with three of a kind, Kings
+Seat 8: aleperni folded before Flop (didn't bet)
+Seat 9: LombardJohn (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201616905892: Tournament #2634833788, 17000+3000 Hold'em No Limit - Level III (25/50) - 2019/06/21 22:23:34 ET
+Table '2634833788 4' 9-max Seat #1 is the button
+Seat 1: Pao Branco11 (2015 in chips) 
+Seat 3: Papabear5206 (1265 in chips) 
+Seat 4: Taargeett (135 in chips) 
+Seat 5: 1978newbie (1440 in chips) 
+Seat 7: WILDMAN395P (3025 in chips) 
+Seat 8: aleperni (850 in chips) 
+Seat 9: LombardJohn (3575 in chips) 
+Papabear5206: posts small blind 25
+Taargeett: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Taargeett [4s Ad]
+1978newbie: folds 
+WILDMAN395P: folds 
+aleperni: calls 50
+LombardJohn: raises 175 to 225
+Pao Branco11: folds 
+Papabear5206: calls 200
+Taargeett: calls 85 and is all-in
+aleperni: calls 175
+*** FLOP *** [7h 4h 8h]
+Papabear5206: bets 810
+aleperni: folds 
+LombardJohn: raises 2540 to 3350 and is all-in
+Papabear5206: calls 230 and is all-in
+Uncalled bet (2310) returned to LombardJohn
+*** TURN *** [7h 4h 8h] [9c]
+*** RIVER *** [7h 4h 8h 9c] [3h]
+*** SHOW DOWN ***
+Papabear5206: shows [8d Kh] (a flush, King high)
+LombardJohn: shows [8c 5d] (a pair of Eights)
+Papabear5206 collected 2350 from side pot
+Taargeett: shows [4s Ad] (a pair of Fours)
+Papabear5206 collected 540 from main pot
+Taargeett finished the tournament in 37th place
+*** SUMMARY ***
+Total pot 2890 Main pot 540. Side pot 2350. | Rake 0 
+Board [7h 4h 8h 9c 3h]
+Seat 1: Pao Branco11 (button) folded before Flop (didn't bet)
+Seat 3: Papabear5206 (small blind) showed [8d Kh] and won (2890) with a flush, King high
+Seat 4: Taargeett (big blind) showed [4s Ad] and lost with a pair of Fours
+Seat 5: 1978newbie folded before Flop (didn't bet)
+Seat 7: WILDMAN395P folded before Flop (didn't bet)
+Seat 8: aleperni folded on the Flop
+Seat 9: LombardJohn showed [8c 5d] and lost with a pair of Eights
+
+
+

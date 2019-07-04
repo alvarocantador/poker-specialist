@@ -1,0 +1,81 @@
+﻿PokerStars Hand #201020301632: Tournament #2622226649, 4250+4250+1500 Hold'em No Limit - Level I (10/20) - 2019/06/02 21:09:23 ET
+Table '2622226649 1' 9-max Seat #1 is the button
+Seat 1: makinki26 (500 in chips) 
+Seat 2: LGB1992 (500 in chips) 
+Seat 3: mslitamarie (500 in chips) 
+Seat 4: bradfordf3 (500 in chips) 
+Seat 5: Tia_CarmemL (500 in chips) 
+Seat 6: elco9521 (500 in chips) 
+Seat 7: Taargeett (500 in chips) 
+Seat 8: jacklafourche (500 in chips) 
+Seat 9: Jucar96 (500 in chips) 
+makinki26: posts the ante 2
+LGB1992: posts the ante 2
+mslitamarie: posts the ante 2
+bradfordf3: posts the ante 2
+Tia_CarmemL: posts the ante 2
+elco9521: posts the ante 2
+Taargeett: posts the ante 2
+jacklafourche: posts the ante 2
+Jucar96: posts the ante 2
+LGB1992: posts small blind 10
+mslitamarie: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [Ac 7s]
+bradfordf3: calls 20
+Tia_CarmemL: calls 20
+elco9521: calls 20
+Taargeett: raises 40 to 60
+jacklafourche: folds 
+Jucar96: calls 60
+makinki26: calls 60
+LGB1992: folds 
+mslitamarie: calls 40
+bradfordf3: calls 40
+Tia_CarmemL: calls 40
+elco9521: calls 40
+*** FLOP *** [4d 6h Qh]
+mslitamarie: checks 
+bradfordf3: checks 
+Tia_CarmemL: checks 
+elco9521: checks 
+Taargeett: bets 40
+Jucar96: calls 40
+makinki26: calls 40
+mslitamarie: folds 
+bradfordf3: calls 40
+Tia_CarmemL: folds 
+elco9521: calls 40
+*** TURN *** [4d 6h Qh] [Jd]
+bradfordf3: checks 
+elco9521: checks 
+Taargeett: bets 398 and is all-in
+Jucar96: folds 
+makinki26: calls 398 and is all-in
+bradfordf3: calls 398 and is all-in
+elco9521: folds 
+*** RIVER *** [4d 6h Qh Jd] [7d]
+*** SHOW DOWN ***
+bradfordf3: shows [Qd 8d] (a flush, Queen high)
+Taargeett: shows [Ac 7s] (a pair of Sevens)
+makinki26: shows [2s 2h] (a pair of Deuces)
+bradfordf3 collected 1842 from pot
+bradfordf3 wins the 4250 bounty for eliminating makinki26
+bradfordf3 wins the 4250 bounty for eliminating Taargeett
+makinki26 finished the tournament in 8th place
+Taargeett finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 1842 | Rake 0 
+Board [4d 6h Qh Jd 7d]
+Seat 1: makinki26 (button) showed [2s 2h] and lost with a pair of Deuces
+Seat 2: LGB1992 (small blind) folded before Flop
+Seat 3: mslitamarie (big blind) folded on the Flop
+Seat 4: bradfordf3 showed [Qd 8d] and won (1842) with a flush, Queen high
+Seat 5: Tia_CarmemL folded on the Flop
+Seat 6: elco9521 folded on the Turn
+Seat 7: Taargeett showed [Ac 7s] and lost with a pair of Sevens
+Seat 8: jacklafourche folded before Flop (didn't bet)
+Seat 9: Jucar96 folded on the Turn
+
+
+

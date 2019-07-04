@@ -1,0 +1,574 @@
+﻿PokerStars Hand #201243471561: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level I (10/20) - 2019/06/09 19:47:11 ET
+Table '2626958406 1' 3-max Seat #1 is the button
+Seat 1: Taargeett (500 in chips) 
+Seat 2: yabbie9 (500 in chips) 
+Seat 3: darkman1891 (500 in chips) 
+yabbie9: posts small blind 10
+darkman1891: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [2s 5d]
+Taargeett: folds 
+yabbie9: calls 10
+darkman1891: raises 60 to 80
+yabbie9: folds 
+Uncalled bet (60) returned to darkman1891
+darkman1891 collected 40 from pot
+darkman1891: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Taargeett (button) folded before Flop (didn't bet)
+Seat 2: yabbie9 (small blind) folded before Flop
+Seat 3: darkman1891 (big blind) collected (40)
+
+
+
+PokerStars Hand #201243481907: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level I (10/20) - 2019/06/09 19:47:37 ET
+Table '2626958406 1' 3-max Seat #2 is the button
+Seat 1: Taargeett (500 in chips) 
+Seat 2: yabbie9 (480 in chips) 
+Seat 3: darkman1891 (520 in chips) 
+darkman1891: posts small blind 10
+Taargeett: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [7h 5h]
+yabbie9: calls 20
+darkman1891: raises 60 to 80
+Taargeett: folds 
+yabbie9: calls 60
+*** FLOP *** [2c 5d 3h]
+darkman1891: checks 
+yabbie9: checks 
+*** TURN *** [2c 5d 3h] [Jd]
+darkman1891: bets 80
+yabbie9: folds 
+Uncalled bet (80) returned to darkman1891
+darkman1891 collected 180 from pot
+darkman1891: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [2c 5d 3h Jd]
+Seat 1: Taargeett (big blind) folded before Flop
+Seat 2: yabbie9 (button) folded on the Turn
+Seat 3: darkman1891 (small blind) collected (180)
+
+
+
+PokerStars Hand #201243495962: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level I (10/20) - 2019/06/09 19:48:12 ET
+Table '2626958406 1' 3-max Seat #3 is the button
+Seat 1: Taargeett (480 in chips) 
+Seat 2: yabbie9 (400 in chips) 
+Seat 3: darkman1891 (620 in chips) 
+Taargeett: posts small blind 10
+yabbie9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [5c 4s]
+darkman1891: folds 
+Taargeett: folds 
+Uncalled bet (10) returned to yabbie9
+yabbie9 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Taargeett (small blind) folded before Flop
+Seat 2: yabbie9 (big blind) collected (20)
+Seat 3: darkman1891 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201243498812: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level I (10/20) - 2019/06/09 19:48:20 ET
+Table '2626958406 1' 3-max Seat #1 is the button
+Seat 1: Taargeett (470 in chips) 
+Seat 2: yabbie9 (410 in chips) 
+Seat 3: darkman1891 (620 in chips) 
+yabbie9: posts small blind 10
+darkman1891: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [5d 8s]
+Taargeett: folds 
+yabbie9: calls 10
+darkman1891: raises 80 to 100
+yabbie9: folds 
+Uncalled bet (80) returned to darkman1891
+darkman1891 collected 40 from pot
+darkman1891: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Taargeett (button) folded before Flop (didn't bet)
+Seat 2: yabbie9 (small blind) folded before Flop
+Seat 3: darkman1891 (big blind) collected (40)
+
+
+
+PokerStars Hand #201243505486: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level I (10/20) - 2019/06/09 19:48:37 ET
+Table '2626958406 1' 3-max Seat #2 is the button
+Seat 1: Taargeett (470 in chips) 
+Seat 2: yabbie9 (390 in chips) 
+Seat 3: darkman1891 (640 in chips) 
+darkman1891: posts small blind 10
+Taargeett: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [6s 4h]
+yabbie9: raises 20 to 40
+darkman1891: calls 30
+Taargeett: folds 
+*** FLOP *** [4s 4d 6c]
+darkman1891: checks 
+yabbie9: bets 20
+darkman1891: folds 
+Uncalled bet (20) returned to yabbie9
+yabbie9 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Board [4s 4d 6c]
+Seat 1: Taargeett (big blind) folded before Flop
+Seat 2: yabbie9 (button) collected (100)
+Seat 3: darkman1891 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #201243518313: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level I (10/20) - 2019/06/09 19:49:09 ET
+Table '2626958406 1' 3-max Seat #3 is the button
+Seat 1: Taargeett (450 in chips) 
+Seat 2: yabbie9 (450 in chips) 
+Seat 3: darkman1891 (600 in chips) 
+Taargeett: posts small blind 10
+yabbie9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [9h 6s]
+darkman1891 has timed out
+darkman1891: folds 
+Taargeett: folds 
+Uncalled bet (10) returned to yabbie9
+yabbie9 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Taargeett (small blind) folded before Flop
+Seat 2: yabbie9 (big blind) collected (20)
+Seat 3: darkman1891 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201243525306: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level I (10/20) - 2019/06/09 19:49:27 ET
+Table '2626958406 1' 3-max Seat #1 is the button
+Seat 1: Taargeett (440 in chips) 
+Seat 2: yabbie9 (460 in chips) 
+Seat 3: darkman1891 (600 in chips) 
+yabbie9: posts small blind 10
+darkman1891: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [8s Ah]
+Taargeett: raises 20 to 40
+yabbie9: raises 420 to 460 and is all-in
+darkman1891: folds 
+Taargeett: folds 
+Uncalled bet (420) returned to yabbie9
+yabbie9 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Taargeett (button) folded before Flop
+Seat 2: yabbie9 (small blind) collected (100)
+Seat 3: darkman1891 (big blind) folded before Flop
+
+
+
+PokerStars Hand #201243530074: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level I (10/20) - 2019/06/09 19:49:39 ET
+Table '2626958406 1' 3-max Seat #2 is the button
+Seat 1: Taargeett (400 in chips) 
+Seat 2: yabbie9 (520 in chips) 
+Seat 3: darkman1891 (580 in chips) 
+darkman1891: posts small blind 10
+Taargeett: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [6s Ad]
+yabbie9: raises 500 to 520 and is all-in
+darkman1891: folds 
+Taargeett: folds 
+Uncalled bet (500) returned to yabbie9
+yabbie9 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Taargeett (big blind) folded before Flop
+Seat 2: yabbie9 (button) collected (50)
+Seat 3: darkman1891 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201243534237: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level I (10/20) - 2019/06/09 19:49:49 ET
+Table '2626958406 1' 3-max Seat #3 is the button
+Seat 1: Taargeett (380 in chips) 
+Seat 2: yabbie9 (550 in chips) 
+Seat 3: darkman1891 (570 in chips) 
+Taargeett: posts small blind 10
+yabbie9: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [9h 8d]
+darkman1891: raises 100 to 120
+Taargeett: folds 
+yabbie9: folds 
+Uncalled bet (100) returned to darkman1891
+darkman1891 collected 50 from pot
+darkman1891: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Taargeett (small blind) folded before Flop
+Seat 2: yabbie9 (big blind) folded before Flop
+Seat 3: darkman1891 (button) collected (50)
+
+
+
+PokerStars Hand #201243539078: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level I (10/20) - 2019/06/09 19:50:02 ET
+Table '2626958406 1' 3-max Seat #1 is the button
+Seat 1: Taargeett (370 in chips) 
+Seat 2: yabbie9 (530 in chips) 
+Seat 3: darkman1891 (600 in chips) 
+yabbie9: posts small blind 10
+darkman1891: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [5d 7d]
+Taargeett: raises 20 to 40
+yabbie9: folds 
+darkman1891: raises 140 to 180
+Taargeett: calls 140
+*** FLOP *** [7s 4h 7c]
+darkman1891: bets 420 and is all-in
+Taargeett: calls 190 and is all-in
+Uncalled bet (230) returned to darkman1891
+*** TURN *** [7s 4h 7c] [8h]
+*** RIVER *** [7s 4h 7c 8h] [9s]
+*** SHOW DOWN ***
+darkman1891: shows [Kc Kd] (two pair, Kings and Sevens)
+Taargeett: shows [5d 7d] (three of a kind, Sevens)
+Taargeett collected 750 from pot
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [7s 4h 7c 8h 9s]
+Seat 1: Taargeett (button) showed [5d 7d] and won (750) with three of a kind, Sevens
+Seat 2: yabbie9 (small blind) folded before Flop
+Seat 3: darkman1891 (big blind) showed [Kc Kd] and lost with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #201243549144: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level II (15/30) - 2019/06/09 19:50:28 ET
+Table '2626958406 1' 3-max Seat #2 is the button
+Seat 1: Taargeett (750 in chips) 
+Seat 2: yabbie9 (520 in chips) 
+Seat 3: darkman1891 (230 in chips) 
+darkman1891: posts small blind 15
+Taargeett: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [5s 9s]
+yabbie9: raises 490 to 520 and is all-in
+darkman1891: folds 
+Taargeett: folds 
+Uncalled bet (490) returned to yabbie9
+yabbie9 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Taargeett (big blind) folded before Flop
+Seat 2: yabbie9 (button) collected (75)
+Seat 3: darkman1891 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201243553941: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level II (15/30) - 2019/06/09 19:50:40 ET
+Table '2626958406 1' 3-max Seat #3 is the button
+Seat 1: Taargeett (720 in chips) 
+Seat 2: yabbie9 (565 in chips) 
+Seat 3: darkman1891 (215 in chips) 
+Taargeett: posts small blind 15
+yabbie9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [8s 5d]
+darkman1891: calls 30
+Taargeett: folds 
+yabbie9: checks 
+*** FLOP *** [7h 9c 6s]
+yabbie9: checks 
+darkman1891: bets 120
+yabbie9: folds 
+Uncalled bet (120) returned to darkman1891
+darkman1891 collected 75 from pot
+darkman1891: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Board [7h 9c 6s]
+Seat 1: Taargeett (small blind) folded before Flop
+Seat 2: yabbie9 (big blind) folded on the Flop
+Seat 3: darkman1891 (button) collected (75)
+
+
+
+PokerStars Hand #201243567816: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level II (15/30) - 2019/06/09 19:51:16 ET
+Table '2626958406 1' 3-max Seat #1 is the button
+Seat 1: Taargeett (705 in chips) 
+Seat 2: yabbie9 (535 in chips) 
+Seat 3: darkman1891 (260 in chips) 
+yabbie9: posts small blind 15
+darkman1891: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [Js 2h]
+Taargeett: folds 
+yabbie9: raises 60 to 90
+darkman1891: calls 60
+*** FLOP *** [5s 9h 2s]
+yabbie9: checks 
+darkman1891: bets 170 and is all-in
+yabbie9: calls 170
+*** TURN *** [5s 9h 2s] [Kh]
+*** RIVER *** [5s 9h 2s Kh] [Jh]
+*** SHOW DOWN ***
+yabbie9: shows [Qd 9s] (a pair of Nines)
+darkman1891: shows [5c 7c] (a pair of Fives)
+yabbie9 collected 520 from pot
+darkman1891 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [5s 9h 2s Kh Jh]
+Seat 1: Taargeett (button) folded before Flop (didn't bet)
+Seat 2: yabbie9 (small blind) showed [Qd 9s] and won (520) with a pair of Nines
+Seat 3: darkman1891 (big blind) showed [5c 7c] and lost with a pair of Fives
+
+
+
+PokerStars Hand #201243578114: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level II (15/30) - 2019/06/09 19:51:42 ET
+Table '2626958406 1' 3-max Seat #2 is the button
+Seat 1: Taargeett (705 in chips) 
+Seat 2: yabbie9 (795 in chips) 
+yabbie9: posts small blind 15
+Taargeett: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [Jc 2s]
+yabbie9: raises 60 to 90
+Taargeett: folds 
+Uncalled bet (60) returned to yabbie9
+yabbie9 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Taargeett (big blind) folded before Flop
+Seat 2: yabbie9 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #201243581313: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level II (15/30) - 2019/06/09 19:51:50 ET
+Table '2626958406 1' 3-max Seat #1 is the button
+Seat 1: Taargeett (675 in chips) 
+Seat 2: yabbie9 (825 in chips) 
+Taargeett: posts small blind 15
+yabbie9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [Ts Qs]
+Taargeett: raises 60 to 90
+yabbie9: calls 60
+*** FLOP *** [6d 4d Th]
+yabbie9: checks 
+Taargeett: bets 300
+yabbie9: folds 
+Uncalled bet (300) returned to Taargeett
+Taargeett collected 180 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [6d 4d Th]
+Seat 1: Taargeett (button) (small blind) collected (180)
+Seat 2: yabbie9 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #201243590010: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level II (15/30) - 2019/06/09 19:52:12 ET
+Table '2626958406 1' 3-max Seat #2 is the button
+Seat 1: Taargeett (765 in chips) 
+Seat 2: yabbie9 (735 in chips) 
+yabbie9: posts small blind 15
+Taargeett: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [3c Qc]
+yabbie9: folds 
+Uncalled bet (15) returned to Taargeett
+Taargeett collected 30 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Taargeett (big blind) collected (30)
+Seat 2: yabbie9 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #201243592699: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level II (15/30) - 2019/06/09 19:52:19 ET
+Table '2626958406 1' 3-max Seat #1 is the button
+Seat 1: Taargeett (780 in chips) 
+Seat 2: yabbie9 (720 in chips) 
+Taargeett: posts small blind 15
+yabbie9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [Tc 3c]
+Taargeett: raises 30 to 60
+yabbie9: raises 660 to 720 and is all-in
+Taargeett: folds 
+Uncalled bet (660) returned to yabbie9
+yabbie9 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Taargeett (button) (small blind) folded before Flop
+Seat 2: yabbie9 (big blind) collected (120)
+
+
+
+PokerStars Hand #201243596749: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level II (15/30) - 2019/06/09 19:52:29 ET
+Table '2626958406 1' 3-max Seat #2 is the button
+Seat 1: Taargeett (720 in chips) 
+Seat 2: yabbie9 (780 in chips) 
+yabbie9: posts small blind 15
+Taargeett: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [6c 9d]
+yabbie9: raises 750 to 780 and is all-in
+Taargeett: folds 
+Uncalled bet (750) returned to yabbie9
+yabbie9 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Taargeett (big blind) folded before Flop
+Seat 2: yabbie9 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #201243602092: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level II (15/30) - 2019/06/09 19:52:43 ET
+Table '2626958406 1' 3-max Seat #1 is the button
+Seat 1: Taargeett (690 in chips) 
+Seat 2: yabbie9 (810 in chips) 
+Taargeett: posts small blind 15
+yabbie9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [9s 8c]
+Taargeett: folds 
+Uncalled bet (15) returned to yabbie9
+yabbie9 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Taargeett (button) (small blind) folded before Flop
+Seat 2: yabbie9 (big blind) collected (30)
+
+
+
+PokerStars Hand #201243603855: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level II (15/30) - 2019/06/09 19:52:48 ET
+Table '2626958406 1' 3-max Seat #2 is the button
+Seat 1: Taargeett (675 in chips) 
+Seat 2: yabbie9 (825 in chips) 
+yabbie9: posts small blind 15
+Taargeett: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [5h 6d]
+yabbie9: raises 795 to 825 and is all-in
+Taargeett: folds 
+Uncalled bet (795) returned to yabbie9
+yabbie9 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Taargeett (big blind) folded before Flop
+Seat 2: yabbie9 (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #201243606432: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level II (15/30) - 2019/06/09 19:52:54 ET
+Table '2626958406 1' 3-max Seat #1 is the button
+Seat 1: Taargeett (645 in chips) 
+Seat 2: yabbie9 (855 in chips) 
+Taargeett: posts small blind 15
+yabbie9: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [5d Ad]
+Taargeett: calls 15
+yabbie9: checks 
+*** FLOP *** [7c Ks 4c]
+yabbie9: checks 
+Taargeett: bets 150
+yabbie9: folds 
+Uncalled bet (150) returned to Taargeett
+Taargeett collected 60 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7c Ks 4c]
+Seat 1: Taargeett (button) (small blind) collected (60)
+Seat 2: yabbie9 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #201243615190: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level III (20/40) - 2019/06/09 19:53:17 ET
+Table '2626958406 1' 3-max Seat #2 is the button
+Seat 1: Taargeett (675 in chips) 
+Seat 2: yabbie9 (825 in chips) 
+yabbie9: posts small blind 20
+Taargeett: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Taargeett [Th 3d]
+yabbie9: calls 20
+Taargeett: checks 
+*** FLOP *** [Jd Kc 2s]
+Taargeett: checks 
+yabbie9: checks 
+*** TURN *** [Jd Kc 2s] [5h]
+Taargeett: checks 
+yabbie9: checks 
+*** RIVER *** [Jd Kc 2s 5h] [9c]
+Taargeett: checks 
+yabbie9: bets 80
+Taargeett: folds 
+Uncalled bet (80) returned to yabbie9
+yabbie9 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Jd Kc 2s 5h 9c]
+Seat 1: Taargeett (big blind) folded on the River
+Seat 2: yabbie9 (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #201243626447: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level III (20/40) - 2019/06/09 19:53:46 ET
+Table '2626958406 1' 3-max Seat #1 is the button
+Seat 1: Taargeett (635 in chips) 
+Seat 2: yabbie9 (865 in chips) 
+Taargeett: posts small blind 20
+yabbie9: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Taargeett [3d 4h]
+Taargeett: folds 
+Uncalled bet (20) returned to yabbie9
+yabbie9 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Taargeett (button) (small blind) folded before Flop
+Seat 2: yabbie9 (big blind) collected (40)
+
+
+
+PokerStars Hand #201243628387: Tournament #2626958406, 9000+1000 Hold'em No Limit - Level III (20/40) - 2019/06/09 19:53:51 ET
+Table '2626958406 1' 3-max Seat #2 is the button
+Seat 1: Taargeett (615 in chips) 
+Seat 2: yabbie9 (885 in chips) 
+yabbie9: posts small blind 20
+Taargeett: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Taargeett [Td 7h]
+yabbie9: calls 20
+Taargeett: checks 
+*** FLOP *** [8s 6s Ts]
+Taargeett: checks 
+yabbie9: bets 80
+Taargeett: raises 495 to 575 and is all-in
+yabbie9: calls 495
+*** TURN *** [8s 6s Ts] [3s]
+*** RIVER *** [8s 6s Ts 3s] [2d]
+*** SHOW DOWN ***
+Taargeett: shows [Td 7h] (a pair of Tens)
+yabbie9: shows [8h 5s] (a flush, Ten high)
+yabbie9 collected 1230 from pot
+Taargeett finished the tournament in 2nd place
+yabbie9 wins the tournament and receives 80000 - congratulations!
+*** SUMMARY ***
+Total pot 1230 | Rake 0 
+Board [8s 6s Ts 3s 2d]
+Seat 1: Taargeett (big blind) showed [Td 7h] and lost with a pair of Tens
+Seat 2: yabbie9 (button) (small blind) showed [8h 5s] and won (1230) with a flush, Ten high
+
+
+

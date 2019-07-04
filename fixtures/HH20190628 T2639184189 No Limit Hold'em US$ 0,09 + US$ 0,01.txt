@@ -1,0 +1,725 @@
+﻿PokerStars Hand #201826710450: Tournament #2639184189, $0.09+$0.01 USD Hold'em No Limit - Level I (10/20) - 2019/06/28 19:50:08 ET
+Table '2639184189 37' 9-max Seat #1 is the button
+Seat 1: alero203 (1500 in chips) 
+Seat 2: Taargeett (1500 in chips) 
+Seat 3: K@do152 (1500 in chips) 
+Seat 4: LeoDiv. (1500 in chips) 
+Seat 5: Schulle1402 (1500 in chips) 
+Seat 6: pawelbmw (1500 in chips) 
+Seat 7: engvio (1500 in chips) 
+Seat 8: miguel.sbs (1500 in chips) 
+Seat 9: nochedeverano (1500 in chips) 
+Taargeett: posts small blind 10
+K@do152: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [3c 9c]
+LeoDiv.: folds 
+Schulle1402: folds 
+pawelbmw: calls 20
+engvio: calls 20
+miguel.sbs: folds 
+nochedeverano has timed out
+nochedeverano: folds 
+nochedeverano is sitting out
+alero203: calls 20
+Taargeett: calls 10
+K@do152: checks 
+*** FLOP *** [Qd Td Ac]
+Taargeett: checks 
+K@do152: checks 
+pawelbmw: checks 
+engvio: checks 
+alero203: bets 20
+Taargeett: folds 
+K@do152: calls 20
+pawelbmw: folds 
+engvio: folds 
+*** TURN *** [Qd Td Ac] [Ad]
+K@do152: bets 100
+alero203: calls 100
+*** RIVER *** [Qd Td Ac Ad] [7d]
+K@do152: bets 100
+alero203: calls 100
+*** SHOW DOWN ***
+K@do152: shows [2c As] (three of a kind, Aces)
+alero203: shows [6d 5d] (a flush, Ace high)
+alero203 collected 540 from pot
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [Qd Td Ac Ad 7d]
+Seat 1: alero203 (button) showed [6d 5d] and won (540) with a flush, Ace high
+Seat 2: Taargeett (small blind) folded on the Flop
+Seat 3: K@do152 (big blind) showed [2c As] and lost with three of a kind, Aces
+Seat 4: LeoDiv. folded before Flop (didn't bet)
+Seat 5: Schulle1402 folded before Flop (didn't bet)
+Seat 6: pawelbmw folded on the Flop
+Seat 7: engvio folded on the Flop
+Seat 8: miguel.sbs folded before Flop (didn't bet)
+Seat 9: nochedeverano folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826755792: Tournament #2639184189, $0.09+$0.01 USD Hold'em No Limit - Level I (10/20) - 2019/06/28 19:52:09 ET
+Table '2639184189 37' 9-max Seat #2 is the button
+Seat 1: alero203 (1800 in chips) 
+Seat 2: Taargeett (1480 in chips) 
+Seat 3: K@do152 (1260 in chips) 
+Seat 4: LeoDiv. (1500 in chips) 
+Seat 6: pawelbmw (1480 in chips) 
+Seat 7: engvio (1480 in chips) 
+Seat 8: miguel.sbs (1500 in chips) 
+Seat 9: nochedeverano (1500 in chips) is sitting out
+K@do152: posts small blind 10
+LeoDiv.: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [Kh 7h]
+pawelbmw: calls 20
+engvio: folds 
+miguel.sbs: raises 160 to 180
+nochedeverano: folds 
+alero203: calls 180
+Taargeett: folds 
+K@do152: folds 
+LeoDiv.: folds 
+pawelbmw: calls 160
+*** FLOP *** [3s 6d 2d]
+pawelbmw: checks 
+miguel.sbs: bets 1320 and is all-in
+alero203: folds 
+pawelbmw: calls 1300 and is all-in
+Uncalled bet (20) returned to miguel.sbs
+*** TURN *** [3s 6d 2d] [Qh]
+*** RIVER *** [3s 6d 2d Qh] [3h]
+*** SHOW DOWN ***
+pawelbmw: shows [5h 4h] (a straight, Deuce to Six)
+miguel.sbs: shows [Ts Tc] (two pair, Tens and Threes)
+pawelbmw collected 3170 from pot
+*** SUMMARY ***
+Total pot 3170 | Rake 0 
+Board [3s 6d 2d Qh 3h]
+Seat 1: alero203 folded on the Flop
+Seat 2: Taargeett (button) folded before Flop (didn't bet)
+Seat 3: K@do152 (small blind) folded before Flop
+Seat 4: LeoDiv. (big blind) folded before Flop
+Seat 6: pawelbmw showed [5h 4h] and won (3170) with a straight, Deuce to Six
+Seat 7: engvio folded before Flop (didn't bet)
+Seat 8: miguel.sbs showed [Ts Tc] and lost with two pair, Tens and Threes
+Seat 9: nochedeverano folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826786887: Tournament #2639184189, $0.09+$0.01 USD Hold'em No Limit - Level I (10/20) - 2019/06/28 19:53:09 ET
+Table '2639184189 37' 9-max Seat #3 is the button
+Seat 1: alero203 (1620 in chips) 
+Seat 2: Taargeett (1480 in chips) 
+Seat 3: K@do152 (1250 in chips) 
+Seat 4: LeoDiv. (1480 in chips) 
+Seat 5: TheoBonsai (4569 in chips) 
+Seat 6: pawelbmw (3170 in chips) 
+Seat 7: engvio (1480 in chips) 
+Seat 8: miguel.sbs (20 in chips) 
+Seat 9: nochedeverano (1500 in chips) is sitting out
+LeoDiv.: posts small blind 10
+TheoBonsai: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [8s 2s]
+pawelbmw: folds 
+engvio: folds 
+miguel.sbs: calls 20 and is all-in
+nochedeverano: folds 
+alero203: folds 
+Taargeett: folds 
+K@do152: calls 20
+LeoDiv.: calls 10
+TheoBonsai: checks 
+*** FLOP *** [4d 4s 9d]
+LeoDiv.: bets 40
+TheoBonsai: folds 
+K@do152: folds 
+Uncalled bet (40) returned to LeoDiv.
+*** TURN *** [4d 4s 9d] [3h]
+*** RIVER *** [4d 4s 9d 3h] [Ad]
+*** SHOW DOWN ***
+LeoDiv.: shows [5d 6d] (a flush, Ace high)
+miguel.sbs: shows [Th 9h] (two pair, Nines and Fours)
+LeoDiv. collected 80 from pot
+miguel.sbs finished the tournament in 324th place
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4d 4s 9d 3h Ad]
+Seat 1: alero203 folded before Flop (didn't bet)
+Seat 2: Taargeett folded before Flop (didn't bet)
+Seat 3: K@do152 (button) folded on the Flop
+Seat 4: LeoDiv. (small blind) showed [5d 6d] and won (80) with a flush, Ace high
+Seat 5: TheoBonsai (big blind) folded on the Flop
+Seat 6: pawelbmw folded before Flop (didn't bet)
+Seat 7: engvio folded before Flop (didn't bet)
+Seat 8: miguel.sbs showed [Th 9h] and lost with two pair, Nines and Fours
+Seat 9: nochedeverano folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826802775: Tournament #2639184189, $0.09+$0.01 USD Hold'em No Limit - Level II (15/30) - 2019/06/28 19:53:51 ET
+Table '2639184189 37' 9-max Seat #4 is the button
+Seat 1: alero203 (1620 in chips) 
+Seat 2: Taargeett (1480 in chips) 
+Seat 3: K@do152 (1230 in chips) 
+Seat 4: LeoDiv. (1540 in chips) 
+Seat 5: TheoBonsai (4549 in chips) 
+Seat 6: pawelbmw (3170 in chips) 
+Seat 7: engvio (1480 in chips) 
+Seat 9: nochedeverano (1500 in chips) is sitting out
+TheoBonsai: posts small blind 15
+pawelbmw: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [7h 8c]
+engvio: raises 75 to 105
+nochedeverano: folds 
+alero203: folds 
+Taargeett: folds 
+K@do152: folds 
+LeoDiv.: folds 
+TheoBonsai: calls 90
+pawelbmw: calls 75
+*** FLOP *** [5s 2c 3c]
+TheoBonsai: checks 
+pawelbmw: checks 
+engvio: bets 315
+TheoBonsai: calls 315
+pawelbmw: folds 
+*** TURN *** [5s 2c 3c] [Ac]
+TheoBonsai: checks 
+engvio: bets 1060 and is all-in
+TheoBonsai: folds 
+Uncalled bet (1060) returned to engvio
+engvio collected 945 from pot
+engvio: doesn't show hand 
+*** SUMMARY ***
+Total pot 945 | Rake 0 
+Board [5s 2c 3c Ac]
+Seat 1: alero203 folded before Flop (didn't bet)
+Seat 2: Taargeett folded before Flop (didn't bet)
+Seat 3: K@do152 folded before Flop (didn't bet)
+Seat 4: LeoDiv. (button) folded before Flop (didn't bet)
+Seat 5: TheoBonsai (small blind) folded on the Turn
+Seat 6: pawelbmw (big blind) folded on the Flop
+Seat 7: engvio collected (945)
+Seat 9: nochedeverano folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826970133: Tournament #2639184189, $0.09+$0.01 USD Hold'em No Limit - Level II (15/30) - 2019/06/28 20:02:17 ET
+Table '2639184189 37' 9-max Seat #5 is the button
+Seat 1: alero203 (1620 in chips) 
+Seat 2: Taargeett (1480 in chips) 
+Seat 3: K@do152 (1230 in chips) 
+Seat 4: LeoDiv. (1540 in chips) 
+Seat 5: TheoBonsai (4129 in chips) 
+Seat 6: pawelbmw (3065 in chips) 
+Seat 7: engvio (2005 in chips) 
+Seat 8: doper772 (4655 in chips) 
+Seat 9: nochedeverano (1500 in chips) 
+pawelbmw: posts small blind 15
+engvio: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [Js Ts]
+doper772: folds 
+nochedeverano: calls 30
+alero203: folds 
+Taargeett: folds 
+K@do152: calls 30
+LeoDiv.: folds 
+TheoBonsai: folds 
+pawelbmw: raises 3035 to 3065 and is all-in
+engvio: folds 
+nochedeverano has timed out
+nochedeverano: folds 
+nochedeverano is sitting out
+K@do152: folds 
+Uncalled bet (3035) returned to pawelbmw
+pawelbmw collected 120 from pot
+pawelbmw: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: alero203 folded before Flop (didn't bet)
+Seat 2: Taargeett folded before Flop (didn't bet)
+Seat 3: K@do152 folded before Flop
+Seat 4: LeoDiv. folded before Flop (didn't bet)
+Seat 5: TheoBonsai (button) folded before Flop (didn't bet)
+Seat 6: pawelbmw (small blind) collected (120)
+Seat 7: engvio (big blind) folded before Flop
+Seat 8: doper772 folded before Flop (didn't bet)
+Seat 9: nochedeverano folded before Flop
+
+
+
+PokerStars Hand #201827010232: Tournament #2639184189, $0.09+$0.01 USD Hold'em No Limit - Level III (20/40) - 2019/06/28 20:04:07 ET
+Table '2639184189 37' 9-max Seat #6 is the button
+Seat 1: alero203 (1620 in chips) 
+Seat 2: Taargeett (1480 in chips) 
+Seat 3: K@do152 (1200 in chips) 
+Seat 4: LeoDiv. (1540 in chips) 
+Seat 5: TheoBonsai (4129 in chips) 
+Seat 6: pawelbmw (3155 in chips) 
+Seat 7: engvio (1975 in chips) 
+Seat 8: doper772 (4655 in chips) 
+Seat 9: nochedeverano (1470 in chips) is sitting out
+engvio: posts small blind 20
+doper772: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Taargeett [Td Qd]
+nochedeverano: folds 
+alero203: folds 
+Taargeett: folds 
+K@do152: folds 
+LeoDiv.: folds 
+TheoBonsai: raises 69 to 109
+nochedeverano has returned
+pawelbmw: calls 109
+engvio: calls 89
+doper772: calls 69
+*** FLOP *** [6s 4s 6h]
+engvio: bets 120
+doper772: folds 
+TheoBonsai: folds 
+pawelbmw: folds 
+Uncalled bet (120) returned to engvio
+engvio collected 436 from pot
+engvio: doesn't show hand 
+*** SUMMARY ***
+Total pot 436 | Rake 0 
+Board [6s 4s 6h]
+Seat 1: alero203 folded before Flop (didn't bet)
+Seat 2: Taargeett folded before Flop (didn't bet)
+Seat 3: K@do152 folded before Flop (didn't bet)
+Seat 4: LeoDiv. folded before Flop (didn't bet)
+Seat 5: TheoBonsai folded on the Flop
+Seat 6: pawelbmw (button) folded on the Flop
+Seat 7: engvio (small blind) collected (436)
+Seat 8: doper772 (big blind) folded on the Flop
+Seat 9: nochedeverano folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201827039682: Tournament #2639184189, $0.09+$0.01 USD Hold'em No Limit - Level III (20/40) - 2019/06/28 20:05:29 ET
+Table '2639184189 37' 9-max Seat #7 is the button
+Seat 1: alero203 (1620 in chips) 
+Seat 2: Taargeett (1480 in chips) 
+Seat 3: K@do152 (1200 in chips) 
+Seat 4: LeoDiv. (1540 in chips) 
+Seat 5: TheoBonsai (4020 in chips) 
+Seat 6: pawelbmw (3046 in chips) 
+Seat 7: engvio (2302 in chips) 
+Seat 8: doper772 (4546 in chips) 
+Seat 9: nochedeverano (1470 in chips) 
+doper772: posts small blind 20
+nochedeverano: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Taargeett [Qh 2c]
+alero203: folds 
+Taargeett: folds 
+K@do152: calls 40
+LeoDiv.: folds 
+K@do152 said, "z"
+TheoBonsai: folds 
+pawelbmw: calls 40
+engvio: calls 40
+doper772: calls 20
+nochedeverano: checks 
+*** FLOP *** [3h 4c Tc]
+doper772: checks 
+nochedeverano: checks 
+K@do152: checks 
+pawelbmw: checks 
+engvio: checks 
+*** TURN *** [3h 4c Tc] [9d]
+doper772: bets 40
+nochedeverano: calls 40
+K@do152: calls 40
+pawelbmw: calls 40
+engvio: folds 
+*** RIVER *** [3h 4c Tc 9d] [4h]
+doper772: bets 40
+nochedeverano: folds 
+K@do152: folds 
+pawelbmw: folds 
+Uncalled bet (40) returned to doper772
+doper772 collected 360 from pot
+doper772: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [3h 4c Tc 9d 4h]
+Seat 1: alero203 folded before Flop (didn't bet)
+Seat 2: Taargeett folded before Flop (didn't bet)
+Seat 3: K@do152 folded on the River
+Seat 4: LeoDiv. folded before Flop (didn't bet)
+Seat 5: TheoBonsai folded before Flop (didn't bet)
+Seat 6: pawelbmw folded on the River
+Seat 7: engvio (button) folded on the Turn
+Seat 8: doper772 (small blind) collected (360)
+Seat 9: nochedeverano (big blind) folded on the River
+
+
+
+PokerStars Hand #201827071264: Tournament #2639184189, $0.09+$0.01 USD Hold'em No Limit - Level IV (25/50) - 2019/06/28 20:06:57 ET
+Table '2639184189 37' 9-max Seat #8 is the button
+Seat 1: alero203 (1620 in chips) 
+Seat 2: Taargeett (1480 in chips) 
+Seat 3: K@do152 (1120 in chips) 
+Seat 4: LeoDiv. (1540 in chips) 
+Seat 5: TheoBonsai (4020 in chips) 
+Seat 6: pawelbmw (2966 in chips) 
+Seat 7: engvio (2262 in chips) 
+Seat 8: doper772 (4826 in chips) 
+Seat 9: nochedeverano (1390 in chips) 
+nochedeverano: posts small blind 25
+alero203: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Taargeett [As 4h]
+Taargeett: folds 
+K@do152: folds 
+LeoDiv.: calls 50
+TheoBonsai: calls 50
+pawelbmw: folds 
+engvio: calls 50
+doper772: calls 50
+nochedeverano: calls 25
+alero203: checks 
+*** FLOP *** [2h 9c 3d]
+nochedeverano: bets 50
+alero203: calls 50
+LeoDiv.: calls 50
+TheoBonsai: calls 50
+engvio: calls 50
+doper772: folds 
+*** TURN *** [2h 9c 3d] [Jd]
+nochedeverano: bets 50
+alero203: raises 200 to 250
+LeoDiv.: calls 250
+TheoBonsai: folds 
+engvio: folds 
+nochedeverano: calls 200
+*** RIVER *** [2h 9c 3d Jd] [7h]
+nochedeverano: checks 
+alero203: bets 200
+LeoDiv.: raises 990 to 1190 and is all-in
+nochedeverano: folds 
+alero203: folds 
+Uncalled bet (990) returned to LeoDiv.
+LeoDiv. collected 1700 from pot
+LeoDiv.: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [2h 9c 3d Jd 7h]
+Seat 1: alero203 (big blind) folded on the River
+Seat 2: Taargeett folded before Flop (didn't bet)
+Seat 3: K@do152 folded before Flop (didn't bet)
+Seat 4: LeoDiv. collected (1700)
+Seat 5: TheoBonsai folded on the Turn
+Seat 6: pawelbmw folded before Flop (didn't bet)
+Seat 7: engvio folded on the Turn
+Seat 8: doper772 (button) folded on the Flop
+Seat 9: nochedeverano (small blind) folded on the River
+
+
+
+PokerStars Hand #201827119858: Tournament #2639184189, $0.09+$0.01 USD Hold'em No Limit - Level IV (25/50) - 2019/06/28 20:09:14 ET
+Table '2639184189 37' 9-max Seat #9 is the button
+Seat 1: alero203 (1070 in chips) 
+Seat 2: Taargeett (1480 in chips) 
+Seat 3: K@do152 (1120 in chips) 
+Seat 4: LeoDiv. (2690 in chips) 
+Seat 5: TheoBonsai (3920 in chips) 
+Seat 6: pawelbmw (2966 in chips) 
+Seat 7: engvio (2162 in chips) 
+Seat 8: doper772 (4776 in chips) 
+Seat 9: nochedeverano (1040 in chips) 
+alero203: posts small blind 25
+Taargeett: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Taargeett [9h 7d]
+K@do152: folds 
+doper772 said, "ggf"
+LeoDiv.: folds 
+TheoBonsai: folds 
+pawelbmw has timed out
+pawelbmw: folds 
+pawelbmw is sitting out
+engvio: calls 50
+doper772: calls 50
+nochedeverano: calls 50
+alero203: raises 50 to 100
+Taargeett: folds 
+engvio: raises 50 to 150
+doper772: folds 
+nochedeverano: calls 100
+alero203: raises 50 to 200
+engvio: calls 50
+nochedeverano: calls 50
+*** FLOP *** [4d 4h Jc]
+alero203: bets 350
+engvio: folds 
+nochedeverano: folds 
+Uncalled bet (350) returned to alero203
+alero203 collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [4d 4h Jc]
+Seat 1: alero203 (small blind) collected (700)
+Seat 2: Taargeett (big blind) folded before Flop
+Seat 3: K@do152 folded before Flop (didn't bet)
+Seat 4: LeoDiv. folded before Flop (didn't bet)
+Seat 5: TheoBonsai folded before Flop (didn't bet)
+Seat 6: pawelbmw folded before Flop (didn't bet)
+Seat 7: engvio folded on the Flop
+Seat 8: doper772 folded before Flop
+Seat 9: nochedeverano (button) folded on the Flop
+
+
+
+PokerStars Hand #201827157719: Tournament #2639184189, $0.09+$0.01 USD Hold'em No Limit - Level V (30/60) - 2019/06/28 20:11:00 ET
+Table '2639184189 37' 9-max Seat #1 is the button
+Seat 1: alero203 (1570 in chips) 
+Seat 2: Taargeett (1430 in chips) 
+Seat 3: K@do152 (1120 in chips) 
+Seat 4: LeoDiv. (2690 in chips) 
+Seat 5: TheoBonsai (3920 in chips) 
+Seat 6: pawelbmw (2966 in chips) is sitting out
+Seat 7: engvio (1962 in chips) 
+Seat 8: doper772 (4726 in chips) 
+Seat 9: nochedeverano (840 in chips) 
+Taargeett: posts small blind 30
+K@do152: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Taargeett [5d Qs]
+LeoDiv.: calls 60
+TheoBonsai: folds 
+pawelbmw: folds 
+engvio: calls 60
+doper772: raises 60 to 120
+nochedeverano: calls 120
+alero203: folds 
+Taargeett: folds 
+K@do152: calls 60
+LeoDiv.: calls 60
+engvio: calls 60
+*** FLOP *** [9s 5h 3d]
+K@do152: bets 600
+LeoDiv.: folds 
+engvio: folds 
+doper772: raises 600 to 1200
+nochedeverano: folds 
+K@do152: calls 400 and is all-in
+Uncalled bet (200) returned to doper772
+*** TURN *** [9s 5h 3d] [6c]
+*** RIVER *** [9s 5h 3d 6c] [Th]
+*** SHOW DOWN ***
+K@do152: shows [Qc 9c] (a pair of Nines)
+doper772: shows [Ac 3c] (a pair of Threes)
+K@do152 collected 2630 from pot
+*** SUMMARY ***
+Total pot 2630 | Rake 0 
+Board [9s 5h 3d 6c Th]
+Seat 1: alero203 (button) folded before Flop (didn't bet)
+Seat 2: Taargeett (small blind) folded before Flop
+Seat 3: K@do152 (big blind) showed [Qc 9c] and won (2630) with a pair of Nines
+Seat 4: LeoDiv. folded on the Flop
+Seat 5: TheoBonsai folded before Flop (didn't bet)
+Seat 6: pawelbmw folded before Flop (didn't bet)
+Seat 7: engvio folded on the Flop
+Seat 8: doper772 showed [Ac 3c] and lost with a pair of Threes
+Seat 9: nochedeverano folded on the Flop
+
+
+
+PokerStars Hand #201827197325: Tournament #2639184189, $0.09+$0.01 USD Hold'em No Limit - Level VI (40/80) - 2019/06/28 20:12:52 ET
+Table '2639184189 37' 9-max Seat #2 is the button
+Seat 1: alero203 (1570 in chips) 
+Seat 2: Taargeett (1400 in chips) 
+Seat 3: K@do152 (2630 in chips) 
+Seat 4: LeoDiv. (2570 in chips) 
+Seat 5: TheoBonsai (3920 in chips) 
+Seat 6: pawelbmw (2966 in chips) is sitting out
+Seat 7: engvio (1842 in chips) 
+Seat 8: doper772 (3606 in chips) 
+Seat 9: nochedeverano (720 in chips) 
+K@do152: posts small blind 40
+LeoDiv.: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Taargeett [9c 8c]
+TheoBonsai: raises 80 to 160
+pawelbmw: folds 
+engvio: calls 160
+doper772: calls 160
+nochedeverano: raises 80 to 240
+alero203: folds 
+Taargeett: folds 
+K@do152: folds 
+LeoDiv.: folds 
+TheoBonsai: raises 400 to 640
+engvio: folds 
+doper772: folds 
+nochedeverano: raises 80 to 720 and is all-in
+TheoBonsai: calls 80
+*** FLOP *** [Td 4h 6h]
+*** TURN *** [Td 4h 6h] [2h]
+*** RIVER *** [Td 4h 6h 2h] [Js]
+*** SHOW DOWN ***
+TheoBonsai: shows [Ah Tc] (a pair of Tens)
+nochedeverano: shows [6s Ac] (a pair of Sixes)
+TheoBonsai collected 1880 from pot
+nochedeverano finished the tournament in 226th place
+*** SUMMARY ***
+Total pot 1880 | Rake 0 
+Board [Td 4h 6h 2h Js]
+Seat 1: alero203 folded before Flop (didn't bet)
+Seat 2: Taargeett (button) folded before Flop (didn't bet)
+Seat 3: K@do152 (small blind) folded before Flop
+Seat 4: LeoDiv. (big blind) folded before Flop
+Seat 5: TheoBonsai showed [Ah Tc] and won (1880) with a pair of Tens
+Seat 6: pawelbmw folded before Flop (didn't bet)
+Seat 7: engvio folded before Flop
+Seat 8: doper772 folded before Flop
+Seat 9: nochedeverano showed [6s Ac] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #201827238513: Tournament #2639184189, $0.09+$0.01 USD Hold'em No Limit - Level VI (40/80) - 2019/06/28 20:14:50 ET
+Table '2639184189 17' 9-max Seat #6 is the button
+Seat 1: SergKras58 (6385 in chips) 
+Seat 2: RPBRA (1360 in chips) is sitting out
+Seat 3: Sauki3 (1360 in chips) is sitting out
+Seat 4: Taargeett (1400 in chips) 
+Seat 5: quni1010 (3272 in chips) 
+Seat 6: Pandrew110 (2200 in chips) 
+Seat 7: redrose2511 (3606 in chips) 
+Seat 8: heino44 (655 in chips) 
+Seat 9: nik@s870 (1580 in chips) 
+redrose2511: posts small blind 40
+heino44: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Taargeett [6h 7h]
+nik@s870: folds 
+SergKras58: folds 
+RPBRA: folds 
+Sauki3: folds 
+Taargeett: folds 
+quni1010: folds 
+Pandrew110: folds 
+redrose2511: folds 
+Uncalled bet (40) returned to heino44
+heino44 collected 80 from pot
+heino44: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: SergKras58 folded before Flop (didn't bet)
+Seat 2: RPBRA folded before Flop (didn't bet)
+Seat 3: Sauki3 folded before Flop (didn't bet)
+Seat 4: Taargeett folded before Flop (didn't bet)
+Seat 5: quni1010 folded before Flop (didn't bet)
+Seat 6: Pandrew110 (button) folded before Flop (didn't bet)
+Seat 7: redrose2511 (small blind) folded before Flop
+Seat 8: heino44 (big blind) collected (80)
+Seat 9: nik@s870 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201827242673: Tournament #2639184189, $0.09+$0.01 USD Hold'em No Limit - Level VI (40/80) - 2019/06/28 20:15:02 ET
+Table '2639184189 17' 9-max Seat #7 is the button
+Seat 1: SergKras58 (6385 in chips) 
+Seat 2: RPBRA (1360 in chips) is sitting out
+Seat 3: Sauki3 (1360 in chips) is sitting out
+Seat 4: Taargeett (1400 in chips) 
+Seat 5: quni1010 (3272 in chips) 
+Seat 6: Pandrew110 (2200 in chips) 
+Seat 7: redrose2511 (3566 in chips) 
+Seat 8: heino44 (695 in chips) 
+Seat 9: nik@s870 (1580 in chips) 
+heino44: posts small blind 40
+nik@s870: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Taargeett [Qd 4c]
+SergKras58: folds 
+RPBRA: folds 
+Sauki3: folds 
+Taargeett: folds 
+quni1010: calls 80
+Pandrew110: folds 
+redrose2511: raises 160 to 240
+heino44: folds 
+nik@s870: calls 160
+quni1010: calls 160
+*** FLOP *** [5h 2d 3d]
+nik@s870: checks 
+quni1010: checks 
+redrose2511: bets 760
+nik@s870: folds 
+quni1010: folds 
+Uncalled bet (760) returned to redrose2511
+redrose2511 collected 760 from pot
+redrose2511: doesn't show hand 
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [5h 2d 3d]
+Seat 1: SergKras58 folded before Flop (didn't bet)
+Seat 2: RPBRA folded before Flop (didn't bet)
+Seat 3: Sauki3 folded before Flop (didn't bet)
+Seat 4: Taargeett folded before Flop (didn't bet)
+Seat 5: quni1010 folded on the Flop
+Seat 6: Pandrew110 folded before Flop (didn't bet)
+Seat 7: redrose2511 (button) collected (760)
+Seat 8: heino44 (small blind) folded before Flop
+Seat 9: nik@s870 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #201827262947: Tournament #2639184189, $0.09+$0.01 USD Hold'em No Limit - Level VII (50/100) - 2019/06/28 20:16:00 ET
+Table '2639184189 17' 9-max Seat #8 is the button
+Seat 1: SergKras58 (6385 in chips) 
+Seat 2: RPBRA (1360 in chips) is sitting out
+Seat 3: Sauki3 (1360 in chips) is sitting out
+Seat 4: Taargeett (1400 in chips) 
+Seat 5: quni1010 (3032 in chips) 
+Seat 6: Pandrew110 (2200 in chips) 
+Seat 7: redrose2511 (4086 in chips) 
+Seat 8: heino44 (655 in chips) 
+Seat 9: nik@s870 (1340 in chips) 
+nik@s870: posts small blind 50
+SergKras58: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [7c Ad]
+RPBRA: folds 
+Sauki3: folds 
+Taargeett: raises 200 to 300
+quni1010: calls 300
+Pandrew110: folds 
+redrose2511: calls 300
+heino44: folds 
+nik@s870: folds 
+SergKras58: folds 
+*** FLOP *** [6h 9h 9c]
+Taargeett: bets 1100 and is all-in
+quni1010: folds 
+redrose2511: calls 1100
+*** TURN *** [6h 9h 9c] [8d]
+*** RIVER *** [6h 9h 9c 8d] [Ks]
+*** SHOW DOWN ***
+Taargeett: shows [7c Ad] (a pair of Nines)
+redrose2511: shows [5s 5d] (two pair, Nines and Fives)
+redrose2511 collected 3250 from pot
+Taargeett finished the tournament in 209th place
+*** SUMMARY ***
+Total pot 3250 | Rake 0 
+Board [6h 9h 9c 8d Ks]
+Seat 1: SergKras58 (big blind) folded before Flop
+Seat 2: RPBRA folded before Flop (didn't bet)
+Seat 3: Sauki3 folded before Flop (didn't bet)
+Seat 4: Taargeett showed [7c Ad] and lost with a pair of Nines
+Seat 5: quni1010 folded on the Flop
+Seat 6: Pandrew110 folded before Flop (didn't bet)
+Seat 7: redrose2511 showed [5s 5d] and won (3250) with two pair, Nines and Fives
+Seat 8: heino44 (button) folded before Flop (didn't bet)
+Seat 9: nik@s870 (small blind) folded before Flop
+
+
+

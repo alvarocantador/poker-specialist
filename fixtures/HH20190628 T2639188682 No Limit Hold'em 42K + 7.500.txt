@@ -1,0 +1,388 @@
+﻿PokerStars Hand #201826303466: Tournament #2639188682, 42500+7500 Hold'em No Limit - Level I (10/20) - 2019/06/28 19:32:35 ET
+Table '2639188682 2' 9-max Seat #1 is the button
+Seat 1: wozza57 (1500 in chips) 
+Seat 2: thenutz07187 (1500 in chips) 
+Seat 3: CompleX24 (1500 in chips) is sitting out
+Seat 4: hitchcow (1500 in chips) 
+Seat 5: phour420 (1500 in chips) 
+Seat 6: Mrpoolpla613 (1500 in chips) 
+Seat 7: Emaglione (1500 in chips) 
+Seat 8: Taargeett (1500 in chips) 
+Seat 9: mimis63 (1500 in chips) is sitting out
+thenutz07187: posts small blind 10
+CompleX24: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [Th Kc]
+hitchcow has timed out
+hitchcow: folds 
+phour420: folds 
+Mrpoolpla613: calls 20
+Emaglione: folds 
+Taargeett: raises 40 to 60
+mimis63: folds 
+wozza57: calls 60
+thenutz07187: calls 50
+CompleX24: folds 
+Mrpoolpla613: calls 40
+*** FLOP *** [9h 8h Td]
+thenutz07187: checks 
+Mrpoolpla613: checks 
+mimis63 said, "geia sou file"
+Taargeett: bets 165
+wozza57: folds 
+thenutz07187: folds 
+Mrpoolpla613: folds 
+Uncalled bet (165) returned to Taargeett
+Taargeett collected 260 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [9h 8h Td]
+Seat 1: wozza57 (button) folded on the Flop
+Seat 2: thenutz07187 (small blind) folded on the Flop
+Seat 3: CompleX24 (big blind) folded before Flop
+Seat 4: hitchcow folded before Flop (didn't bet)
+Seat 5: phour420 folded before Flop (didn't bet)
+Seat 6: Mrpoolpla613 folded on the Flop
+Seat 7: Emaglione folded before Flop (didn't bet)
+Seat 8: Taargeett collected (260)
+Seat 9: mimis63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826331366: Tournament #2639188682, 42500+7500 Hold'em No Limit - Level I (10/20) - 2019/06/28 19:33:45 ET
+Table '2639188682 2' 9-max Seat #2 is the button
+Seat 1: wozza57 (1440 in chips) 
+Seat 2: thenutz07187 (1440 in chips) 
+Seat 3: CompleX24 (1480 in chips) 
+Seat 4: hitchcow (1500 in chips) 
+Seat 5: phour420 (1500 in chips) 
+Seat 6: Mrpoolpla613 (1440 in chips) 
+Seat 7: Emaglione (1500 in chips) 
+Seat 8: Taargeett (1700 in chips) 
+Seat 9: mimis63 (1500 in chips) 
+CompleX24: posts small blind 10
+hitchcow: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [5h Tc]
+phour420: folds 
+Mrpoolpla613: calls 20
+CompleX24 said, "thessalonikh edw"
+Emaglione: calls 20
+Taargeett: folds 
+mimis63: folds 
+wozza57: calls 20
+thenutz07187: calls 20
+CompleX24: raises 1440 to 1460
+hitchcow: folds 
+mimis63 said, "pyrgos"
+Mrpoolpla613: folds 
+Emaglione: folds 
+wozza57: folds 
+thenutz07187: folds 
+Uncalled bet (1440) returned to CompleX24
+CompleX24 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: wozza57 folded before Flop
+Seat 2: thenutz07187 (button) folded before Flop
+Seat 3: CompleX24 (small blind) collected (120)
+Seat 4: hitchcow (big blind) folded before Flop
+Seat 5: phour420 folded before Flop (didn't bet)
+Seat 6: Mrpoolpla613 folded before Flop
+Seat 7: Emaglione folded before Flop
+Seat 8: Taargeett folded before Flop (didn't bet)
+Seat 9: mimis63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826345656: Tournament #2639188682, 42500+7500 Hold'em No Limit - Level I (10/20) - 2019/06/28 19:34:20 ET
+Table '2639188682 2' 9-max Seat #3 is the button
+Seat 1: wozza57 (1420 in chips) 
+Seat 2: thenutz07187 (1420 in chips) 
+Seat 3: CompleX24 (1580 in chips) 
+Seat 4: hitchcow (1480 in chips) 
+Seat 5: phour420 (1500 in chips) 
+Seat 6: Mrpoolpla613 (1420 in chips) 
+Seat 7: Emaglione (1480 in chips) 
+Seat 8: Taargeett (1700 in chips) 
+Seat 9: mimis63 (1500 in chips) 
+hitchcow: posts small blind 10
+phour420: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [8s Qc]
+Mrpoolpla613: folds 
+Emaglione: folds 
+Taargeett: folds 
+mimis63: folds 
+wozza57: calls 20
+thenutz07187 has timed out
+thenutz07187: folds 
+CompleX24: calls 20
+hitchcow: raises 280 to 300
+phour420: folds 
+wozza57: calls 280
+CompleX24: folds 
+*** FLOP *** [Kh 6c 6d]
+hitchcow: bets 1180 and is all-in
+wozza57: calls 1120 and is all-in
+Uncalled bet (60) returned to hitchcow
+*** TURN *** [Kh 6c 6d] [6s]
+*** RIVER *** [Kh 6c 6d 6s] [5c]
+*** SHOW DOWN ***
+hitchcow: shows [Js Jd] (a full house, Sixes full of Jacks)
+wozza57: shows [Ts Td] (a full house, Sixes full of Tens)
+hitchcow collected 2880 from pot
+wozza57 finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 2880 | Rake 0 
+Board [Kh 6c 6d 6s 5c]
+Seat 1: wozza57 showed [Ts Td] and lost with a full house, Sixes full of Tens
+Seat 2: thenutz07187 folded before Flop (didn't bet)
+Seat 3: CompleX24 (button) folded before Flop
+Seat 4: hitchcow (small blind) showed [Js Jd] and won (2880) with a full house, Sixes full of Jacks
+Seat 5: phour420 (big blind) folded before Flop
+Seat 6: Mrpoolpla613 folded before Flop (didn't bet)
+Seat 7: Emaglione folded before Flop (didn't bet)
+Seat 8: Taargeett folded before Flop (didn't bet)
+Seat 9: mimis63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826378316: Tournament #2639188682, 42500+7500 Hold'em No Limit - Level I (10/20) - 2019/06/28 19:35:42 ET
+Table '2639188682 2' 9-max Seat #4 is the button
+Seat 2: thenutz07187 (1420 in chips) 
+Seat 3: CompleX24 (1560 in chips) 
+Seat 4: hitchcow (2940 in chips) 
+Seat 5: phour420 (1480 in chips) 
+Seat 6: Mrpoolpla613 (1420 in chips) 
+Seat 7: Emaglione (1480 in chips) 
+Seat 8: Taargeett (1700 in chips) 
+Seat 9: mimis63 (1500 in chips) 
+phour420: posts small blind 10
+Mrpoolpla613: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [8d Ad]
+Emaglione: calls 20
+Taargeett: folds 
+mimis63: folds 
+thenutz07187: calls 20
+CompleX24: folds 
+hitchcow: calls 20
+phour420: raises 100 to 120
+Mrpoolpla613: calls 100
+Emaglione: calls 100
+thenutz07187: folds 
+hitchcow: calls 100
+*** FLOP *** [Qc Ts 6d]
+phour420: checks 
+Mrpoolpla613: checks 
+Emaglione: checks 
+hitchcow: bets 200
+phour420: folds 
+Mrpoolpla613: folds 
+Emaglione: folds 
+Uncalled bet (200) returned to hitchcow
+hitchcow collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [Qc Ts 6d]
+Seat 2: thenutz07187 folded before Flop
+Seat 3: CompleX24 folded before Flop (didn't bet)
+Seat 4: hitchcow (button) collected (500)
+Seat 5: phour420 (small blind) folded on the Flop
+Seat 6: Mrpoolpla613 (big blind) folded on the Flop
+Seat 7: Emaglione folded on the Flop
+Seat 8: Taargeett folded before Flop (didn't bet)
+Seat 9: mimis63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826398262: Tournament #2639188682, 42500+7500 Hold'em No Limit - Level I (10/20) - 2019/06/28 19:36:32 ET
+Table '2639188682 2' 9-max Seat #5 is the button
+Seat 2: thenutz07187 (1400 in chips) 
+Seat 3: CompleX24 (1560 in chips) 
+Seat 4: hitchcow (3320 in chips) 
+Seat 5: phour420 (1360 in chips) 
+Seat 6: Mrpoolpla613 (1300 in chips) 
+Seat 7: Emaglione (1360 in chips) 
+Seat 8: Taargeett (1700 in chips) 
+Seat 9: mimis63 (1500 in chips) 
+Mrpoolpla613: posts small blind 10
+Emaglione: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [5h 3s]
+Taargeett: folds 
+mimis63: folds 
+thenutz07187: calls 20
+CompleX24: folds 
+hitchcow: calls 20
+phour420: folds 
+Mrpoolpla613: calls 10
+Emaglione: checks 
+*** FLOP *** [6d Ah 6c]
+Mrpoolpla613: checks 
+Emaglione: checks 
+thenutz07187: checks 
+hitchcow: checks 
+*** TURN *** [6d Ah 6c] [Qc]
+Mrpoolpla613: checks 
+Emaglione: checks 
+thenutz07187: checks 
+hitchcow: bets 100
+Mrpoolpla613: folds 
+Emaglione: folds 
+thenutz07187: folds 
+Uncalled bet (100) returned to hitchcow
+hitchcow collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6d Ah 6c Qc]
+Seat 2: thenutz07187 folded on the Turn
+Seat 3: CompleX24 folded before Flop (didn't bet)
+Seat 4: hitchcow collected (80)
+Seat 5: phour420 (button) folded before Flop (didn't bet)
+Seat 6: Mrpoolpla613 (small blind) folded on the Turn
+Seat 7: Emaglione (big blind) folded on the Turn
+Seat 8: Taargeett folded before Flop (didn't bet)
+Seat 9: mimis63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826428884: Tournament #2639188682, 42500+7500 Hold'em No Limit - Level II (15/30) - 2019/06/28 19:37:50 ET
+Table '2639188682 2' 9-max Seat #6 is the button
+Seat 2: thenutz07187 (1380 in chips) 
+Seat 3: CompleX24 (1560 in chips) 
+Seat 4: hitchcow (3380 in chips) 
+Seat 5: phour420 (1360 in chips) 
+Seat 6: Mrpoolpla613 (1280 in chips) 
+Seat 7: Emaglione (1340 in chips) 
+Seat 8: Taargeett (1700 in chips) 
+Seat 9: mimis63 (1500 in chips) 
+Emaglione: posts small blind 15
+Taargeett: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [Th Jd]
+mimis63: folds 
+thenutz07187: folds 
+CompleX24: folds 
+hitchcow: raises 180 to 210
+phour420: folds 
+Mrpoolpla613: folds 
+Emaglione: folds 
+Taargeett: folds 
+Uncalled bet (180) returned to hitchcow
+hitchcow collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 2: thenutz07187 folded before Flop (didn't bet)
+Seat 3: CompleX24 folded before Flop (didn't bet)
+Seat 4: hitchcow collected (75)
+Seat 5: phour420 folded before Flop (didn't bet)
+Seat 6: Mrpoolpla613 (button) folded before Flop (didn't bet)
+Seat 7: Emaglione (small blind) folded before Flop
+Seat 8: Taargeett (big blind) folded before Flop
+Seat 9: mimis63 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826442060: Tournament #2639188682, 42500+7500 Hold'em No Limit - Level II (15/30) - 2019/06/28 19:38:23 ET
+Table '2639188682 2' 9-max Seat #7 is the button
+Seat 2: thenutz07187 (1380 in chips) 
+Seat 3: CompleX24 (1560 in chips) 
+Seat 4: hitchcow (3425 in chips) 
+Seat 5: phour420 (1360 in chips) 
+Seat 6: Mrpoolpla613 (1280 in chips) 
+Seat 7: Emaglione (1325 in chips) 
+Seat 8: Taargeett (1670 in chips) 
+Seat 9: mimis63 (1500 in chips) 
+Taargeett: posts small blind 15
+mimis63: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [Jd Ah]
+thenutz07187: folds 
+CompleX24: folds 
+hitchcow: raises 270 to 300
+phour420: folds 
+Mrpoolpla613: folds 
+Emaglione: folds 
+Taargeett: folds 
+mimis63: folds 
+Uncalled bet (270) returned to hitchcow
+hitchcow collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 2: thenutz07187 folded before Flop (didn't bet)
+Seat 3: CompleX24 folded before Flop (didn't bet)
+Seat 4: hitchcow collected (75)
+Seat 5: phour420 folded before Flop (didn't bet)
+Seat 6: Mrpoolpla613 folded before Flop (didn't bet)
+Seat 7: Emaglione (button) folded before Flop (didn't bet)
+Seat 8: Taargeett (small blind) folded before Flop
+Seat 9: mimis63 (big blind) folded before Flop
+
+
+
+PokerStars Hand #201826455072: Tournament #2639188682, 42500+7500 Hold'em No Limit - Level II (15/30) - 2019/06/28 19:38:57 ET
+Table '2639188682 2' 9-max Seat #8 is the button
+Seat 2: thenutz07187 (1380 in chips) 
+Seat 3: CompleX24 (1560 in chips) 
+Seat 4: hitchcow (3470 in chips) 
+Seat 5: phour420 (1360 in chips) 
+Seat 6: Mrpoolpla613 (1280 in chips) 
+Seat 7: Emaglione (1325 in chips) 
+Seat 8: Taargeett (1655 in chips) 
+Seat 9: mimis63 (1470 in chips) 
+mimis63: posts small blind 15
+thenutz07187: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [8h 8d]
+CompleX24: raises 30 to 60
+hitchcow: calls 60
+phour420: folds 
+Mrpoolpla613: folds 
+Emaglione: calls 60
+Taargeett: calls 60
+mimis63: calls 45
+thenutz07187: calls 30
+*** FLOP *** [8c Ts 5c]
+mimis63: checks 
+thenutz07187: bets 30
+CompleX24: folds 
+hitchcow: calls 30
+Emaglione: folds 
+Taargeett: raises 190 to 220
+mimis63: folds 
+thenutz07187: calls 190
+hitchcow: calls 190
+*** TURN *** [8c Ts 5c] [Jd]
+thenutz07187: checks 
+hitchcow: bets 480
+Taargeett: calls 480
+thenutz07187: raises 620 to 1100 and is all-in
+hitchcow: raises 2090 to 3190 and is all-in
+Taargeett: calls 895 and is all-in
+Uncalled bet (1815) returned to hitchcow
+*** RIVER *** [8c Ts 5c Jd] [4d]
+*** SHOW DOWN ***
+hitchcow: shows [7s 9d] (a straight, Seven to Jack)
+Taargeett: shows [8h 8d] (three of a kind, Eights)
+hitchcow collected 550 from side pot
+thenutz07187: shows [5h Td] (two pair, Tens and Fives)
+hitchcow collected 4320 from main pot
+Taargeett finished the tournament in 14th place
+thenutz07187 finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 4870 Main pot 4320. Side pot 550. | Rake 0 
+Board [8c Ts 5c Jd 4d]
+Seat 2: thenutz07187 (big blind) showed [5h Td] and lost with two pair, Tens and Fives
+Seat 3: CompleX24 folded on the Flop
+Seat 4: hitchcow showed [7s 9d] and won (4870) with a straight, Seven to Jack
+Seat 5: phour420 folded before Flop (didn't bet)
+Seat 6: Mrpoolpla613 folded before Flop (didn't bet)
+Seat 7: Emaglione folded on the Flop
+Seat 8: Taargeett (button) showed [8h 8d] and lost with three of a kind, Eights
+Seat 9: mimis63 (small blind) folded on the Flop
+
+
+

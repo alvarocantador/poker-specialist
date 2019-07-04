@@ -1,0 +1,2341 @@
+﻿PokerStars Hand #201794689855: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level IV (50/100) - 2019/06/27 18:09:49 ET
+Table '2638485490 2' 9-max Seat #4 is the button
+Seat 2: atom dr (2858 in chips) 
+Seat 4: MarcusBReis (1120 in chips) 
+Seat 6: lidioca211 (2835 in chips) 
+Seat 7: akropolis10 (4342 in chips) 
+Seat 8: Taargeett (1445 in chips) is sitting out
+Seat 9: Schuinezoute (900 in chips) 
+lidioca211: posts small blind 50
+akropolis10: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [Js 7d]
+Taargeett: folds 
+Schuinezoute: folds 
+atom dr: folds 
+MarcusBReis: folds 
+lidioca211: calls 50
+akropolis10: checks 
+*** FLOP *** [4s 4c Ad]
+lidioca211: checks 
+akropolis10: checks 
+*** TURN *** [4s 4c Ad] [2s]
+lidioca211: checks 
+akropolis10: checks 
+*** RIVER *** [4s 4c Ad 2s] [8s]
+lidioca211: bets 100
+akropolis10: folds 
+Uncalled bet (100) returned to lidioca211
+lidioca211 collected 200 from pot
+lidioca211: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [4s 4c Ad 2s 8s]
+Seat 2: atom dr folded before Flop (didn't bet)
+Seat 4: MarcusBReis (button) folded before Flop (didn't bet)
+Seat 6: lidioca211 (small blind) collected (200)
+Seat 7: akropolis10 (big blind) folded on the River
+Seat 8: Taargeett folded before Flop (didn't bet)
+Seat 9: Schuinezoute folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201794705170: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level IV (50/100) - 2019/06/27 18:10:19 ET
+Table '2638485490 2' 9-max Seat #6 is the button
+Seat 2: atom dr (2858 in chips) 
+Seat 4: MarcusBReis (1120 in chips) 
+Seat 6: lidioca211 (2935 in chips) 
+Seat 7: akropolis10 (4242 in chips) 
+Seat 8: Taargeett (1445 in chips) 
+Seat 9: Schuinezoute (900 in chips) 
+akropolis10: posts small blind 50
+Taargeett: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [4d 3d]
+Schuinezoute: folds 
+atom dr: folds 
+MarcusBReis: folds 
+lidioca211: folds 
+akropolis10: folds 
+Uncalled bet (50) returned to Taargeett
+Taargeett collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 2: atom dr folded before Flop (didn't bet)
+Seat 4: MarcusBReis folded before Flop (didn't bet)
+Seat 6: lidioca211 (button) folded before Flop (didn't bet)
+Seat 7: akropolis10 (small blind) folded before Flop
+Seat 8: Taargeett (big blind) collected (100)
+Seat 9: Schuinezoute folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201794711448: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level IV (50/100) - 2019/06/27 18:10:32 ET
+Table '2638485490 2' 9-max Seat #7 is the button
+Seat 2: atom dr (2858 in chips) 
+Seat 4: MarcusBReis (1120 in chips) 
+Seat 6: lidioca211 (2935 in chips) 
+Seat 7: akropolis10 (4192 in chips) 
+Seat 8: Taargeett (1495 in chips) 
+Seat 9: Schuinezoute (900 in chips) 
+Taargeett: posts small blind 50
+Schuinezoute: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [8c 6d]
+atom dr: folds 
+MarcusBReis: folds 
+lidioca211: folds 
+akropolis10: folds 
+Taargeett: folds 
+Uncalled bet (50) returned to Schuinezoute
+Schuinezoute collected 100 from pot
+Schuinezoute: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 2: atom dr folded before Flop (didn't bet)
+Seat 4: MarcusBReis folded before Flop (didn't bet)
+Seat 6: lidioca211 folded before Flop (didn't bet)
+Seat 7: akropolis10 (button) folded before Flop (didn't bet)
+Seat 8: Taargeett (small blind) folded before Flop
+Seat 9: Schuinezoute (big blind) collected (100)
+
+
+
+PokerStars Hand #201794721265: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level V (75/150) - 2019/06/27 18:10:52 ET
+Table '2638485490 2' 9-max Seat #8 is the button
+Seat 2: atom dr (2858 in chips) 
+Seat 4: MarcusBReis (1120 in chips) 
+Seat 6: lidioca211 (2935 in chips) 
+Seat 7: akropolis10 (4192 in chips) 
+Seat 8: Taargeett (1445 in chips) 
+Seat 9: Schuinezoute (950 in chips) 
+Schuinezoute: posts small blind 75
+atom dr: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [5c 7h]
+MarcusBReis: folds 
+lidioca211: folds 
+akropolis10: calls 150
+Taargeett: folds 
+Schuinezoute: folds 
+atom dr: checks 
+*** FLOP *** [9c 2h 7d]
+atom dr: checks 
+akropolis10: bets 150
+atom dr: calls 150
+*** TURN *** [9c 2h 7d] [6c]
+atom dr: checks 
+akropolis10: bets 150
+atom dr: folds 
+Uncalled bet (150) returned to akropolis10
+akropolis10 collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [9c 2h 7d 6c]
+Seat 2: atom dr (big blind) folded on the Turn
+Seat 4: MarcusBReis folded before Flop (didn't bet)
+Seat 6: lidioca211 folded before Flop (didn't bet)
+Seat 7: akropolis10 collected (675)
+Seat 8: Taargeett (button) folded before Flop (didn't bet)
+Seat 9: Schuinezoute (small blind) folded before Flop
+
+
+
+PokerStars Hand #201794738913: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level V (75/150) - 2019/06/27 18:11:27 ET
+Table '2638485490 2' 9-max Seat #9 is the button
+Seat 2: atom dr (2558 in chips) 
+Seat 4: MarcusBReis (1120 in chips) 
+Seat 6: lidioca211 (2935 in chips) 
+Seat 7: akropolis10 (4567 in chips) 
+Seat 8: Taargeett (1445 in chips) 
+Seat 9: Schuinezoute (875 in chips) 
+atom dr: posts small blind 75
+MarcusBReis: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [3d Td]
+lidioca211: folds 
+akropolis10: folds 
+Taargeett: folds 
+Schuinezoute: raises 150 to 300
+atom dr: folds 
+MarcusBReis: folds 
+Uncalled bet (150) returned to Schuinezoute
+Schuinezoute collected 375 from pot
+Schuinezoute: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 2: atom dr (small blind) folded before Flop
+Seat 4: MarcusBReis (big blind) folded before Flop
+Seat 6: lidioca211 folded before Flop (didn't bet)
+Seat 7: akropolis10 folded before Flop (didn't bet)
+Seat 8: Taargeett folded before Flop (didn't bet)
+Seat 9: Schuinezoute (button) collected (375)
+
+
+
+PokerStars Hand #201794752986: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level V (75/150) - 2019/06/27 18:11:55 ET
+Table '2638485490 2' 9-max Seat #2 is the button
+Seat 2: atom dr (2483 in chips) 
+Seat 4: MarcusBReis (970 in chips) 
+Seat 6: lidioca211 (2935 in chips) 
+Seat 7: akropolis10 (4567 in chips) 
+Seat 8: Taargeett (1445 in chips) 
+Seat 9: Schuinezoute (1100 in chips) 
+MarcusBReis: posts small blind 75
+lidioca211: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [Tc Qs]
+akropolis10: calls 150
+Taargeett: folds 
+Schuinezoute: calls 150
+atom dr: folds 
+MarcusBReis: calls 75
+lidioca211: checks 
+*** FLOP *** [2d Ks 5h]
+MarcusBReis: checks 
+lidioca211: checks 
+akropolis10: checks 
+Schuinezoute: checks 
+*** TURN *** [2d Ks 5h] [6c]
+MarcusBReis: checks 
+lidioca211: checks 
+akropolis10: checks 
+Schuinezoute: bets 300
+MarcusBReis: folds 
+lidioca211: folds 
+akropolis10: folds 
+Uncalled bet (300) returned to Schuinezoute
+Schuinezoute collected 600 from pot
+Schuinezoute: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [2d Ks 5h 6c]
+Seat 2: atom dr (button) folded before Flop (didn't bet)
+Seat 4: MarcusBReis (small blind) folded on the Turn
+Seat 6: lidioca211 (big blind) folded on the Turn
+Seat 7: akropolis10 folded on the Turn
+Seat 8: Taargeett folded before Flop (didn't bet)
+Seat 9: Schuinezoute collected (600)
+
+
+
+PokerStars Hand #201794771722: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level V (75/150) - 2019/06/27 18:12:34 ET
+Table '2638485490 2' 9-max Seat #4 is the button
+Seat 2: atom dr (2483 in chips) 
+Seat 4: MarcusBReis (820 in chips) 
+Seat 6: lidioca211 (2785 in chips) 
+Seat 7: akropolis10 (4417 in chips) 
+Seat 8: Taargeett (1445 in chips) 
+Seat 9: Schuinezoute (1550 in chips) 
+lidioca211: posts small blind 75
+akropolis10: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [5h 8s]
+Taargeett: folds 
+Schuinezoute: calls 150
+atom dr: folds 
+MarcusBReis: folds 
+lidioca211: calls 75
+akropolis10: checks 
+*** FLOP *** [Ks 5s 9h]
+lidioca211: checks 
+akropolis10: checks 
+Schuinezoute: bets 225
+lidioca211: calls 225
+akropolis10: folds 
+*** TURN *** [Ks 5s 9h] [8d]
+lidioca211: checks 
+Schuinezoute: checks 
+*** RIVER *** [Ks 5s 9h 8d] [3d]
+lidioca211: bets 900
+Schuinezoute: folds 
+Uncalled bet (900) returned to lidioca211
+lidioca211 collected 900 from pot
+lidioca211: doesn't show hand 
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [Ks 5s 9h 8d 3d]
+Seat 2: atom dr folded before Flop (didn't bet)
+Seat 4: MarcusBReis (button) folded before Flop (didn't bet)
+Seat 6: lidioca211 (small blind) collected (900)
+Seat 7: akropolis10 (big blind) folded on the Flop
+Seat 8: Taargeett folded before Flop (didn't bet)
+Seat 9: Schuinezoute folded on the River
+
+
+
+PokerStars Hand #201794789486: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level V (75/150) - 2019/06/27 18:13:10 ET
+Table '2638485490 2' 9-max Seat #6 is the button
+Seat 2: atom dr (2483 in chips) 
+Seat 4: MarcusBReis (820 in chips) 
+Seat 6: lidioca211 (3310 in chips) 
+Seat 7: akropolis10 (4267 in chips) 
+Seat 8: Taargeett (1445 in chips) 
+Seat 9: Schuinezoute (1175 in chips) 
+akropolis10: posts small blind 75
+Taargeett: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [Ah 4c]
+Schuinezoute: folds 
+atom dr: folds 
+MarcusBReis: calls 150
+lidioca211: calls 150
+akropolis10: calls 75
+Taargeett: checks 
+*** FLOP *** [4s 7d 6d]
+akropolis10: checks 
+Taargeett: bets 1295 and is all-in
+MarcusBReis: folds 
+lidioca211: folds 
+akropolis10: folds 
+Uncalled bet (1295) returned to Taargeett
+Taargeett collected 600 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [4s 7d 6d]
+Seat 2: atom dr folded before Flop (didn't bet)
+Seat 4: MarcusBReis folded on the Flop
+Seat 6: lidioca211 (button) folded on the Flop
+Seat 7: akropolis10 (small blind) folded on the Flop
+Seat 8: Taargeett (big blind) collected (600)
+Seat 9: Schuinezoute folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201794802667: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level V (75/150) - 2019/06/27 18:13:37 ET
+Table '2638485490 2' 9-max Seat #7 is the button
+Seat 2: atom dr (2483 in chips) 
+Seat 4: MarcusBReis (670 in chips) 
+Seat 6: lidioca211 (3160 in chips) 
+Seat 7: akropolis10 (4117 in chips) 
+Seat 8: Taargeett (1895 in chips) 
+Seat 9: Schuinezoute (1175 in chips) 
+Taargeett: posts small blind 75
+Schuinezoute: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [Ac 5h]
+atom dr: raises 375 to 525
+MarcusBReis: raises 145 to 670 and is all-in
+lidioca211: folds 
+akropolis10: folds 
+Taargeett: folds 
+Schuinezoute: calls 520
+atom dr: calls 145
+*** FLOP *** [4h 8c 8s]
+Schuinezoute: checks 
+atom dr: bets 150
+Schuinezoute: calls 150
+*** TURN *** [4h 8c 8s] [6d]
+Schuinezoute: checks 
+atom dr: bets 150
+Schuinezoute: folds 
+Uncalled bet (150) returned to atom dr
+*** RIVER *** [4h 8c 8s 6d] [7d]
+*** SHOW DOWN ***
+atom dr: shows [Jh Jd] (two pair, Jacks and Eights)
+atom dr collected 300 from side pot
+MarcusBReis: shows [Jc Ah] (a pair of Eights)
+atom dr collected 2085 from main pot
+MarcusBReis finished the tournament in 12th place
+*** SUMMARY ***
+Total pot 2385 Main pot 2085. Side pot 300. | Rake 0 
+Board [4h 8c 8s 6d 7d]
+Seat 2: atom dr showed [Jh Jd] and won (2385) with two pair, Jacks and Eights
+Seat 4: MarcusBReis showed [Jc Ah] and lost with a pair of Eights
+Seat 6: lidioca211 folded before Flop (didn't bet)
+Seat 7: akropolis10 (button) folded before Flop (didn't bet)
+Seat 8: Taargeett (small blind) folded before Flop
+Seat 9: Schuinezoute (big blind) folded on the Turn
+
+
+
+PokerStars Hand #201794824094: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level V (75/150) - 2019/06/27 18:14:21 ET
+Table '2638485490 2' 9-max Seat #8 is the button
+Seat 2: atom dr (4048 in chips) 
+Seat 6: lidioca211 (3160 in chips) 
+Seat 7: akropolis10 (4117 in chips) 
+Seat 8: Taargeett (1820 in chips) 
+Seat 9: Schuinezoute (355 in chips) 
+Schuinezoute: posts small blind 75
+atom dr: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [6c Ks]
+lidioca211: folds 
+akropolis10: calls 150
+Taargeett: raises 150 to 300
+Schuinezoute: folds 
+atom dr: folds 
+akropolis10: folds 
+Uncalled bet (150) returned to Taargeett
+Taargeett collected 525 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 2: atom dr (big blind) folded before Flop
+Seat 6: lidioca211 folded before Flop (didn't bet)
+Seat 7: akropolis10 folded before Flop
+Seat 8: Taargeett (button) collected (525)
+Seat 9: Schuinezoute (small blind) folded before Flop
+
+
+
+PokerStars Hand #201794834063: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level V (75/150) - 2019/06/27 18:14:41 ET
+Table '2638485490 2' 9-max Seat #9 is the button
+Seat 2: atom dr (3898 in chips) 
+Seat 6: lidioca211 (3160 in chips) 
+Seat 7: akropolis10 (3967 in chips) 
+Seat 8: Taargeett (2195 in chips) 
+Seat 9: Schuinezoute (280 in chips) 
+atom dr: posts small blind 75
+lidioca211: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [7h 7d]
+akropolis10: calls 150
+Taargeett: folds 
+Schuinezoute: calls 150
+atom dr: folds 
+lidioca211: checks 
+*** FLOP *** [Jc Kh 4d]
+lidioca211: checks 
+akropolis10: bets 300
+Schuinezoute: folds 
+lidioca211: folds 
+Uncalled bet (300) returned to akropolis10
+akropolis10 collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Board [Jc Kh 4d]
+Seat 2: atom dr (small blind) folded before Flop
+Seat 6: lidioca211 (big blind) folded on the Flop
+Seat 7: akropolis10 collected (525)
+Seat 8: Taargeett folded before Flop (didn't bet)
+Seat 9: Schuinezoute (button) folded on the Flop
+
+
+
+PokerStars Hand #201794847517: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level V (75/150) - 2019/06/27 18:15:09 ET
+Table '2638485490 2' 9-max Seat #2 is the button
+Seat 2: atom dr (3823 in chips) 
+Seat 6: lidioca211 (3010 in chips) 
+Seat 7: akropolis10 (4342 in chips) 
+Seat 8: Taargeett (2195 in chips) 
+Seat 9: Schuinezoute (130 in chips) 
+lidioca211: posts small blind 75
+akropolis10: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [9h 4d]
+Taargeett: folds 
+Schuinezoute: calls 130 and is all-in
+atom dr has timed out
+atom dr: folds 
+lidioca211: folds 
+Uncalled bet (20) returned to akropolis10
+*** FLOP *** [3d 8c Qh]
+*** TURN *** [3d 8c Qh] [Ts]
+*** RIVER *** [3d 8c Qh Ts] [Ks]
+*** SHOW DOWN ***
+akropolis10: shows [6s Jc] (high card King)
+Schuinezoute: shows [7s 7c] (a pair of Sevens)
+Schuinezoute collected 335 from pot
+*** SUMMARY ***
+Total pot 335 | Rake 0 
+Board [3d 8c Qh Ts Ks]
+Seat 2: atom dr (button) folded before Flop (didn't bet)
+Seat 6: lidioca211 (small blind) folded before Flop
+Seat 7: akropolis10 (big blind) showed [6s Jc] and lost with high card King
+Seat 8: Taargeett folded before Flop (didn't bet)
+Seat 9: Schuinezoute showed [7s 7c] and won (335) with a pair of Sevens
+
+
+
+PokerStars Hand #201794870347: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VI (100/200) - 2019/06/27 18:15:55 ET
+Table '2638485490 2' 9-max Seat #6 is the button
+Seat 2: atom dr (3823 in chips) is sitting out
+Seat 6: lidioca211 (2935 in chips) 
+Seat 7: akropolis10 (4212 in chips) 
+Seat 8: Taargeett (2195 in chips) 
+Seat 9: Schuinezoute (335 in chips) 
+akropolis10: posts small blind 100
+Taargeett: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [8c Kc]
+Schuinezoute: calls 200
+atom dr: folds 
+lidioca211: folds 
+akropolis10: calls 100
+Taargeett: raises 200 to 400
+Schuinezoute: calls 135 and is all-in
+akropolis10: calls 200
+*** FLOP *** [6s Qc 8h]
+akropolis10: bets 200
+Taargeett: raises 400 to 600
+akropolis10: folds 
+Uncalled bet (400) returned to Taargeett
+*** TURN *** [6s Qc 8h] [Ac]
+*** RIVER *** [6s Qc 8h Ac] [2c]
+*** SHOW DOWN ***
+Taargeett: shows [8c Kc] (a flush, Ace high)
+Taargeett collected 530 from side pot
+Schuinezoute: shows [9h As] (a pair of Aces)
+Taargeett collected 1005 from main pot
+Schuinezoute finished the tournament in 10th place
+*** SUMMARY ***
+Total pot 1535 Main pot 1005. Side pot 530. | Rake 0 
+Board [6s Qc 8h Ac 2c]
+Seat 2: atom dr folded before Flop (didn't bet)
+Seat 6: lidioca211 (button) folded before Flop (didn't bet)
+Seat 7: akropolis10 (small blind) folded on the Flop
+Seat 8: Taargeett (big blind) showed [8c Kc] and won (1535) with a flush, Ace high
+Seat 9: Schuinezoute showed [9h As] and lost with a pair of Aces
+
+
+
+PokerStars Hand #201794899017: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VI (100/200) - 2019/06/27 18:16:54 ET
+Table '2638485490 1' 9-max Seat #7 is the button
+Seat 1: lidioca211 (2935 in chips) 
+Seat 2: atom dr (3823 in chips) is sitting out
+Seat 3: maf3065 (2993 in chips) 
+Seat 4: akropolis10 (3612 in chips) 
+Seat 5: rich668 (1755 in chips) 
+Seat 6: Taargeett (3130 in chips) 
+Seat 7: Teacher403 (5720 in chips) 
+Seat 8: Haltrue (1355 in chips) 
+Seat 9: FlatLiner08 (1677 in chips) 
+Haltrue: posts small blind 100
+FlatLiner08: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [5h 2c]
+lidioca211: folds 
+atom dr: folds 
+maf3065: folds 
+akropolis10: folds 
+rich668: folds 
+Taargeett: folds 
+Teacher403: calls 200
+Haltrue: folds 
+FlatLiner08: checks 
+*** FLOP *** [Ks 8c Ah]
+FlatLiner08: bets 1477 and is all-in
+Teacher403: folds 
+Uncalled bet (1477) returned to FlatLiner08
+FlatLiner08 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [Ks 8c Ah]
+Seat 1: lidioca211 folded before Flop (didn't bet)
+Seat 2: atom dr folded before Flop (didn't bet)
+Seat 3: maf3065 folded before Flop (didn't bet)
+Seat 4: akropolis10 folded before Flop (didn't bet)
+Seat 5: rich668 folded before Flop (didn't bet)
+Seat 6: Taargeett folded before Flop (didn't bet)
+Seat 7: Teacher403 (button) folded on the Flop
+Seat 8: Haltrue (small blind) folded before Flop
+Seat 9: FlatLiner08 (big blind) collected (500)
+
+
+
+PokerStars Hand #201794913958: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VI (100/200) - 2019/06/27 18:17:25 ET
+Table '2638485490 1' 9-max Seat #8 is the button
+Seat 1: lidioca211 (2935 in chips) 
+Seat 2: atom dr (3823 in chips) 
+Seat 3: maf3065 (2993 in chips) 
+Seat 4: akropolis10 (3612 in chips) 
+Seat 5: rich668 (1755 in chips) 
+Seat 6: Taargeett (3130 in chips) 
+Seat 7: Teacher403 (5520 in chips) 
+Seat 8: Haltrue (1255 in chips) 
+Seat 9: FlatLiner08 (1977 in chips) 
+FlatLiner08: posts small blind 100
+lidioca211: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [3c 9h]
+atom dr: calls 200
+maf3065: folds 
+akropolis10: folds 
+rich668: folds 
+Taargeett: folds 
+Teacher403: folds 
+Haltrue: folds 
+FlatLiner08: folds 
+lidioca211: checks 
+*** FLOP *** [Kc 7d Qd]
+lidioca211: checks 
+atom dr: bets 500
+lidioca211: folds 
+Uncalled bet (500) returned to atom dr
+atom dr collected 500 from pot
+atom dr: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [Kc 7d Qd]
+Seat 1: lidioca211 (big blind) folded on the Flop
+Seat 2: atom dr collected (500)
+Seat 3: maf3065 folded before Flop (didn't bet)
+Seat 4: akropolis10 folded before Flop (didn't bet)
+Seat 5: rich668 folded before Flop (didn't bet)
+Seat 6: Taargeett folded before Flop (didn't bet)
+Seat 7: Teacher403 folded before Flop (didn't bet)
+Seat 8: Haltrue (button) folded before Flop (didn't bet)
+Seat 9: FlatLiner08 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201794930497: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VI (100/200) - 2019/06/27 18:17:59 ET
+Table '2638485490 1' 9-max Seat #9 is the button
+Seat 1: lidioca211 (2735 in chips) 
+Seat 2: atom dr (4123 in chips) 
+Seat 3: maf3065 (2993 in chips) 
+Seat 4: akropolis10 (3612 in chips) 
+Seat 5: rich668 (1755 in chips) 
+Seat 6: Taargeett (3130 in chips) 
+Seat 7: Teacher403 (5520 in chips) 
+Seat 8: Haltrue (1255 in chips) 
+Seat 9: FlatLiner08 (1877 in chips) 
+lidioca211: posts small blind 100
+atom dr: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [7d 6c]
+maf3065: folds 
+akropolis10: calls 200
+rich668: folds 
+Taargeett: folds 
+Teacher403: calls 200
+Haltrue: calls 200
+FlatLiner08: folds 
+lidioca211: calls 100
+atom dr: checks 
+*** FLOP *** [9h 5d 8s]
+lidioca211: checks 
+atom dr: bets 200
+akropolis10: raises 3212 to 3412 and is all-in
+Teacher403: folds 
+Haltrue: folds 
+lidioca211: calls 2535 and is all-in
+atom dr: folds 
+Uncalled bet (877) returned to akropolis10
+*** TURN *** [9h 5d 8s] [7s]
+*** RIVER *** [9h 5d 8s 7s] [Kd]
+*** SHOW DOWN ***
+lidioca211: shows [Jh Td] (a straight, Seven to Jack)
+akropolis10: shows [8h 8c] (three of a kind, Eights)
+lidioca211 collected 6270 from pot
+*** SUMMARY ***
+Total pot 6270 | Rake 0 
+Board [9h 5d 8s 7s Kd]
+Seat 1: lidioca211 (small blind) showed [Jh Td] and won (6270) with a straight, Seven to Jack
+Seat 2: atom dr (big blind) folded on the Flop
+Seat 3: maf3065 folded before Flop (didn't bet)
+Seat 4: akropolis10 showed [8h 8c] and lost with three of a kind, Eights
+Seat 5: rich668 folded before Flop (didn't bet)
+Seat 6: Taargeett folded before Flop (didn't bet)
+Seat 7: Teacher403 folded on the Flop
+Seat 8: Haltrue folded on the Flop
+Seat 9: FlatLiner08 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201794957453: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VI (100/200) - 2019/06/27 18:18:56 ET
+Table '2638485490 1' 9-max Seat #1 is the button
+Seat 1: lidioca211 (6270 in chips) 
+Seat 2: atom dr (3723 in chips) 
+Seat 3: maf3065 (2993 in chips) 
+Seat 4: akropolis10 (877 in chips) 
+Seat 5: rich668 (1755 in chips) 
+Seat 6: Taargeett (3130 in chips) 
+Seat 7: Teacher403 (5320 in chips) 
+Seat 8: Haltrue (1055 in chips) 
+Seat 9: FlatLiner08 (1877 in chips) 
+atom dr: posts small blind 100
+maf3065: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [9s 5d]
+akropolis10: folds 
+rich668: calls 200
+Taargeett: folds 
+Teacher403: raises 200 to 400
+Haltrue: folds 
+FlatLiner08: folds 
+lidioca211: folds 
+atom dr: calls 300
+maf3065: calls 200
+rich668: calls 200
+*** FLOP *** [8c Td 4c]
+atom dr: checks 
+maf3065: checks 
+rich668: bets 200
+Teacher403: calls 200
+atom dr: calls 200
+maf3065: folds 
+*** TURN *** [8c Td 4c] [Qs]
+atom dr: checks 
+rich668: checks 
+Teacher403: bets 400
+atom dr: calls 400
+rich668: calls 400
+*** RIVER *** [8c Td 4c Qs] [6d]
+atom dr: checks 
+rich668: checks 
+Teacher403: checks 
+*** SHOW DOWN ***
+atom dr: shows [Kd 4h] (a pair of Fours)
+rich668: shows [As Ts] (a pair of Tens)
+Teacher403: shows [Qd Ac] (a pair of Queens)
+Teacher403 collected 3400 from pot
+*** SUMMARY ***
+Total pot 3400 | Rake 0 
+Board [8c Td 4c Qs 6d]
+Seat 1: lidioca211 (button) folded before Flop (didn't bet)
+Seat 2: atom dr (small blind) showed [Kd 4h] and lost with a pair of Fours
+Seat 3: maf3065 (big blind) folded on the Flop
+Seat 4: akropolis10 folded before Flop (didn't bet)
+Seat 5: rich668 showed [As Ts] and lost with a pair of Tens
+Seat 6: Taargeett folded before Flop (didn't bet)
+Seat 7: Teacher403 showed [Qd Ac] and won (3400) with a pair of Queens
+Seat 8: Haltrue folded before Flop (didn't bet)
+Seat 9: FlatLiner08 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201794988942: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VI (100/200) - 2019/06/27 18:20:01 ET
+Table '2638485490 1' 9-max Seat #2 is the button
+Seat 1: lidioca211 (6270 in chips) is sitting out
+Seat 2: atom dr (2723 in chips) 
+Seat 3: maf3065 (2593 in chips) 
+Seat 4: akropolis10 (877 in chips) 
+Seat 5: rich668 (755 in chips) 
+Seat 6: Taargeett (3130 in chips) 
+Seat 7: Teacher403 (7720 in chips) 
+Seat 8: Haltrue (1055 in chips) 
+Seat 9: FlatLiner08 (1877 in chips) 
+maf3065: posts small blind 100
+akropolis10: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [Js 3d]
+rich668: folds 
+Taargeett: folds 
+Teacher403: calls 200
+Haltrue: folds 
+FlatLiner08: folds 
+lidioca211: folds 
+atom dr: raises 700 to 900
+maf3065: folds 
+akropolis10: calls 677 and is all-in
+Teacher403: folds 
+Uncalled bet (23) returned to atom dr
+*** FLOP *** [2h 5d 7h]
+*** TURN *** [2h 5d 7h] [4h]
+*** RIVER *** [2h 5d 7h 4h] [Qd]
+*** SHOW DOWN ***
+akropolis10: shows [Th 9h] (a flush, Ten high)
+atom dr: shows [Ah 5c] (a pair of Fives)
+akropolis10 collected 2054 from pot
+*** SUMMARY ***
+Total pot 2054 | Rake 0 
+Board [2h 5d 7h 4h Qd]
+Seat 1: lidioca211 folded before Flop (didn't bet)
+Seat 2: atom dr (button) showed [Ah 5c] and lost with a pair of Fives
+Seat 3: maf3065 (small blind) folded before Flop
+Seat 4: akropolis10 (big blind) showed [Th 9h] and won (2054) with a flush, Ten high
+Seat 5: rich668 folded before Flop (didn't bet)
+Seat 6: Taargeett folded before Flop (didn't bet)
+Seat 7: Teacher403 folded before Flop
+Seat 8: Haltrue folded before Flop (didn't bet)
+Seat 9: FlatLiner08 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201795007896: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VI (100/200) - 2019/06/27 18:20:41 ET
+Table '2638485490 1' 9-max Seat #3 is the button
+Seat 1: lidioca211 (6270 in chips) is sitting out
+Seat 2: atom dr (1846 in chips) 
+Seat 3: maf3065 (2493 in chips) 
+Seat 4: akropolis10 (2054 in chips) 
+Seat 5: rich668 (755 in chips) 
+Seat 6: Taargeett (3130 in chips) 
+Seat 7: Teacher403 (7520 in chips) 
+Seat 8: Haltrue (1055 in chips) 
+Seat 9: FlatLiner08 (1877 in chips) 
+akropolis10: posts small blind 100
+rich668: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [6h 4h]
+Taargeett: folds 
+Teacher403: calls 200
+Haltrue: calls 200
+FlatLiner08: folds 
+lidioca211: folds 
+atom dr: folds 
+maf3065: folds 
+akropolis10: raises 1854 to 2054 and is all-in
+rich668: calls 555 and is all-in
+Teacher403: folds 
+Haltrue: calls 855 and is all-in
+Uncalled bet (999) returned to akropolis10
+*** FLOP *** [2d Kc 7h]
+*** TURN *** [2d Kc 7h] [As]
+*** RIVER *** [2d Kc 7h As] [Ks]
+*** SHOW DOWN ***
+akropolis10: shows [Ah Td] (two pair, Aces and Kings)
+Haltrue: shows [2s 2c] (a full house, Deuces full of Kings)
+Haltrue collected 600 from side pot
+rich668: shows [Kh Jh] (three of a kind, Kings)
+Haltrue collected 2465 from main pot
+rich668 finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 3065 Main pot 2465. Side pot 600. | Rake 0 
+Board [2d Kc 7h As Ks]
+Seat 1: lidioca211 folded before Flop (didn't bet)
+Seat 2: atom dr folded before Flop (didn't bet)
+Seat 3: maf3065 (button) folded before Flop (didn't bet)
+Seat 4: akropolis10 (small blind) showed [Ah Td] and lost with two pair, Aces and Kings
+Seat 5: rich668 (big blind) showed [Kh Jh] and lost with three of a kind, Kings
+Seat 6: Taargeett folded before Flop (didn't bet)
+Seat 7: Teacher403 folded before Flop
+Seat 8: Haltrue showed [2s 2c] and won (3065) with a full house, Deuces full of Kings
+Seat 9: FlatLiner08 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201795027767: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VII (100/200) - 2019/06/27 18:21:23 ET
+Table '2638485490 1' 9-max Seat #4 is the button
+Seat 1: lidioca211 (6270 in chips) is sitting out
+Seat 2: atom dr (1846 in chips) 
+Seat 3: maf3065 (2493 in chips) 
+Seat 4: akropolis10 (999 in chips) 
+Seat 6: Taargeett (3130 in chips) 
+Seat 7: Teacher403 (7320 in chips) 
+Seat 8: Haltrue (3065 in chips) 
+Seat 9: FlatLiner08 (1877 in chips) 
+lidioca211: posts the ante 25
+atom dr: posts the ante 25
+maf3065: posts the ante 25
+akropolis10: posts the ante 25
+Taargeett: posts the ante 25
+Teacher403: posts the ante 25
+Haltrue: posts the ante 25
+FlatLiner08: posts the ante 25
+Taargeett: posts small blind 100
+Teacher403: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [Qh Js]
+Haltrue: calls 200
+FlatLiner08: folds 
+lidioca211: folds 
+atom dr: folds 
+maf3065: folds 
+akropolis10: raises 774 to 974 and is all-in
+Taargeett: calls 874
+Teacher403: folds 
+Haltrue: folds 
+*** FLOP *** [Qd 4h Jd]
+*** TURN *** [Qd 4h Jd] [Jc]
+*** RIVER *** [Qd 4h Jd Jc] [Qc]
+*** SHOW DOWN ***
+Taargeett: shows [Qh Js] (a full house, Queens full of Jacks)
+akropolis10: shows [Tc Ac] (two pair, Queens and Jacks)
+Taargeett collected 2548 from pot
+akropolis10 finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 2548 | Rake 0 
+Board [Qd 4h Jd Jc Qc]
+Seat 1: lidioca211 folded before Flop (didn't bet)
+Seat 2: atom dr folded before Flop (didn't bet)
+Seat 3: maf3065 folded before Flop (didn't bet)
+Seat 4: akropolis10 (button) showed [Tc Ac] and lost with two pair, Queens and Jacks
+Seat 6: Taargeett (small blind) showed [Qh Js] and won (2548) with a full house, Queens full of Jacks
+Seat 7: Teacher403 (big blind) folded before Flop
+Seat 8: Haltrue folded before Flop
+Seat 9: FlatLiner08 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201795049094: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VII (100/200) - 2019/06/27 18:22:07 ET
+Table '2638485490 1' 9-max Seat #6 is the button
+Seat 1: lidioca211 (6245 in chips) is sitting out
+Seat 2: atom dr (1821 in chips) 
+Seat 3: maf3065 (2468 in chips) 
+Seat 6: Taargeett (4679 in chips) 
+Seat 7: Teacher403 (7095 in chips) 
+Seat 8: Haltrue (2840 in chips) 
+Seat 9: FlatLiner08 (1852 in chips) 
+lidioca211: posts the ante 25
+atom dr: posts the ante 25
+maf3065: posts the ante 25
+Taargeett: posts the ante 25
+Teacher403: posts the ante 25
+Haltrue: posts the ante 25
+FlatLiner08: posts the ante 25
+Teacher403: posts small blind 100
+Haltrue: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [4d Ts]
+FlatLiner08: calls 200
+lidioca211: folds 
+atom dr: folds 
+maf3065: raises 2243 to 2443 and is all-in
+Taargeett: folds 
+Teacher403: folds 
+Haltrue: folds 
+FlatLiner08: folds 
+Uncalled bet (2243) returned to maf3065
+maf3065 collected 875 from pot
+maf3065: doesn't show hand 
+*** SUMMARY ***
+Total pot 875 | Rake 0 
+Seat 1: lidioca211 folded before Flop (didn't bet)
+Seat 2: atom dr folded before Flop (didn't bet)
+Seat 3: maf3065 collected (875)
+Seat 6: Taargeett (button) folded before Flop (didn't bet)
+Seat 7: Teacher403 (small blind) folded before Flop
+Seat 8: Haltrue (big blind) folded before Flop
+Seat 9: FlatLiner08 folded before Flop
+
+
+
+PokerStars Hand #201795058115: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VII (100/200) - 2019/06/27 18:22:26 ET
+Table '2638485490 1' 9-max Seat #7 is the button
+Seat 1: lidioca211 (6220 in chips) is sitting out
+Seat 2: atom dr (1796 in chips) 
+Seat 3: maf3065 (3118 in chips) 
+Seat 6: Taargeett (4654 in chips) 
+Seat 7: Teacher403 (6970 in chips) 
+Seat 8: Haltrue (2615 in chips) 
+Seat 9: FlatLiner08 (1627 in chips) 
+lidioca211: posts the ante 25
+atom dr: posts the ante 25
+maf3065: posts the ante 25
+Taargeett: posts the ante 25
+Teacher403: posts the ante 25
+Haltrue: posts the ante 25
+FlatLiner08: posts the ante 25
+Haltrue: posts small blind 100
+FlatLiner08: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [2d Qh]
+lidioca211: folds 
+atom dr: folds 
+maf3065: folds 
+Taargeett: folds 
+Teacher403: calls 200
+Haltrue: calls 100
+FlatLiner08: checks 
+*** FLOP *** [Kc Ad 6c]
+Haltrue: checks 
+FlatLiner08: checks 
+Teacher403: bets 200
+Haltrue: calls 200
+FlatLiner08: folds 
+*** TURN *** [Kc Ad 6c] [5d]
+Haltrue: checks 
+Teacher403: bets 200
+Haltrue: calls 200
+*** RIVER *** [Kc Ad 6c 5d] [8d]
+Haltrue: checks 
+Teacher403: bets 200
+Haltrue: folds 
+Uncalled bet (200) returned to Teacher403
+Teacher403 collected 1575 from pot
+*** SUMMARY ***
+Total pot 1575 | Rake 0 
+Board [Kc Ad 6c 5d 8d]
+Seat 1: lidioca211 folded before Flop (didn't bet)
+Seat 2: atom dr folded before Flop (didn't bet)
+Seat 3: maf3065 folded before Flop (didn't bet)
+Seat 6: Taargeett folded before Flop (didn't bet)
+Seat 7: Teacher403 (button) collected (1575)
+Seat 8: Haltrue (small blind) folded on the River
+Seat 9: FlatLiner08 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #201795080882: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VII (100/200) - 2019/06/27 18:23:14 ET
+Table '2638485490 1' 9-max Seat #8 is the button
+Seat 1: lidioca211 (6195 in chips) 
+Seat 2: atom dr (1771 in chips) 
+Seat 3: maf3065 (3093 in chips) 
+Seat 6: Taargeett (4629 in chips) 
+Seat 7: Teacher403 (7920 in chips) 
+Seat 8: Haltrue (1990 in chips) 
+Seat 9: FlatLiner08 (1402 in chips) 
+lidioca211: posts the ante 25
+atom dr: posts the ante 25
+maf3065: posts the ante 25
+Taargeett: posts the ante 25
+Teacher403: posts the ante 25
+Haltrue: posts the ante 25
+FlatLiner08: posts the ante 25
+FlatLiner08: posts small blind 100
+lidioca211: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [4d Ad]
+atom dr: folds 
+maf3065: folds 
+Taargeett: raises 200 to 400
+Teacher403: folds 
+Haltrue: folds 
+FlatLiner08: calls 300
+lidioca211: calls 200
+*** FLOP *** [4c 9s 8h]
+FlatLiner08: checks 
+lidioca211: checks 
+Taargeett: bets 200
+FlatLiner08: raises 777 to 977 and is all-in
+lidioca211: folds 
+Taargeett: calls 777
+*** TURN *** [4c 9s 8h] [2s]
+*** RIVER *** [4c 9s 8h 2s] [9h]
+*** SHOW DOWN ***
+FlatLiner08: shows [Js Ac] (a pair of Nines)
+Taargeett: shows [4d Ad] (two pair, Nines and Fours)
+Taargeett collected 3329 from pot
+FlatLiner08 finished the tournament in 7th place
+FlatLiner08 said, "lol"
+*** SUMMARY ***
+Total pot 3329 | Rake 0 
+Board [4c 9s 8h 2s 9h]
+Seat 1: lidioca211 (big blind) folded on the Flop
+Seat 2: atom dr folded before Flop (didn't bet)
+Seat 3: maf3065 folded before Flop (didn't bet)
+Seat 6: Taargeett showed [4d Ad] and won (3329) with two pair, Nines and Fours
+Seat 7: Teacher403 folded before Flop (didn't bet)
+Seat 8: Haltrue (button) folded before Flop (didn't bet)
+Seat 9: FlatLiner08 (small blind) showed [Js Ac] and lost with a pair of Nines
+
+
+
+PokerStars Hand #201795101647: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VII (100/200) - 2019/06/27 18:23:59 ET
+Table '2638485490 1' 9-max Seat #1 is the button
+Seat 1: lidioca211 (5770 in chips) 
+Seat 2: atom dr (1746 in chips) 
+Seat 3: maf3065 (3068 in chips) 
+Seat 6: Taargeett (6556 in chips) 
+Seat 7: Teacher403 (7895 in chips) 
+Seat 8: Haltrue (1965 in chips) 
+lidioca211: posts the ante 25
+atom dr: posts the ante 25
+maf3065: posts the ante 25
+Taargeett: posts the ante 25
+Teacher403: posts the ante 25
+Haltrue: posts the ante 25
+atom dr: posts small blind 100
+maf3065: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [9c 3d]
+Taargeett: folds 
+Teacher403: calls 200
+Haltrue: calls 200
+lidioca211: folds 
+atom dr: raises 1521 to 1721 and is all-in
+maf3065: folds 
+Teacher403: folds 
+Haltrue: calls 1521
+*** FLOP *** [6s 7d 5s]
+*** TURN *** [6s 7d 5s] [Jh]
+*** RIVER *** [6s 7d 5s Jh] [Ac]
+*** SHOW DOWN ***
+atom dr: shows [8h 8c] (a pair of Eights)
+Haltrue: shows [2h 2d] (a pair of Deuces)
+atom dr collected 3992 from pot
+*** SUMMARY ***
+Total pot 3992 | Rake 0 
+Board [6s 7d 5s Jh Ac]
+Seat 1: lidioca211 (button) folded before Flop (didn't bet)
+Seat 2: atom dr (small blind) showed [8h 8c] and won (3992) with a pair of Eights
+Seat 3: maf3065 (big blind) folded before Flop
+Seat 6: Taargeett folded before Flop (didn't bet)
+Seat 7: Teacher403 folded before Flop
+Seat 8: Haltrue showed [2h 2d] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #201795118358: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VII (100/200) - 2019/06/27 18:24:35 ET
+Table '2638485490 1' 9-max Seat #2 is the button
+Seat 1: lidioca211 (5745 in chips) 
+Seat 2: atom dr (3992 in chips) 
+Seat 3: maf3065 (2843 in chips) 
+Seat 6: Taargeett (6531 in chips) 
+Seat 7: Teacher403 (7670 in chips) 
+Seat 8: Haltrue (219 in chips) 
+lidioca211: posts the ante 25
+atom dr: posts the ante 25
+maf3065: posts the ante 25
+Taargeett: posts the ante 25
+Teacher403: posts the ante 25
+Haltrue: posts the ante 25
+maf3065: posts small blind 100
+Taargeett: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [Qs Kc]
+Teacher403: calls 200
+Haltrue: calls 194 and is all-in
+lidioca211: folds 
+atom dr: folds 
+maf3065: folds 
+Taargeett: checks 
+*** FLOP *** [8d Jd 8c]
+Taargeett: checks 
+Teacher403: bets 400
+Taargeett: folds 
+Uncalled bet (400) returned to Teacher403
+*** TURN *** [8d Jd 8c] [6h]
+*** RIVER *** [8d Jd 8c 6h] [3c]
+*** SHOW DOWN ***
+Teacher403: shows [8s 9s] (three of a kind, Eights)
+Teacher403 collected 12 from side pot
+Haltrue: shows [Ks Jc] (two pair, Jacks and Eights)
+Teacher403 collected 832 from main pot
+Haltrue finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 844 Main pot 832. Side pot 12. | Rake 0 
+Board [8d Jd 8c 6h 3c]
+Seat 1: lidioca211 folded before Flop (didn't bet)
+Seat 2: atom dr (button) folded before Flop (didn't bet)
+Seat 3: maf3065 (small blind) folded before Flop
+Seat 6: Taargeett (big blind) folded on the Flop
+Seat 7: Teacher403 showed [8s 9s] and won (844) with three of a kind, Eights
+Seat 8: Haltrue showed [Ks Jc] and lost with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #201795133885: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VII (100/200) - 2019/06/27 18:25:08 ET
+Table '2638485490 1' 9-max Seat #3 is the button
+Seat 1: lidioca211 (5720 in chips) 
+Seat 2: atom dr (3967 in chips) 
+Seat 3: maf3065 (2718 in chips) 
+Seat 6: Taargeett (6306 in chips) 
+Seat 7: Teacher403 (8289 in chips) 
+lidioca211: posts the ante 25
+atom dr: posts the ante 25
+maf3065: posts the ante 25
+Taargeett: posts the ante 25
+Teacher403: posts the ante 25
+Taargeett: posts small blind 100
+Teacher403: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [9c 8s]
+lidioca211: calls 200
+atom dr: calls 200
+maf3065: folds 
+Taargeett: folds 
+Teacher403: checks 
+*** FLOP *** [Ts 2d Th]
+Teacher403: checks 
+lidioca211: checks 
+atom dr: checks 
+*** TURN *** [Ts 2d Th] [7s]
+Teacher403: checks 
+lidioca211: checks 
+atom dr: checks 
+*** RIVER *** [Ts 2d Th 7s] [7d]
+Teacher403: checks 
+lidioca211: checks 
+atom dr: bets 200
+Teacher403: folds 
+lidioca211: folds 
+Uncalled bet (200) returned to atom dr
+atom dr collected 825 from pot
+atom dr: doesn't show hand 
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Board [Ts 2d Th 7s 7d]
+Seat 1: lidioca211 folded on the River
+Seat 2: atom dr collected (825)
+Seat 3: maf3065 (button) folded before Flop (didn't bet)
+Seat 6: Taargeett (small blind) folded before Flop
+Seat 7: Teacher403 (big blind) folded on the River
+
+
+
+PokerStars Hand #201795152522: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VIII (200/400) - 2019/06/27 18:25:47 ET
+Table '2638485490 1' 9-max Seat #6 is the button
+Seat 1: lidioca211 (5495 in chips) 
+Seat 2: atom dr (4567 in chips) 
+Seat 3: maf3065 (2693 in chips) 
+Seat 6: Taargeett (6181 in chips) 
+Seat 7: Teacher403 (8064 in chips) 
+lidioca211: posts the ante 25
+atom dr: posts the ante 25
+maf3065: posts the ante 25
+Taargeett: posts the ante 25
+Teacher403: posts the ante 25
+Teacher403: posts small blind 200
+lidioca211: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Taargeett [Js 9d]
+atom dr: raises 4142 to 4542 and is all-in
+maf3065: folds 
+Taargeett: folds 
+Teacher403: folds 
+lidioca211: folds 
+Uncalled bet (4142) returned to atom dr
+atom dr collected 1125 from pot
+atom dr: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 1: lidioca211 (big blind) folded before Flop
+Seat 2: atom dr collected (1125)
+Seat 3: maf3065 folded before Flop (didn't bet)
+Seat 6: Taargeett (button) folded before Flop (didn't bet)
+Seat 7: Teacher403 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201795161392: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VIII (200/400) - 2019/06/27 18:26:06 ET
+Table '2638485490 1' 9-max Seat #7 is the button
+Seat 1: lidioca211 (5070 in chips) 
+Seat 2: atom dr (5267 in chips) 
+Seat 3: maf3065 (2668 in chips) 
+Seat 6: Taargeett (6156 in chips) 
+Seat 7: Teacher403 (7839 in chips) 
+lidioca211: posts the ante 25
+atom dr: posts the ante 25
+maf3065: posts the ante 25
+Taargeett: posts the ante 25
+Teacher403: posts the ante 25
+lidioca211: posts small blind 200
+atom dr: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Taargeett [Kc 2s]
+maf3065: folds 
+Taargeett: folds 
+Teacher403: calls 400
+lidioca211: folds 
+atom dr: checks 
+*** FLOP *** [4d Ts Qd]
+atom dr: checks 
+Teacher403: checks 
+*** TURN *** [4d Ts Qd] [3h]
+atom dr: checks 
+Teacher403: bets 400
+atom dr: folds 
+Uncalled bet (400) returned to Teacher403
+Teacher403 collected 1125 from pot
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Board [4d Ts Qd 3h]
+Seat 1: lidioca211 (small blind) folded before Flop
+Seat 2: atom dr (big blind) folded on the Turn
+Seat 3: maf3065 folded before Flop (didn't bet)
+Seat 6: Taargeett folded before Flop (didn't bet)
+Seat 7: Teacher403 (button) collected (1125)
+
+
+
+PokerStars Hand #201795174059: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VIII (200/400) - 2019/06/27 18:26:33 ET
+Table '2638485490 1' 9-max Seat #1 is the button
+Seat 1: lidioca211 (4845 in chips) 
+Seat 2: atom dr (4842 in chips) 
+Seat 3: maf3065 (2643 in chips) 
+Seat 6: Taargeett (6131 in chips) 
+Seat 7: Teacher403 (8539 in chips) 
+lidioca211: posts the ante 25
+atom dr: posts the ante 25
+maf3065: posts the ante 25
+Taargeett: posts the ante 25
+Teacher403: posts the ante 25
+atom dr: posts small blind 200
+maf3065: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Taargeett [4s Jd]
+Taargeett: folds 
+Teacher403: calls 400
+lidioca211: folds 
+atom dr: folds 
+maf3065: raises 2218 to 2618 and is all-in
+Teacher403: folds 
+Uncalled bet (2218) returned to maf3065
+maf3065 collected 1125 from pot
+maf3065: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 1: lidioca211 (button) folded before Flop (didn't bet)
+Seat 2: atom dr (small blind) folded before Flop
+Seat 3: maf3065 (big blind) collected (1125)
+Seat 6: Taargeett folded before Flop (didn't bet)
+Seat 7: Teacher403 folded before Flop
+
+
+
+PokerStars Hand #201795184390: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VIII (200/400) - 2019/06/27 18:26:55 ET
+Table '2638485490 1' 9-max Seat #2 is the button
+Seat 1: lidioca211 (4820 in chips) 
+Seat 2: atom dr (4617 in chips) 
+Seat 3: maf3065 (3343 in chips) 
+Seat 6: Taargeett (6106 in chips) 
+Seat 7: Teacher403 (8114 in chips) 
+lidioca211: posts the ante 25
+atom dr: posts the ante 25
+maf3065: posts the ante 25
+Taargeett: posts the ante 25
+Teacher403: posts the ante 25
+maf3065: posts small blind 200
+Taargeett: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Taargeett [4c Ks]
+Teacher403: folds 
+lidioca211: calls 400
+atom dr: calls 400
+maf3065: folds 
+Taargeett: checks 
+*** FLOP *** [6c 2c Kh]
+Taargeett: checks 
+lidioca211: checks 
+atom dr: checks 
+*** TURN *** [6c 2c Kh] [8d]
+Taargeett: bets 800
+lidioca211: folds 
+atom dr: calls 800
+*** RIVER *** [6c 2c Kh 8d] [7h]
+Taargeett: bets 1200
+atom dr: folds 
+Uncalled bet (1200) returned to Taargeett
+Taargeett collected 3125 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 3125 | Rake 0 
+Board [6c 2c Kh 8d 7h]
+Seat 1: lidioca211 folded on the Turn
+Seat 2: atom dr (button) folded on the River
+Seat 3: maf3065 (small blind) folded before Flop
+Seat 6: Taargeett (big blind) collected (3125)
+Seat 7: Teacher403 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201795206052: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VIII (200/400) - 2019/06/27 18:27:41 ET
+Table '2638485490 1' 9-max Seat #3 is the button
+Seat 1: lidioca211 (4395 in chips) 
+Seat 2: atom dr (3392 in chips) 
+Seat 3: maf3065 (3118 in chips) 
+Seat 6: Taargeett (8006 in chips) 
+Seat 7: Teacher403 (8089 in chips) 
+lidioca211: posts the ante 25
+atom dr: posts the ante 25
+maf3065: posts the ante 25
+Taargeett: posts the ante 25
+Teacher403: posts the ante 25
+Taargeett: posts small blind 200
+Teacher403: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Taargeett [7s 9h]
+lidioca211: folds 
+atom dr: calls 400
+maf3065: folds 
+Taargeett: folds 
+Teacher403: checks 
+*** FLOP *** [2c Tc 3c]
+Teacher403: checks 
+atom dr: bets 400
+Teacher403: folds 
+Uncalled bet (400) returned to atom dr
+atom dr collected 1125 from pot
+atom dr: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Board [2c Tc 3c]
+Seat 1: lidioca211 folded before Flop (didn't bet)
+Seat 2: atom dr collected (1125)
+Seat 3: maf3065 (button) folded before Flop (didn't bet)
+Seat 6: Taargeett (small blind) folded before Flop
+Seat 7: Teacher403 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #201795216908: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VIII (200/400) - 2019/06/27 18:28:05 ET
+Table '2638485490 1' 9-max Seat #6 is the button
+Seat 1: lidioca211 (4370 in chips) 
+Seat 2: atom dr (4092 in chips) 
+Seat 3: maf3065 (3093 in chips) 
+Seat 6: Taargeett (7781 in chips) 
+Seat 7: Teacher403 (7664 in chips) 
+lidioca211: posts the ante 25
+atom dr: posts the ante 25
+maf3065: posts the ante 25
+Taargeett: posts the ante 25
+Teacher403: posts the ante 25
+Teacher403: posts small blind 200
+lidioca211: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Taargeett [Ah 2d]
+atom dr: folds 
+maf3065: folds 
+Taargeett: raises 400 to 800
+Teacher403: folds 
+lidioca211: calls 400
+*** FLOP *** [5h 4d As]
+lidioca211: checks 
+Taargeett: bets 1200
+lidioca211: folds 
+Uncalled bet (1200) returned to Taargeett
+Taargeett collected 1925 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 1925 | Rake 0 
+Board [5h 4d As]
+Seat 1: lidioca211 (big blind) folded on the Flop
+Seat 2: atom dr folded before Flop (didn't bet)
+Seat 3: maf3065 folded before Flop (didn't bet)
+Seat 6: Taargeett (button) collected (1925)
+Seat 7: Teacher403 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201795228400: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VIII (200/400) - 2019/06/27 18:28:29 ET
+Table '2638485490 1' 9-max Seat #7 is the button
+Seat 1: lidioca211 (3545 in chips) 
+Seat 2: atom dr (4067 in chips) 
+Seat 3: maf3065 (3068 in chips) 
+Seat 6: Taargeett (8881 in chips) 
+Seat 7: Teacher403 (7439 in chips) 
+lidioca211: posts the ante 25
+atom dr: posts the ante 25
+maf3065: posts the ante 25
+Taargeett: posts the ante 25
+Teacher403: posts the ante 25
+lidioca211: posts small blind 200
+atom dr: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Taargeett [9s Qs]
+maf3065: calls 400
+Taargeett: folds 
+Teacher403: calls 400
+lidioca211: folds 
+atom dr: checks 
+*** FLOP *** [4d 8h 2s]
+atom dr: checks 
+maf3065: bets 763
+Teacher403: calls 763
+atom dr: folds 
+*** TURN *** [4d 8h 2s] [5h]
+maf3065: bets 1880 and is all-in
+Teacher403: calls 1880
+*** RIVER *** [4d 8h 2s 5h] [5s]
+*** SHOW DOWN ***
+maf3065: shows [Ks Kc] (two pair, Kings and Fives)
+Teacher403: shows [Ah Jh] (a pair of Fives)
+maf3065 collected 6811 from pot
+*** SUMMARY ***
+Total pot 6811 | Rake 0 
+Board [4d 8h 2s 5h 5s]
+Seat 1: lidioca211 (small blind) folded before Flop
+Seat 2: atom dr (big blind) folded on the Flop
+Seat 3: maf3065 showed [Ks Kc] and won (6811) with two pair, Kings and Fives
+Seat 6: Taargeett folded before Flop (didn't bet)
+Seat 7: Teacher403 (button) showed [Ah Jh] and lost with a pair of Fives
+
+
+
+PokerStars Hand #201795247031: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VIII (200/400) - 2019/06/27 18:29:09 ET
+Table '2638485490 1' 9-max Seat #1 is the button
+Seat 1: lidioca211 (3320 in chips) 
+Seat 2: atom dr (3642 in chips) 
+Seat 3: maf3065 (6811 in chips) 
+Seat 6: Taargeett (8856 in chips) 
+Seat 7: Teacher403 (4371 in chips) 
+lidioca211: posts the ante 25
+atom dr: posts the ante 25
+maf3065: posts the ante 25
+Taargeett: posts the ante 25
+Teacher403: posts the ante 25
+atom dr: posts small blind 200
+maf3065: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Taargeett [As 2c]
+Taargeett: folds 
+Teacher403: folds 
+lidioca211: calls 400
+atom dr: folds 
+maf3065: checks 
+*** FLOP *** [Ac 6h Jd]
+maf3065: checks 
+lidioca211: checks 
+*** TURN *** [Ac 6h Jd] [2d]
+maf3065: checks 
+lidioca211: checks 
+*** RIVER *** [Ac 6h Jd 2d] [9d]
+maf3065: checks 
+lidioca211: checks 
+*** SHOW DOWN ***
+maf3065: shows [9c 5h] (a pair of Nines)
+lidioca211: mucks hand 
+maf3065 collected 1125 from pot
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Board [Ac 6h Jd 2d 9d]
+Seat 1: lidioca211 (button) mucked [8s Kc]
+Seat 2: atom dr (small blind) folded before Flop
+Seat 3: maf3065 (big blind) showed [9c 5h] and won (1125) with a pair of Nines
+Seat 6: Taargeett folded before Flop (didn't bet)
+Seat 7: Teacher403 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201795258216: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VIII (200/400) - 2019/06/27 18:29:33 ET
+Table '2638485490 1' 9-max Seat #2 is the button
+Seat 1: lidioca211 (2895 in chips) 
+Seat 2: atom dr (3417 in chips) 
+Seat 3: maf3065 (7511 in chips) 
+Seat 6: Taargeett (8831 in chips) 
+Seat 7: Teacher403 (4346 in chips) 
+lidioca211: posts the ante 25
+atom dr: posts the ante 25
+maf3065: posts the ante 25
+Taargeett: posts the ante 25
+Teacher403: posts the ante 25
+maf3065: posts small blind 200
+Taargeett: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Taargeett [9h 9c]
+Teacher403: folds 
+lidioca211: raises 2470 to 2870 and is all-in
+atom dr: folds 
+maf3065: folds 
+Taargeett: calls 2470
+*** FLOP *** [Ks Kd Qd]
+*** TURN *** [Ks Kd Qd] [3h]
+*** RIVER *** [Ks Kd Qd 3h] [5d]
+*** SHOW DOWN ***
+Taargeett: shows [9h 9c] (two pair, Kings and Nines)
+lidioca211: shows [As Kh] (three of a kind, Kings)
+lidioca211 collected 6065 from pot
+*** SUMMARY ***
+Total pot 6065 | Rake 0 
+Board [Ks Kd Qd 3h 5d]
+Seat 1: lidioca211 showed [As Kh] and won (6065) with three of a kind, Kings
+Seat 2: atom dr (button) folded before Flop (didn't bet)
+Seat 3: maf3065 (small blind) folded before Flop
+Seat 6: Taargeett (big blind) showed [9h 9c] and lost with two pair, Kings and Nines
+Seat 7: Teacher403 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201795268593: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VIII (200/400) - 2019/06/27 18:29:55 ET
+Table '2638485490 1' 9-max Seat #3 is the button
+Seat 1: lidioca211 (6065 in chips) 
+Seat 2: atom dr (3392 in chips) 
+Seat 3: maf3065 (7286 in chips) 
+Seat 6: Taargeett (5936 in chips) 
+Seat 7: Teacher403 (4321 in chips) 
+lidioca211: posts the ante 25
+atom dr: posts the ante 25
+maf3065: posts the ante 25
+Taargeett: posts the ante 25
+Teacher403: posts the ante 25
+Taargeett: posts small blind 200
+Teacher403: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Taargeett [6d 3d]
+lidioca211: folds 
+atom dr: folds 
+maf3065: folds 
+Taargeett: folds 
+Uncalled bet (200) returned to Teacher403
+Teacher403 collected 525 from pot
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 1: lidioca211 folded before Flop (didn't bet)
+Seat 2: atom dr folded before Flop (didn't bet)
+Seat 3: maf3065 (button) folded before Flop (didn't bet)
+Seat 6: Taargeett (small blind) folded before Flop
+Seat 7: Teacher403 (big blind) collected (525)
+
+
+
+PokerStars Hand #201795273404: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VIII (200/400) - 2019/06/27 18:30:05 ET
+Table '2638485490 1' 9-max Seat #6 is the button
+Seat 1: lidioca211 (6040 in chips) 
+Seat 2: atom dr (3367 in chips) 
+Seat 3: maf3065 (7261 in chips) 
+Seat 6: Taargeett (5711 in chips) 
+Seat 7: Teacher403 (4621 in chips) 
+lidioca211: posts the ante 25
+atom dr: posts the ante 25
+maf3065: posts the ante 25
+Taargeett: posts the ante 25
+Teacher403: posts the ante 25
+Teacher403: posts small blind 200
+lidioca211: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Taargeett [2d Kc]
+atom dr: folds 
+maf3065: folds 
+Taargeett: folds 
+Teacher403: calls 200
+lidioca211: checks 
+*** FLOP *** [4h As 6d]
+Teacher403: bets 400
+lidioca211: calls 400
+*** TURN *** [4h As 6d] [9s]
+Teacher403: bets 400
+lidioca211: calls 400
+*** RIVER *** [4h As 6d 9s] [2s]
+Teacher403: bets 400
+lidioca211: calls 400
+*** SHOW DOWN ***
+Teacher403: shows [4c 7s] (a pair of Fours)
+lidioca211: shows [Kh 6c] (a pair of Sixes)
+lidioca211 collected 3325 from pot
+*** SUMMARY ***
+Total pot 3325 | Rake 0 
+Board [4h As 6d 9s 2s]
+Seat 1: lidioca211 (big blind) showed [Kh 6c] and won (3325) with a pair of Sixes
+Seat 2: atom dr folded before Flop (didn't bet)
+Seat 3: maf3065 folded before Flop (didn't bet)
+Seat 6: Taargeett (button) folded before Flop (didn't bet)
+Seat 7: Teacher403 (small blind) showed [4c 7s] and lost with a pair of Fours
+
+
+
+PokerStars Hand #201795287868: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level VIII (200/400) - 2019/06/27 18:30:36 ET
+Table '2638485490 1' 9-max Seat #7 is the button
+Seat 1: lidioca211 (7740 in chips) 
+Seat 2: atom dr (3342 in chips) 
+Seat 3: maf3065 (7236 in chips) 
+Seat 6: Taargeett (5686 in chips) 
+Seat 7: Teacher403 (2996 in chips) 
+lidioca211: posts the ante 25
+atom dr: posts the ante 25
+maf3065: posts the ante 25
+Taargeett: posts the ante 25
+Teacher403: posts the ante 25
+lidioca211: posts small blind 200
+atom dr: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Taargeett [Qc 9c]
+maf3065: folds 
+Taargeett: raises 400 to 800
+Teacher403: folds 
+lidioca211: folds 
+atom dr: folds 
+Uncalled bet (400) returned to Taargeett
+Taargeett collected 1125 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Seat 1: lidioca211 (small blind) folded before Flop
+Seat 2: atom dr (big blind) folded before Flop
+Seat 3: maf3065 folded before Flop (didn't bet)
+Seat 6: Taargeett collected (1125)
+Seat 7: Teacher403 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201795298079: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level IX (300/600) - 2019/06/27 18:30:58 ET
+Table '2638485490 1' 9-max Seat #1 is the button
+Seat 1: lidioca211 (7515 in chips) 
+Seat 2: atom dr (2917 in chips) 
+Seat 3: maf3065 (7211 in chips) 
+Seat 6: Taargeett (6386 in chips) 
+Seat 7: Teacher403 (2971 in chips) 
+lidioca211: posts the ante 50
+atom dr: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+Teacher403: posts the ante 50
+atom dr: posts small blind 300
+maf3065: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Taargeett [9d 6h]
+Taargeett: folds 
+Teacher403: calls 600
+lidioca211: calls 600
+atom dr: raises 600 to 1200
+maf3065: folds 
+Teacher403: calls 600
+lidioca211: calls 600
+*** FLOP *** [7s Td 8d]
+atom dr: bets 1667 and is all-in
+Teacher403: calls 1667
+lidioca211: calls 1667
+*** TURN *** [7s Td 8d] [Jd]
+Teacher403: bets 54 and is all-in
+lidioca211: calls 54
+*** RIVER *** [7s Td 8d Jd] [Ts]
+*** SHOW DOWN ***
+Teacher403: shows [Qc Jc] (two pair, Jacks and Tens)
+lidioca211: shows [9c Tc] (a straight, Seven to Jack)
+lidioca211 collected 108 from side pot
+atom dr: shows [7h Ac] (two pair, Tens and Sevens)
+lidioca211 collected 9451 from main pot
+Teacher403 finished the tournament in 4th place and received 76500.00.
+atom dr finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 9559 Main pot 9451. Side pot 108. | Rake 0 
+Board [7s Td 8d Jd Ts]
+Seat 1: lidioca211 (button) showed [9c Tc] and won (9559) with a straight, Seven to Jack
+Seat 2: atom dr (small blind) showed [7h Ac] and lost with two pair, Tens and Sevens
+Seat 3: maf3065 (big blind) folded before Flop
+Seat 6: Taargeett folded before Flop (didn't bet)
+Seat 7: Teacher403 showed [Qc Jc] and lost with two pair, Jacks and Tens
+
+
+
+PokerStars Hand #201795319167: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level IX (300/600) - 2019/06/27 18:31:43 ET
+Table '2638485490 1' 9-max Seat #3 is the button
+Seat 1: lidioca211 (14103 in chips) 
+Seat 3: maf3065 (6561 in chips) 
+Seat 6: Taargeett (6336 in chips) 
+lidioca211: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+Taargeett: posts small blind 300
+lidioca211: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Taargeett [7h 2d]
+maf3065: raises 5911 to 6511 and is all-in
+Taargeett: folds 
+lidioca211: folds 
+Uncalled bet (5911) returned to maf3065
+maf3065 collected 1650 from pot
+maf3065: doesn't show hand 
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Seat 1: lidioca211 (big blind) folded before Flop
+Seat 3: maf3065 (button) collected (1650)
+Seat 6: Taargeett (small blind) folded before Flop
+
+
+
+PokerStars Hand #201795325912: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level IX (300/600) - 2019/06/27 18:31:58 ET
+Table '2638485490 1' 9-max Seat #6 is the button
+Seat 1: lidioca211 (13453 in chips) 
+Seat 3: maf3065 (7561 in chips) 
+Seat 6: Taargeett (5986 in chips) 
+lidioca211: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+lidioca211: posts small blind 300
+maf3065: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Taargeett [Qh 6h]
+Taargeett: raises 600 to 1200
+lidioca211: folds 
+maf3065: folds [3c 5c]
+Uncalled bet (600) returned to Taargeett
+Taargeett collected 1650 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Seat 1: lidioca211 (small blind) folded before Flop
+Seat 3: maf3065 (big blind) folded before Flop
+Seat 6: Taargeett (button) collected (1650)
+
+
+
+PokerStars Hand #201795334206: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level IX (300/600) - 2019/06/27 18:32:15 ET
+Table '2638485490 1' 9-max Seat #1 is the button
+Seat 1: lidioca211 (13103 in chips) 
+Seat 3: maf3065 (6911 in chips) 
+Seat 6: Taargeett (6986 in chips) 
+lidioca211: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+maf3065: posts small blind 300
+Taargeett: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Taargeett [Ac 2h]
+lidioca211: folds 
+maf3065: raises 6261 to 6861 and is all-in
+Taargeett: folds 
+Uncalled bet (6261) returned to maf3065
+maf3065 collected 1350 from pot
+maf3065: doesn't show hand 
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Seat 1: lidioca211 (button) folded before Flop (didn't bet)
+Seat 3: maf3065 (small blind) collected (1350)
+Seat 6: Taargeett (big blind) folded before Flop
+
+
+
+PokerStars Hand #201795339685: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level IX (300/600) - 2019/06/27 18:32:27 ET
+Table '2638485490 1' 9-max Seat #3 is the button
+Seat 1: lidioca211 (13053 in chips) 
+Seat 3: maf3065 (7611 in chips) 
+Seat 6: Taargeett (6336 in chips) 
+lidioca211: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+Taargeett: posts small blind 300
+lidioca211: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Taargeett [Ac 6h]
+maf3065: folds 
+Taargeett: folds 
+Uncalled bet (300) returned to lidioca211
+lidioca211 collected 750 from pot
+lidioca211: doesn't show hand 
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Seat 1: lidioca211 (big blind) collected (750)
+Seat 3: maf3065 (button) folded before Flop (didn't bet)
+Seat 6: Taargeett (small blind) folded before Flop
+
+
+
+PokerStars Hand #201795342578: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level IX (300/600) - 2019/06/27 18:32:34 ET
+Table '2638485490 1' 9-max Seat #6 is the button
+Seat 1: lidioca211 (13453 in chips) 
+Seat 3: maf3065 (7561 in chips) 
+Seat 6: Taargeett (5986 in chips) 
+lidioca211: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+lidioca211: posts small blind 300
+maf3065: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Taargeett [5d 4s]
+Taargeett: folds 
+lidioca211: folds 
+Uncalled bet (300) returned to maf3065
+maf3065 collected 750 from pot
+maf3065: doesn't show hand 
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Seat 1: lidioca211 (small blind) folded before Flop
+Seat 3: maf3065 (big blind) collected (750)
+Seat 6: Taargeett (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201795347661: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level IX (300/600) - 2019/06/27 18:32:45 ET
+Table '2638485490 1' 9-max Seat #1 is the button
+Seat 1: lidioca211 (13103 in chips) 
+Seat 3: maf3065 (7961 in chips) 
+Seat 6: Taargeett (5936 in chips) 
+lidioca211: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+maf3065: posts small blind 300
+Taargeett: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Taargeett [5h Ks]
+lidioca211: calls 600
+maf3065: folds 
+Taargeett: checks 
+*** FLOP *** [7s 6c 5c]
+Taargeett: bets 600
+lidioca211: calls 600
+*** TURN *** [7s 6c 5c] [2d]
+Taargeett: bets 1800
+lidioca211: calls 1800
+*** RIVER *** [7s 6c 5c 2d] [5d]
+Taargeett: bets 2886 and is all-in
+lidioca211: folds 
+Uncalled bet (2886) returned to Taargeett
+Taargeett collected 6450 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 6450 | Rake 0 
+Board [7s 6c 5c 2d 5d]
+Seat 1: lidioca211 (button) folded on the River
+Seat 3: maf3065 (small blind) folded before Flop
+Seat 6: Taargeett (big blind) collected (6450)
+
+
+
+PokerStars Hand #201795360736: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level IX (300/600) - 2019/06/27 18:33:13 ET
+Table '2638485490 1' 9-max Seat #3 is the button
+Seat 1: lidioca211 (10053 in chips) 
+Seat 3: maf3065 (7611 in chips) 
+Seat 6: Taargeett (9336 in chips) 
+lidioca211: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+Taargeett: posts small blind 300
+lidioca211: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Taargeett [9h 4h]
+maf3065: folds 
+Taargeett: folds 
+Uncalled bet (300) returned to lidioca211
+lidioca211 collected 750 from pot
+lidioca211: doesn't show hand 
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Seat 1: lidioca211 (big blind) collected (750)
+Seat 3: maf3065 (button) folded before Flop (didn't bet)
+Seat 6: Taargeett (small blind) folded before Flop
+
+
+
+PokerStars Hand #201795364513: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level IX (300/600) - 2019/06/27 18:33:21 ET
+Table '2638485490 1' 9-max Seat #6 is the button
+Seat 1: lidioca211 (10453 in chips) 
+Seat 3: maf3065 (7561 in chips) 
+Seat 6: Taargeett (8986 in chips) 
+lidioca211: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+lidioca211: posts small blind 300
+maf3065: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Taargeett [3s 7c]
+Taargeett: folds 
+lidioca211: folds 
+Uncalled bet (300) returned to maf3065
+maf3065 collected 750 from pot
+maf3065: doesn't show hand 
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Seat 1: lidioca211 (small blind) folded before Flop
+Seat 3: maf3065 (big blind) collected (750)
+Seat 6: Taargeett (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201795368490: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level IX (300/600) - 2019/06/27 18:33:29 ET
+Table '2638485490 1' 9-max Seat #1 is the button
+Seat 1: lidioca211 (10103 in chips) 
+Seat 3: maf3065 (7961 in chips) 
+Seat 6: Taargeett (8936 in chips) 
+lidioca211: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+maf3065: posts small blind 300
+Taargeett: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Taargeett [7c 4c]
+lidioca211: calls 600
+maf3065: folds 
+Taargeett: checks 
+*** FLOP *** [4h 5h 5c]
+Taargeett: bets 1200
+lidioca211: folds 
+Uncalled bet (1200) returned to Taargeett
+Taargeett collected 1650 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Board [4h 5h 5c]
+Seat 1: lidioca211 (button) folded on the Flop
+Seat 3: maf3065 (small blind) folded before Flop
+Seat 6: Taargeett (big blind) collected (1650)
+
+
+
+PokerStars Hand #201795376996: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level IX (300/600) - 2019/06/27 18:33:47 ET
+Table '2638485490 1' 9-max Seat #3 is the button
+Seat 1: lidioca211 (9453 in chips) 
+Seat 3: maf3065 (7611 in chips) 
+Seat 6: Taargeett (9936 in chips) 
+lidioca211: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+Taargeett: posts small blind 300
+lidioca211: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Taargeett [Jc Ad]
+maf3065: folds 
+Taargeett: raises 600 to 1200
+lidioca211: folds 
+Uncalled bet (600) returned to Taargeett
+Taargeett collected 1350 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Seat 1: lidioca211 (big blind) folded before Flop
+Seat 3: maf3065 (button) folded before Flop (didn't bet)
+Seat 6: Taargeett (small blind) collected (1350)
+
+
+
+PokerStars Hand #201795381233: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level IX (300/600) - 2019/06/27 18:33:56 ET
+Table '2638485490 1' 9-max Seat #6 is the button
+Seat 1: lidioca211 (8803 in chips) 
+Seat 3: maf3065 (7561 in chips) 
+Seat 6: Taargeett (10636 in chips) 
+lidioca211: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+lidioca211: posts small blind 300
+maf3065: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Taargeett [9c Qc]
+Taargeett: raises 600 to 1200
+lidioca211: folds 
+maf3065: folds 
+Uncalled bet (600) returned to Taargeett
+Taargeett collected 1650 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Seat 1: lidioca211 (small blind) folded before Flop
+Seat 3: maf3065 (big blind) folded before Flop
+Seat 6: Taargeett (button) collected (1650)
+
+
+
+PokerStars Hand #201795387316: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level IX (300/600) - 2019/06/27 18:34:09 ET
+Table '2638485490 1' 9-max Seat #1 is the button
+Seat 1: lidioca211 (8453 in chips) 
+Seat 3: maf3065 (6911 in chips) 
+Seat 6: Taargeett (11636 in chips) 
+lidioca211: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+maf3065: posts small blind 300
+Taargeett: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Taargeett [3c 6d]
+lidioca211: folds 
+maf3065: raises 6261 to 6861 and is all-in
+Taargeett: folds 
+Uncalled bet (6261) returned to maf3065
+maf3065 collected 1350 from pot
+maf3065: doesn't show hand 
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Seat 1: lidioca211 (button) folded before Flop (didn't bet)
+Seat 3: maf3065 (small blind) collected (1350)
+Seat 6: Taargeett (big blind) folded before Flop
+
+
+
+PokerStars Hand #201795403309: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level IX (300/600) - 2019/06/27 18:34:26 ET
+Table '2638485490 1' 9-max Seat #3 is the button
+Seat 1: lidioca211 (8403 in chips) 
+Seat 3: maf3065 (7611 in chips) 
+Seat 6: Taargeett (10986 in chips) 
+lidioca211: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+Taargeett: posts small blind 300
+lidioca211: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Taargeett [9d 2c]
+maf3065: folds 
+Taargeett: folds 
+Uncalled bet (300) returned to lidioca211
+lidioca211 collected 750 from pot
+lidioca211: doesn't show hand 
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Seat 1: lidioca211 (big blind) collected (750)
+Seat 3: maf3065 (button) folded before Flop (didn't bet)
+Seat 6: Taargeett (small blind) folded before Flop
+
+
+
+PokerStars Hand #201795407128: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level IX (300/600) - 2019/06/27 18:34:34 ET
+Table '2638485490 1' 9-max Seat #6 is the button
+Seat 1: lidioca211 (8803 in chips) 
+Seat 3: maf3065 (7561 in chips) 
+Seat 6: Taargeett (10636 in chips) 
+lidioca211: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+lidioca211: posts small blind 300
+maf3065: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Taargeett [7s Tc]
+Taargeett: folds 
+lidioca211: calls 300
+maf3065: checks 
+*** FLOP *** [8d Qd 5s]
+lidioca211: checks 
+maf3065: checks 
+*** TURN *** [8d Qd 5s] [8c]
+lidioca211: checks 
+maf3065: bets 600
+lidioca211: folds 
+Uncalled bet (600) returned to maf3065
+maf3065 collected 1350 from pot
+maf3065: doesn't show hand 
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Board [8d Qd 5s 8c]
+Seat 1: lidioca211 (small blind) folded on the Turn
+Seat 3: maf3065 (big blind) collected (1350)
+Seat 6: Taargeett (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201795416704: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level IX (300/600) - 2019/06/27 18:34:54 ET
+Table '2638485490 1' 9-max Seat #1 is the button
+Seat 1: lidioca211 (8153 in chips) 
+Seat 3: maf3065 (8261 in chips) 
+Seat 6: Taargeett (10586 in chips) 
+lidioca211: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+maf3065: posts small blind 300
+Taargeett: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Taargeett [Ks 5c]
+lidioca211: calls 600
+maf3065: folds 
+Taargeett: checks 
+*** FLOP *** [6h Th Ac]
+Taargeett: checks 
+lidioca211: checks 
+*** TURN *** [6h Th Ac] [9d]
+Taargeett: checks 
+lidioca211: checks 
+*** RIVER *** [6h Th Ac 9d] [Kd]
+Taargeett: checks 
+lidioca211: bets 600
+Taargeett: folds 
+Uncalled bet (600) returned to lidioca211
+lidioca211 collected 1650 from pot
+lidioca211: doesn't show hand 
+*** SUMMARY ***
+Total pot 1650 | Rake 0 
+Board [6h Th Ac 9d Kd]
+Seat 1: lidioca211 (button) collected (1650)
+Seat 3: maf3065 (small blind) folded before Flop
+Seat 6: Taargeett (big blind) folded on the River
+
+
+
+PokerStars Hand #201795431112: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level IX (300/600) - 2019/06/27 18:35:25 ET
+Table '2638485490 1' 9-max Seat #3 is the button
+Seat 1: lidioca211 (9153 in chips) 
+Seat 3: maf3065 (7911 in chips) 
+Seat 6: Taargeett (9936 in chips) 
+lidioca211: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+Taargeett: posts small blind 300
+lidioca211: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Taargeett [Ks 6c]
+maf3065: folds 
+Taargeett: raises 600 to 1200
+lidioca211: calls 600
+*** FLOP *** [7d 2s Jh]
+Taargeett: checks 
+lidioca211: checks 
+*** TURN *** [7d 2s Jh] [3s]
+Taargeett: checks 
+lidioca211: checks 
+*** RIVER *** [7d 2s Jh 3s] [Tc]
+Taargeett: checks 
+lidioca211: checks 
+*** SHOW DOWN ***
+Taargeett: shows [Ks 6c] (high card King)
+lidioca211: mucks hand 
+Taargeett collected 2550 from pot
+*** SUMMARY ***
+Total pot 2550 | Rake 0 
+Board [7d 2s Jh 3s Tc]
+Seat 1: lidioca211 (big blind) mucked [5c Qd]
+Seat 3: maf3065 (button) folded before Flop (didn't bet)
+Seat 6: Taargeett (small blind) showed [Ks 6c] and won (2550) with high card King
+
+
+
+PokerStars Hand #201795444379: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level X (400/800) - 2019/06/27 18:35:53 ET
+Table '2638485490 1' 9-max Seat #6 is the button
+Seat 1: lidioca211 (7903 in chips) 
+Seat 3: maf3065 (7861 in chips) 
+Seat 6: Taargeett (11236 in chips) 
+lidioca211: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+lidioca211: posts small blind 400
+maf3065: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Taargeett [3h 6s]
+Taargeett: folds 
+lidioca211: calls 400
+maf3065: checks 
+*** FLOP *** [Ah Kd 9c]
+lidioca211: checks 
+maf3065: checks 
+*** TURN *** [Ah Kd 9c] [3c]
+lidioca211: bets 800
+maf3065: folds [2h]
+Uncalled bet (800) returned to lidioca211
+lidioca211 collected 1750 from pot
+lidioca211: doesn't show hand 
+*** SUMMARY ***
+Total pot 1750 | Rake 0 
+Board [Ah Kd 9c 3c]
+Seat 1: lidioca211 (small blind) collected (1750)
+Seat 3: maf3065 (big blind) folded on the Turn
+Seat 6: Taargeett (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201795453604: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level X (400/800) - 2019/06/27 18:36:13 ET
+Table '2638485490 1' 9-max Seat #1 is the button
+Seat 1: lidioca211 (8803 in chips) 
+Seat 3: maf3065 (7011 in chips) 
+Seat 6: Taargeett (11186 in chips) 
+lidioca211: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+maf3065: posts small blind 400
+Taargeett: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Taargeett [9c 2h]
+lidioca211: folds 
+maf3065: raises 6161 to 6961 and is all-in
+Taargeett: folds 
+Uncalled bet (6161) returned to maf3065
+maf3065 collected 1750 from pot
+maf3065: shows [Ah]
+*** SUMMARY ***
+Total pot 1750 | Rake 0 
+Seat 1: lidioca211 (button) folded before Flop (didn't bet)
+Seat 3: maf3065 (small blind) collected (1750)
+Seat 6: Taargeett (big blind) folded before Flop
+
+
+
+PokerStars Hand #201795458097: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level X (400/800) - 2019/06/27 18:36:22 ET
+Table '2638485490 1' 9-max Seat #3 is the button
+Seat 1: lidioca211 (8753 in chips) 
+Seat 3: maf3065 (7911 in chips) 
+Seat 6: Taargeett (10336 in chips) 
+lidioca211: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+Taargeett: posts small blind 400
+lidioca211: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Taargeett [Qh 9h]
+maf3065: folds 
+Taargeett: raises 800 to 1600
+lidioca211: calls 800
+*** FLOP *** [7s Ts 4h]
+Taargeett: bets 800
+lidioca211: folds 
+Uncalled bet (800) returned to Taargeett
+Taargeett collected 3350 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 3350 | Rake 0 
+Board [7s Ts 4h]
+Seat 1: lidioca211 (big blind) folded on the Flop
+Seat 3: maf3065 (button) folded before Flop (didn't bet)
+Seat 6: Taargeett (small blind) collected (3350)
+
+
+
+PokerStars Hand #201795466035: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level X (400/800) - 2019/06/27 18:36:39 ET
+Table '2638485490 1' 9-max Seat #6 is the button
+Seat 1: lidioca211 (7103 in chips) 
+Seat 3: maf3065 (7861 in chips) 
+Seat 6: Taargeett (12036 in chips) 
+lidioca211: posts the ante 50
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+lidioca211: posts small blind 400
+maf3065: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Taargeett [2c Ts]
+Taargeett: folds 
+lidioca211: calls 400
+maf3065: checks 
+*** FLOP *** [7h 5h Qs]
+lidioca211: checks 
+maf3065: bets 800
+lidioca211: calls 800
+*** TURN *** [7h 5h Qs] [3c]
+lidioca211: checks 
+maf3065: bets 6211 and is all-in
+lidioca211: calls 5453 and is all-in
+Uncalled bet (758) returned to maf3065
+*** RIVER *** [7h 5h Qs 3c] [Kh]
+*** SHOW DOWN ***
+lidioca211: shows [9s 8s] (high card King)
+maf3065: shows [Qd 6c] (a pair of Queens)
+maf3065 collected 14256 from pot
+lidioca211 finished the tournament in 3rd place and received 153000.00.
+*** SUMMARY ***
+Total pot 14256 | Rake 0 
+Board [7h 5h Qs 3c Kh]
+Seat 1: lidioca211 (small blind) showed [9s 8s] and lost with high card King
+Seat 3: maf3065 (big blind) showed [Qd 6c] and won (14256) with a pair of Queens
+Seat 6: Taargeett (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201795478900: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level X (400/800) - 2019/06/27 18:37:07 ET
+Table '2638485490 1' 9-max Seat #3 is the button
+Seat 3: maf3065 (15014 in chips) 
+Seat 6: Taargeett (11986 in chips) 
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+maf3065: posts small blind 400
+Taargeett: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Taargeett [2c Jd]
+maf3065: calls 400
+Taargeett: checks 
+*** FLOP *** [6s Qh 7s]
+Taargeett: checks 
+maf3065: checks 
+*** TURN *** [6s Qh 7s] [8d]
+Taargeett: checks 
+maf3065: checks 
+*** RIVER *** [6s Qh 7s 8d] [9h]
+Taargeett: bets 11136 and is all-in
+maf3065: folds 
+Uncalled bet (11136) returned to Taargeett
+Taargeett collected 1700 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [6s Qh 7s 8d 9h]
+Seat 3: maf3065 (button) (small blind) folded on the River
+Seat 6: Taargeett (big blind) collected (1700)
+
+
+
+PokerStars Hand #201795488547: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level X (400/800) - 2019/06/27 18:37:28 ET
+Table '2638485490 1' 9-max Seat #6 is the button
+Seat 3: maf3065 (14164 in chips) 
+Seat 6: Taargeett (12836 in chips) 
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+Taargeett: posts small blind 400
+maf3065: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Taargeett [6d 3h]
+Taargeett: folds 
+Uncalled bet (400) returned to maf3065
+maf3065 collected 900 from pot
+maf3065: shows [Ks Ts] (high card King)
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Seat 3: maf3065 (big blind) collected (900)
+Seat 6: Taargeett (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #201795491692: Tournament #2638485490, 42500+7500 Hold'em No Limit - Level X (400/800) - 2019/06/27 18:37:35 ET
+Table '2638485490 1' 9-max Seat #3 is the button
+Seat 3: maf3065 (14614 in chips) 
+Seat 6: Taargeett (12386 in chips) 
+maf3065: posts the ante 50
+Taargeett: posts the ante 50
+maf3065: posts small blind 400
+Taargeett: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Taargeett [Ac 8d]
+maf3065: calls 400
+Taargeett: raises 800 to 1600
+maf3065: raises 12964 to 14564 and is all-in
+Taargeett: calls 10736 and is all-in
+Uncalled bet (2228) returned to maf3065
+*** FLOP *** [9d 8s 5s]
+*** TURN *** [9d 8s 5s] [6s]
+*** RIVER *** [9d 8s 5s 6s] [Js]
+*** SHOW DOWN ***
+Taargeett: shows [Ac 8d] (a pair of Eights)
+maf3065: shows [Qd Ks] (a flush, King high)
+maf3065 collected 24772 from pot
+Taargeett finished the tournament in 2nd place and received 229500.00.
+maf3065 wins the tournament and receives 306000.00 - congratulations!
+*** SUMMARY ***
+Total pot 24772 | Rake 0 
+Board [9d 8s 5s 6s Js]
+Seat 3: maf3065 (button) (small blind) showed [Qd Ks] and won (24772) with a flush, King high
+Seat 6: Taargeett (big blind) showed [Ac 8d] and lost with a pair of Eights
+
+
+

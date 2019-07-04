@@ -1,0 +1,602 @@
+﻿PokerStars Hand #201794682601: Tournament #2638489599, 17000+3000 Hold'em No Limit - Level III (25/50) - 2019/06/27 18:09:34 ET
+Table '2638489599 5' 9-max Seat #6 is the button
+Seat 1: sparky1060 (1680 in chips) 
+Seat 2: tomkatszerofive (698 in chips) 
+Seat 3: Taargeett (1425 in chips) is sitting out
+Seat 5: elmentira (1355 in chips) 
+Seat 6: pokercia69 (3015 in chips) 
+Seat 7: luolto1989 (1355 in chips) 
+Seat 8: MudMerchant (2492 in chips) 
+Seat 9: LR-Poker0652 (1480 in chips) 
+luolto1989: posts small blind 25
+MudMerchant: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Taargeett [Kh 4d]
+LR-Poker0652: folds 
+sparky1060: folds 
+tomkatszerofive: calls 50
+Taargeett: folds 
+elmentira: folds 
+pokercia69: folds 
+luolto1989: folds 
+MudMerchant: checks 
+*** FLOP *** [Jc Js Qs]
+MudMerchant: checks 
+tomkatszerofive has timed out
+tomkatszerofive: checks 
+*** TURN *** [Jc Js Qs] [6h]
+MudMerchant: checks 
+tomkatszerofive: checks 
+*** RIVER *** [Jc Js Qs 6h] [As]
+MudMerchant: checks 
+tomkatszerofive: bets 648 and is all-in
+MudMerchant: folds 
+Uncalled bet (648) returned to tomkatszerofive
+tomkatszerofive collected 125 from pot
+tomkatszerofive: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Board [Jc Js Qs 6h As]
+Seat 1: sparky1060 folded before Flop (didn't bet)
+Seat 2: tomkatszerofive collected (125)
+Seat 3: Taargeett folded before Flop (didn't bet)
+Seat 5: elmentira folded before Flop (didn't bet)
+Seat 6: pokercia69 (button) folded before Flop (didn't bet)
+Seat 7: luolto1989 (small blind) folded before Flop
+Seat 8: MudMerchant (big blind) folded on the River
+Seat 9: LR-Poker0652 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201794743411: Tournament #2638489599, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2019/06/27 18:11:36 ET
+Table '2638489599 5' 9-max Seat #7 is the button
+Seat 1: sparky1060 (1680 in chips) 
+Seat 2: tomkatszerofive (773 in chips) 
+Seat 3: Taargeett (1425 in chips) 
+Seat 4: nicetpic666 (1020 in chips) 
+Seat 5: elmentira (1355 in chips) 
+Seat 6: pokercia69 (3015 in chips) 
+Seat 7: luolto1989 (1330 in chips) 
+Seat 8: MudMerchant (2442 in chips) 
+Seat 9: LR-Poker0652 (1480 in chips) 
+MudMerchant: posts small blind 50
+LR-Poker0652: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [7c Qh]
+sparky1060: calls 100
+tomkatszerofive: folds 
+Taargeett: folds 
+nicetpic666: folds 
+elmentira: folds 
+pokercia69: calls 100
+luolto1989: folds 
+MudMerchant: calls 50
+LR-Poker0652: checks 
+*** FLOP *** [7h 7s 5c]
+MudMerchant: checks 
+LR-Poker0652: checks 
+sparky1060: checks 
+pokercia69: checks 
+*** TURN *** [7h 7s 5c] [8h]
+MudMerchant: checks 
+LR-Poker0652: checks 
+sparky1060: checks 
+pokercia69: checks 
+*** RIVER *** [7h 7s 5c 8h] [4h]
+MudMerchant: checks 
+LR-Poker0652: checks 
+sparky1060: checks 
+pokercia69: checks 
+*** SHOW DOWN ***
+MudMerchant: shows [9h Ad] (a pair of Sevens)
+LR-Poker0652: shows [6s 2h] (a straight, Four to Eight)
+sparky1060: mucks hand 
+pokercia69: mucks hand 
+LR-Poker0652 collected 400 from pot
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [7h 7s 5c 8h 4h]
+Seat 1: sparky1060 mucked [Th As]
+Seat 2: tomkatszerofive folded before Flop (didn't bet)
+Seat 3: Taargeett folded before Flop (didn't bet)
+Seat 4: nicetpic666 folded before Flop (didn't bet)
+Seat 5: elmentira folded before Flop (didn't bet)
+Seat 6: pokercia69 mucked [Qs Kc]
+Seat 7: luolto1989 (button) folded before Flop (didn't bet)
+Seat 8: MudMerchant (small blind) showed [9h Ad] and lost with a pair of Sevens
+Seat 9: LR-Poker0652 (big blind) showed [6s 2h] and won (400) with a straight, Four to Eight
+
+
+
+PokerStars Hand #201794784836: Tournament #2638489599, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2019/06/27 18:13:00 ET
+Table '2638489599 5' 9-max Seat #8 is the button
+Seat 1: sparky1060 (1580 in chips) 
+Seat 2: tomkatszerofive (773 in chips) 
+Seat 3: Taargeett (1425 in chips) 
+Seat 4: nicetpic666 (1020 in chips) 
+Seat 5: elmentira (1355 in chips) 
+Seat 6: pokercia69 (2915 in chips) 
+Seat 7: luolto1989 (1330 in chips) 
+Seat 8: MudMerchant (2342 in chips) 
+Seat 9: LR-Poker0652 (1780 in chips) 
+LR-Poker0652: posts small blind 50
+sparky1060: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [6s 3c]
+tomkatszerofive: folds 
+Taargeett: folds 
+nicetpic666: folds 
+elmentira: calls 100
+pokercia69: calls 100
+luolto1989: folds 
+MudMerchant has timed out
+MudMerchant: folds 
+LR-Poker0652: folds 
+sparky1060: checks 
+*** FLOP *** [Qs 2c Qd]
+sparky1060: checks 
+elmentira: checks 
+pokercia69: checks 
+*** TURN *** [Qs 2c Qd] [Th]
+sparky1060: bets 100
+elmentira: folds 
+pokercia69: raises 275 to 375
+sparky1060: folds 
+Uncalled bet (275) returned to pokercia69
+pokercia69 collected 550 from pot
+pokercia69: doesn't show hand 
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Board [Qs 2c Qd Th]
+Seat 1: sparky1060 (big blind) folded on the Turn
+Seat 2: tomkatszerofive folded before Flop (didn't bet)
+Seat 3: Taargeett folded before Flop (didn't bet)
+Seat 4: nicetpic666 folded before Flop (didn't bet)
+Seat 5: elmentira folded on the Turn
+Seat 6: pokercia69 collected (550)
+Seat 7: luolto1989 folded before Flop (didn't bet)
+Seat 8: MudMerchant (button) folded before Flop (didn't bet)
+Seat 9: LR-Poker0652 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201794821317: Tournament #2638489599, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2019/06/27 18:14:15 ET
+Table '2638489599 5' 9-max Seat #9 is the button
+Seat 1: sparky1060 (1380 in chips) 
+Seat 2: tomkatszerofive (773 in chips) 
+Seat 3: Taargeett (1425 in chips) 
+Seat 4: nicetpic666 (1020 in chips) 
+Seat 5: elmentira (1255 in chips) 
+Seat 6: pokercia69 (3265 in chips) 
+Seat 7: luolto1989 (1330 in chips) 
+Seat 8: MudMerchant (2342 in chips) 
+Seat 9: LR-Poker0652 (1730 in chips) 
+sparky1060: posts small blind 50
+tomkatszerofive: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [7h 2d]
+Taargeett: folds 
+nicetpic666: calls 100
+elmentira: folds 
+pokercia69: folds 
+luolto1989: folds 
+MudMerchant: calls 100
+LR-Poker0652: folds 
+sparky1060: folds 
+tomkatszerofive: checks 
+*** FLOP *** [3s 2c Kd]
+tomkatszerofive: checks 
+nicetpic666: bets 100
+MudMerchant: folds 
+tomkatszerofive: folds 
+Uncalled bet (100) returned to nicetpic666
+nicetpic666 collected 350 from pot
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Board [3s 2c Kd]
+Seat 1: sparky1060 (small blind) folded before Flop
+Seat 2: tomkatszerofive (big blind) folded on the Flop
+Seat 3: Taargeett folded before Flop (didn't bet)
+Seat 4: nicetpic666 collected (350)
+Seat 5: elmentira folded before Flop (didn't bet)
+Seat 6: pokercia69 folded before Flop (didn't bet)
+Seat 7: luolto1989 folded before Flop (didn't bet)
+Seat 8: MudMerchant folded on the Flop
+Seat 9: LR-Poker0652 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201794885709: Tournament #2638489599, 17000+3000 Hold'em No Limit - Level IV (50/100) - 2019/06/27 18:16:27 ET
+Table '2638489599 1' 9-max Seat #7 is the button
+Seat 1: Taargeett (1425 in chips) 
+Seat 2: orango85 (3583 in chips) 
+Seat 3: Sharida123 (2780 in chips) 
+Seat 4: lussiebal (1261 in chips) 
+Seat 5: PocasHondas (2763 in chips) 
+Seat 6: Eweraugust (2348 in chips) 
+Seat 7: 25lefty54 (1780 in chips) 
+Seat 9: granpoker336 (1055 in chips) 
+granpoker336: posts small blind 50
+Taargeett: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [6c 9c]
+orango85: raises 150 to 250
+Sharida123: folds 
+lussiebal: folds 
+PocasHondas: folds 
+Eweraugust: folds 
+25lefty54: folds 
+granpoker336: raises 150 to 400
+Taargeett: folds 
+orango85: calls 150
+*** FLOP *** [6s 2h 5h]
+granpoker336: bets 300
+orango85: calls 300
+*** TURN *** [6s 2h 5h] [Qc]
+granpoker336: checks 
+orango85: checks 
+*** RIVER *** [6s 2h 5h Qc] [5s]
+granpoker336: bets 355 and is all-in
+orango85: calls 355
+*** SHOW DOWN ***
+granpoker336: shows [Ad Jh] (a pair of Fives)
+orango85: shows [Jd Td] (a pair of Fives - lower kicker)
+granpoker336 collected 2210 from pot
+*** SUMMARY ***
+Total pot 2210 | Rake 0 
+Board [6s 2h 5h Qc 5s]
+Seat 1: Taargeett (big blind) folded before Flop
+Seat 2: orango85 showed [Jd Td] and lost with a pair of Fives
+Seat 3: Sharida123 folded before Flop (didn't bet)
+Seat 4: lussiebal folded before Flop (didn't bet)
+Seat 5: PocasHondas folded before Flop (didn't bet)
+Seat 6: Eweraugust folded before Flop (didn't bet)
+Seat 7: 25lefty54 (button) folded before Flop (didn't bet)
+Seat 9: granpoker336 (small blind) showed [Ad Jh] and won (2210) with a pair of Fives
+
+
+
+PokerStars Hand #201794920251: Tournament #2638489599, 17000+3000 Hold'em No Limit - Level V (75/150) - 2019/06/27 18:17:38 ET
+Table '2638489599 1' 9-max Seat #9 is the button
+Seat 1: Taargeett (1325 in chips) 
+Seat 2: orango85 (2528 in chips) 
+Seat 3: Sharida123 (2780 in chips) 
+Seat 4: lussiebal (1261 in chips) 
+Seat 5: PocasHondas (2763 in chips) 
+Seat 6: Eweraugust (2348 in chips) 
+Seat 7: 25lefty54 (1780 in chips) 
+Seat 9: granpoker336 (2210 in chips) 
+Taargeett: posts small blind 75
+orango85: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [4c 2h]
+Sharida123: folds 
+lussiebal: folds 
+PocasHondas: folds 
+Eweraugust: folds 
+25lefty54: raises 375 to 525
+granpoker336: folds 
+Taargeett: folds 
+orango85: folds 
+Uncalled bet (375) returned to 25lefty54
+25lefty54 collected 375 from pot
+25lefty54: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: Taargeett (small blind) folded before Flop
+Seat 2: orango85 (big blind) folded before Flop
+Seat 3: Sharida123 folded before Flop (didn't bet)
+Seat 4: lussiebal folded before Flop (didn't bet)
+Seat 5: PocasHondas folded before Flop (didn't bet)
+Seat 6: Eweraugust folded before Flop (didn't bet)
+Seat 7: 25lefty54 collected (375)
+Seat 9: granpoker336 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201794943989: Tournament #2638489599, 17000+3000 Hold'em No Limit - Level V (75/150) - 2019/06/27 18:18:27 ET
+Table '2638489599 1' 9-max Seat #1 is the button
+Seat 1: Taargeett (1250 in chips) 
+Seat 2: orango85 (2378 in chips) 
+Seat 3: Sharida123 (2780 in chips) 
+Seat 4: lussiebal (1261 in chips) 
+Seat 5: PocasHondas (2763 in chips) 
+Seat 6: Eweraugust (2348 in chips) 
+Seat 7: 25lefty54 (2005 in chips) 
+Seat 9: granpoker336 (2210 in chips) 
+orango85: posts small blind 75
+Sharida123: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [Qd 6d]
+lussiebal: calls 150
+PocasHondas: folds 
+Eweraugust: folds 
+25lefty54: raises 525 to 675
+granpoker336: folds 
+Taargeett: folds 
+orango85: folds 
+Sharida123: folds 
+lussiebal: calls 525
+*** FLOP *** [3d 3h 7s]
+lussiebal: checks 
+25lefty54: bets 788
+lussiebal: calls 586 and is all-in
+Uncalled bet (202) returned to 25lefty54
+*** TURN *** [3d 3h 7s] [9s]
+*** RIVER *** [3d 3h 7s 9s] [Kc]
+*** SHOW DOWN ***
+lussiebal: shows [4c Ah] (a pair of Threes)
+25lefty54: shows [Js Ad] (a pair of Threes - Ace+King+Jack kicker)
+25lefty54 collected 2747 from pot
+lussiebal finished the tournament in 32nd place
+*** SUMMARY ***
+Total pot 2747 | Rake 0 
+Board [3d 3h 7s 9s Kc]
+Seat 1: Taargeett (button) folded before Flop (didn't bet)
+Seat 2: orango85 (small blind) folded before Flop
+Seat 3: Sharida123 (big blind) folded before Flop
+Seat 4: lussiebal showed [4c Ah] and lost with a pair of Threes
+Seat 5: PocasHondas folded before Flop (didn't bet)
+Seat 6: Eweraugust folded before Flop (didn't bet)
+Seat 7: 25lefty54 showed [Js Ad] and won (2747) with a pair of Threes
+Seat 9: granpoker336 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201794969372: Tournament #2638489599, 17000+3000 Hold'em No Limit - Level V (75/150) - 2019/06/27 18:19:20 ET
+Table '2638489599 1' 9-max Seat #2 is the button
+Seat 1: Taargeett (1250 in chips) 
+Seat 2: orango85 (2303 in chips) 
+Seat 3: Sharida123 (2630 in chips) 
+Seat 5: PocasHondas (2763 in chips) 
+Seat 6: Eweraugust (2348 in chips) 
+Seat 7: 25lefty54 (3491 in chips) 
+Seat 9: granpoker336 (2210 in chips) 
+Sharida123: posts small blind 75
+PocasHondas: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [8s 6s]
+Eweraugust: folds 
+25lefty54: raises 375 to 525
+granpoker336: folds 
+Taargeett: folds 
+orango85: folds 
+Sharida123: folds 
+PocasHondas: raises 2238 to 2763 and is all-in
+25lefty54: calls 2238
+*** FLOP *** [Ah Ad 9d]
+*** TURN *** [Ah Ad 9d] [9s]
+*** RIVER *** [Ah Ad 9d 9s] [Qd]
+*** SHOW DOWN ***
+PocasHondas: shows [8c 8h] (two pair, Aces and Nines)
+25lefty54: shows [Jd Qs] (two pair, Aces and Queens)
+25lefty54 collected 5601 from pot
+PocasHondas finished the tournament in 31st place
+*** SUMMARY ***
+Total pot 5601 | Rake 0 
+Board [Ah Ad 9d 9s Qd]
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 2: orango85 (button) folded before Flop (didn't bet)
+Seat 3: Sharida123 (small blind) folded before Flop
+Seat 5: PocasHondas (big blind) showed [8c 8h] and lost with two pair, Aces and Nines
+Seat 6: Eweraugust folded before Flop (didn't bet)
+Seat 7: 25lefty54 showed [Jd Qs] and won (5601) with two pair, Aces and Queens
+Seat 9: granpoker336 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201794985520: Tournament #2638489599, 17000+3000 Hold'em No Limit - Level V (75/150) - 2019/06/27 18:19:54 ET
+Table '2638489599 1' 9-max Seat #3 is the button
+Seat 1: Taargeett (1250 in chips) 
+Seat 2: orango85 (2303 in chips) 
+Seat 3: Sharida123 (2555 in chips) 
+Seat 6: Eweraugust (2348 in chips) 
+Seat 7: 25lefty54 (6329 in chips) 
+Seat 9: granpoker336 (2210 in chips) 
+Eweraugust: posts small blind 75
+25lefty54: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [Tc Ad]
+granpoker336: raises 150 to 300
+Taargeett: raises 950 to 1250 and is all-in
+orango85: folds 
+Sharida123: folds 
+Eweraugust: folds 
+25lefty54: folds 
+granpoker336: folds 
+Uncalled bet (950) returned to Taargeett
+Taargeett collected 825 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Seat 1: Taargeett collected (825)
+Seat 2: orango85 folded before Flop (didn't bet)
+Seat 3: Sharida123 (button) folded before Flop (didn't bet)
+Seat 6: Eweraugust (small blind) folded before Flop
+Seat 7: 25lefty54 (big blind) folded before Flop
+Seat 9: granpoker336 folded before Flop
+
+
+
+PokerStars Hand #201794999995: Tournament #2638489599, 17000+3000 Hold'em No Limit - Level V (75/150) - 2019/06/27 18:20:24 ET
+Table '2638489599 1' 9-max Seat #6 is the button
+Seat 1: Taargeett (1775 in chips) 
+Seat 2: orango85 (2303 in chips) 
+Seat 3: Sharida123 (2555 in chips) 
+Seat 4: elmentira (609 in chips) 
+Seat 6: Eweraugust (2273 in chips) 
+Seat 7: 25lefty54 (6179 in chips) 
+Seat 9: granpoker336 (1910 in chips) 
+25lefty54: posts small blind 75
+granpoker336: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [3h 9s]
+Taargeett: folds 
+orango85: folds 
+Sharida123: folds 
+elmentira: folds 
+Eweraugust has timed out
+Eweraugust: folds 
+25lefty54: calls 75
+granpoker336: checks 
+*** FLOP *** [Kd 5h Ks]
+25lefty54: checks 
+granpoker336: checks 
+*** TURN *** [Kd 5h Ks] [5d]
+25lefty54: checks 
+granpoker336: bets 150
+25lefty54: calls 150
+*** RIVER *** [Kd 5h Ks 5d] [4c]
+25lefty54: checks 
+granpoker336: checks 
+*** SHOW DOWN ***
+25lefty54: shows [6c Th] (two pair, Kings and Fives)
+granpoker336: shows [9h Jh] (two pair, Kings and Fives - Jack kicker)
+granpoker336 collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Kd 5h Ks 5d 4c]
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 2: orango85 folded before Flop (didn't bet)
+Seat 3: Sharida123 folded before Flop (didn't bet)
+Seat 4: elmentira folded before Flop (didn't bet)
+Seat 6: Eweraugust (button) folded before Flop (didn't bet)
+Seat 7: 25lefty54 (small blind) showed [6c Th] and lost with two pair, Kings and Fives
+Seat 9: granpoker336 (big blind) showed [9h Jh] and won (600) with two pair, Kings and Fives
+
+
+
+PokerStars Hand #201795030922: Tournament #2638489599, 17000+3000 Hold'em No Limit - Level V (75/150) - 2019/06/27 18:21:29 ET
+Table '2638489599 1' 9-max Seat #7 is the button
+Seat 1: Taargeett (1775 in chips) 
+Seat 2: orango85 (2303 in chips) 
+Seat 3: Sharida123 (2555 in chips) 
+Seat 4: elmentira (609 in chips) 
+Seat 6: Eweraugust (2273 in chips) 
+Seat 7: 25lefty54 (5879 in chips) 
+Seat 9: granpoker336 (2210 in chips) 
+granpoker336: posts small blind 75
+Taargeett: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [Qd Kh]
+orango85: folds 
+Sharida123: folds 
+elmentira has timed out
+elmentira: folds 
+Eweraugust: folds 
+25lefty54: raises 375 to 525
+granpoker336: folds 
+Taargeett: calls 375
+*** FLOP *** [7s 9s 5d]
+Taargeett: checks 
+25lefty54: bets 1125
+Taargeett: folds 
+Uncalled bet (1125) returned to 25lefty54
+25lefty54 collected 1125 from pot
+25lefty54: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Board [7s 9s 5d]
+Seat 1: Taargeett (big blind) folded on the Flop
+Seat 2: orango85 folded before Flop (didn't bet)
+Seat 3: Sharida123 folded before Flop (didn't bet)
+Seat 4: elmentira folded before Flop (didn't bet)
+Seat 6: Eweraugust folded before Flop (didn't bet)
+Seat 7: 25lefty54 (button) collected (1125)
+Seat 9: granpoker336 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201795059824: Tournament #2638489599, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2019/06/27 18:22:30 ET
+Table '2638489599 1' 9-max Seat #9 is the button
+Seat 1: Taargeett (1250 in chips) 
+Seat 2: orango85 (2303 in chips) 
+Seat 3: Sharida123 (2555 in chips) 
+Seat 4: elmentira (609 in chips) 
+Seat 5: lilparis24 (3780 in chips) 
+Seat 6: Eweraugust (2273 in chips) 
+Seat 7: 25lefty54 (6479 in chips) 
+Seat 8: Lovablelarry (4830 in chips) 
+Seat 9: granpoker336 (2135 in chips) 
+Taargeett: posts small blind 100
+orango85: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [3s 2h]
+Sharida123: folds 
+elmentira: raises 409 to 609 and is all-in
+lilparis24: folds 
+Eweraugust: folds 
+25lefty54: folds 
+Lovablelarry: raises 409 to 1018
+granpoker336: folds 
+Taargeett: folds 
+orango85: folds 
+Uncalled bet (409) returned to Lovablelarry
+*** FLOP *** [6s 7d 3d]
+*** TURN *** [6s 7d 3d] [7s]
+*** RIVER *** [6s 7d 3d 7s] [8c]
+*** SHOW DOWN ***
+elmentira: shows [Ac 8d] (two pair, Eights and Sevens)
+Lovablelarry: shows [Kc Kd] (two pair, Kings and Sevens)
+Lovablelarry collected 1518 from pot
+elmentira finished the tournament in 25th place
+*** SUMMARY ***
+Total pot 1518 | Rake 0 
+Board [6s 7d 3d 7s 8c]
+Seat 1: Taargeett (small blind) folded before Flop
+Seat 2: orango85 (big blind) folded before Flop
+Seat 3: Sharida123 folded before Flop (didn't bet)
+Seat 4: elmentira showed [Ac 8d] and lost with two pair, Eights and Sevens
+Seat 5: lilparis24 folded before Flop (didn't bet)
+Seat 6: Eweraugust folded before Flop (didn't bet)
+Seat 7: 25lefty54 folded before Flop (didn't bet)
+Seat 8: Lovablelarry showed [Kc Kd] and won (1518) with two pair, Kings and Sevens
+Seat 9: granpoker336 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201795077165: Tournament #2638489599, 17000+3000 Hold'em No Limit - Level VI (100/200) - 2019/06/27 18:23:06 ET
+Table '2638489599 1' 9-max Seat #1 is the button
+Seat 1: Taargeett (1150 in chips) 
+Seat 2: orango85 (2103 in chips) 
+Seat 3: Sharida123 (2555 in chips) 
+Seat 5: lilparis24 (3780 in chips) 
+Seat 6: Eweraugust (2273 in chips) 
+Seat 7: 25lefty54 (6479 in chips) 
+Seat 8: Lovablelarry (5739 in chips) 
+Seat 9: granpoker336 (2135 in chips) 
+orango85: posts small blind 100
+Sharida123: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [4c Kc]
+lilparis24: calls 200
+Eweraugust: folds 
+25lefty54: folds 
+Lovablelarry: folds 
+granpoker336: folds 
+Taargeett: raises 950 to 1150 and is all-in
+orango85: folds 
+Sharida123: folds 
+lilparis24: calls 950
+*** FLOP *** [Td 7c 8h]
+*** TURN *** [Td 7c 8h] [4s]
+*** RIVER *** [Td 7c 8h 4s] [As]
+*** SHOW DOWN ***
+lilparis24: shows [Ad Qs] (a pair of Aces)
+Taargeett: shows [4c Kc] (a pair of Fours)
+lilparis24 collected 2600 from pot
+Taargeett finished the tournament in 24th place
+*** SUMMARY ***
+Total pot 2600 | Rake 0 
+Board [Td 7c 8h 4s As]
+Seat 1: Taargeett (button) showed [4c Kc] and lost with a pair of Fours
+Seat 2: orango85 (small blind) folded before Flop
+Seat 3: Sharida123 (big blind) folded before Flop
+Seat 5: lilparis24 showed [Ad Qs] and won (2600) with a pair of Aces
+Seat 6: Eweraugust folded before Flop (didn't bet)
+Seat 7: 25lefty54 folded before Flop (didn't bet)
+Seat 8: Lovablelarry folded before Flop (didn't bet)
+Seat 9: granpoker336 folded before Flop (didn't bet)
+
+
+

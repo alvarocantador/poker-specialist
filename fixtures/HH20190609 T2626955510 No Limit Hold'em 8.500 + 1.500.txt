@@ -1,0 +1,257 @@
+﻿PokerStars Hand #201243334670: Tournament #2626955510, 4250+4250+1500 Hold'em No Limit - Level I (10/20) - 2019/06/09 19:41:35 ET
+Table '2626955510 1' 9-max Seat #1 is the button
+Seat 1: HaraPapa1989 (500 in chips) 
+Seat 2: its carri550 (500 in chips) is sitting out
+Seat 3: Taargeett (500 in chips) 
+Seat 4: RABODUROO (500 in chips) 
+Seat 5: Bluffandstuf (500 in chips) 
+Seat 6: victorel156 (500 in chips) 
+Seat 7: Freischarlër (500 in chips) 
+Seat 8: merlin2799 (500 in chips) 
+Seat 9: ShadowAce (500 in chips) 
+HaraPapa1989: posts the ante 2
+its carri550: posts the ante 2
+Taargeett: posts the ante 2
+RABODUROO: posts the ante 2
+Bluffandstuf: posts the ante 2
+victorel156: posts the ante 2
+Freischarlër: posts the ante 2
+merlin2799: posts the ante 2
+ShadowAce: posts the ante 2
+its carri550: posts small blind 10
+Taargeett: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [5c 8s]
+RABODUROO: raises 20 to 40
+Bluffandstuf: folds 
+victorel156: raises 458 to 498 and is all-in
+Freischarlër: calls 498 and is all-in
+merlin2799: folds 
+ShadowAce: folds 
+HaraPapa1989: folds 
+its carri550: calls 488 and is all-in
+Taargeett: folds 
+RABODUROO: calls 458 and is all-in
+*** FLOP *** [4s Td 9c]
+*** TURN *** [4s Td 9c] [3d]
+*** RIVER *** [4s Td 9c 3d] [7c]
+*** SHOW DOWN ***
+its carri550: shows [Kh Qd] (high card King)
+RABODUROO: shows [9s Ks] (a pair of Nines)
+victorel156: shows [2h Ad] (high card Ace)
+Freischarlër: shows [7d 9h] (two pair, Nines and Sevens)
+Freischarlër collected 2030 from pot
+Freischarlër wins the 4250 bounty for eliminating its carri550
+Freischarlër wins the 4250 bounty for eliminating RABODUROO
+Freischarlër wins the 4250 bounty for eliminating victorel156
+its carri550 finished the tournament in 7th place
+RABODUROO finished the tournament in 7th place
+victorel156 finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 2030 | Rake 0 
+Board [4s Td 9c 3d 7c]
+Seat 1: HaraPapa1989 (button) folded before Flop (didn't bet)
+Seat 2: its carri550 (small blind) showed [Kh Qd] and lost with high card King
+Seat 3: Taargeett (big blind) folded before Flop
+Seat 4: RABODUROO showed [9s Ks] and lost with a pair of Nines
+Seat 5: Bluffandstuf folded before Flop (didn't bet)
+Seat 6: victorel156 showed [2h Ad] and lost with high card Ace
+Seat 7: Freischarlër showed [7d 9h] and won (2030) with two pair, Nines and Sevens
+Seat 8: merlin2799 folded before Flop (didn't bet)
+Seat 9: ShadowAce folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201243380306: Tournament #2626955510, 4250+4250+1500 Hold'em No Limit - Level I (10/20) - 2019/06/09 19:43:26 ET
+Table '2626955510 1' 9-max Seat #7 is the button
+Seat 3: Taargeett (474 in chips) is sitting out
+Seat 5: Bluffandstuf (888 in chips) 
+Seat 7: Freischarlër (2210 in chips) 
+Seat 8: merlin2799 (454 in chips) 
+Seat 9: ShadowAce (474 in chips) 
+Taargeett: posts the ante 2
+Bluffandstuf: posts the ante 2
+Freischarlër: posts the ante 2
+merlin2799: posts the ante 2
+ShadowAce: posts the ante 2
+merlin2799: posts small blind 10
+ShadowAce: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [Ad 6h]
+Taargeett: folds 
+Bluffandstuf: calls 20
+Freischarlër: calls 20
+merlin2799: calls 10
+ShadowAce: checks 
+*** FLOP *** [2d 3d 4s]
+merlin2799: checks 
+ShadowAce: checks 
+Bluffandstuf: bets 20
+Freischarlër: calls 20
+merlin2799: calls 20
+ShadowAce: calls 20
+*** TURN *** [2d 3d 4s] [2s]
+merlin2799: checks 
+ShadowAce: bets 100
+Bluffandstuf: calls 100
+Freischarlër: folds 
+merlin2799: folds 
+*** RIVER *** [2d 3d 4s 2s] [Kc]
+ShadowAce: bets 80
+Bluffandstuf: folds 
+Uncalled bet (80) returned to ShadowAce
+ShadowAce collected 370 from pot
+ShadowAce: doesn't show hand 
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Board [2d 3d 4s 2s Kc]
+Seat 3: Taargeett folded before Flop (didn't bet)
+Seat 5: Bluffandstuf folded on the River
+Seat 7: Freischarlër (button) folded on the Turn
+Seat 8: merlin2799 (small blind) folded on the Turn
+Seat 9: ShadowAce (big blind) collected (370)
+
+
+
+PokerStars Hand #201243409386: Tournament #2626955510, 4250+4250+1500 Hold'em No Limit - Level II (15/30) - 2019/06/09 19:44:38 ET
+Table '2626955510 1' 9-max Seat #8 is the button
+Seat 3: Taargeett (472 in chips) 
+Seat 5: Bluffandstuf (746 in chips) 
+Seat 7: Freischarlër (2168 in chips) 
+Seat 8: merlin2799 (412 in chips) 
+Seat 9: ShadowAce (702 in chips) 
+Taargeett: posts the ante 3
+Bluffandstuf: posts the ante 3
+Freischarlër: posts the ante 3
+merlin2799: posts the ante 3
+ShadowAce: posts the ante 3
+ShadowAce: posts small blind 15
+Taargeett: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [8h Qs]
+Bluffandstuf: calls 30
+Freischarlër: calls 30
+merlin2799: folds 
+ShadowAce: calls 15
+Taargeett: checks 
+*** FLOP *** [8d Ts 5h]
+ShadowAce: checks 
+Taargeett: bets 30
+Bluffandstuf: calls 30
+Freischarlër: calls 30
+ShadowAce: folds 
+*** TURN *** [8d Ts 5h] [6d]
+Taargeett: bets 225
+Bluffandstuf: folds 
+Freischarlër: folds 
+Uncalled bet (225) returned to Taargeett
+Taargeett collected 225 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 225 | Rake 0 
+Board [8d Ts 5h 6d]
+Seat 3: Taargeett (big blind) collected (225)
+Seat 5: Bluffandstuf folded on the Turn
+Seat 7: Freischarlër folded on the Turn
+Seat 8: merlin2799 (button) folded before Flop (didn't bet)
+Seat 9: ShadowAce (small blind) folded on the Flop
+
+
+
+PokerStars Hand #201243423345: Tournament #2626955510, 4250+4250+1500 Hold'em No Limit - Level II (15/30) - 2019/06/09 19:45:11 ET
+Table '2626955510 1' 9-max Seat #9 is the button
+Seat 3: Taargeett (634 in chips) 
+Seat 5: Bluffandstuf (683 in chips) 
+Seat 7: Freischarlër (2105 in chips) 
+Seat 8: merlin2799 (409 in chips) 
+Seat 9: ShadowAce (669 in chips) 
+Taargeett: posts the ante 3
+Bluffandstuf: posts the ante 3
+Freischarlër: posts the ante 3
+merlin2799: posts the ante 3
+ShadowAce: posts the ante 3
+Taargeett: posts small blind 15
+Bluffandstuf: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [Ks 2d]
+Freischarlër: calls 30
+merlin2799: calls 30
+ShadowAce: raises 90 to 120
+Taargeett: folds 
+Bluffandstuf: folds 
+Freischarlër: calls 90
+merlin2799: folds 
+*** FLOP *** [Qd 4d Qh]
+Freischarlër: checks 
+ShadowAce: checks 
+*** TURN *** [Qd 4d Qh] [3c]
+Freischarlër: checks 
+ShadowAce: bets 120
+Freischarlër: calls 120
+*** RIVER *** [Qd 4d Qh 3c] [Ts]
+Freischarlër: checks 
+ShadowAce: checks 
+*** SHOW DOWN ***
+Freischarlër: shows [6h 5d] (a pair of Queens)
+ShadowAce: shows [Kh Ac] (a pair of Queens - Ace kicker)
+ShadowAce collected 570 from pot
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Board [Qd 4d Qh 3c Ts]
+Seat 3: Taargeett (small blind) folded before Flop
+Seat 5: Bluffandstuf (big blind) folded before Flop
+Seat 7: Freischarlër showed [6h 5d] and lost with a pair of Queens
+Seat 8: merlin2799 folded before Flop
+Seat 9: ShadowAce (button) showed [Kh Ac] and won (570) with a pair of Queens
+
+
+
+PokerStars Hand #201243442114: Tournament #2626955510, 4250+4250+1500 Hold'em No Limit - Level III (20/40) - 2019/06/09 19:45:58 ET
+Table '2626955510 1' 9-max Seat #3 is the button
+Seat 3: Taargeett (616 in chips) 
+Seat 5: Bluffandstuf (650 in chips) 
+Seat 7: Freischarlër (1862 in chips) 
+Seat 8: merlin2799 (376 in chips) 
+Seat 9: ShadowAce (996 in chips) 
+Taargeett: posts the ante 4
+Bluffandstuf: posts the ante 4
+Freischarlër: posts the ante 4
+merlin2799: posts the ante 4
+ShadowAce: posts the ante 4
+Bluffandstuf: posts small blind 20
+Freischarlër: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Taargeett [Ac Td]
+merlin2799: calls 40
+ShadowAce: folds 
+Taargeett: raises 80 to 120
+Bluffandstuf: calls 100
+Freischarlër: calls 80
+merlin2799: folds 
+*** FLOP *** [4s 7d 9c]
+Bluffandstuf: checks 
+Freischarlër: checks 
+Taargeett: bets 420
+Bluffandstuf: folds 
+Freischarlër: raises 420 to 840
+Taargeett: calls 72 and is all-in
+Uncalled bet (348) returned to Freischarlër
+*** TURN *** [4s 7d 9c] [4h]
+*** RIVER *** [4s 7d 9c 4h] [3d]
+*** SHOW DOWN ***
+Freischarlër: shows [3c 5h] (two pair, Fours and Threes)
+Taargeett: shows [Ac Td] (a pair of Fours)
+Freischarlër collected 1404 from pot
+Freischarlër wins the 4250 bounty for eliminating Taargeett
+Taargeett finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1404 | Rake 0 
+Board [4s 7d 9c 4h 3d]
+Seat 3: Taargeett (button) showed [Ac Td] and lost with a pair of Fours
+Seat 5: Bluffandstuf (small blind) folded on the Flop
+Seat 7: Freischarlër (big blind) showed [3c 5h] and won (1404) with two pair, Fours and Threes
+Seat 8: merlin2799 folded before Flop
+Seat 9: ShadowAce folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,2056 @@
+﻿PokerStars Hand #201826123210: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level I (10/20) - 2019/06/28 19:25:24 ET
+Table '2639187172 2' 9-max Seat #1 is the button
+Seat 1: Taargeett (1500 in chips) 
+Seat 2: silverfox147 (1500 in chips) 
+Seat 3: raybi (1500 in chips) 
+Seat 4: hugogal (1500 in chips) is sitting out
+Seat 5: magic man741 (1500 in chips) 
+Seat 6: arinallin (1500 in chips) 
+Seat 7: racecamper42 (1500 in chips) 
+Seat 8: Ercucchiaioo (1500 in chips) is sitting out
+Seat 9: viktor care (1500 in chips) 
+silverfox147: posts small blind 10
+raybi: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [Tc 4s]
+hugogal: folds 
+silverfox147 is disconnected 
+magic man741: folds 
+arinallin: folds 
+racecamper42: raises 40 to 60
+Ercucchiaioo: folds 
+viktor care: folds 
+Taargeett: folds 
+silverfox147 is connected 
+silverfox147: calls 50
+raybi: calls 40
+*** FLOP *** [5s 7s 4c]
+silverfox147: checks 
+raybi: checks 
+racecamper42: checks 
+*** TURN *** [5s 7s 4c] [Jc]
+silverfox147: checks 
+raybi: bets 80
+racecamper42: folds 
+silverfox147: folds 
+Uncalled bet (80) returned to raybi
+hugogal said, "ZZZZZZZZZZZZZZZ"
+raybi collected 180 from pot
+raybi: doesn't show hand 
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [5s 7s 4c Jc]
+Seat 1: Taargeett (button) folded before Flop (didn't bet)
+Seat 2: silverfox147 (small blind) folded on the Turn
+Seat 3: raybi (big blind) collected (180)
+Seat 4: hugogal folded before Flop (didn't bet)
+Seat 5: magic man741 folded before Flop (didn't bet)
+Seat 6: arinallin folded before Flop (didn't bet)
+Seat 7: racecamper42 folded on the Turn
+Seat 8: Ercucchiaioo folded before Flop (didn't bet)
+Seat 9: viktor care folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826161188: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level I (10/20) - 2019/06/28 19:26:55 ET
+Table '2639187172 2' 9-max Seat #2 is the button
+Seat 1: Taargeett (1500 in chips) is sitting out
+Seat 2: silverfox147 (1440 in chips) 
+Seat 3: raybi (1620 in chips) 
+Seat 4: hugogal (1500 in chips) 
+Seat 5: magic man741 (1500 in chips) 
+Seat 6: arinallin (1500 in chips) 
+Seat 7: racecamper42 (1440 in chips) 
+Seat 8: Ercucchiaioo (1500 in chips) is sitting out
+Seat 9: viktor care (1500 in chips) 
+raybi: posts small blind 10
+hugogal: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [4d Ts]
+magic man741: calls 20
+arinallin: calls 20
+racecamper42: calls 20
+Ercucchiaioo: folds 
+viktor care: folds 
+Taargeett: folds 
+silverfox147: raises 110 to 130
+raybi: calls 120
+hugogal: calls 110
+magic man741: calls 110
+arinallin: folds 
+racecamper42: folds 
+*** FLOP *** [7d 9h 2h]
+raybi: checks 
+hugogal: bets 60
+magic man741: calls 60
+silverfox147: raises 1250 to 1310 and is all-in
+raybi: raises 180 to 1490 and is all-in
+hugogal: folds 
+magic man741: calls 1310 and is all-in
+Uncalled bet (120) returned to raybi
+*** TURN *** [7d 9h 2h] [9s]
+*** RIVER *** [7d 9h 2h 9s] [7s]
+*** SHOW DOWN ***
+raybi: shows [9d 8d] (a full house, Nines full of Sevens)
+magic man741: shows [Th Kh] (two pair, Nines and Sevens)
+raybi collected 120 from side pot
+silverfox147: shows [Jh Ah] (two pair, Nines and Sevens)
+raybi collected 4550 from main pot
+magic man741 finished the tournament in 17th place
+silverfox147 finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 4670 Main pot 4550. Side pot 120. | Rake 0 
+Board [7d 9h 2h 9s 7s]
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 2: silverfox147 (button) showed [Jh Ah] and lost with two pair, Nines and Sevens
+Seat 3: raybi (small blind) showed [9d 8d] and won (4670) with a full house, Nines full of Sevens
+Seat 4: hugogal (big blind) folded on the Flop
+Seat 5: magic man741 showed [Th Kh] and lost with two pair, Nines and Sevens
+Seat 6: arinallin folded before Flop
+Seat 7: racecamper42 folded before Flop
+Seat 8: Ercucchiaioo folded before Flop (didn't bet)
+Seat 9: viktor care folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826199862: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level I (10/20) - 2019/06/28 19:28:29 ET
+Table '2639187172 2' 9-max Seat #3 is the button
+Seat 1: Taargeett (1500 in chips) 
+Seat 3: raybi (4790 in chips) 
+Seat 4: hugogal (1310 in chips) 
+Seat 6: arinallin (1480 in chips) 
+Seat 7: racecamper42 (1420 in chips) 
+Seat 8: Ercucchiaioo (1500 in chips) is sitting out
+Seat 9: viktor care (1500 in chips) 
+hugogal: posts small blind 10
+arinallin: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [9d Ts]
+racecamper42: folds 
+Ercucchiaioo: folds 
+viktor care: folds 
+Taargeett: folds 
+raybi: raises 20 to 40
+hugogal: folds 
+arinallin: calls 20
+*** FLOP *** [6c 3d 7d]
+arinallin: checks 
+raybi: checks 
+*** TURN *** [6c 3d 7d] [Ah]
+arinallin: checks 
+raybi: bets 40
+arinallin: calls 40
+*** RIVER *** [6c 3d 7d Ah] [9h]
+arinallin: checks 
+raybi: bets 20
+arinallin: folds 
+Uncalled bet (20) returned to raybi
+raybi collected 170 from pot
+raybi: doesn't show hand 
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [6c 3d 7d Ah 9h]
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 3: raybi (button) collected (170)
+Seat 4: hugogal (small blind) folded before Flop
+Seat 6: arinallin (big blind) folded on the River
+Seat 7: racecamper42 folded before Flop (didn't bet)
+Seat 8: Ercucchiaioo folded before Flop (didn't bet)
+Seat 9: viktor care folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826222211: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level I (10/20) - 2019/06/28 19:29:15 ET
+Table '2639187172 2' 9-max Seat #4 is the button
+Seat 1: Taargeett (1500 in chips) 
+Seat 3: raybi (4880 in chips) 
+Seat 4: hugogal (1300 in chips) 
+Seat 6: arinallin (1400 in chips) 
+Seat 7: racecamper42 (1420 in chips) 
+Seat 8: Ercucchiaioo (1500 in chips) is sitting out
+Seat 9: viktor care (1500 in chips) 
+arinallin: posts small blind 10
+racecamper42: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [2d Kc]
+Ercucchiaioo: folds 
+viktor care: folds 
+Taargeett: folds 
+raybi: folds 
+hugogal: calls 20
+arinallin: folds 
+racecamper42: checks 
+*** FLOP *** [8s Qh Td]
+racecamper42: checks 
+hugogal: bets 40
+racecamper42: calls 40
+*** TURN *** [8s Qh Td] [4c]
+racecamper42: checks 
+hugogal: bets 100
+racecamper42: calls 100
+*** RIVER *** [8s Qh Td 4c] [Qd]
+racecamper42: checks 
+hugogal: bets 200
+racecamper42: calls 200
+*** SHOW DOWN ***
+hugogal: shows [Kh Qc] (three of a kind, Queens)
+racecamper42: mucks hand 
+hugogal collected 730 from pot
+*** SUMMARY ***
+Total pot 730 | Rake 0 
+Board [8s Qh Td 4c Qd]
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: hugogal (button) showed [Kh Qc] and won (730) with three of a kind, Queens
+Seat 6: arinallin (small blind) folded before Flop
+Seat 7: racecamper42 (big blind) mucked [Jh 4h]
+Seat 8: Ercucchiaioo folded before Flop (didn't bet)
+Seat 9: viktor care folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826251374: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level I (10/20) - 2019/06/28 19:30:26 ET
+Table '2639187172 2' 9-max Seat #6 is the button
+Seat 1: Taargeett (1500 in chips) 
+Seat 2: lobo49445 (1440 in chips) 
+Seat 3: raybi (4880 in chips) 
+Seat 4: hugogal (1670 in chips) 
+Seat 6: arinallin (1390 in chips) 
+Seat 7: racecamper42 (1060 in chips) 
+Seat 8: Ercucchiaioo (1500 in chips) is sitting out
+Seat 9: viktor care (1500 in chips) 
+racecamper42: posts small blind 10
+Ercucchiaioo: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Taargeett [Qh 2d]
+viktor care: folds 
+Taargeett: folds 
+lobo49445: calls 20
+raybi: folds 
+hugogal: folds 
+arinallin: calls 20
+racecamper42: calls 10
+Ercucchiaioo: folds 
+*** FLOP *** [9c 7h 8s]
+racecamper42: bets 20
+lobo49445: calls 20
+arinallin: raises 60 to 80
+racecamper42: raises 130 to 210
+lobo49445: calls 190
+arinallin: calls 130
+*** TURN *** [9c 7h 8s] [6c]
+racecamper42: bets 355
+lobo49445: folds 
+arinallin: calls 355
+*** RIVER *** [9c 7h 8s 6c] [Qc]
+racecamper42: bets 475 and is all-in
+arinallin: calls 475
+*** SHOW DOWN ***
+racecamper42: shows [Tc Js] (a straight, Eight to Queen)
+arinallin: shows [8d 6d] (two pair, Eights and Sixes)
+racecamper42 collected 2370 from pot
+*** SUMMARY ***
+Total pot 2370 | Rake 0 
+Board [9c 7h 8s 6c Qc]
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 2: lobo49445 folded on the Turn
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: hugogal folded before Flop (didn't bet)
+Seat 6: arinallin (button) showed [8d 6d] and lost with two pair, Eights and Sixes
+Seat 7: racecamper42 (small blind) showed [Tc Js] and won (2370) with a straight, Eight to Queen
+Seat 8: Ercucchiaioo (big blind) folded before Flop
+Seat 9: viktor care folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826299298: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level II (15/30) - 2019/06/28 19:32:24 ET
+Table '2639187172 2' 9-max Seat #7 is the button
+Seat 1: Taargeett (1500 in chips) 
+Seat 2: lobo49445 (1210 in chips) 
+Seat 3: raybi (4880 in chips) 
+Seat 4: hugogal (1670 in chips) 
+Seat 6: arinallin (330 in chips) 
+Seat 7: racecamper42 (2370 in chips) 
+Seat 8: Ercucchiaioo (1480 in chips) is sitting out
+Seat 9: viktor care (1500 in chips) 
+Ercucchiaioo: posts small blind 15
+viktor care: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [8h 4c]
+Taargeett: folds 
+lobo49445: folds 
+raybi: raises 90 to 120
+hugogal: folds 
+arinallin: raises 210 to 330 and is all-in
+racecamper42: folds 
+Ercucchiaioo: folds 
+viktor care: folds 
+raybi: calls 210
+*** FLOP *** [5c 7c 9d]
+*** TURN *** [5c 7c 9d] [3h]
+*** RIVER *** [5c 7c 9d 3h] [2d]
+*** SHOW DOWN ***
+raybi: shows [8c Ah] (high card Ace)
+arinallin: shows [Qd Ad] (high card Ace - Queen kicker)
+arinallin collected 705 from pot
+*** SUMMARY ***
+Total pot 705 | Rake 0 
+Board [5c 7c 9d 3h 2d]
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 2: lobo49445 folded before Flop (didn't bet)
+Seat 3: raybi showed [8c Ah] and lost with high card Ace
+Seat 4: hugogal folded before Flop (didn't bet)
+Seat 6: arinallin showed [Qd Ad] and won (705) with high card Ace
+Seat 7: racecamper42 (button) folded before Flop (didn't bet)
+Seat 8: Ercucchiaioo (small blind) folded before Flop
+Seat 9: viktor care (big blind) folded before Flop
+
+
+
+PokerStars Hand #201826320708: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level II (15/30) - 2019/06/28 19:33:18 ET
+Table '2639187172 2' 9-max Seat #8 is the button
+Seat 1: Taargeett (1500 in chips) 
+Seat 2: lobo49445 (1210 in chips) 
+Seat 3: raybi (4550 in chips) 
+Seat 4: hugogal (1670 in chips) 
+Seat 6: arinallin (705 in chips) 
+Seat 7: racecamper42 (2370 in chips) 
+Seat 8: Ercucchiaioo (1465 in chips) is sitting out
+Seat 9: viktor care (1470 in chips) 
+viktor care: posts small blind 15
+Taargeett: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [7h 5h]
+lobo49445: folds 
+raybi: folds 
+hugogal: folds 
+arinallin: folds 
+racecamper42: raises 180 to 210
+Ercucchiaioo: folds 
+viktor care: folds 
+Taargeett: folds 
+Uncalled bet (180) returned to racecamper42
+racecamper42 collected 75 from pot
+racecamper42: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Taargeett (big blind) folded before Flop
+Seat 2: lobo49445 folded before Flop (didn't bet)
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: hugogal folded before Flop (didn't bet)
+Seat 6: arinallin folded before Flop (didn't bet)
+Seat 7: racecamper42 collected (75)
+Seat 8: Ercucchiaioo (button) folded before Flop (didn't bet)
+Seat 9: viktor care (small blind) folded before Flop
+
+
+
+PokerStars Hand #201826333666: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level II (15/30) - 2019/06/28 19:33:50 ET
+Table '2639187172 2' 9-max Seat #9 is the button
+Seat 1: Taargeett (1470 in chips) 
+Seat 2: lobo49445 (1210 in chips) 
+Seat 3: raybi (4550 in chips) 
+Seat 4: hugogal (1670 in chips) 
+Seat 6: arinallin (705 in chips) 
+Seat 7: racecamper42 (2415 in chips) 
+Seat 8: Ercucchiaioo (1465 in chips) is sitting out
+Seat 9: viktor care (1455 in chips) 
+Taargeett: posts small blind 15
+lobo49445: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [4d 5c]
+raybi: calls 30
+hugogal: folds 
+arinallin: calls 30
+racecamper42: raises 180 to 210
+Ercucchiaioo: folds 
+viktor care: raises 1245 to 1455 and is all-in
+Taargeett: folds 
+lobo49445: calls 1180 and is all-in
+raybi: folds 
+arinallin: folds 
+racecamper42: calls 1245
+*** FLOP *** [Th 2d Ts]
+*** TURN *** [Th 2d Ts] [7c]
+*** RIVER *** [Th 2d Ts 7c] [4h]
+*** SHOW DOWN ***
+racecamper42: shows [8c 8h] (two pair, Tens and Eights)
+viktor care: shows [As Qh] (a pair of Tens)
+racecamper42 collected 490 from side pot
+lobo49445: shows [7h Kh] (two pair, Tens and Sevens)
+racecamper42 collected 3705 from main pot
+viktor care finished the tournament in 14th place
+lobo49445 finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 4195 Main pot 3705. Side pot 490. | Rake 0 
+Board [Th 2d Ts 7c 4h]
+Seat 1: Taargeett (small blind) folded before Flop
+Seat 2: lobo49445 (big blind) showed [7h Kh] and lost with two pair, Tens and Sevens
+Seat 3: raybi folded before Flop
+Seat 4: hugogal folded before Flop (didn't bet)
+Seat 6: arinallin folded before Flop
+Seat 7: racecamper42 showed [8c 8h] and won (4195) with two pair, Tens and Eights
+Seat 8: Ercucchiaioo folded before Flop (didn't bet)
+Seat 9: viktor care (button) showed [As Qh] and lost with a pair of Tens
+
+
+
+PokerStars Hand #201826351609: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level II (15/30) - 2019/06/28 19:34:35 ET
+Table '2639187172 2' 9-max Seat #1 is the button
+Seat 1: Taargeett (1455 in chips) 
+Seat 3: raybi (4520 in chips) 
+Seat 4: hugogal (1670 in chips) 
+Seat 6: arinallin (675 in chips) 
+Seat 7: racecamper42 (5155 in chips) 
+Seat 8: Ercucchiaioo (1465 in chips) 
+raybi: posts small blind 15
+hugogal: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [2c 4s]
+arinallin: calls 30
+racecamper42: folds 
+Ercucchiaioo: calls 30
+Taargeett: folds 
+raybi: calls 15
+hugogal: checks 
+*** FLOP *** [9c Js 3s]
+raybi: checks 
+hugogal: checks 
+arinallin: checks 
+Ercucchiaioo: checks 
+*** TURN *** [9c Js 3s] [Tc]
+raybi: checks 
+hugogal: checks 
+arinallin: checks 
+Ercucchiaioo: checks 
+*** RIVER *** [9c Js 3s Tc] [5s]
+raybi: checks 
+hugogal: bets 420
+arinallin: folds 
+Ercucchiaioo: folds 
+raybi: folds 
+Uncalled bet (420) returned to hugogal
+hugogal collected 120 from pot
+hugogal: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9c Js 3s Tc 5s]
+Seat 1: Taargeett (button) folded before Flop (didn't bet)
+Seat 3: raybi (small blind) folded on the River
+Seat 4: hugogal (big blind) collected (120)
+Seat 6: arinallin folded on the River
+Seat 7: racecamper42 folded before Flop (didn't bet)
+Seat 8: Ercucchiaioo folded on the River
+
+
+
+PokerStars Hand #201826370839: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level II (15/30) - 2019/06/28 19:35:23 ET
+Table '2639187172 2' 9-max Seat #3 is the button
+Seat 1: Taargeett (1455 in chips) 
+Seat 3: raybi (4490 in chips) 
+Seat 4: hugogal (1760 in chips) 
+Seat 6: arinallin (645 in chips) 
+Seat 7: racecamper42 (5155 in chips) 
+Seat 8: Ercucchiaioo (1435 in chips) 
+hugogal: posts small blind 15
+arinallin: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Taargeett [2s 2h]
+racecamper42 has timed out
+racecamper42: folds 
+Ercucchiaioo: folds 
+Taargeett: raises 45 to 75
+raybi: calls 75
+hugogal: folds 
+arinallin: folds 
+*** FLOP *** [Ks Ac Ts]
+Taargeett: bets 90
+raybi: folds 
+Uncalled bet (90) returned to Taargeett
+Taargeett collected 195 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [Ks Ac Ts]
+Seat 1: Taargeett collected (195)
+Seat 3: raybi (button) folded on the Flop
+Seat 4: hugogal (small blind) folded before Flop
+Seat 6: arinallin (big blind) folded before Flop
+Seat 7: racecamper42 folded before Flop (didn't bet)
+Seat 8: Ercucchiaioo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826393768: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level III (25/50) - 2019/06/28 19:36:21 ET
+Table '2639187172 2' 9-max Seat #4 is the button
+Seat 1: Taargeett (1575 in chips) 
+Seat 3: raybi (4415 in chips) 
+Seat 4: hugogal (1745 in chips) 
+Seat 6: arinallin (615 in chips) 
+Seat 7: racecamper42 (5155 in chips) 
+Seat 8: Ercucchiaioo (1435 in chips) 
+arinallin: posts small blind 25
+racecamper42: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Taargeett [2d Qc]
+Ercucchiaioo: folds 
+Taargeett: folds 
+raybi: folds 
+hugogal: folds 
+arinallin: calls 25
+racecamper42: checks 
+*** FLOP *** [Jc Th 5d]
+arinallin: checks 
+racecamper42: bets 565
+arinallin: calls 565 and is all-in
+*** TURN *** [Jc Th 5d] [5h]
+*** RIVER *** [Jc Th 5d 5h] [6s]
+*** SHOW DOWN ***
+arinallin: shows [9c Qs] (a pair of Fives)
+racecamper42: shows [Jd 4h] (two pair, Jacks and Fives)
+racecamper42 collected 1230 from pot
+arinallin finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 1230 | Rake 0 
+Board [Jc Th 5d 5h 6s]
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: hugogal (button) folded before Flop (didn't bet)
+Seat 6: arinallin (small blind) showed [9c Qs] and lost with a pair of Fives
+Seat 7: racecamper42 (big blind) showed [Jd 4h] and won (1230) with two pair, Jacks and Fives
+Seat 8: Ercucchiaioo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826411043: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level III (25/50) - 2019/06/28 19:37:04 ET
+Table '2639187172 2' 9-max Seat #7 is the button
+Seat 1: Taargeett (1575 in chips) 
+Seat 3: raybi (4415 in chips) 
+Seat 4: hugogal (1745 in chips) 
+Seat 7: racecamper42 (5770 in chips) 
+Seat 8: Ercucchiaioo (1435 in chips) 
+Seat 9: swampfever (1605 in chips) 
+Ercucchiaioo: posts small blind 25
+swampfever: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Taargeett [8h 4h]
+Taargeett: folds 
+raybi: folds 
+hugogal: folds 
+racecamper42: folds 
+Ercucchiaioo: folds 
+Uncalled bet (25) returned to swampfever
+swampfever collected 50 from pot
+swampfever: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: hugogal folded before Flop (didn't bet)
+Seat 7: racecamper42 (button) folded before Flop (didn't bet)
+Seat 8: Ercucchiaioo (small blind) folded before Flop
+Seat 9: swampfever (big blind) collected (50)
+
+
+
+PokerStars Hand #201826416677: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level III (25/50) - 2019/06/28 19:37:19 ET
+Table '2639187172 2' 9-max Seat #8 is the button
+Seat 1: Taargeett (1575 in chips) 
+Seat 3: raybi (4415 in chips) 
+Seat 4: hugogal (1745 in chips) 
+Seat 7: racecamper42 (5770 in chips) 
+Seat 8: Ercucchiaioo (1410 in chips) 
+Seat 9: swampfever (1630 in chips) 
+swampfever: posts small blind 25
+Taargeett: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Taargeett [Ad As]
+raybi: folds 
+hugogal: folds 
+racecamper42: raises 150 to 200
+Ercucchiaioo: folds 
+swampfever: folds 
+Taargeett: calls 150
+*** FLOP *** [Qd 4s 7c]
+Taargeett: checks 
+racecamper42: bets 425
+Taargeett: calls 425
+*** TURN *** [Qd 4s 7c] [2h]
+Taargeett: checks 
+racecamper42: bets 5145 and is all-in
+Taargeett: calls 950 and is all-in
+Uncalled bet (4195) returned to racecamper42
+*** RIVER *** [Qd 4s 7c 2h] [Js]
+*** SHOW DOWN ***
+Taargeett: shows [Ad As] (a pair of Aces)
+racecamper42: shows [Kh Kd] (a pair of Kings)
+Taargeett collected 3175 from pot
+*** SUMMARY ***
+Total pot 3175 | Rake 0 
+Board [Qd 4s 7c 2h Js]
+Seat 1: Taargeett (big blind) showed [Ad As] and won (3175) with a pair of Aces
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: hugogal folded before Flop (didn't bet)
+Seat 7: racecamper42 showed [Kh Kd] and lost with a pair of Kings
+Seat 8: Ercucchiaioo (button) folded before Flop (didn't bet)
+Seat 9: swampfever (small blind) folded before Flop
+
+
+
+PokerStars Hand #201826441171: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level III (25/50) - 2019/06/28 19:38:21 ET
+Table '2639187172 2' 9-max Seat #9 is the button
+Seat 1: Taargeett (3175 in chips) 
+Seat 3: raybi (4415 in chips) 
+Seat 4: hugogal (1745 in chips) 
+Seat 7: racecamper42 (4195 in chips) 
+Seat 8: Ercucchiaioo (1410 in chips) 
+Seat 9: swampfever (1605 in chips) 
+Taargeett: posts small blind 25
+raybi: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Taargeett [Qd 8h]
+hugogal: calls 50
+racecamper42: folds 
+Ercucchiaioo: raises 100 to 150
+swampfever: folds 
+Taargeett: folds 
+raybi: folds 
+hugogal: calls 100
+*** FLOP *** [Ac Ks As]
+hugogal: bets 100
+Ercucchiaioo: raises 288 to 388
+hugogal: calls 288
+*** TURN *** [Ac Ks As] [Jc]
+hugogal: bets 50
+Ercucchiaioo: raises 822 to 872 and is all-in
+hugogal: calls 822
+*** RIVER *** [Ac Ks As Jc] [3d]
+*** SHOW DOWN ***
+hugogal: shows [9s 3s] (two pair, Aces and Threes)
+Ercucchiaioo: shows [Jd Jh] (a full house, Jacks full of Aces)
+Ercucchiaioo collected 2895 from pot
+*** SUMMARY ***
+Total pot 2895 | Rake 0 
+Board [Ac Ks As Jc 3d]
+Seat 1: Taargeett (small blind) folded before Flop
+Seat 3: raybi (big blind) folded before Flop
+Seat 4: hugogal showed [9s 3s] and lost with two pair, Aces and Threes
+Seat 7: racecamper42 folded before Flop (didn't bet)
+Seat 8: Ercucchiaioo showed [Jd Jh] and won (2895) with a full house, Jacks full of Aces
+Seat 9: swampfever (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826459869: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level III (25/50) - 2019/06/28 19:39:09 ET
+Table '2639187172 2' 9-max Seat #1 is the button
+Seat 1: Taargeett (3150 in chips) 
+Seat 3: raybi (4365 in chips) 
+Seat 4: hugogal (335 in chips) 
+Seat 7: racecamper42 (4195 in chips) 
+Seat 8: Ercucchiaioo (2895 in chips) 
+Seat 9: swampfever (1605 in chips) 
+raybi: posts small blind 25
+hugogal: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Taargeett [Jc 7d]
+racecamper42: calls 50
+Ercucchiaioo: calls 50
+swampfever: folds 
+Taargeett: folds 
+raybi: calls 25
+hugogal: checks 
+*** FLOP *** [3h Kd Tc]
+raybi: checks 
+hugogal: bets 285 and is all-in
+racecamper42: folds 
+Ercucchiaioo: folds 
+raybi: folds 
+Uncalled bet (285) returned to hugogal
+hugogal collected 200 from pot
+hugogal: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [3h Kd Tc]
+Seat 1: Taargeett (button) folded before Flop (didn't bet)
+Seat 3: raybi (small blind) folded on the Flop
+Seat 4: hugogal (big blind) collected (200)
+Seat 7: racecamper42 folded on the Flop
+Seat 8: Ercucchiaioo folded on the Flop
+Seat 9: swampfever folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826480124: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level III (25/50) - 2019/06/28 19:40:01 ET
+Table '2639187172 2' 9-max Seat #3 is the button
+Seat 1: Taargeett (3150 in chips) 
+Seat 3: raybi (4315 in chips) 
+Seat 4: hugogal (485 in chips) 
+Seat 7: racecamper42 (4145 in chips) 
+Seat 8: Ercucchiaioo (2845 in chips) 
+Seat 9: swampfever (1605 in chips) 
+hugogal: posts small blind 25
+racecamper42: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Taargeett [Kd Qc]
+Ercucchiaioo: folds 
+swampfever: folds 
+Taargeett: raises 50 to 100
+raybi: raises 350 to 450
+hugogal: folds 
+racecamper42: folds 
+Taargeett: calls 350
+*** FLOP *** [7d 3s 7c]
+Taargeett: checks 
+raybi: bets 550
+Taargeett: folds 
+Uncalled bet (550) returned to raybi
+raybi collected 975 from pot
+raybi: doesn't show hand 
+*** SUMMARY ***
+Total pot 975 | Rake 0 
+Board [7d 3s 7c]
+Seat 1: Taargeett folded on the Flop
+Seat 3: raybi (button) collected (975)
+Seat 4: hugogal (small blind) folded before Flop
+Seat 7: racecamper42 (big blind) folded before Flop
+Seat 8: Ercucchiaioo folded before Flop (didn't bet)
+Seat 9: swampfever folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826500131: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level IV (50/100) - 2019/06/28 19:40:53 ET
+Table '2639187172 2' 9-max Seat #4 is the button
+Seat 1: Taargeett (2700 in chips) 
+Seat 3: raybi (4840 in chips) 
+Seat 4: hugogal (460 in chips) 
+Seat 7: racecamper42 (4095 in chips) 
+Seat 8: Ercucchiaioo (2845 in chips) 
+Seat 9: swampfever (1605 in chips) 
+racecamper42: posts small blind 50
+Ercucchiaioo: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [Qs 7d]
+swampfever: raises 200 to 300
+Taargeett: folds 
+raybi: folds 
+hugogal: folds 
+racecamper42: folds 
+Ercucchiaioo: folds 
+Uncalled bet (200) returned to swampfever
+swampfever collected 250 from pot
+swampfever: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: hugogal (button) folded before Flop (didn't bet)
+Seat 7: racecamper42 (small blind) folded before Flop
+Seat 8: Ercucchiaioo (big blind) folded before Flop
+Seat 9: swampfever collected (250)
+
+
+
+PokerStars Hand #201826508156: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level IV (50/100) - 2019/06/28 19:41:14 ET
+Table '2639187172 2' 9-max Seat #7 is the button
+Seat 1: Taargeett (2700 in chips) 
+Seat 3: raybi (4840 in chips) 
+Seat 4: hugogal (460 in chips) 
+Seat 7: racecamper42 (4045 in chips) 
+Seat 8: Ercucchiaioo (2745 in chips) 
+Seat 9: swampfever (1755 in chips) 
+Ercucchiaioo: posts small blind 50
+swampfever: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [7h 5h]
+Taargeett: folds 
+raybi: folds 
+hugogal: folds 
+racecamper42: folds 
+Ercucchiaioo: folds 
+Uncalled bet (50) returned to swampfever
+swampfever collected 100 from pot
+swampfever: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: hugogal folded before Flop (didn't bet)
+Seat 7: racecamper42 (button) folded before Flop (didn't bet)
+Seat 8: Ercucchiaioo (small blind) folded before Flop
+Seat 9: swampfever (big blind) collected (100)
+
+
+
+PokerStars Hand #201826513585: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level IV (50/100) - 2019/06/28 19:41:27 ET
+Table '2639187172 2' 9-max Seat #8 is the button
+Seat 1: Taargeett (2700 in chips) 
+Seat 3: raybi (4840 in chips) 
+Seat 4: hugogal (460 in chips) 
+Seat 7: racecamper42 (4045 in chips) 
+Seat 8: Ercucchiaioo (2695 in chips) 
+Seat 9: swampfever (1805 in chips) 
+swampfever: posts small blind 50
+Taargeett: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [Kh Js]
+raybi: folds 
+hugogal: folds 
+racecamper42: folds 
+Ercucchiaioo: folds 
+swampfever: calls 50
+Taargeett: raises 250 to 350
+swampfever: folds 
+Uncalled bet (250) returned to Taargeett
+Taargeett collected 200 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Taargeett (big blind) collected (200)
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: hugogal folded before Flop (didn't bet)
+Seat 7: racecamper42 folded before Flop (didn't bet)
+Seat 8: Ercucchiaioo (button) folded before Flop (didn't bet)
+Seat 9: swampfever (small blind) folded before Flop
+
+
+
+PokerStars Hand #201826524097: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level IV (50/100) - 2019/06/28 19:41:54 ET
+Table '2639187172 2' 9-max Seat #9 is the button
+Seat 1: Taargeett (2800 in chips) 
+Seat 3: raybi (4840 in chips) 
+Seat 4: hugogal (460 in chips) 
+Seat 7: racecamper42 (4045 in chips) 
+Seat 8: Ercucchiaioo (2695 in chips) 
+Seat 9: swampfever (1705 in chips) 
+Taargeett: posts small blind 50
+raybi: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [5d 4s]
+hugogal: folds 
+racecamper42: folds 
+Ercucchiaioo: folds 
+swampfever: folds 
+Taargeett: folds 
+Uncalled bet (50) returned to raybi
+raybi collected 100 from pot
+raybi: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Taargeett (small blind) folded before Flop
+Seat 3: raybi (big blind) collected (100)
+Seat 4: hugogal folded before Flop (didn't bet)
+Seat 7: racecamper42 folded before Flop (didn't bet)
+Seat 8: Ercucchiaioo folded before Flop (didn't bet)
+Seat 9: swampfever (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826528362: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level IV (50/100) - 2019/06/28 19:42:06 ET
+Table '2639187172 2' 9-max Seat #1 is the button
+Seat 1: Taargeett (2750 in chips) 
+Seat 3: raybi (4890 in chips) 
+Seat 4: hugogal (460 in chips) 
+Seat 7: racecamper42 (4045 in chips) 
+Seat 8: Ercucchiaioo (2695 in chips) 
+Seat 9: swampfever (1705 in chips) 
+raybi: posts small blind 50
+hugogal: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [Kh 8s]
+racecamper42: folds 
+Ercucchiaioo: folds 
+swampfever: calls 100
+Taargeett: folds 
+raybi: calls 50
+hugogal: checks 
+*** FLOP *** [4c 6h 7h]
+raybi: bets 100
+hugogal: raises 260 to 360 and is all-in
+swampfever: folds 
+raybi: calls 260
+*** TURN *** [4c 6h 7h] [Kd]
+*** RIVER *** [4c 6h 7h Kd] [4d]
+*** SHOW DOWN ***
+raybi: shows [9h Ks] (two pair, Kings and Fours)
+hugogal: shows [2s 4h] (three of a kind, Fours)
+hugogal collected 1020 from pot
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [4c 6h 7h Kd 4d]
+Seat 1: Taargeett (button) folded before Flop (didn't bet)
+Seat 3: raybi (small blind) showed [9h Ks] and lost with two pair, Kings and Fours
+Seat 4: hugogal (big blind) showed [2s 4h] and won (1020) with three of a kind, Fours
+Seat 7: racecamper42 folded before Flop (didn't bet)
+Seat 8: Ercucchiaioo folded before Flop (didn't bet)
+Seat 9: swampfever folded on the Flop
+
+
+
+PokerStars Hand #201826549813: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level IV (50/100) - 2019/06/28 19:43:01 ET
+Table '2639187172 2' 9-max Seat #3 is the button
+Seat 1: Taargeett (2750 in chips) 
+Seat 3: raybi (4430 in chips) 
+Seat 4: hugogal (1020 in chips) 
+Seat 7: racecamper42 (4045 in chips) 
+Seat 8: Ercucchiaioo (2695 in chips) 
+Seat 9: swampfever (1605 in chips) 
+hugogal: posts small blind 50
+racecamper42: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [5d 9h]
+Ercucchiaioo: folds 
+swampfever: folds 
+Taargeett: folds 
+raybi: raises 100 to 200
+hugogal: folds 
+racecamper42: calls 100
+*** FLOP *** [Ad Kh 8c]
+racecamper42: checks 
+raybi: bets 200
+racecamper42: folds 
+Uncalled bet (200) returned to raybi
+raybi collected 450 from pot
+raybi: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [Ad Kh 8c]
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 3: raybi (button) collected (450)
+Seat 4: hugogal (small blind) folded before Flop
+Seat 7: racecamper42 (big blind) folded on the Flop
+Seat 8: Ercucchiaioo folded before Flop (didn't bet)
+Seat 9: swampfever folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826563618: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level IV (50/100) - 2019/06/28 19:43:37 ET
+Table '2639187172 2' 9-max Seat #4 is the button
+Seat 1: Taargeett (2750 in chips) 
+Seat 3: raybi (4680 in chips) 
+Seat 4: hugogal (970 in chips) 
+Seat 7: racecamper42 (3845 in chips) 
+Seat 8: Ercucchiaioo (2695 in chips) 
+Seat 9: swampfever (1605 in chips) 
+racecamper42: posts small blind 50
+Ercucchiaioo: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [9d 9h]
+swampfever: calls 100
+Taargeett: raises 200 to 300
+raybi: folds 
+hugogal: folds 
+racecamper42: folds 
+Ercucchiaioo: folds 
+swampfever: calls 200
+*** FLOP *** [Kd Ad Jd]
+swampfever: checks 
+Taargeett: bets 430
+swampfever: folds 
+Uncalled bet (430) returned to Taargeett
+Taargeett collected 750 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [Kd Ad Jd]
+Seat 1: Taargeett collected (750)
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: hugogal (button) folded before Flop (didn't bet)
+Seat 7: racecamper42 (small blind) folded before Flop
+Seat 8: Ercucchiaioo (big blind) folded before Flop
+Seat 9: swampfever folded on the Flop
+
+
+
+PokerStars Hand #201826577352: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level IV (50/100) - 2019/06/28 19:44:13 ET
+Table '2639187172 2' 9-max Seat #7 is the button
+Seat 1: Taargeett (3200 in chips) 
+Seat 3: raybi (4680 in chips) 
+Seat 4: hugogal (970 in chips) 
+Seat 7: racecamper42 (3795 in chips) 
+Seat 8: Ercucchiaioo (2595 in chips) 
+Seat 9: swampfever (1305 in chips) 
+Ercucchiaioo: posts small blind 50
+swampfever: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [7d Ah]
+Taargeett: folds 
+raybi: folds 
+hugogal: calls 100
+racecamper42: calls 100
+Ercucchiaioo: calls 50
+swampfever: checks 
+*** FLOP *** [8h 8s 2c]
+Ercucchiaioo: checks 
+swampfever: checks 
+hugogal: checks 
+racecamper42: bets 200
+Ercucchiaioo: folds 
+swampfever: folds 
+hugogal: folds 
+Uncalled bet (200) returned to racecamper42
+racecamper42 collected 400 from pot
+racecamper42: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [8h 8s 2c]
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: hugogal folded on the Flop
+Seat 7: racecamper42 (button) collected (400)
+Seat 8: Ercucchiaioo (small blind) folded on the Flop
+Seat 9: swampfever (big blind) folded on the Flop
+
+
+
+PokerStars Hand #201826594689: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level IV (50/100) - 2019/06/28 19:44:59 ET
+Table '2639187172 2' 9-max Seat #8 is the button
+Seat 1: Taargeett (3200 in chips) 
+Seat 3: raybi (4680 in chips) 
+Seat 4: hugogal (870 in chips) 
+Seat 7: racecamper42 (4095 in chips) 
+Seat 8: Ercucchiaioo (2495 in chips) 
+Seat 9: swampfever (1205 in chips) 
+swampfever: posts small blind 50
+Taargeett: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [7c 8c]
+raybi: folds 
+hugogal: folds 
+racecamper42: folds 
+Ercucchiaioo: folds 
+swampfever: calls 50
+Taargeett: raises 200 to 300
+swampfever: folds 
+Uncalled bet (200) returned to Taargeett
+Taargeett collected 200 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Taargeett (big blind) collected (200)
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: hugogal folded before Flop (didn't bet)
+Seat 7: racecamper42 folded before Flop (didn't bet)
+Seat 8: Ercucchiaioo (button) folded before Flop (didn't bet)
+Seat 9: swampfever (small blind) folded before Flop
+
+
+
+PokerStars Hand #201826602077: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level IV (50/100) - 2019/06/28 19:45:18 ET
+Table '2639187172 2' 9-max Seat #9 is the button
+Seat 1: Taargeett (3300 in chips) 
+Seat 3: raybi (4680 in chips) 
+Seat 4: hugogal (870 in chips) 
+Seat 7: racecamper42 (4095 in chips) 
+Seat 8: Ercucchiaioo (2495 in chips) 
+Seat 9: swampfever (1105 in chips) 
+Taargeett: posts small blind 50
+raybi: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Taargeett [Th 9h]
+hugogal: calls 100
+racecamper42: raises 200 to 300
+Ercucchiaioo: folds 
+swampfever: folds 
+Taargeett: folds 
+raybi: calls 200
+hugogal: raises 570 to 870 and is all-in
+racecamper42: calls 570
+raybi: folds 
+*** FLOP *** [4h 2h 5d]
+*** TURN *** [4h 2h 5d] [2d]
+*** RIVER *** [4h 2h 5d 2d] [As]
+*** SHOW DOWN ***
+hugogal: shows [5c 5s] (a full house, Fives full of Deuces)
+racecamper42: shows [4s Ks] (two pair, Fours and Deuces)
+hugogal collected 2090 from pot
+*** SUMMARY ***
+Total pot 2090 | Rake 0 
+Board [4h 2h 5d 2d As]
+Seat 1: Taargeett (small blind) folded before Flop
+Seat 3: raybi (big blind) folded before Flop
+Seat 4: hugogal showed [5c 5s] and won (2090) with a full house, Fives full of Deuces
+Seat 7: racecamper42 showed [4s Ks] and lost with two pair, Fours and Deuces
+Seat 8: Ercucchiaioo folded before Flop (didn't bet)
+Seat 9: swampfever (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826620667: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level V (75/150) - 2019/06/28 19:46:08 ET
+Table '2639187172 2' 9-max Seat #1 is the button
+Seat 1: Taargeett (3250 in chips) 
+Seat 3: raybi (4380 in chips) 
+Seat 7: racecamper42 (3225 in chips) 
+Seat 8: Ercucchiaioo (2495 in chips) 
+Seat 9: swampfever (1105 in chips) 
+raybi: posts small blind 75
+racecamper42: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [Kd Kc]
+Ercucchiaioo: folds 
+swampfever: folds 
+Taargeett: raises 150 to 300
+raybi: folds 
+racecamper42: folds 
+Uncalled bet (150) returned to Taargeett
+Taargeett collected 375 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: Taargeett (button) collected (375)
+Seat 3: raybi (small blind) folded before Flop
+Seat 7: racecamper42 (big blind) folded before Flop
+Seat 8: Ercucchiaioo folded before Flop (didn't bet)
+Seat 9: swampfever folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826627397: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level V (75/150) - 2019/06/28 19:46:26 ET
+Table '2639187172 2' 9-max Seat #3 is the button
+Seat 1: Taargeett (3475 in chips) 
+Seat 3: raybi (4305 in chips) 
+Seat 7: racecamper42 (3075 in chips) 
+Seat 8: Ercucchiaioo (2495 in chips) 
+Seat 9: swampfever (1105 in chips) 
+racecamper42: posts small blind 75
+Ercucchiaioo: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [3d Qs]
+swampfever: folds 
+Taargeett: folds 
+raybi: raises 150 to 300
+racecamper42: folds 
+Ercucchiaioo: folds 
+Uncalled bet (150) returned to raybi
+raybi collected 375 from pot
+raybi: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 3: raybi (button) collected (375)
+Seat 7: racecamper42 (small blind) folded before Flop
+Seat 8: Ercucchiaioo (big blind) folded before Flop
+Seat 9: swampfever folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826636105: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level V (75/150) - 2019/06/28 19:46:49 ET
+Table '2639187172 2' 9-max Seat #7 is the button
+Seat 1: Taargeett (3475 in chips) 
+Seat 3: raybi (4530 in chips) 
+Seat 7: racecamper42 (3000 in chips) 
+Seat 8: Ercucchiaioo (2345 in chips) 
+Seat 9: swampfever (1105 in chips) 
+Ercucchiaioo: posts small blind 75
+swampfever: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [9s 7h]
+Taargeett: folds 
+raybi: raises 150 to 300
+racecamper42: folds 
+Ercucchiaioo: folds 
+swampfever: raises 805 to 1105 and is all-in
+raybi: calls 805
+*** FLOP *** [5h Qc 2c]
+*** TURN *** [5h Qc 2c] [7s]
+*** RIVER *** [5h Qc 2c 7s] [Ks]
+*** SHOW DOWN ***
+swampfever: shows [Th Tc] (a pair of Tens)
+raybi: shows [As 4h] (high card Ace)
+swampfever collected 2285 from pot
+*** SUMMARY ***
+Total pot 2285 | Rake 0 
+Board [5h Qc 2c 7s Ks]
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 3: raybi showed [As 4h] and lost with high card Ace
+Seat 7: racecamper42 (button) folded before Flop (didn't bet)
+Seat 8: Ercucchiaioo (small blind) folded before Flop
+Seat 9: swampfever (big blind) showed [Th Tc] and won (2285) with a pair of Tens
+
+
+
+PokerStars Hand #201826650304: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level V (75/150) - 2019/06/28 19:47:26 ET
+Table '2639187172 2' 9-max Seat #8 is the button
+Seat 1: Taargeett (3475 in chips) 
+Seat 3: raybi (3425 in chips) 
+Seat 7: racecamper42 (3000 in chips) 
+Seat 8: Ercucchiaioo (2270 in chips) 
+Seat 9: swampfever (2285 in chips) 
+swampfever: posts small blind 75
+Taargeett: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [Kc 7h]
+raybi: calls 150
+racecamper42: folds 
+Ercucchiaioo: folds 
+swampfever: folds 
+Taargeett: raises 300 to 450
+raybi: raises 2975 to 3425 and is all-in
+Taargeett: folds 
+Uncalled bet (2975) returned to raybi
+raybi collected 975 from pot
+raybi: doesn't show hand 
+*** SUMMARY ***
+Total pot 975 | Rake 0 
+Seat 1: Taargeett (big blind) folded before Flop
+Seat 3: raybi collected (975)
+Seat 7: racecamper42 folded before Flop (didn't bet)
+Seat 8: Ercucchiaioo (button) folded before Flop (didn't bet)
+Seat 9: swampfever (small blind) folded before Flop
+
+
+
+PokerStars Hand #201826659024: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level V (75/150) - 2019/06/28 19:47:50 ET
+Table '2639187172 2' 9-max Seat #9 is the button
+Seat 1: Taargeett (3025 in chips) 
+Seat 3: raybi (3950 in chips) 
+Seat 7: racecamper42 (3000 in chips) 
+Seat 8: Ercucchiaioo (2270 in chips) 
+Seat 9: swampfever (2210 in chips) 
+Taargeett: posts small blind 75
+raybi: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [6d 9h]
+racecamper42: folds 
+Ercucchiaioo: folds 
+swampfever: calls 150
+Taargeett: folds 
+raybi: checks 
+*** FLOP *** [Jh Ad 3h]
+raybi: checks 
+swampfever: checks 
+*** TURN *** [Jh Ad 3h] [9c]
+raybi: bets 150
+swampfever: calls 150
+*** RIVER *** [Jh Ad 3h 9c] [6c]
+raybi: checks 
+swampfever: checks 
+*** SHOW DOWN ***
+raybi: shows [2d Tc] (high card Ace)
+swampfever: shows [Jd Ks] (a pair of Jacks)
+swampfever collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [Jh Ad 3h 9c 6c]
+Seat 1: Taargeett (small blind) folded before Flop
+Seat 3: raybi (big blind) showed [2d Tc] and lost with high card Ace
+Seat 7: racecamper42 folded before Flop (didn't bet)
+Seat 8: Ercucchiaioo folded before Flop (didn't bet)
+Seat 9: swampfever (button) showed [Jd Ks] and won (675) with a pair of Jacks
+
+
+
+PokerStars Hand #201826679104: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level V (75/150) - 2019/06/28 19:48:44 ET
+Table '2639187172 2' 9-max Seat #1 is the button
+Seat 1: Taargeett (2950 in chips) 
+Seat 2: hugogal (1565 in chips) out of hand (moved from another table into small blind)
+Seat 3: raybi (3650 in chips) 
+Seat 4: salonika1966 (4423 in chips) 
+Seat 5: jlaynes (1580 in chips) 
+Seat 6: wallybear729 (4977 in chips) 
+Seat 7: racecamper42 (3000 in chips) 
+Seat 8: Ercucchiaioo (2270 in chips) 
+Seat 9: swampfever (2585 in chips) 
+hugogal will be allowed to play after the button
+raybi: posts small blind 75
+salonika1966: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [Jh 3d]
+jlaynes: folds 
+wallybear729: folds 
+racecamper42: folds 
+Ercucchiaioo: folds 
+swampfever: folds 
+Taargeett: folds 
+raybi: calls 75
+salonika1966: checks 
+*** FLOP *** [Td 6d Js]
+raybi: checks 
+salonika1966: checks 
+*** TURN *** [Td 6d Js] [2d]
+raybi: bets 150
+salonika1966: folds 
+Uncalled bet (150) returned to raybi
+raybi collected 300 from pot
+raybi: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Td 6d Js 2d]
+Seat 1: Taargeett (button) folded before Flop (didn't bet)
+Seat 3: raybi (small blind) collected (300)
+Seat 4: salonika1966 (big blind) folded on the Turn
+Seat 5: jlaynes folded before Flop (didn't bet)
+Seat 6: wallybear729 folded before Flop (didn't bet)
+Seat 7: racecamper42 folded before Flop (didn't bet)
+Seat 8: Ercucchiaioo folded before Flop (didn't bet)
+Seat 9: swampfever folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826691643: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level V (75/150) - 2019/06/28 19:49:17 ET
+Table '2639187172 2' 9-max Seat #3 is the button
+Seat 1: Taargeett (2950 in chips) 
+Seat 2: hugogal (1565 in chips) 
+Seat 3: raybi (3800 in chips) 
+Seat 4: salonika1966 (4273 in chips) 
+Seat 5: jlaynes (1580 in chips) 
+Seat 6: wallybear729 (4977 in chips) 
+Seat 7: racecamper42 (3000 in chips) 
+Seat 8: Ercucchiaioo (2270 in chips) 
+Seat 9: swampfever (2585 in chips) 
+salonika1966: posts small blind 75
+jlaynes: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [7c Kh]
+wallybear729: folds 
+racecamper42: folds 
+Ercucchiaioo: folds 
+swampfever: calls 150
+Taargeett: folds 
+hugogal: folds 
+raybi: raises 750 to 900
+salonika1966: folds 
+jlaynes: folds 
+swampfever: folds 
+Uncalled bet (750) returned to raybi
+raybi collected 525 from pot
+raybi: doesn't show hand 
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 2: hugogal folded before Flop (didn't bet)
+Seat 3: raybi (button) collected (525)
+Seat 4: salonika1966 (small blind) folded before Flop
+Seat 5: jlaynes (big blind) folded before Flop
+Seat 6: wallybear729 folded before Flop (didn't bet)
+Seat 7: racecamper42 folded before Flop (didn't bet)
+Seat 8: Ercucchiaioo folded before Flop (didn't bet)
+Seat 9: swampfever folded before Flop
+
+
+
+PokerStars Hand #201826704415: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level V (75/150) - 2019/06/28 19:49:52 ET
+Table '2639187172 2' 9-max Seat #4 is the button
+Seat 1: Taargeett (2950 in chips) 
+Seat 2: hugogal (1565 in chips) 
+Seat 3: raybi (4175 in chips) 
+Seat 4: salonika1966 (4198 in chips) 
+Seat 5: jlaynes (1430 in chips) 
+Seat 6: wallybear729 (4977 in chips) 
+Seat 7: racecamper42 (3000 in chips) 
+Seat 8: Ercucchiaioo (2270 in chips) 
+Seat 9: swampfever (2435 in chips) 
+jlaynes: posts small blind 75
+wallybear729: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [7h 2h]
+racecamper42: folds 
+Ercucchiaioo: folds 
+swampfever: folds 
+Taargeett: folds 
+hugogal: folds 
+raybi: folds 
+salonika1966: calls 150
+jlaynes: folds 
+wallybear729: checks 
+*** FLOP *** [Qc Ad Jh]
+wallybear729: checks 
+salonika1966: checks 
+*** TURN *** [Qc Ad Jh] [3s]
+wallybear729: bets 150
+salonika1966: calls 150
+*** RIVER *** [Qc Ad Jh 3s] [7s]
+wallybear729: bets 150
+salonika1966: folds 
+Uncalled bet (150) returned to wallybear729
+wallybear729 collected 675 from pot
+wallybear729: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Board [Qc Ad Jh 3s 7s]
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 2: hugogal folded before Flop (didn't bet)
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: salonika1966 (button) folded on the River
+Seat 5: jlaynes (small blind) folded before Flop
+Seat 6: wallybear729 (big blind) collected (675)
+Seat 7: racecamper42 folded before Flop (didn't bet)
+Seat 8: Ercucchiaioo folded before Flop (didn't bet)
+Seat 9: swampfever folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826715736: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level V (75/150) - 2019/06/28 19:50:23 ET
+Table '2639187172 2' 9-max Seat #5 is the button
+Seat 1: Taargeett (2950 in chips) 
+Seat 2: hugogal (1565 in chips) 
+Seat 3: raybi (4175 in chips) 
+Seat 4: salonika1966 (3898 in chips) 
+Seat 5: jlaynes (1355 in chips) 
+Seat 6: wallybear729 (5352 in chips) 
+Seat 7: racecamper42 (3000 in chips) 
+Seat 8: Ercucchiaioo (2270 in chips) 
+Seat 9: swampfever (2435 in chips) 
+wallybear729: posts small blind 75
+racecamper42: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Taargeett [Ah 3c]
+Ercucchiaioo: folds 
+swampfever: calls 150
+Taargeett: folds 
+hugogal: folds 
+raybi: calls 150
+salonika1966: folds 
+jlaynes: folds 
+wallybear729: calls 75
+racecamper42: checks 
+*** FLOP *** [2h Tc 2d]
+wallybear729: checks 
+racecamper42: checks 
+swampfever: bets 150
+raybi: folds 
+wallybear729: folds 
+racecamper42: calls 150
+*** TURN *** [2h Tc 2d] [6h]
+racecamper42: checks 
+swampfever: bets 150
+racecamper42: calls 150
+*** RIVER *** [2h Tc 2d 6h] [8d]
+racecamper42: checks 
+swampfever: checks 
+*** SHOW DOWN ***
+racecamper42: shows [Kc Qd] (a pair of Deuces)
+swampfever: shows [Td Ks] (two pair, Tens and Deuces)
+swampfever collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [2h Tc 2d 6h 8d]
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 2: hugogal folded before Flop (didn't bet)
+Seat 3: raybi folded on the Flop
+Seat 4: salonika1966 folded before Flop (didn't bet)
+Seat 5: jlaynes (button) folded before Flop (didn't bet)
+Seat 6: wallybear729 (small blind) folded on the Flop
+Seat 7: racecamper42 (big blind) showed [Kc Qd] and lost with a pair of Deuces
+Seat 8: Ercucchiaioo folded before Flop (didn't bet)
+Seat 9: swampfever showed [Td Ks] and won (1200) with two pair, Tens and Deuces
+
+
+
+PokerStars Hand #201826736779: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level VI (100/200) - 2019/06/28 19:51:18 ET
+Table '2639187172 2' 9-max Seat #6 is the button
+Seat 1: Taargeett (2950 in chips) 
+Seat 2: hugogal (1565 in chips) 
+Seat 3: raybi (4025 in chips) 
+Seat 4: salonika1966 (3898 in chips) 
+Seat 5: jlaynes (1355 in chips) 
+Seat 6: wallybear729 (5202 in chips) 
+Seat 7: racecamper42 (2550 in chips) 
+Seat 8: Ercucchiaioo (2270 in chips) 
+Seat 9: swampfever (3185 in chips) 
+racecamper42: posts small blind 100
+Ercucchiaioo: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [3d 2s]
+swampfever: folds 
+Taargeett: folds 
+hugogal: folds 
+raybi: folds 
+salonika1966: folds 
+jlaynes: folds 
+wallybear729: raises 400 to 600
+racecamper42: folds 
+Ercucchiaioo: calls 400
+*** FLOP *** [5d 7h 8c]
+Ercucchiaioo: checks 
+wallybear729: bets 1300
+Ercucchiaioo: raises 370 to 1670 and is all-in
+wallybear729: calls 370
+*** TURN *** [5d 7h 8c] [Ts]
+*** RIVER *** [5d 7h 8c Ts] [Qd]
+*** SHOW DOWN ***
+Ercucchiaioo: shows [9d Ad] (high card Ace)
+wallybear729: shows [Kh Ah] (high card Ace - King kicker)
+wallybear729 collected 4640 from pot
+Ercucchiaioo finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 4640 | Rake 0 
+Board [5d 7h 8c Ts Qd]
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 2: hugogal folded before Flop (didn't bet)
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: salonika1966 folded before Flop (didn't bet)
+Seat 5: jlaynes folded before Flop (didn't bet)
+Seat 6: wallybear729 (button) showed [Kh Ah] and won (4640) with high card Ace
+Seat 7: racecamper42 (small blind) folded before Flop
+Seat 8: Ercucchiaioo (big blind) showed [9d Ad] and lost with high card Ace
+Seat 9: swampfever folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826750735: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level VI (100/200) - 2019/06/28 19:51:56 ET
+Table '2639187172 2' 9-max Seat #7 is the button
+Seat 1: Taargeett (2950 in chips) 
+Seat 2: hugogal (1565 in chips) 
+Seat 3: raybi (4025 in chips) 
+Seat 4: salonika1966 (3898 in chips) 
+Seat 5: jlaynes (1355 in chips) 
+Seat 6: wallybear729 (7572 in chips) 
+Seat 7: racecamper42 (2450 in chips) 
+Seat 9: swampfever (3185 in chips) 
+swampfever: posts small blind 100
+Taargeett: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [Ad 7c]
+hugogal has timed out
+hugogal: folds 
+raybi: folds 
+salonika1966: folds 
+jlaynes: folds 
+wallybear729: folds 
+racecamper42: folds 
+swampfever: folds 
+Uncalled bet (100) returned to Taargeett
+Taargeett collected 200 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Taargeett (big blind) collected (200)
+Seat 2: hugogal folded before Flop (didn't bet)
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: salonika1966 folded before Flop (didn't bet)
+Seat 5: jlaynes folded before Flop (didn't bet)
+Seat 6: wallybear729 folded before Flop (didn't bet)
+Seat 7: racecamper42 (button) folded before Flop (didn't bet)
+Seat 9: swampfever (small blind) folded before Flop
+
+
+
+PokerStars Hand #201826770775: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level VI (100/200) - 2019/06/28 19:52:26 ET
+Table '2639187172 2' 9-max Seat #9 is the button
+Seat 1: Taargeett (3050 in chips) 
+Seat 2: hugogal (1565 in chips) is sitting out
+Seat 3: raybi (4025 in chips) 
+Seat 4: salonika1966 (3898 in chips) 
+Seat 5: jlaynes (1355 in chips) 
+Seat 6: wallybear729 (7572 in chips) 
+Seat 7: racecamper42 (2450 in chips) 
+Seat 9: swampfever (3085 in chips) 
+Taargeett: posts small blind 100
+hugogal: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [Th Td]
+raybi: calls 200
+salonika1966: calls 200
+jlaynes: folds 
+wallybear729: folds 
+racecamper42: folds 
+swampfever: folds 
+Taargeett: folds 
+hugogal: folds 
+*** FLOP *** [9d Qc 4d]
+raybi: bets 200
+salonika1966: folds 
+Uncalled bet (200) returned to raybi
+raybi collected 700 from pot
+raybi: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [9d Qc 4d]
+Seat 1: Taargeett (small blind) folded before Flop
+Seat 2: hugogal (big blind) folded before Flop
+Seat 3: raybi collected (700)
+Seat 4: salonika1966 folded on the Flop
+Seat 5: jlaynes folded before Flop (didn't bet)
+Seat 6: wallybear729 folded before Flop (didn't bet)
+Seat 7: racecamper42 folded before Flop (didn't bet)
+Seat 9: swampfever (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826780223: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level VI (100/200) - 2019/06/28 19:52:51 ET
+Table '2639187172 2' 9-max Seat #1 is the button
+Seat 1: Taargeett (2950 in chips) 
+Seat 2: hugogal (1365 in chips) is sitting out
+Seat 3: raybi (4525 in chips) 
+Seat 4: salonika1966 (3698 in chips) 
+Seat 5: jlaynes (1355 in chips) 
+Seat 6: wallybear729 (7572 in chips) 
+Seat 7: racecamper42 (2450 in chips) 
+Seat 9: swampfever (3085 in chips) 
+hugogal: posts small blind 100
+raybi: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [Jh 5s]
+salonika1966: calls 200
+jlaynes: folds 
+wallybear729: folds 
+racecamper42: folds 
+swampfever: calls 200
+Taargeett: folds 
+hugogal: raises 1165 to 1365 and is all-in
+raybi: folds 
+salonika1966: calls 1165
+swampfever: folds 
+*** FLOP *** [3d 2h 8c]
+*** TURN *** [3d 2h 8c] [3c]
+*** RIVER *** [3d 2h 8c 3c] [7s]
+*** SHOW DOWN ***
+hugogal: shows [5d 9c] (a pair of Threes)
+salonika1966: shows [Qs Ks] (a pair of Threes - King kicker)
+salonika1966 collected 3130 from pot
+hugogal finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 3130 | Rake 0 
+Board [3d 2h 8c 3c 7s]
+Seat 1: Taargeett (button) folded before Flop (didn't bet)
+Seat 2: hugogal (small blind) showed [5d 9c] and lost with a pair of Threes
+Seat 3: raybi (big blind) folded before Flop
+Seat 4: salonika1966 showed [Qs Ks] and won (3130) with a pair of Threes
+Seat 5: jlaynes folded before Flop (didn't bet)
+Seat 6: wallybear729 folded before Flop (didn't bet)
+Seat 7: racecamper42 folded before Flop (didn't bet)
+Seat 9: swampfever folded before Flop
+
+
+
+PokerStars Hand #201826794252: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level VI (100/200) - 2019/06/28 19:53:28 ET
+Table '2639187172 2' 9-max Seat #3 is the button
+Seat 1: Taargeett (2950 in chips) 
+Seat 3: raybi (4325 in chips) 
+Seat 4: salonika1966 (5463 in chips) 
+Seat 5: jlaynes (1355 in chips) 
+Seat 6: wallybear729 (7572 in chips) 
+Seat 7: racecamper42 (2450 in chips) 
+Seat 9: swampfever (2885 in chips) 
+salonika1966: posts small blind 100
+jlaynes: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [Ac Js]
+wallybear729: folds 
+racecamper42: folds 
+swampfever: folds 
+Taargeett: raises 200 to 400
+raybi: folds 
+salonika1966: folds 
+jlaynes: folds 
+Uncalled bet (200) returned to Taargeett
+Taargeett collected 500 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: Taargeett collected (500)
+Seat 3: raybi (button) folded before Flop (didn't bet)
+Seat 4: salonika1966 (small blind) folded before Flop
+Seat 5: jlaynes (big blind) folded before Flop
+Seat 6: wallybear729 folded before Flop (didn't bet)
+Seat 7: racecamper42 folded before Flop (didn't bet)
+Seat 9: swampfever folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826800807: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level VI (100/200) - 2019/06/28 19:53:46 ET
+Table '2639187172 2' 9-max Seat #4 is the button
+Seat 1: Taargeett (3250 in chips) 
+Seat 3: raybi (4325 in chips) 
+Seat 4: salonika1966 (5363 in chips) 
+Seat 5: jlaynes (1155 in chips) 
+Seat 6: wallybear729 (7572 in chips) 
+Seat 7: racecamper42 (2450 in chips) 
+Seat 9: swampfever (2885 in chips) 
+jlaynes: posts small blind 100
+wallybear729: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [Kh 3c]
+racecamper42: folds 
+swampfever: folds 
+Taargeett: folds 
+raybi: folds 
+salonika1966: calls 200
+jlaynes: folds 
+wallybear729: checks 
+*** FLOP *** [4s Ac Jc]
+wallybear729: checks 
+salonika1966: bets 600
+wallybear729: folds 
+Uncalled bet (600) returned to salonika1966
+salonika1966 collected 500 from pot
+salonika1966: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [4s Ac Jc]
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: salonika1966 (button) collected (500)
+Seat 5: jlaynes (small blind) folded before Flop
+Seat 6: wallybear729 (big blind) folded on the Flop
+Seat 7: racecamper42 folded before Flop (didn't bet)
+Seat 9: swampfever folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826812170: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level VI (100/200) - 2019/06/28 19:54:17 ET
+Table '2639187172 2' 9-max Seat #5 is the button
+Seat 1: Taargeett (3250 in chips) 
+Seat 3: raybi (4325 in chips) 
+Seat 4: salonika1966 (5663 in chips) 
+Seat 5: jlaynes (1055 in chips) 
+Seat 6: wallybear729 (7372 in chips) 
+Seat 7: racecamper42 (2450 in chips) 
+Seat 9: swampfever (2885 in chips) 
+wallybear729: posts small blind 100
+racecamper42: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [3s 3d]
+swampfever: raises 400 to 600
+Taargeett: folds 
+raybi: folds 
+salonika1966: folds 
+jlaynes: calls 600
+wallybear729: folds 
+racecamper42: folds 
+*** FLOP *** [Qs 7d Th]
+swampfever: bets 2285 and is all-in
+jlaynes: calls 455 and is all-in
+Uncalled bet (1830) returned to swampfever
+*** TURN *** [Qs 7d Th] [4c]
+*** RIVER *** [Qs 7d Th 4c] [8d]
+*** SHOW DOWN ***
+swampfever: shows [Qc Ac] (a pair of Queens)
+jlaynes: shows [As Td] (a pair of Tens)
+swampfever collected 2410 from pot
+jlaynes finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 2410 | Rake 0 
+Board [Qs 7d Th 4c 8d]
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: salonika1966 folded before Flop (didn't bet)
+Seat 5: jlaynes (button) showed [As Td] and lost with a pair of Tens
+Seat 6: wallybear729 (small blind) folded before Flop
+Seat 7: racecamper42 (big blind) folded before Flop
+Seat 9: swampfever showed [Qc Ac] and won (2410) with a pair of Queens
+
+
+
+PokerStars Hand #201826826814: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level VI (100/200) - 2019/06/28 19:54:56 ET
+Table '2639187172 2' 9-max Seat #6 is the button
+Seat 1: Taargeett (3250 in chips) 
+Seat 3: raybi (4325 in chips) 
+Seat 4: salonika1966 (5663 in chips) 
+Seat 6: wallybear729 (7272 in chips) 
+Seat 7: racecamper42 (2250 in chips) 
+Seat 9: swampfever (4240 in chips) 
+racecamper42: posts small blind 100
+swampfever: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [8s 5s]
+Taargeett: folds 
+raybi: folds 
+salonika1966: folds 
+wallybear729: folds 
+racecamper42: folds 
+Uncalled bet (100) returned to swampfever
+swampfever collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: salonika1966 folded before Flop (didn't bet)
+Seat 6: wallybear729 (button) folded before Flop (didn't bet)
+Seat 7: racecamper42 (small blind) folded before Flop
+Seat 9: swampfever (big blind) collected (200)
+
+
+
+PokerStars Hand #201826835418: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level VI (100/200) - 2019/06/28 19:55:21 ET
+Table '2639187172 2' 9-max Seat #7 is the button
+Seat 1: Taargeett (3250 in chips) 
+Seat 3: raybi (4325 in chips) 
+Seat 4: salonika1966 (5663 in chips) 
+Seat 6: wallybear729 (7272 in chips) 
+Seat 7: racecamper42 (2150 in chips) 
+Seat 9: swampfever (4340 in chips) 
+swampfever: posts small blind 100
+Taargeett: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [5h Qh]
+raybi: folds 
+salonika1966: folds 
+wallybear729: folds 
+racecamper42: folds 
+swampfever: folds 
+Uncalled bet (100) returned to Taargeett
+Taargeett collected 200 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Taargeett (big blind) collected (200)
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: salonika1966 folded before Flop (didn't bet)
+Seat 6: wallybear729 folded before Flop (didn't bet)
+Seat 7: racecamper42 (button) folded before Flop (didn't bet)
+Seat 9: swampfever (small blind) folded before Flop
+
+
+
+PokerStars Hand #201826840219: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level VII (100/200) - 2019/06/28 19:55:36 ET
+Table '2639187172 2' 9-max Seat #9 is the button
+Seat 1: Taargeett (3350 in chips) 
+Seat 3: raybi (4325 in chips) 
+Seat 4: salonika1966 (5663 in chips) 
+Seat 6: wallybear729 (7272 in chips) 
+Seat 7: racecamper42 (2150 in chips) 
+Seat 9: swampfever (4240 in chips) 
+Taargeett: posts the ante 25
+raybi: posts the ante 25
+salonika1966: posts the ante 25
+wallybear729: posts the ante 25
+racecamper42: posts the ante 25
+swampfever: posts the ante 25
+Taargeett: posts small blind 100
+raybi: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [7s Kc]
+salonika1966: folds 
+wallybear729: folds 
+racecamper42: raises 400 to 600
+swampfever: folds 
+Taargeett: folds 
+raybi: folds 
+Uncalled bet (400) returned to racecamper42
+racecamper42 collected 650 from pot
+racecamper42: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 1: Taargeett (small blind) folded before Flop
+Seat 3: raybi (big blind) folded before Flop
+Seat 4: salonika1966 folded before Flop (didn't bet)
+Seat 6: wallybear729 folded before Flop (didn't bet)
+Seat 7: racecamper42 collected (650)
+Seat 9: swampfever (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826847845: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level VII (100/200) - 2019/06/28 19:56:00 ET
+Table '2639187172 2' 9-max Seat #1 is the button
+Seat 1: Taargeett (3225 in chips) 
+Seat 3: raybi (4100 in chips) 
+Seat 4: salonika1966 (5638 in chips) 
+Seat 6: wallybear729 (7247 in chips) 
+Seat 7: racecamper42 (2575 in chips) 
+Seat 9: swampfever (4215 in chips) 
+Taargeett: posts the ante 25
+raybi: posts the ante 25
+salonika1966: posts the ante 25
+wallybear729: posts the ante 25
+racecamper42: posts the ante 25
+swampfever: posts the ante 25
+raybi: posts small blind 100
+salonika1966: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [6s 4s]
+wallybear729: folds 
+racecamper42: folds 
+swampfever: folds 
+Taargeett: folds 
+raybi: raises 600 to 800
+salonika1966: folds 
+Uncalled bet (600) returned to raybi
+raybi collected 550 from pot
+raybi: doesn't show hand 
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Seat 1: Taargeett (button) folded before Flop (didn't bet)
+Seat 3: raybi (small blind) collected (550)
+Seat 4: salonika1966 (big blind) folded before Flop
+Seat 6: wallybear729 folded before Flop (didn't bet)
+Seat 7: racecamper42 folded before Flop (didn't bet)
+Seat 9: swampfever folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826855765: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level VII (100/200) - 2019/06/28 19:56:26 ET
+Table '2639187172 2' 9-max Seat #3 is the button
+Seat 1: Taargeett (3200 in chips) 
+Seat 3: raybi (4425 in chips) 
+Seat 4: salonika1966 (5413 in chips) 
+Seat 6: wallybear729 (7222 in chips) 
+Seat 7: racecamper42 (2550 in chips) 
+Seat 9: swampfever (4190 in chips) 
+Taargeett: posts the ante 25
+raybi: posts the ante 25
+salonika1966: posts the ante 25
+wallybear729: posts the ante 25
+racecamper42: posts the ante 25
+swampfever: posts the ante 25
+salonika1966: posts small blind 100
+wallybear729: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [Jh 9h]
+racecamper42: folds 
+swampfever: folds 
+Taargeett: raises 400 to 600
+raybi: folds 
+salonika1966: folds 
+wallybear729: folds 
+Uncalled bet (400) returned to Taargeett
+Taargeett collected 650 from pot
+Taargeett: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Seat 1: Taargeett collected (650)
+Seat 3: raybi (button) folded before Flop (didn't bet)
+Seat 4: salonika1966 (small blind) folded before Flop
+Seat 6: wallybear729 (big blind) folded before Flop
+Seat 7: racecamper42 folded before Flop (didn't bet)
+Seat 9: swampfever folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826862322: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level VII (100/200) - 2019/06/28 19:56:47 ET
+Table '2639187172 2' 9-max Seat #4 is the button
+Seat 1: Taargeett (3625 in chips) 
+Seat 3: raybi (4400 in chips) 
+Seat 4: salonika1966 (5288 in chips) 
+Seat 6: wallybear729 (6997 in chips) 
+Seat 7: racecamper42 (2525 in chips) 
+Seat 9: swampfever (4165 in chips) 
+Taargeett: posts the ante 25
+raybi: posts the ante 25
+salonika1966: posts the ante 25
+wallybear729: posts the ante 25
+racecamper42: posts the ante 25
+swampfever: posts the ante 25
+wallybear729: posts small blind 100
+racecamper42: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [5c Ac]
+swampfever: folds 
+Taargeett: raises 400 to 600
+raybi: folds 
+salonika1966: folds 
+wallybear729: folds 
+racecamper42: calls 400
+*** FLOP *** [7d 6c Kh]
+racecamper42: checks 
+Taargeett: bets 930
+racecamper42: calls 930
+*** TURN *** [7d 6c Kh] [5h]
+racecamper42: checks 
+Taargeett: checks 
+*** RIVER *** [7d 6c Kh 5h] [Jh]
+racecamper42: bets 970 and is all-in
+Taargeett: calls 970
+*** SHOW DOWN ***
+racecamper42: shows [6h 6d] (three of a kind, Sixes)
+Taargeett: shows [5c Ac] (a pair of Fives)
+racecamper42 collected 5250 from pot
+*** SUMMARY ***
+Total pot 5250 | Rake 0 
+Board [7d 6c Kh 5h Jh]
+Seat 1: Taargeett showed [5c Ac] and lost with a pair of Fives
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: salonika1966 (button) folded before Flop (didn't bet)
+Seat 6: wallybear729 (small blind) folded before Flop
+Seat 7: racecamper42 (big blind) showed [6h 6d] and won (5250) with three of a kind, Sixes
+Seat 9: swampfever folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201826879808: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level VII (100/200) - 2019/06/28 19:57:43 ET
+Table '2639187172 2' 9-max Seat #6 is the button
+Seat 1: Taargeett (1100 in chips) 
+Seat 3: raybi (4375 in chips) 
+Seat 4: salonika1966 (5263 in chips) 
+Seat 6: wallybear729 (6872 in chips) 
+Seat 7: racecamper42 (5250 in chips) 
+Seat 9: swampfever (4140 in chips) 
+Taargeett: posts the ante 25
+raybi: posts the ante 25
+salonika1966: posts the ante 25
+wallybear729: posts the ante 25
+racecamper42: posts the ante 25
+swampfever: posts the ante 25
+racecamper42: posts small blind 100
+swampfever: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [6c 9s]
+Taargeett: folds 
+raybi: folds 
+salonika1966: calls 200
+wallybear729: folds 
+racecamper42: calls 100
+swampfever: checks 
+*** FLOP *** [7s 4d 5h]
+racecamper42: checks 
+swampfever: checks 
+salonika1966: checks 
+*** TURN *** [7s 4d 5h] [Jd]
+racecamper42: checks 
+swampfever: checks 
+salonika1966: checks 
+*** RIVER *** [7s 4d 5h Jd] [8s]
+racecamper42: bets 200
+swampfever: folds 
+salonika1966: calls 200
+*** SHOW DOWN ***
+racecamper42: shows [Ks 8d] (a pair of Eights)
+salonika1966: shows [Ad 8c] (a pair of Eights - Ace kicker)
+salonika1966 collected 1150 from pot
+*** SUMMARY ***
+Total pot 1150 | Rake 0 
+Board [7s 4d 5h Jd 8s]
+Seat 1: Taargeett folded before Flop (didn't bet)
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: salonika1966 showed [Ad 8c] and won (1150) with a pair of Eights
+Seat 6: wallybear729 (button) folded before Flop (didn't bet)
+Seat 7: racecamper42 (small blind) showed [Ks 8d] and lost with a pair of Eights
+Seat 9: swampfever (big blind) folded on the River
+
+
+
+PokerStars Hand #201826902994: Tournament #2639187172, 85000+15000 Hold'em No Limit - Level VII (100/200) - 2019/06/28 19:58:57 ET
+Table '2639187172 2' 9-max Seat #7 is the button
+Seat 1: Taargeett (1075 in chips) 
+Seat 3: raybi (4350 in chips) 
+Seat 4: salonika1966 (5988 in chips) 
+Seat 6: wallybear729 (6847 in chips) 
+Seat 7: racecamper42 (4825 in chips) 
+Seat 9: swampfever (3915 in chips) 
+Taargeett: posts the ante 25
+raybi: posts the ante 25
+salonika1966: posts the ante 25
+wallybear729: posts the ante 25
+racecamper42: posts the ante 25
+swampfever: posts the ante 25
+swampfever: posts small blind 100
+Taargeett: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Taargeett [6c Qd]
+raybi: folds 
+salonika1966: calls 200
+wallybear729: folds 
+racecamper42: folds 
+swampfever: folds 
+Taargeett: raises 850 to 1050 and is all-in
+salonika1966: calls 850
+*** FLOP *** [Tc 9s Kd]
+*** TURN *** [Tc 9s Kd] [Ks]
+*** RIVER *** [Tc 9s Kd Ks] [3d]
+*** SHOW DOWN ***
+Taargeett: shows [6c Qd] (a pair of Kings)
+salonika1966: shows [Ts As] (two pair, Kings and Tens)
+salonika1966 collected 2350 from pot
+Taargeett finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 2350 | Rake 0 
+Board [Tc 9s Kd Ks 3d]
+Seat 1: Taargeett (big blind) showed [6c Qd] and lost with a pair of Kings
+Seat 3: raybi folded before Flop (didn't bet)
+Seat 4: salonika1966 showed [Ts As] and won (2350) with two pair, Kings and Tens
+Seat 6: wallybear729 folded before Flop (didn't bet)
+Seat 7: racecamper42 (button) folded before Flop (didn't bet)
+Seat 9: swampfever (small blind) folded before Flop
+
+
+
