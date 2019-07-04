@@ -45,7 +45,7 @@ class Action(Fact):
     me = Field(bool, mandatory=True)
     street = Field(str, mandatory=True)  # PREFLOP | FLOP | TURN | RIVER
     position = Field(str)  # SB | BB | UTG | UTG+1 | MP1 | MP2 | HJ | CO | BNT
-    is_raised = Field(bool, mandatory=True, default=False)  # True or False
+    is_raised = Field(bool, mandatory=True, default=False)
 
 
 class Suggestion(Fact):
