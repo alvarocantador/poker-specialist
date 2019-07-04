@@ -17,6 +17,9 @@ class PokerConsole:
                 if 'me' in current_fact: 
                     me = current_fact
 
+        if(hand == None):
+            return
+
         # PRINT
         print("=====================================")
         print("Hand: {}".format(hand['id']))
