@@ -26,21 +26,26 @@ class Player(Fact):
     name = Field(str, mandatory=True)
     chips = Field(int, mandatory=True)
     seat = Field(int, mandatory=True)
+    me = Field(bool)
+    cards = Field(list)
+    card_1_v = Field(int, default=0)  # 1 ao 13 -> A, 2, 3... Q, K
+    card_1_s = Field(str)  # c, h, s, d
+    card_2_v = Field(int, default=0)  # 1 ao 13 -> A, 2, 3... Q, K
+    card_2_s = Field(str)  # c, h, s, d
+    suited = Field(bool)
+    group = Field(int, default=None)  # 1, 2, 3, 4, 5, 6, 7 or 8
     is_out = Field(bool)
     bbs = Field(float, default=None)
-    cards = Field(list)
-    suited = Field(bool)
-    me = Field(bool)
-    group = Field(int)  # 1, 2, 3, 4, 5, 6, 7 or 8
 
 
 class Action(Fact):
     id = Field(int, mandatory=True)
     type = Field(str, mandatory=True)
     player = Field(str, mandatory=True)
+    me = Field(bool, mandatory=True)
     street = Field(str, mandatory=True)  # PREFLOP | FLOP | TURN | RIVER
     position = Field(str)  # SB | BB | UTG | UTG+1 | MP1 | MP2 | HJ | CO | BNT
-    is_raised = Field(bool)  # True or False
+    is_raised = Field(bool, mandatory=True, default=False)  # True or False
 
 
 class Suggestion(Fact):

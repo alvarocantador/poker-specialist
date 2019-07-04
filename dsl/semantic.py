@@ -3,6 +3,7 @@ from engine.main import *
 from engine.facts import *
 import ast
 
+
 class PokerSemantic(Transformer):
     
     def __init__(self, engine = PokerInference()):
@@ -21,7 +22,7 @@ class PokerSemantic(Transformer):
         return ast.literal_eval(token[0])
 
     def seat(self, token):
-        self.engine.declare(Player(name=token[1], 
+        self.engine.declare(Player(name=token[1],
             chips=token[2], 
             seat=ast.literal_eval(token[0]),
             is_out=(len(token) == 4 and token[3].type == "IS_OUT")))
@@ -61,7 +62,7 @@ class PokerSemantic(Transformer):
 
         # Add Fact (just to add in order. Could be part of the prior FOR
         for a in action_array:
-            self.engine.declare(Action(street='PREFLOP', player=a['player'], type=a['type'], id=a['id'], act=a['act'], position=a['position']))
+            self.engine.declare(Action(street='PREFLOP', me=False, is_raised=False, player=a['player'], type=a['type'], id=a['id'], act=a['act'], position=a['position']))
 
     def card(self, token):
         return { 'value': token[0].value, 'suit': token[1].value }
