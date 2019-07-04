@@ -23,7 +23,7 @@ semantic = PokerSemantic(engine=engine)
 
 for history in histories:  # enumerable
     for hand in interpret(history, semantic=semantic):  # enumerable
-        engine.reset()
         engine.run()
         gui.plot(engine)
+        engine.reset()
         input()
