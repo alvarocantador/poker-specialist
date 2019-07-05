@@ -327,6 +327,23 @@ class PokerInference(KnowledgeEngine):
     def preflop_group_8_fold(self):
         self.declare(Suggestion(street='PREFLOP', message='Desistir da mão'))
 
+    @Rule(AS.action << Action(street='FLOP', me=True, act=1, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 1 or player['group'] == 2))
+    def flop_group_1_2(self):
+        self.declare(Suggestion(street='FLOP', message='Aumentar a aposta'))
+
+    @Rule(AS.action << Action(street='FLOP', me=True, act=1, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 1 or player['group'] == 2))
+    def flop_group_1_2_raised(self):
+        self.declare(Suggestion(street='FLOP', message='Pagar a aposta'))
+
+    @Rule(AS.action << Action(street='FLOP', me=True, act=1, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] > 4), TEST(lambda action:  action['position'] == 'BTN'))
+    def flop_blef_btn(self):
+        self.declare(Suggestion(street='FLOP', message='Blefe - Aposte 0.7 do POT para roubar os blinds'))
 
     @Rule(AS.player << Player(bbs=None), AS.blind << Blind())
     def set_player_big_blinds(self, player, blind):
