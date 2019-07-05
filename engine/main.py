@@ -1,15 +1,6 @@
 from pyknow import *
 from engine.facts import *
 
-staticmethod
-
-
-# class util:
-#     def test_cards(group, card_1, card_2, card_s):
-#         return True
-#
-#     lambda_test_cards = lambda card_1, card_2, card_s: test_cards(card_1, card_2, card_s)
-
 lambda_group_1 = lambda player: (player['card_1_v'] == 1 and player['card_2_v'] == 1) or (player['card_1_v'] == 13 and player['card_2_v'] == 13) or (player['card_1_v'] == 12 and player['card_2_v'] == 12) or (player['card_1_v'] == 12 and player['card_2_v'] == 12) or (player['card_1_v'] == 11 and player['card_2_v'] == 11) or (player['card_1_v'] == 13 and player['card_2_v'] == 1 and player['suited'])
 lambda_group_2 = lambda player: (player['card_1_v'] == 10 and player['card_2_v'] == 10) or (player['card_1_v'] == 12 and player['card_2_v'] == 1 and player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 1 and player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 12 and player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 1 and not player['suited'])
 lambda_group_3 = lambda player: (player['card_1_v'] == 9 and player['card_2_v'] == 9) or (player['card_1_v'] == 10 and player['card_2_v'] == 1 and player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 11 and player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 11 and player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 10 and player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 1 and not player['suited'])
@@ -20,10 +11,6 @@ lambda_group_7 = lambda player: (player['card_1_v'] == 4 and player['card_2_v'] 
 lambda_group_8 = lambda player: (player['card_1_v'] == 11 and player['card_2_v'] <= 7 and player['card_2_v'] >= 2 and player['card_2_v'] == 13 and player['suited']) or (player['card_1_v'] == 9 and player['card_2_v'] == 6 and player['suited']) or (player['card_1_v'] == 8 and player['card_2_v'] == 5 and player['suited']) or (player['card_1_v'] == 7 and player['card_2_v'] == 4 and player['suited']) or (player['card_1_v'] == 4 and player['card_2_v'] == 2 and player['suited']) or (player['card_1_v'] == 3 and player['card_2_v'] == 2 and player['suited']) or (player['card_1_v'] <= 5 and player['card_1_v'] >= 2 and player['card_2_v'] == 1 and not player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 9 and not player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 9 and not player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 8 and not player['suited']) or (player['card_1_v'] == 10 and player['card_2_v'] == 8 and not player['suited']) or (player['card_1_v'] == 8 and player['card_2_v'] == 7 and not player['suited']) or (player['card_1_v'] == 7 and player['card_2_v'] == 7 and not player['suited']) or (player['card_1_v'] == 6 and player['card_2_v'] == 5 and not player['suited']) or (player['card_1_v'] == 5 and player['card_2_v'] == 5 and not player['suited'])
 
 class PokerInference(KnowledgeEngine):
-
-    def preflop_define_group_1(self, player):
-        self.modify(player, group=1)
-
 
     @Rule(AS.player << Player(),
           AS.received_card << ReceivedCard(),
@@ -95,7 +82,6 @@ class PokerInference(KnowledgeEngine):
                                          action_me['act'] == action['act']))
     def is_prefop_raised_act_1(self, action_me):
         self.modify(action_me, is_raised=True)
-        # self.declare(Suggestion(street='PREFLOP', message='Aumentaram no pre flop'))
 
     # Grupo de Maos
     @Rule(AS.player << Player(group=0),
@@ -302,3 +288,10 @@ class PokerInference(KnowledgeEngine):
     def set_summary_bbs(self, game, blind):
         self.modify(game, bbs=game['pot']/blind['big'])
 
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1))
+    def set_street_position_message_preflop(self, action):
+        self.declare(Suggestion(street='PREFLOP', message='Posição atual {}'.format(action['position'])))
+
+    @Rule(AS.action << Action(street='FLOP', me=True, act=1))
+    def set_street_position_message_flop(self, action):
+        self.declare(Suggestion(street='FLOP', message='Posição atual {}'.format(action['position'])))
