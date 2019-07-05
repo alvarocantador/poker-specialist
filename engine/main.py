@@ -1,14 +1,30 @@
 from pyknow import *
 from engine.facts import *
 
-lambda_group_1 = lambda player: (player['card_1_v'] == 1 and player['card_2_v'] == 1) or (player['card_1_v'] == 13 and player['card_2_v'] == 13) or (player['card_1_v'] == 12 and player['card_2_v'] == 12) or (player['card_1_v'] == 12 and player['card_2_v'] == 12) or (player['card_1_v'] == 11 and player['card_2_v'] == 11) or (player['card_1_v'] == 13 and player['card_2_v'] == 1 and player['suited'])
-lambda_group_2 = lambda player: (player['card_1_v'] == 10 and player['card_2_v'] == 10) or (player['card_1_v'] == 12 and player['card_2_v'] == 1 and player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 1 and player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 12 and player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 1 and not player['suited'])
-lambda_group_3 = lambda player: (player['card_1_v'] == 9 and player['card_2_v'] == 9) or (player['card_1_v'] == 10 and player['card_2_v'] == 1 and player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 11 and player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 11 and player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 10 and player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 1 and not player['suited'])
-lambda_group_4 = lambda player: (player['card_1_v'] == 8 and player['card_2_v'] == 8) or (player['card_1_v'] == 13 and player['card_2_v'] == 10 and player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 10 and player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 9 and player['suited']) or (player['card_1_v'] == 10 and player['card_2_v'] == 9 and player['suited']) or (player['card_1_v'] == 9 and player['card_2_v'] == 8 and player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 1 and not player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 12 and not player['suited'])
-lambda_group_5 = lambda player: (player['card_1_v'] == 7 and player['card_2_v'] == 7) or (player['card_1_v'] <= 9 and player['card_1_v'] >= 2 and player['card_2_v'] == 1 and player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 9 and player['suited']) or (player['card_1_v'] == 10 and player['card_2_v'] == 8 and player['suited']) or (player['card_1_v'] == 9 and player['card_2_v'] == 7 and player['suited']) or (player['card_1_v'] == 8 and player['card_2_v'] == 7 and player['suited']) or (player['card_1_v'] == 7 and player['card_2_v'] == 6 and player['suited']) or (player['card_1_v'] == 6 and player['card_2_v'] == 5 and player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 11 and not player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 11 and not player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 10 and not player['suited'])
-lambda_group_6 = lambda player: (player['card_1_v'] == 6 and player['card_2_v'] == 6) or (player['card_1_v'] == 5 and player['card_2_v'] == 5) or (player['card_1_v'] <= 13 and player['card_2_v'] == 9 and player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 8 and player['suited']) or (player['card_1_v'] == 8 and player['card_2_v'] == 6 and player['suited']) or (player['card_1_v'] == 7 and player['card_2_v'] == 5 and player['suited']) or (player['card_1_v'] == 5 and player['card_2_v'] == 4 and player['suited']) or (player['card_1_v'] == 10 and player['card_2_v'] == 1 and not player['suited']) or (player['card_1_v'] == 9 and player['card_2_v'] == 1 and not player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 10 and not player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 10 and not player['suited'])
-lambda_group_7 = lambda player: (player['card_1_v'] == 4 and player['card_2_v'] == 4) or (player['card_1_v'] == 3 and player['card_2_v'] == 3) or (player['card_1_v'] == 2 and player['card_2_v'] == 2) or (player['card_1_v'] == 13 and player['card_2_v'] <= 8 and player['card_2_v'] >= 2 and player['card_2_v'] == 13 and player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 8 and player['suited']) or (player['card_1_v'] == 10 and player['card_2_v'] == 7 and player['suited']) or (player['card_1_v'] == 6 and player['card_2_v'] == 4 and player['suited']) or (player['card_1_v'] == 5 and player['card_2_v'] == 3 and player['suited']) or (player['card_1_v'] == 4 and player['card_2_v'] == 3 and player['suited']) or (player['card_1_v'] <= 8 and player['card_1_v'] >= 6 and player['card_2_v'] == 1 and not player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 9 and not player['suited']) or (player['card_1_v'] == 10 and player['card_2_v'] == 9 and not player['suited']) or (player['card_1_v'] == 8 and player['card_2_v'] == 8 and not player['suited'])
-lambda_group_8 = lambda player: (player['card_1_v'] == 11 and player['card_2_v'] <= 7 and player['card_2_v'] >= 2 and player['card_2_v'] == 13 and player['suited']) or (player['card_1_v'] == 9 and player['card_2_v'] == 6 and player['suited']) or (player['card_1_v'] == 8 and player['card_2_v'] == 5 and player['suited']) or (player['card_1_v'] == 7 and player['card_2_v'] == 4 and player['suited']) or (player['card_1_v'] == 4 and player['card_2_v'] == 2 and player['suited']) or (player['card_1_v'] == 3 and player['card_2_v'] == 2 and player['suited']) or (player['card_1_v'] <= 5 and player['card_1_v'] >= 2 and player['card_2_v'] == 1 and not player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 9 and not player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 9 and not player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 8 and not player['suited']) or (player['card_1_v'] == 10 and player['card_2_v'] == 8 and not player['suited']) or (player['card_1_v'] == 8 and player['card_2_v'] == 7 and not player['suited']) or (player['card_1_v'] == 7 and player['card_2_v'] == 7 and not player['suited']) or (player['card_1_v'] == 6 and player['card_2_v'] == 5 and not player['suited']) or (player['card_1_v'] == 5 and player['card_2_v'] == 5 and not player['suited'])
+lambda_group_1_p = lambda player: (player['card_1_v'] == 1 and player['card_2_v'] == 1) or (player['card_1_v'] == 13 and player['card_2_v'] == 13) or (player['card_1_v'] == 12 and player['card_2_v'] == 12) or (player['card_1_v'] == 12 and player['card_2_v'] == 12) or (player['card_1_v'] == 11 and player['card_2_v'] == 11)
+lambda_group_1_s = lambda player: (player['card_1_v'] == 13 and player['card_2_v'] == 1 and player['suited'])
+lambda_group_1_o = lambda player: False
+lambda_group_2_p = lambda player: (player['card_1_v'] == 10 and player['card_2_v'] == 10)
+lambda_group_2_s = lambda player: (player['card_1_v'] == 12 and player['card_2_v'] == 1 and player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 1 and player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 12 and player['suited'])
+lambda_group_2_o = lambda player: (player['card_1_v'] == 13 and player['card_2_v'] == 1 and not player['suited'])
+lambda_group_3_p = lambda player: (player['card_1_v'] == 9 and player['card_2_v'] == 9)
+lambda_group_3_s = lambda player: (player['card_1_v'] == 10 and player['card_2_v'] == 1 and player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 11 and player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 11 and player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 10 and player['suited'])
+lambda_group_3_o = lambda player: (player['card_1_v'] == 12 and player['card_2_v'] == 1 and not player['suited'])
+lambda_group_4_p = lambda player: (player['card_1_v'] == 8 and player['card_2_v'] == 8)
+lambda_group_4_s = lambda player: (player['card_1_v'] == 13 and player['card_2_v'] == 10 and player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 10 and player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 9 and player['suited']) or (player['card_1_v'] == 10 and player['card_2_v'] == 9 and player['suited']) or (player['card_1_v'] == 9 and player['card_2_v'] == 8 and player['suited'])
+lambda_group_4_o = lambda player: (player['card_1_v'] == 11 and player['card_2_v'] == 1 and not player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 12 and not player['suited'])
+lambda_group_5_p = lambda player: (player['card_1_v'] == 7 and player['card_2_v'] == 7)
+lambda_group_5_s = lambda player: (player['card_1_v'] <= 9 and player['card_1_v'] >= 2 and player['card_2_v'] == 1 and player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 9 and player['suited']) or (player['card_1_v'] == 10 and player['card_2_v'] == 8 and player['suited']) or (player['card_1_v'] == 9 and player['card_2_v'] == 7 and player['suited']) or (player['card_1_v'] == 8 and player['card_2_v'] == 7 and player['suited']) or (player['card_1_v'] == 7 and player['card_2_v'] == 6 and player['suited']) or (player['card_1_v'] == 6 and player['card_2_v'] == 5 and player['suited'])
+lambda_group_5_o = lambda player: (player['card_1_v'] == 13 and player['card_2_v'] == 11 and not player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 11 and not player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 10 and not player['suited'])
+lambda_group_6_p = lambda player: (player['card_1_v'] == 6 and player['card_2_v'] == 6) or (player['card_1_v'] == 5 and player['card_2_v'] == 5)
+lambda_group_6_s = lambda player: (player['card_1_v'] <= 13 and player['card_2_v'] == 9 and player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 8 and player['suited']) or (player['card_1_v'] == 8 and player['card_2_v'] == 6 and player['suited']) or (player['card_1_v'] == 7 and player['card_2_v'] == 5 and player['suited']) or (player['card_1_v'] == 5 and player['card_2_v'] == 4 and player['suited'])
+lambda_group_6_o = lambda player: (player['card_1_v'] == 10 and player['card_2_v'] == 1 and not player['suited']) or (player['card_1_v'] == 9 and player['card_2_v'] == 1 and not player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 10 and not player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 10 and not player['suited'])
+lambda_group_7_p = lambda player: (player['card_1_v'] == 4 and player['card_2_v'] == 4) or (player['card_1_v'] == 3 and player['card_2_v'] == 3) or (player['card_1_v'] == 2 and player['card_2_v'] == 2)
+lambda_group_7_s = lambda player: (player['card_1_v'] == 13 and player['card_2_v'] <= 8 and player['card_2_v'] >= 2 and player['card_2_v'] == 13 and player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 8 and player['suited']) or (player['card_1_v'] == 10 and player['card_2_v'] == 7 and player['suited']) or (player['card_1_v'] == 6 and player['card_2_v'] == 4 and player['suited']) or (player['card_1_v'] == 5 and player['card_2_v'] == 3 and player['suited']) or (player['card_1_v'] == 4 and player['card_2_v'] == 3 and player['suited'])
+lambda_group_7_o = lambda player: (player['card_1_v'] <= 8 and player['card_1_v'] >= 6 and player['card_2_v'] == 1 and not player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 9 and not player['suited']) or (player['card_1_v'] == 10 and player['card_2_v'] == 9 and not player['suited']) or (player['card_1_v'] == 8 and player['card_2_v'] == 8 and not player['suited'])
+lambda_group_8_p = lambda player: False
+lambda_group_8_s = lambda player: (player['card_1_v'] == 11 and player['card_2_v'] <= 7 and player['card_2_v'] >= 2 and player['card_2_v'] == 13 and player['suited']) or (player['card_1_v'] == 9 and player['card_2_v'] == 6 and player['suited']) or (player['card_1_v'] == 8 and player['card_2_v'] == 5 and player['suited']) or (player['card_1_v'] == 7 and player['card_2_v'] == 4 and player['suited']) or (player['card_1_v'] == 4 and player['card_2_v'] == 2 and player['suited']) or (player['card_1_v'] == 3 and player['card_2_v'] == 2 and player['suited'])
+lambda_group_8_o = lambda player: (player['card_1_v'] <= 5 and player['card_1_v'] >= 2 and player['card_2_v'] == 1 and not player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 9 and not player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 9 and not player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 8 and not player['suited']) or (player['card_1_v'] == 10 and player['card_2_v'] == 8 and not player['suited']) or (player['card_1_v'] == 8 and player['card_2_v'] == 7 and not player['suited']) or (player['card_1_v'] == 7 and player['card_2_v'] == 7 and not player['suited']) or (player['card_1_v'] == 6 and player['card_2_v'] == 5 and not player['suited']) or (player['card_1_v'] == 5 and player['card_2_v'] == 5 and not player['suited'])
 
 class PokerInference(KnowledgeEngine):
 
@@ -84,56 +100,152 @@ class PokerInference(KnowledgeEngine):
         self.modify(action_me, is_raised=True)
 
     # Grupo de Maos
-    @Rule(AS.player << Player(group=0),
-          TEST(lambda player: lambda_group_1(player)))
-    def preflop_define_group_1(self, player):
+    @Rule(AS.player << Player(group=0, suited=False),
+          TEST(lambda player: lambda_group_1_p(player)))
+    def preflop_define_group_1_pair(self, player):
         self.modify(player, group=1)
 
-    @Rule(AS.player << Player(group=0),
-          TEST(lambda player: lambda_group_2(player)))
-    def preflop_define_group_2(self, player):
+    @Rule(AS.player << Player(group=0, suited=True),
+          TEST(lambda player: lambda_group_1_s(player)))
+    def preflop_define_group_1_suited(self, player):
+        self.modify(player, group=1)
+
+    @Rule(AS.player << Player(group=0, suited=False),
+          TEST(lambda player: lambda_group_1_o(player)))
+    def preflop_define_group_1_ofsuited(self, player):
+        self.modify(player, group=1)
+
+    @Rule(AS.player << Player(group=0, suited=False),
+          TEST(lambda player: lambda_group_2_p(player)))
+    def preflop_define_group_2_pair(self, player):
         self.modify(player, group=2)
 
-    @Rule(AS.player << Player(group=0),
-          TEST(lambda player: lambda_group_3(player)))
-    def preflop_define_group_3(self, player):
+    @Rule(AS.player << Player(group=0, suited=True),
+          TEST(lambda player: lambda_group_2_s(player)))
+    def preflop_define_group_2_suited(self, player):
+        self.modify(player, group=2)
+
+    @Rule(AS.player << Player(group=0, suited=False),
+          TEST(lambda player: lambda_group_2_o(player)))
+    def preflop_define_group_2_ofsuited(self, player):
+        self.modify(player, group=2)
+
+    @Rule(AS.player << Player(group=0, suited=False),
+          TEST(lambda player: lambda_group_3_p(player)))
+    def preflop_define_group_3_pair(self, player):
         self.modify(player, group=3)
 
-    @Rule(AS.player << Player(group=0),
-          TEST(lambda player: lambda_group_4(player)))
-    def preflop_define_group_4(self, player):
+    @Rule(AS.player << Player(group=0, suited=True),
+          TEST(lambda player: lambda_group_3_s(player)))
+    def preflop_define_group_3_suited(self, player):
+        self.modify(player, group=3)
+
+    @Rule(AS.player << Player(group=0, suited=False),
+          TEST(lambda player: lambda_group_3_o(player)))
+    def preflop_define_group_3_ofsuited(self, player):
+        self.modify(player, group=3)
+
+    @Rule(AS.player << Player(group=0, suited=False),
+          TEST(lambda player: lambda_group_4_p(player)))
+    def preflop_define_group_4_pair(self, player):
         self.modify(player, group=4)
 
-    @Rule(AS.player << Player(group=0),
-          TEST(lambda player: lambda_group_5(player)))
-    def preflop_define_group_5(self, player):
+    @Rule(AS.player << Player(group=0, suited=True),
+          TEST(lambda player: lambda_group_4_s(player)))
+    def preflop_define_group_4_suited(self, player):
+        self.modify(player, group=4)
+
+    @Rule(AS.player << Player(group=0, suited=False),
+          TEST(lambda player: lambda_group_4_o(player)))
+    def preflop_define_group_4_ofsuited(self, player):
+        self.modify(player, group=4)
+
+    @Rule(AS.player << Player(group=0, suited=False),
+          TEST(lambda player: lambda_group_5_p(player)))
+    def preflop_define_group_5_pair(self, player):
         self.modify(player, group=5)
 
-    @Rule(AS.player << Player(group=0),
-          TEST(lambda player: lambda_group_6(player)))
-    def preflop_define_group_6(self, player):
+    @Rule(AS.player << Player(group=0, suited=True),
+          TEST(lambda player: lambda_group_5_s(player)))
+    def preflop_define_group_5_suited(self, player):
+        self.modify(player, group=5)
+
+    @Rule(AS.player << Player(group=0, suited=False),
+          TEST(lambda player: lambda_group_5_o(player)))
+    def preflop_define_group_5_ofsuited(self, player):
+        self.modify(player, group=5)
+
+    @Rule(AS.player << Player(group=0, suited=False),
+          TEST(lambda player: lambda_group_6_p(player)))
+    def preflop_define_group_6_pair(self, player):
         self.modify(player, group=6)
 
-    @Rule(AS.player << Player(group=0),
-          TEST(lambda player: lambda_group_7(player)))
-    def preflop_define_group_7(self, player):
+    @Rule(AS.player << Player(group=0, suited=True),
+          TEST(lambda player: lambda_group_6_s(player)))
+    def preflop_define_group_6_suited(self, player):
+        self.modify(player, group=6)
+
+    @Rule(AS.player << Player(group=0, suited=False),
+          TEST(lambda player: lambda_group_6_o(player)))
+    def preflop_define_group_6_ofsuited(self, player):
+        self.modify(player, group=6)
+
+    @Rule(AS.player << Player(group=0, suited=False),
+          TEST(lambda player: lambda_group_7_p(player)))
+    def preflop_define_group_7_pair(self, player):
         self.modify(player, group=7)
 
-    @Rule(AS.player << Player(group=0),
-          TEST(lambda player: lambda_group_8(player)))
-    def preflop_define_group_8(self, player):
+    @Rule(AS.player << Player(group=0, suited=True),
+          TEST(lambda player: lambda_group_7_s(player)))
+    def preflop_define_group_7_suited(self, player):
+        self.modify(player, group=7)
+
+    @Rule(AS.player << Player(group=0, suited=False),
+          TEST(lambda player: lambda_group_7_o(player)))
+    def preflop_define_group_7_ofsuited(self, player):
+        self.modify(player, group=7)
+
+    @Rule(AS.player << Player(group=0, suited=False),
+          TEST(lambda player: lambda_group_8_p(player)))
+    def preflop_define_group_8_pair(self, player):
         self.modify(player, group=8)
 
-    @Rule(AS.player << Player(group=0),
-          TEST(lambda player: not lambda_group_1(player)),
-          TEST(lambda player: not lambda_group_2(player)),
-          TEST(lambda player: not lambda_group_3(player)),
-          TEST(lambda player: not lambda_group_4(player)),
-          TEST(lambda player: not lambda_group_5(player)),
-          TEST(lambda player: not lambda_group_6(player)),
-          TEST(lambda player: not lambda_group_7(player)),
-          TEST(lambda player: not lambda_group_8(player)))
-    def preflop_define_group_9(self, player):
+    @Rule(AS.player << Player(group=0, suited=True),
+          TEST(lambda player: lambda_group_8_s(player)))
+    def preflop_define_group_8_suited(self, player):
+        self.modify(player, group=8)
+
+    @Rule(AS.player << Player(group=0, suited=False),
+          TEST(lambda player: lambda_group_8_o(player)))
+    def preflop_define_group_8_ofsuited(self, player):
+        self.modify(player, group=8)
+
+    @Rule(AS.player << Player(group=0, suited=False),
+          TEST(lambda player: not lambda_group_1_p(player)),
+          TEST(lambda player: not lambda_group_1_s(player)),
+          TEST(lambda player: not lambda_group_1_o(player)),
+          TEST(lambda player: not lambda_group_2_p(player)),
+          TEST(lambda player: not lambda_group_2_s(player)),
+          TEST(lambda player: not lambda_group_2_o(player)),
+          TEST(lambda player: not lambda_group_3_p(player)),
+          TEST(lambda player: not lambda_group_3_s(player)),
+          TEST(lambda player: not lambda_group_3_o(player)),
+          TEST(lambda player: not lambda_group_4_p(player)),
+          TEST(lambda player: not lambda_group_4_s(player)),
+          TEST(lambda player: not lambda_group_4_o(player)),
+          TEST(lambda player: not lambda_group_5_p(player)),
+          TEST(lambda player: not lambda_group_5_s(player)),
+          TEST(lambda player: not lambda_group_5_o(player)),
+          TEST(lambda player: not lambda_group_6_p(player)),
+          TEST(lambda player: not lambda_group_6_s(player)),
+          TEST(lambda player: not lambda_group_6_o(player)),
+          TEST(lambda player: not lambda_group_7_p(player)),
+          TEST(lambda player: not lambda_group_7_s(player)),
+          TEST(lambda player: not lambda_group_7_o(player)),
+          TEST(lambda player: not lambda_group_8_p(player)),
+          TEST(lambda player: not lambda_group_8_s(player)),
+          TEST(lambda player: not lambda_group_8_o(player)))
+    def preflop_define_group_9_not_otthers(self, player):
         self.modify(player, group=9)
 
     # Regras Pre Flop
