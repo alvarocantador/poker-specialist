@@ -622,23 +622,31 @@ class PokerInference(KnowledgeEngine):
         self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
 
     # REGRAS no FLOP
+    # Se no flop alguem apostou
+    # Informe a aposta
     @Rule(AS.action << Action(street='FLOP', me=True, is_raised=True, act=1),
           AS.player << Player(me=True))
-    def preflop_someone_raised(self, action):
+    def flop_someone_raised(self, action):
         self.declare(Suggestion(street=action['street'], message=MSG_IS_RAISED))
 
+    # Se no flop, e nenhuma aposta, e o jogador principal estiver com as cartas de grupo 1 ou 2
+    # Sugira call na aposta
     @Rule(AS.action << Action(street='FLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 1 or player['group'] == 2))
     def flop_group_1_2(self, action):
         self.declare(Suggestion(street=action['street'], message=MSG_RAISE))
 
+    # Se no flop algum jogador der raise e o jogador principal estiver com as cartas de grupo 1 ou 2
+    # Sugira call na aposta
     @Rule(AS.action << Action(street='FLOP', me=True, act=1, is_raised=True),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 1 or player['group'] == 2))
     def flop_group_1_2_raised(self, action):
         self.declare(Suggestion(street=action['street'], message=MSG_CALL))
 
+    # Se no flop o jogador principal estiver no botão e ninguem aumentou a aposta
+    # Blefe como 70% do pot
     @Rule(AS.action << Action(street='FLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] > 4), TEST(lambda action:  action['position'] == 'BTN'))
@@ -646,22 +654,32 @@ class PokerInference(KnowledgeEngine):
         self.declare(Suggestion(street=action['street'], message=MSG_BLUFF_70_PERC_POT))
 
     # Outras Regras
+    # Se o player nao tiver os blinds calculados
+    # Calcule o blind para o player
     @Rule(AS.player << Player(bbs=None), AS.blind << Blind())
     def set_player_big_blinds(self, player, blind):
         self.modify(player, bbs=player['chips']/blind['big'])
 
+    # Se a mensagem das cartas da mão não estiver definida
+    # Cria a mensagem no formato determinado
     @Rule(AS.table << Table(cards_str=None))
     def set_table_cards_string(self, table):
         self.modify(table, cards_str=''.join(["{}{} ".format(card['value'], card['suit']) for card in table['cards']]))
 
+    # Se o resumo de jogo nao tiver os blinds calculados do pot
+    # Calcule os blinds do pot
     @Rule(AS.game << GameSummary(bbs=None), AS.blind << Blind())
     def set_summary_bbs(self, game, blind):
         self.modify(game, bbs=game['pot']/blind['big'])
 
+    # Se estiver no pre-flop
+    # Informe a posição
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1))
     def set_street_position_message_preflop(self, action):
         self.declare(Suggestion(street=action['street'], message=MSG_POSITION.format(action['position'])))
 
+    # Se estiver no flop
+    # Informe a posição
     @Rule(AS.action << Action(street='FLOP', me=True, act=1))
     def set_street_position_message_flop(self, action):
         self.declare(Suggestion(street=action['street'], message=MSG_POSITION.format(action['position'])))
