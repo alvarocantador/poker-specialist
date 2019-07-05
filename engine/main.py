@@ -1,12 +1,34 @@
 from pyknow import *
 from engine.facts import *
 
+staticmethod
+
+
+# class util:
+#     def test_cards(group, card_1, card_2, card_s):
+#         return True
+#
+#     lambda_test_cards = lambda card_1, card_2, card_s: test_cards(card_1, card_2, card_s)
+
+lambda_group_1 = lambda player: (player['card_1_v'] == 1 and player['card_2_v'] == 1) or (player['card_1_v'] == 13 and player['card_2_v'] == 13) or (player['card_1_v'] == 12 and player['card_2_v'] == 12) or (player['card_1_v'] == 12 and player['card_2_v'] == 12) or (player['card_1_v'] == 11 and player['card_2_v'] == 11) or (player['card_1_v'] == 13 and player['card_2_v'] == 1 and player['suited'])
+lambda_group_2 = lambda player: (player['card_1_v'] == 10 and player['card_2_v'] == 10) or (player['card_1_v'] == 12 and player['card_2_v'] == 1 and player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 1 and player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 12 and player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 1 and not player['suited'])
+lambda_group_3 = lambda player: (player['card_1_v'] == 9 and player['card_2_v'] == 9) or (player['card_1_v'] == 10 and player['card_2_v'] == 1 and player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 11 and player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 11 and player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 10 and player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 1 and not player['suited'])
+lambda_group_4 = lambda player: (player['card_1_v'] == 8 and player['card_2_v'] == 8) or (player['card_1_v'] == 13 and player['card_2_v'] == 10 and player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 10 and player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 9 and player['suited']) or (player['card_1_v'] == 10 and player['card_2_v'] == 9 and player['suited']) or (player['card_1_v'] == 9 and player['card_2_v'] == 8 and player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 1 and not player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 12 and not player['suited'])
+lambda_group_5 = lambda player: (player['card_1_v'] == 7 and player['card_2_v'] == 7) or (player['card_1_v'] <= 9 and player['card_1_v'] >= 2 and player['card_2_v'] == 1 and player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 9 and player['suited']) or (player['card_1_v'] == 10 and player['card_2_v'] == 8 and player['suited']) or (player['card_1_v'] == 9 and player['card_2_v'] == 7 and player['suited']) or (player['card_1_v'] == 8 and player['card_2_v'] == 7 and player['suited']) or (player['card_1_v'] == 7 and player['card_2_v'] == 6 and player['suited']) or (player['card_1_v'] == 6 and player['card_2_v'] == 5 and player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 11 and not player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 11 and not player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 10 and not player['suited'])
+lambda_group_6 = lambda player: (player['card_1_v'] == 6 and player['card_2_v'] == 6) or (player['card_1_v'] == 5 and player['card_2_v'] == 5) or (player['card_1_v'] <= 13 and player['card_2_v'] == 9 and player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 8 and player['suited']) or (player['card_1_v'] == 8 and player['card_2_v'] == 6 and player['suited']) or (player['card_1_v'] == 7 and player['card_2_v'] == 5 and player['suited']) or (player['card_1_v'] == 5 and player['card_2_v'] == 4 and player['suited']) or (player['card_1_v'] == 10 and player['card_2_v'] == 1 and not player['suited']) or (player['card_1_v'] == 9 and player['card_2_v'] == 1 and not player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 10 and not player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 10 and not player['suited'])
+lambda_group_7 = lambda player: (player['card_1_v'] == 4 and player['card_2_v'] == 4) or (player['card_1_v'] == 3 and player['card_2_v'] == 3) or (player['card_1_v'] == 2 and player['card_2_v'] == 2) or (player['card_1_v'] == 13 and player['card_2_v'] <= 8 and player['card_2_v'] >= 2 and player['card_2_v'] == 13 and player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 8 and player['suited']) or (player['card_1_v'] == 10 and player['card_2_v'] == 7 and player['suited']) or (player['card_1_v'] == 6 and player['card_2_v'] == 4 and player['suited']) or (player['card_1_v'] == 5 and player['card_2_v'] == 3 and player['suited']) or (player['card_1_v'] == 4 and player['card_2_v'] == 3 and player['suited']) or (player['card_1_v'] <= 8 and player['card_1_v'] >= 6 and player['card_2_v'] == 1 and not player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 9 and not player['suited']) or (player['card_1_v'] == 10 and player['card_2_v'] == 9 and not player['suited']) or (player['card_1_v'] == 8 and player['card_2_v'] == 8 and not player['suited'])
+lambda_group_8 = lambda player: (player['card_1_v'] == 11 and player['card_2_v'] <= 7 and player['card_2_v'] >= 2 and player['card_2_v'] == 13 and player['suited']) or (player['card_1_v'] == 9 and player['card_2_v'] == 6 and player['suited']) or (player['card_1_v'] == 8 and player['card_2_v'] == 5 and player['suited']) or (player['card_1_v'] == 7 and player['card_2_v'] == 4 and player['suited']) or (player['card_1_v'] == 4 and player['card_2_v'] == 2 and player['suited']) or (player['card_1_v'] == 3 and player['card_2_v'] == 2 and player['suited']) or (player['card_1_v'] <= 5 and player['card_1_v'] >= 2 and player['card_2_v'] == 1 and not player['suited']) or (player['card_1_v'] == 13 and player['card_2_v'] == 9 and not player['suited']) or (player['card_1_v'] == 12 and player['card_2_v'] == 9 and not player['suited']) or (player['card_1_v'] == 11 and player['card_2_v'] == 8 and not player['suited']) or (player['card_1_v'] == 10 and player['card_2_v'] == 8 and not player['suited']) or (player['card_1_v'] == 8 and player['card_2_v'] == 7 and not player['suited']) or (player['card_1_v'] == 7 and player['card_2_v'] == 7 and not player['suited']) or (player['card_1_v'] == 6 and player['card_2_v'] == 5 and not player['suited']) or (player['card_1_v'] == 5 and player['card_2_v'] == 5 and not player['suited'])
 
 class PokerInference(KnowledgeEngine):
 
+    def preflop_define_group_1(self, player):
+        self.modify(player, group=1)
+
+
     @Rule(AS.player << Player(),
           AS.received_card << ReceivedCard(),
-          TEST(lambda player, received_card: player['name'] == received_card['player']))
+          TEST(lambda player, received_card: player['name'] == received_card['player']),
+          )
     def set_received_cards(self, player, received_card):
         f_card, s_card = received_card['cards']
         self.retract(received_card)
@@ -75,126 +97,60 @@ class PokerInference(KnowledgeEngine):
         self.modify(action_me, is_raised=True)
         # self.declare(Suggestion(street='PREFLOP', message='Aumentaram no pre flop'))
 
+    # Grupo de Maos
     @Rule(AS.player << Player(group=0),
-          TEST(lambda player: (player['card_1_v'] == 1 and player['card_2_v'] == 1) or
-                              (player['card_1_v'] == 13 and player['card_2_v'] == 13) or
-                              (player['card_1_v'] == 12 and player['card_2_v'] == 12) or
-                              (player['card_1_v'] == 12 and player['card_2_v'] == 12) or
-                              (player['card_1_v'] == 11 and player['card_2_v'] == 11) or
-                              (player['card_1_v'] == 13 and player['card_2_v'] == 1 and player['suited'])
-               ))
+          TEST(lambda player: lambda_group_1(player)))
     def preflop_define_group_1(self, player):
         self.modify(player, group=1)
-        # self.declare(Suggestion(street='PREFLOP', message='MAO GRUPO 1'))
 
     @Rule(AS.player << Player(group=0),
-          TEST(lambda player: (player['card_1_v'] == 10 and player['card_2_v'] == 10) or
-                              (player['card_1_v'] == 12 and player['card_2_v'] == 1 and player['suited']) or
-                              (player['card_1_v'] == 11 and player['card_2_v'] == 1 and player['suited']) or
-                              (player['card_1_v'] == 13 and player['card_2_v'] == 12 and player['suited']) or
-                              (player['card_1_v'] == 13 and player['card_2_v'] == 1 and not player['suited'])
-               ))
+          TEST(lambda player: lambda_group_2(player)))
     def preflop_define_group_2(self, player):
         self.modify(player, group=2)
-        # self.declare(Suggestion(street='PREFLOP', message='MAO GRUPO 2'))
 
     @Rule(AS.player << Player(group=0),
-          TEST(lambda player: (player['card_1_v'] == 9 and player['card_2_v'] == 9) or
-                              (player['card_1_v'] == 10 and player['card_2_v'] == 1 and player['suited']) or
-                              (player['card_1_v'] == 13 and player['card_2_v'] == 11 and player['suited']) or
-                              (player['card_1_v'] == 12 and player['card_2_v'] == 11 and player['suited']) or
-                              (player['card_1_v'] == 11 and player['card_2_v'] == 10 and player['suited']) or
-                              (player['card_1_v'] == 12 and player['card_2_v'] == 1 and not player['suited'])
-               ))
+          TEST(lambda player: lambda_group_3(player)))
     def preflop_define_group_3(self, player):
         self.modify(player, group=3)
-        # self.declare(Suggestion(street='PREFLOP', message='MAO GRUPO 3'))
 
     @Rule(AS.player << Player(group=0),
-          TEST(lambda player: (player['card_1_v'] == 8 and player['card_2_v'] == 8) or
-                              (player['card_1_v'] == 13 and player['card_2_v'] == 10 and player['suited']) or
-                              (player['card_1_v'] == 12 and player['card_2_v'] == 10 and player['suited']) or
-                              (player['card_1_v'] == 11 and player['card_2_v'] == 9 and player['suited']) or
-                              (player['card_1_v'] == 10 and player['card_2_v'] == 9 and player['suited']) or
-                              (player['card_1_v'] == 9 and player['card_2_v'] == 8 and player['suited']) or
-                              (player['card_1_v'] == 11 and player['card_2_v'] == 1 and not player['suited']) or
-                              (player['card_1_v'] == 13 and player['card_2_v'] == 12 and not player['suited'])
-               ))
+          TEST(lambda player: lambda_group_4(player)))
     def preflop_define_group_4(self, player):
         self.modify(player, group=4)
 
     @Rule(AS.player << Player(group=0),
-          TEST(lambda player: (player['card_1_v'] == 7 and player['card_2_v'] == 7) or
-                              (player['card_1_v'] <= 9 and player['card_1_v'] >= 2 and player['card_2_v'] == 1 and player['suited']) or
-                              (player['card_1_v'] == 12 and player['card_2_v'] == 9 and player['suited']) or
-                              (player['card_1_v'] == 10 and player['card_2_v'] == 8 and player['suited']) or
-                              (player['card_1_v'] == 9 and player['card_2_v'] == 7 and player['suited']) or
-                              (player['card_1_v'] == 8 and player['card_2_v'] == 7 and player['suited']) or
-                              (player['card_1_v'] == 7 and player['card_2_v'] == 6 and player['suited']) or
-                              (player['card_1_v'] == 6 and player['card_2_v'] == 5 and player['suited']) or
-                              (player['card_1_v'] == 13 and player['card_2_v'] == 11 and not player['suited']) or
-                              (player['card_1_v'] == 12 and player['card_2_v'] == 11 and not player['suited']) or
-                              (player['card_1_v'] == 11 and player['card_2_v'] == 10 and not player['suited'])
-               ))
+          TEST(lambda player: lambda_group_5(player)))
     def preflop_define_group_5(self, player):
         self.modify(player, group=5)
 
     @Rule(AS.player << Player(group=0),
-          TEST(lambda player: (player['card_1_v'] == 6 and player['card_2_v'] == 6) or
-                              (player['card_1_v'] == 5 and player['card_2_v'] == 5) or
-                              (player['card_1_v'] <= 13 and player['card_2_v'] == 9 and player['suited']) or
-                              (player['card_1_v'] == 11 and player['card_2_v'] == 8 and player['suited']) or
-                              (player['card_1_v'] == 8 and player['card_2_v'] == 6 and player['suited']) or
-                              (player['card_1_v'] == 7 and player['card_2_v'] == 5 and player['suited']) or
-                              (player['card_1_v'] == 5 and player['card_2_v'] == 4 and player['suited']) or
-                              (player['card_1_v'] == 10 and player['card_2_v'] == 1 and not player['suited']) or
-                              (player['card_1_v'] == 9 and player['card_2_v'] == 1 and not player['suited']) or
-                              (player['card_1_v'] == 13 and player['card_2_v'] == 10 and not player['suited']) or
-                              (player['card_1_v'] == 12 and player['card_2_v'] == 10 and not player['suited'])
-               ))
+          TEST(lambda player: lambda_group_6(player)))
     def preflop_define_group_6(self, player):
         self.modify(player, group=6)
 
     @Rule(AS.player << Player(group=0),
-          TEST(lambda player: (player['card_1_v'] == 4 and player['card_2_v'] == 4) or
-                              (player['card_1_v'] == 3 and player['card_2_v'] == 3) or
-                              (player['card_1_v'] == 2 and player['card_2_v'] == 2) or
-                              (player['card_1_v'] == 13 and player['card_2_v'] <= 8 and player['card_2_v'] >= 2 and player['card_2_v'] == 13 and player['suited']) or
-                              (player['card_1_v'] == 12 and player['card_2_v'] == 8 and player['suited']) or
-                              (player['card_1_v'] == 10 and player['card_2_v'] == 7 and player['suited']) or
-                              (player['card_1_v'] == 6 and player['card_2_v'] == 4 and player['suited']) or
-                              (player['card_1_v'] == 5 and player['card_2_v'] == 3 and player['suited']) or
-                              (player['card_1_v'] == 4 and player['card_2_v'] == 3 and player['suited']) or
-                              (player['card_1_v'] <= 8 and player['card_1_v'] >= 6 and player['card_2_v'] == 1 and not player['suited']) or
-                              (player['card_1_v'] == 11 and player['card_2_v'] == 9 and not player['suited']) or
-                              (player['card_1_v'] == 10 and player['card_2_v'] == 9 and not player['suited']) or
-                              (player['card_1_v'] == 8 and player['card_2_v'] == 8 and not player['suited'])
-               ))
+          TEST(lambda player: lambda_group_7(player)))
     def preflop_define_group_7(self, player):
         self.modify(player, group=7)
 
     @Rule(AS.player << Player(group=0),
-          TEST(lambda player: (player['card_1_v'] == 11 and player['card_2_v'] <= 7 and player['card_2_v'] >= 2 and player['card_2_v'] == 13 and player['suited']) or
-                              (player['card_1_v'] == 9 and player['card_2_v'] == 6 and player['suited']) or
-                              (player['card_1_v'] == 8 and player['card_2_v'] == 5 and player['suited']) or
-                              (player['card_1_v'] == 7 and player['card_2_v'] == 4 and player['suited']) or
-                              (player['card_1_v'] == 4 and player['card_2_v'] == 2 and player['suited']) or
-                              (player['card_1_v'] == 3 and player['card_2_v'] == 2 and player['suited']) or
-                              (player['card_1_v'] <= 5 and player['card_1_v'] >= 2 and player['card_2_v'] == 1 and not player['suited']) or
-                              (player['card_1_v'] == 13 and player['card_2_v'] == 9 and not player['suited']) or
-                              (player['card_1_v'] == 12 and player['card_2_v'] == 9 and not player['suited']) or
-                              (player['card_1_v'] == 11 and player['card_2_v'] == 8 and not player['suited']) or
-                              (player['card_1_v'] == 10 and player['card_2_v'] == 8 and not player['suited']) or
-                              (player['card_1_v'] == 8 and player['card_2_v'] == 7 and not player['suited']) or
-                              (player['card_1_v'] == 7 and player['card_2_v'] == 7 and not player['suited']) or
-                              (player['card_1_v'] == 6 and player['card_2_v'] == 5 and not player['suited']) or
-                              (player['card_1_v'] == 5 and player['card_2_v'] == 5 and not player['suited'])
-               ))
+          TEST(lambda player: lambda_group_8(player)))
     def preflop_define_group_8(self, player):
         self.modify(player, group=8)
 
+    @Rule(AS.player << Player(group=0),
+          TEST(lambda player: not lambda_group_1(player)),
+          TEST(lambda player: not lambda_group_2(player)),
+          TEST(lambda player: not lambda_group_3(player)),
+          TEST(lambda player: not lambda_group_4(player)),
+          TEST(lambda player: not lambda_group_5(player)),
+          TEST(lambda player: not lambda_group_6(player)),
+          TEST(lambda player: not lambda_group_7(player)),
+          TEST(lambda player: not lambda_group_8(player)))
+    def preflop_define_group_9(self, player):
+        self.modify(player, group=9)
 
-
+    # Regras Pre Flop
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 1 or player['group'] == 2))
@@ -327,7 +283,13 @@ class PokerInference(KnowledgeEngine):
     def preflop_group_8_fold(self):
         self.declare(Suggestion(street='PREFLOP', message='Desistir da mão'))
 
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 9),)
+    def preflop_group_9_fold(self):
+        self.declare(Suggestion(street='PREFLOP', message='Desistir da mão'))
 
+    # Outras Regras
     @Rule(AS.player << Player(bbs=None), AS.blind << Blind())
     def set_player_big_blinds(self, player, blind):
         self.modify(player, bbs=player['chips']/blind['big'])
@@ -339,3 +301,4 @@ class PokerInference(KnowledgeEngine):
     @Rule(AS.game << GameSummary(bbs=None), AS.blind << Blind())
     def set_summary_bbs(self, game, blind):
         self.modify(game, bbs=game['pot']/blind['big'])
+
