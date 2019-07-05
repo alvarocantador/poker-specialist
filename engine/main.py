@@ -1,6 +1,19 @@
 from pyknow import *
 from engine.facts import *
 
+# Parametros
+BLINDS_TO_GO_ALL_IN = 12
+BLINDS_TO_GO_ALL_IN_WHEN_IS_RAISED = 18
+
+# Mensagens padrao
+MSG_CALL = 'Pague a aposta'
+MSG_RAISE = 'Aumentar a aposta'
+MSG_FOLD = 'Desistir da mão'
+MSG_GO_ALL_IN = 'Deve ir ALL IN'
+MSG_IS_RAISED = 'Alguém aumentou a aposta'
+MSG_POSITION = 'Posição atual {}'
+MSG_BLUFF_70_PERC_POT = 'Deve blefar - Aposte 0.7 do POT para roubar os blinds'
+
 lambda_group_1_p = lambda player: (player['card_1_v'] == 1 and player['card_2_v'] == 1) or (player['card_1_v'] == 13 and player['card_2_v'] == 13) or (player['card_1_v'] == 12 and player['card_2_v'] == 12) or (player['card_1_v'] == 12 and player['card_2_v'] == 12) or (player['card_1_v'] == 11 and player['card_2_v'] == 11)
 lambda_group_1_s = lambda player: (player['card_1_v'] == 13 and player['card_2_v'] == 1 and player['suited'])
 lambda_group_1_o = lambda player: False
@@ -250,171 +263,318 @@ class PokerInference(KnowledgeEngine):
         self.modify(player, group=9)
 
     # Regras Pre Flop
+    @Rule(AS.action << Action(street='PREFLOP', me=True, is_raised=True, act=1),
+          AS.player << Player(me=True))
+    def preflop_someone_raised(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_IS_RAISED))
+
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
-          TEST(lambda player: player['group'] == 1 or player['group'] == 2))
-    def preflop_group_1_2(self):
-        self.declare(Suggestion(street='PREFLOP', message='Aumentar a aposta'))
+          TEST(lambda player: player['group'] == 1 or player['group'] == 2),
+          TEST(lambda player: player['bbs'] > BLINDS_TO_GO_ALL_IN))
+    def preflop_group_1_2_raise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_RAISE))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 1 or player['group'] == 2),
+          TEST(lambda player: player['bbs'] <= BLINDS_TO_GO_ALL_IN))
+    def preflop_group_1_2_allin(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_GO_ALL_IN))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 1 or player['group'] == 2),
+          TEST(lambda player: player['bbs'] > BLINDS_TO_GO_ALL_IN_WHEN_IS_RAISED))
+    def preflop_group_1_2_reraise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_RAISE))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 1 or player['group'] == 2),
+          TEST(lambda player: player['bbs'] <= BLINDS_TO_GO_ALL_IN_WHEN_IS_RAISED))
+    def preflop_group_1_2_reraise_allin(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_GO_ALL_IN))
 
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 3),
-          TEST(lambda action: action['position'] == 'UTG+1' or
-                              action['position'] == 'MP1' or
-                              action['position'] == 'MP2' or
-                              action['position'] == 'HJ' or
-                              action['position'] == 'CO' or
-                              action['position'] == 'BTN' or
-                              action['position'] == 'SB' or
-                              action['position'] == 'BB'))
-    def preflop_group_3_raise(self):
-        self.declare(Suggestion(street='PREFLOP', message='Aumentar a aposta'))
+          TEST(lambda action: action['position'] == 'UTG+1' or action['position'] == 'MP1' or action['position'] == 'MP2' or action['position'] == 'HJ' or action['position'] == 'CO' or action['position'] == 'BTN' or action['position'] == 'SB' or action['position'] == 'BB'),
+          TEST(lambda player: player['bbs'] > BLINDS_TO_GO_ALL_IN))
+    def preflop_group_3_raise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_RAISE))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 3),
+          TEST(lambda action: action['position'] == 'UTG+1' or action['position'] == 'MP1' or action['position'] == 'MP2' or action['position'] == 'HJ' or action['position'] == 'CO' or action['position'] == 'BTN' or action['position'] == 'SB' or action['position'] == 'BB'),
+          TEST(lambda player: player['bbs'] <= BLINDS_TO_GO_ALL_IN))
+    def preflop_group_3_allin(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_GO_ALL_IN))
 
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 3),
           TEST(lambda action: action['position'] == 'UTG'))
-    def preflop_group_3_fold(self):
-        self.declare(Suggestion(street='PREFLOP', message='Desistir da mão'))
+    def preflop_group_3_fold(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 3),
+          TEST(lambda action: action['position'] == 'MP2' or action['position'] == 'HJ' or action['position'] == 'CO' or action['position'] == 'BTN' or action['position'] == 'SB' or action['position'] == 'BB'),
+          TEST(lambda player: player['bbs'] > BLINDS_TO_GO_ALL_IN_WHEN_IS_RAISED))
+    def preflop_group_3_reraise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_RAISE))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 3),
+          TEST(lambda action: action['position'] == 'MP2' or action['position'] == 'HJ' or action['position'] == 'CO' or action['position'] == 'BTN' or action['position'] == 'SB' or action['position'] == 'BB'),
+          TEST(lambda player: player['bbs'] <= BLINDS_TO_GO_ALL_IN_WHEN_IS_RAISED))
+    def preflop_group_3_reraise_allin(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_GO_ALL_IN))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 3),
+          TEST(lambda action: action['position'] == 'UTG+1' or action['position'] == 'MP1' or action['position'] == 'UTG'))
+    def preflop_group_3_fold_to_raise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
 
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 4),
-          TEST(lambda action: action['position'] == 'MP1' or
-                              action['position'] == 'MP2' or
-                              action['position'] == 'HJ' or
-                              action['position'] == 'CO' or
-                              action['position'] == 'BTN' or
-                              action['position'] == 'SB' or
-                              action['position'] == 'BB'))
-    def preflop_group_4_raise(self):
-        self.declare(Suggestion(street='PREFLOP', message='Aumentar a aposta'))
+          TEST(lambda action: action['position'] == 'MP1' or action['position'] == 'MP2' or action['position'] == 'HJ' or action['position'] == 'CO' or action['position'] == 'BTN' or action['position'] == 'SB' or action['position'] == 'BB'),
+          TEST(lambda player: player['bbs'] > BLINDS_TO_GO_ALL_IN))
+    def preflop_group_4_raise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_RAISE))
 
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 4),
-          TEST(lambda action: action['position'] == 'UTG+1' or
-                              action['position'] == 'UTG'))
-    def preflop_group_4_fold(self):
-        self.declare(Suggestion(street='PREFLOP', message='Desistir da mão'))
+          TEST(lambda action: action['position'] == 'MP1' or action['position'] == 'MP2' or action['position'] == 'HJ' or action['position'] == 'CO' or action['position'] == 'BTN' or action['position'] == 'SB' or action['position'] == 'BB'),
+          TEST(lambda player: player['bbs'] <= BLINDS_TO_GO_ALL_IN))
+    def preflop_group_4_allin(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_GO_ALL_IN))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 4),
+          TEST(lambda action: action['position'] == 'UTG+1' or action['position'] == 'UTG'))
+    def preflop_group_4_fold(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 4),
+          TEST(lambda action: action['position'] == 'HJ' or action['position'] == 'CO' or action['position'] == 'BTN' or action['position'] == 'SB' or action['position'] == 'BB'),
+          TEST(lambda player: player['bbs'] > BLINDS_TO_GO_ALL_IN_WHEN_IS_RAISED))
+    def preflop_group_4_reraise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_RAISE))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 4),
+          TEST(lambda action: action['position'] == 'HJ' or action['position'] == 'CO' or action['position'] == 'BTN' or action['position'] == 'SB' or action['position'] == 'BB'),
+          TEST(lambda player: player['bbs'] <= BLINDS_TO_GO_ALL_IN_WHEN_IS_RAISED))
+    def preflop_group_4_reraise_allin(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_GO_ALL_IN))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 4),
+          TEST(lambda action: action['position'] == 'MP1' or action['position'] == 'MP2' or action['position'] == 'UTG+1' or action['position'] == 'UTG'))
+    def preflop_group_4_fold_to_raise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
 
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 5),
-          TEST(lambda action: action['position'] == 'MP2' or
-                              action['position'] == 'HJ' or
-                              action['position'] == 'CO' or
-                              action['position'] == 'BTN' or
-                              action['position'] == 'SB'))
-    def preflop_group_5_raise(self):
-        self.declare(Suggestion(street='PREFLOP', message='Aumentar a aposta'))
+          TEST(lambda action: action['position'] == 'MP2' or action['position'] == 'HJ' or action['position'] == 'CO' or action['position'] == 'BTN' or action['position'] == 'SB'),
+          TEST(lambda player: player['bbs'] > BLINDS_TO_GO_ALL_IN))
+    def preflop_group_5_raise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_RAISE))
 
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 5),
-          TEST(lambda action: action['position'] == 'MP1' or
-                              action['position'] == 'UTG+1' or
-                              action['position'] == 'UTG' or
-                              action['position'] == 'BB'))
-    def preflop_group_5_fold(self):
-        self.declare(Suggestion(street='PREFLOP', message='Desistir da mão'))
+          TEST(lambda action: action['position'] == 'MP2' or action['position'] == 'HJ' or action['position'] == 'CO' or action['position'] == 'BTN' or action['position'] == 'SB'),
+          TEST(lambda player: player['bbs'] <= BLINDS_TO_GO_ALL_IN))
+    def preflop_group_5_allin(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_GO_ALL_IN))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 5),
+          TEST(lambda action: action['position'] == 'MP1' or action['position'] == 'UTG+1' or action['position'] == 'UTG' or action['position'] == 'BB'))
+    def preflop_group_5_fold(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 5),
+          TEST(lambda action: action['position'] == 'CO' or action['position'] == 'BTN' or action['position'] == 'SB'),
+          TEST(lambda player: player['bbs'] > BLINDS_TO_GO_ALL_IN_WHEN_IS_RAISED))
+    def preflop_group_5_reraise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_RAISE))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 5),
+          TEST(lambda action: action['position'] == 'CO' or action['position'] == 'BTN' or action['position'] == 'SB'),
+          TEST(lambda player: player['bbs'] <= BLINDS_TO_GO_ALL_IN_WHEN_IS_RAISED))
+    def preflop_group_5_reraise_allin(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_GO_ALL_IN))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 5),
+          TEST(lambda action: action['position'] == 'MP2' or action['position'] == 'HJ' or action['position'] == 'MP1' or action['position'] == 'UTG+1' or action['position'] == 'UTG' or action['position'] == 'BB'))
+    def preflop_group_5_fold_to_raise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
 
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 6),
-          TEST(lambda action: action['position'] == 'HJ' or
-                              action['position'] == 'CO' or
-                              action['position'] == 'BTN'))
-    def preflop_group_6_raise(self):
-        self.declare(Suggestion(street='PREFLOP', message='Aumentar a aposta'))
+          TEST(lambda action: action['position'] == 'HJ' or action['position'] == 'CO' or action['position'] == 'BTN'),
+          TEST(lambda player: player['bbs'] > BLINDS_TO_GO_ALL_IN))
+    def preflop_group_6_raise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_RAISE))
 
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 6),
-          TEST(lambda action: action['position'] == 'MP1' or
-                              action['position'] == 'MP2' or
-                              action['position'] == 'UTG+1' or
-                              action['position'] == 'UTG' or
-                              action['position'] == 'SB' or
-                              action['position'] == 'BB'))
-    def preflop_group_6_fold(self):
-        self.declare(Suggestion(street='PREFLOP', message='Desistir da mão'))
+          TEST(lambda action: action['position'] == 'HJ' or action['position'] == 'CO' or action['position'] == 'BTN'),
+          TEST(lambda player: player['bbs'] <= BLINDS_TO_GO_ALL_IN))
+    def preflop_group_6_allin(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_GO_ALL_IN))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 6),
+          TEST(lambda action: action['position'] == 'MP1' or action['position'] == 'MP2' or action['position'] == 'UTG+1' or action['position'] == 'UTG' or action['position'] == 'SB' or action['position'] == 'BB'))
+    def preflop_group_6_fold(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 6),
+          TEST(lambda action: action['position'] == 'BTN'),
+          TEST(lambda player: player['bbs'] > BLINDS_TO_GO_ALL_IN_WHEN_IS_RAISED))
+    def preflop_group_6_reraise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_RAISE))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 6),
+          TEST(lambda action: action['position'] == 'BTN'),
+          TEST(lambda player: player['bbs'] <= BLINDS_TO_GO_ALL_IN_WHEN_IS_RAISED))
+    def preflop_group_6_reraise_allin(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_GO_ALL_IN))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 6),
+          TEST(lambda action: action['position'] == 'HJ' or action['position'] == 'CO' or action['position'] == 'MP1' or action['position'] == 'MP2' or action['position'] == 'UTG+1' or action['position'] == 'UTG' or action['position'] == 'SB' or action['position'] == 'BB'))
+    def preflop_group_6_fold_to_raise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
 
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 7),
-          TEST(lambda action: action['position'] == 'HJ' or
-                              action['position'] == 'CO' or
-                              action['position'] == 'BTN'))
-    def preflop_group_7_raise(self):
-        self.declare(Suggestion(street='PREFLOP', message='Aumentar a aposta'))
+          TEST(lambda action: action['position'] == 'HJ' or action['position'] == 'CO' or action['position'] == 'BTN'),
+          TEST(lambda player: player['bbs'] > BLINDS_TO_GO_ALL_IN))
+    def preflop_group_7_raise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_RAISE))
 
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 7),
-          TEST(lambda action: action['position'] == 'MP1' or
-                              action['position'] == 'MP2' or
-                              action['position'] == 'UTG+1' or
-                              action['position'] == 'UTG' or
-                              action['position'] == 'SB' or
-                              action['position'] == 'BB'))
-    def preflop_group_7_fold(self):
-        self.declare(Suggestion(street='PREFLOP', message='Desistir da mão'))
+          TEST(lambda action: action['position'] == 'HJ' or action['position'] == 'CO' or action['position'] == 'BTN'),
+          TEST(lambda player: player['bbs'] <= BLINDS_TO_GO_ALL_IN))
+    def preflop_group_7_allin(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_GO_ALL_IN))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 7),
+          TEST(lambda action: action['position'] == 'MP1' or action['position'] == 'MP2' or action['position'] == 'UTG+1' or action['position'] == 'UTG' or action['position'] == 'SB' or action['position'] == 'BB'))
+    def preflop_group_7_fold(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 7))
+    def preflop_group_7_fold_to_raise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
 
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 8),
-          TEST(lambda action: action['position'] == 'BTN'))
-    def preflop_group_8_raise(self):
-        self.declare(Suggestion(street='PREFLOP', message='Aumentar a aposta'))
+          TEST(lambda action: action['position'] == 'BTN'),
+          TEST(lambda player: player['bbs'] > BLINDS_TO_GO_ALL_IN))
+    def preflop_group_8_raise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_RAISE))
 
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 8),
-          TEST(lambda action: action['position'] == 'MP1' or
-                              action['position'] == 'MP2' or
-                              action['position'] == 'UTG+1' or
-                              action['position'] == 'UTG' or
-                              action['position'] == 'HJ' or
-                              action['position'] == 'CO' or
-                              action['position'] == 'SB' or
-                              action['position'] == 'BB'))
-    def preflop_group_8_fold(self):
-        self.declare(Suggestion(street='PREFLOP', message='Desistir da mão'))
+          TEST(lambda action: action['position'] == 'BTN'),
+          TEST(lambda player: player['bbs'] <= BLINDS_TO_GO_ALL_IN))
+    def preflop_group_8_allin(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_GO_ALL_IN))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 8),
+          TEST(lambda action: action['position'] == 'MP1' or action['position'] == 'MP2' or action['position'] == 'UTG+1' or action['position'] == 'UTG' or action['position'] == 'HJ' or action['position'] == 'CO' or action['position'] == 'SB' or action['position'] == 'BB'))
+    def preflop_group_8_fold(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 8))
+    def preflop_group_8_fold_to_raise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
 
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 9),)
-    def preflop_group_9_fold(self):
-        self.declare(Suggestion(street='PREFLOP', message='Desistir da mão'))
+    def preflop_group_9_fold(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
 
-
-    @Rule(AS.action << Action(street='PREFLOP', me=True, is_raised=True),
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=True),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 9),)
-    def preflop_someone_raised(self):
-        self.declare(Suggestion(street='PREFLOP', message='Alguém aumentou a aposta'))
+    def preflop_group_9_fold_to_raise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
+
+    # REGRAS no FLOP
+    @Rule(AS.action << Action(street='FLOP', me=True, is_raised=True, act=1),
+          AS.player << Player(me=True))
+    def preflop_someone_raised(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_IS_RAISED))
 
     @Rule(AS.action << Action(street='FLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 1 or player['group'] == 2))
-    def flop_group_1_2(self):
-        self.declare(Suggestion(street='FLOP', message='Aumentar a aposta'))
+    def flop_group_1_2(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_RAISE))
 
     @Rule(AS.action << Action(street='FLOP', me=True, act=1, is_raised=True),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 1 or player['group'] == 2))
-    def flop_group_1_2_raised(self):
-        self.declare(Suggestion(street='FLOP', message='Pagar a aposta'))
+    def flop_group_1_2_raised(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_CALL))
 
     @Rule(AS.action << Action(street='FLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] > 4), TEST(lambda action:  action['position'] == 'BTN'))
-    def flop_blef_btn(self):
-        self.declare(Suggestion(street='FLOP', message='Blefe - Aposte 0.7 do POT para roubar os blinds'))
+    def flop_blef_btn(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_BLUFF_70_PERC_POT))
 
     # Outras Regras
-
     @Rule(AS.player << Player(bbs=None), AS.blind << Blind())
     def set_player_big_blinds(self, player, blind):
         self.modify(player, bbs=player['chips']/blind['big'])
@@ -429,8 +589,8 @@ class PokerInference(KnowledgeEngine):
 
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1))
     def set_street_position_message_preflop(self, action):
-        self.declare(Suggestion(street='PREFLOP', message='Posição atual {}'.format(action['position'])))
+        self.declare(Suggestion(street=action['street'], message=MSG_POSITION.format(action['position'])))
 
     @Rule(AS.action << Action(street='FLOP', me=True, act=1))
     def set_street_position_message_flop(self, action):
-        self.declare(Suggestion(street='FLOP', message='Posição atual {}'.format(action['position'])))
+        self.declare(Suggestion(street=action['street'], message=MSG_POSITION.format(action['position'])))
