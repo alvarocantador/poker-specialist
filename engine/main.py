@@ -42,6 +42,8 @@ lambda_group_8_o = lambda player: (player['card_1_v'] <= 5 and player['card_1_v'
 
 class PokerInference(KnowledgeEngine):
 
+    # Se o evento de cartas recebidas foi acionado e se ja tiver um player disponivel com o mesmo nome
+    # defina as cardas do evento para o jogador de mesmo nome
     @Rule(AS.player << Player(),
           AS.received_card << ReceivedCard(),
           TEST(lambda player, received_card: player['name'] == received_card['player']),
@@ -99,12 +101,16 @@ class PokerInference(KnowledgeEngine):
         # cards_desc = '{0}{1},{2}{3}'.format(f_card['value'], f_card['suit'], s_card['value'], s_card['suit'])
         # self.declare(Suggestion(street='PREFLOP', message='Cartas recebidas: {0}'.format(cards_desc)))
 
+    # Se uma ação tiver o mesmo nome do player principal
+    # Marque as actions como a do player principal com a flag 'me'
     @Rule(AS.action << Action(me=False),
           AS.player << Player(me=True),
           TEST(lambda action, player: action['player'] == player['name']))
     def set_me_in_action(self, action):
         self.modify(action, me=True)
 
+    # Se tiver alguma action de mesma street de id maior com o mesmo act
+    # Defina is_raised como true
     @Rule(AS.action << Action(me=False, type='raise'),
           AS.action_me << Action(me=True, is_raised=False),
           TEST(lambda action, action_me: action_me['street'] == action['street'] and
@@ -114,126 +120,180 @@ class PokerInference(KnowledgeEngine):
         self.modify(action_me, is_raised=True)
 
     # Grupo de Maos
+
+    # Se as cartas recebidas estiverem no grupo 1 e par
+    # Defina o player principal com o grupo 1
     @Rule(AS.player << Player(group=0, suited=False),
           TEST(lambda player: lambda_group_1_p(player)))
     def preflop_define_group_1_pair(self, player):
         self.modify(player, group=1)
 
+
+    # Se as cartas recebidas estiverem no grupo 1 e do mesmo naipe
+    # Defina o player principal com o grupo 1 suited
     @Rule(AS.player << Player(group=0, suited=True),
           TEST(lambda player: lambda_group_1_s(player)))
     def preflop_define_group_1_suited(self, player):
         self.modify(player, group=1)
 
+    # Se as cartas recebidas estiverem no grupo 1 e de naipe diferente
+    # Defina o player principal com o grupo 1 off
     @Rule(AS.player << Player(group=0, suited=False),
           TEST(lambda player: lambda_group_1_o(player)))
     def preflop_define_group_1_ofsuited(self, player):
         self.modify(player, group=1)
 
+    # Se as cartas recebidas estiverem no grupo 2 e par
+    # Defina o player principal com o grupo 2
     @Rule(AS.player << Player(group=0, suited=False),
           TEST(lambda player: lambda_group_2_p(player)))
     def preflop_define_group_2_pair(self, player):
         self.modify(player, group=2)
 
+    # Se as cartas recebidas estiverem no grupo 2 e do mesmo naipe
+    # Defina o player principal com o grupo 2 suited
     @Rule(AS.player << Player(group=0, suited=True),
           TEST(lambda player: lambda_group_2_s(player)))
     def preflop_define_group_2_suited(self, player):
         self.modify(player, group=2)
 
+
+    # Se as cartas recebidas estiverem no grupo 2 e de naipe diferente
+    # Defina o player principal com o grupo 2 off
     @Rule(AS.player << Player(group=0, suited=False),
           TEST(lambda player: lambda_group_2_o(player)))
     def preflop_define_group_2_ofsuited(self, player):
         self.modify(player, group=2)
 
+    # Se as cartas recebidas estiverem no grupo 3 e par
+    # Defina o player principal com o grupo 3
     @Rule(AS.player << Player(group=0, suited=False),
           TEST(lambda player: lambda_group_3_p(player)))
     def preflop_define_group_3_pair(self, player):
         self.modify(player, group=3)
 
+
+    # Se as cartas recebidas estiverem no grupo 3 e do mesmo naipe
+    # Defina o player principal com o grupo 3 suited
     @Rule(AS.player << Player(group=0, suited=True),
           TEST(lambda player: lambda_group_3_s(player)))
     def preflop_define_group_3_suited(self, player):
         self.modify(player, group=3)
 
+    # Se as cartas recebidas estiverem no grupo 3 e de naipe diferente
+    # Defina o player principal com o grupo 3 off
     @Rule(AS.player << Player(group=0, suited=False),
           TEST(lambda player: lambda_group_3_o(player)))
     def preflop_define_group_3_ofsuited(self, player):
         self.modify(player, group=3)
 
+    # Se as cartas recebidas estiverem no grupo 4 e par
+    # Defina o player principal com o grupo 4
     @Rule(AS.player << Player(group=0, suited=False),
           TEST(lambda player: lambda_group_4_p(player)))
     def preflop_define_group_4_pair(self, player):
         self.modify(player, group=4)
 
+    # Se as cartas recebidas estiverem no grupo 4 e do mesmo naipe
+    # Defina o player principal com o grupo 4 suited
     @Rule(AS.player << Player(group=0, suited=True),
           TEST(lambda player: lambda_group_4_s(player)))
     def preflop_define_group_4_suited(self, player):
         self.modify(player, group=4)
 
+    # Se as cartas recebidas estiverem no grupo 4 e de naipe diferente
+    # Defina o player principal com o grupo 4 off
     @Rule(AS.player << Player(group=0, suited=False),
           TEST(lambda player: lambda_group_4_o(player)))
     def preflop_define_group_4_ofsuited(self, player):
         self.modify(player, group=4)
 
+    # Se as cartas recebidas estiverem no grupo 5 e par
+    # Defina o player principal com o grupo 5
     @Rule(AS.player << Player(group=0, suited=False),
           TEST(lambda player: lambda_group_5_p(player)))
     def preflop_define_group_5_pair(self, player):
         self.modify(player, group=5)
 
+    # Se as cartas recebidas estiverem no grupo 5 e do mesmo naipe
+    # Defina o player principal com o grupo 5 suited
     @Rule(AS.player << Player(group=0, suited=True),
           TEST(lambda player: lambda_group_5_s(player)))
     def preflop_define_group_5_suited(self, player):
         self.modify(player, group=5)
 
+    # Se as cartas recebidas estiverem no grupo 5 e de naipe diferente
+    # Defina o player principal com o grupo 5 off
     @Rule(AS.player << Player(group=0, suited=False),
           TEST(lambda player: lambda_group_5_o(player)))
     def preflop_define_group_5_ofsuited(self, player):
         self.modify(player, group=5)
 
+    # Se as cartas recebidas estiverem no grupo 6 e par
+    # Defina o player principal com o grupo 6
     @Rule(AS.player << Player(group=0, suited=False),
           TEST(lambda player: lambda_group_6_p(player)))
     def preflop_define_group_6_pair(self, player):
         self.modify(player, group=6)
 
+    # Se as cartas recebidas estiverem no grupo 6 e do mesmo naipe
+    # Defina o player principal com o grupo 6 suited
     @Rule(AS.player << Player(group=0, suited=True),
           TEST(lambda player: lambda_group_6_s(player)))
     def preflop_define_group_6_suited(self, player):
         self.modify(player, group=6)
 
+   # Se as cartas recebidas estiverem no grupo 6 e de naipe diferente
+    # Defina o player principal com o grupo 6 off
     @Rule(AS.player << Player(group=0, suited=False),
           TEST(lambda player: lambda_group_6_o(player)))
     def preflop_define_group_6_ofsuited(self, player):
         self.modify(player, group=6)
 
+    # Se as cartas recebidas estiverem no grupo 7 e par
+    # Defina o player principal com o grupo 7
     @Rule(AS.player << Player(group=0, suited=False),
           TEST(lambda player: lambda_group_7_p(player)))
     def preflop_define_group_7_pair(self, player):
         self.modify(player, group=7)
 
+   # Se as cartas recebidas estiverem no grupo 7 e do mesmo naipe
+    # Defina o player principal com o grupo 7 suited
     @Rule(AS.player << Player(group=0, suited=True),
           TEST(lambda player: lambda_group_7_s(player)))
     def preflop_define_group_7_suited(self, player):
         self.modify(player, group=7)
 
+    # Se as cartas recebidas estiverem no grupo 7 e de naipe diferente
+    # Defina o player principal com o grupo 7 off
     @Rule(AS.player << Player(group=0, suited=False),
           TEST(lambda player: lambda_group_7_o(player)))
     def preflop_define_group_7_ofsuited(self, player):
         self.modify(player, group=7)
 
+    # Se as cartas recebidas estiverem no grupo 8 e par
+    # Defina o player principal com o grupo 8
     @Rule(AS.player << Player(group=0, suited=False),
           TEST(lambda player: lambda_group_8_p(player)))
     def preflop_define_group_8_pair(self, player):
         self.modify(player, group=8)
 
+    # Se as cartas recebidas estiverem no grupo 8 e do mesmo naipe
+    # Defina o player principal com o grupo 8 suited
     @Rule(AS.player << Player(group=0, suited=True),
           TEST(lambda player: lambda_group_8_s(player)))
     def preflop_define_group_8_suited(self, player):
         self.modify(player, group=8)
 
+    # Se as cartas recebidas estiverem no grupo 8 e de naipe diferente
+    # Defina o player principal com o grupo 8 off
     @Rule(AS.player << Player(group=0, suited=False),
           TEST(lambda player: lambda_group_8_o(player)))
     def preflop_define_group_8_ofsuited(self, player):
         self.modify(player, group=8)
 
+    # Se as cartas não forem de nenhum dos grupos anterios
+    # Defina o player principal com o grupo 9
     @Rule(AS.player << Player(group=0, suited=False),
           TEST(lambda player: not lambda_group_1_p(player)),
           TEST(lambda player: not lambda_group_1_s(player)),
@@ -263,11 +323,15 @@ class PokerInference(KnowledgeEngine):
         self.modify(player, group=9)
 
     # Regras Pre Flop
+    # Se estiver o jogador principal, estiver no preflop e estiver raised na primeira ação
+    # Informar raise
     @Rule(AS.action << Action(street='PREFLOP', me=True, is_raised=True, act=1),
           AS.player << Player(me=True))
     def preflop_someone_raised(self, action):
         self.declare(Suggestion(street=action['street'], message=MSG_IS_RAISED))
 
+    # Se estiver o jogador principal, estiver no preflop e não estiver raised na primeira ação, e no grupo 1 ou 2, e com blinds maior q BLINDS_TO_GO_ALL_IN
+    # Sugira raise
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 1 or player['group'] == 2),
@@ -275,6 +339,8 @@ class PokerInference(KnowledgeEngine):
     def preflop_group_1_2_raise(self, action):
         self.declare(Suggestion(street=action['street'], message=MSG_RAISE))
 
+    # Se estiver o jogador principal, estiver no preflop e não estiver raised na primeira ação, e no grupo 1 ou 2, e com  blinds menor ou igual q BLINDS_TO_GO_ALL_IN
+    # Sugira All In
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 1 or player['group'] == 2),
@@ -282,12 +348,15 @@ class PokerInference(KnowledgeEngine):
     def preflop_group_1_2_allin(self, action):
         self.declare(Suggestion(street=action['street'], message=MSG_GO_ALL_IN))
 
+    # Se estiver o jogador principal, estiver no preflop e não estiver raised na primeira ação, e no grupo 1 ou 2, e com blinds maior q BLINDS_TO_GO_ALL_IN_WHEN_IS_RAISED
+    # Sugira re-raise
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=True),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 1 or player['group'] == 2),
           TEST(lambda player: player['bbs'] > BLINDS_TO_GO_ALL_IN_WHEN_IS_RAISED))
     def preflop_group_1_2_reraise(self, action):
         self.declare(Suggestion(street=action['street'], message=MSG_RAISE))
+
 
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=True),
           AS.player << Player(me=True),
@@ -296,6 +365,8 @@ class PokerInference(KnowledgeEngine):
     def preflop_group_1_2_reraise_allin(self, action):
         self.declare(Suggestion(street=action['street'], message=MSG_GO_ALL_IN))
 
+    # Se estiver o jogador principal, estiver no preflop e não estiver raised na primeira ação, e no grupo 3, e com  blinds menor ou igual q BLINDS_TO_GO_ALL_IN
+    # Sugira raise
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 3),
