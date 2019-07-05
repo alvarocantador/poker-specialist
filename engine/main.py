@@ -339,3 +339,11 @@ class PokerInference(KnowledgeEngine):
     @Rule(AS.game << GameSummary(bbs=None), AS.blind << Blind())
     def set_summary_bbs(self, game, blind):
         self.modify(game, bbs=game['pot']/blind['big'])
+
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1))
+    def set_street_position_message_preflop(self, action):
+        self.declare(Suggestion(street='PREFLOP', message='Posição atual {}'.format(action['position'])))
+
+    @Rule(AS.action << Action(street='FLOP', me=True, act=1))
+    def set_street_position_message_flop(self, action):
+        self.declare(Suggestion(street='FLOP', message='Posição atual {}'.format(action['position'])))
