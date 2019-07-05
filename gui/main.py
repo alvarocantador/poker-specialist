@@ -30,7 +30,8 @@ class PokerConsole:
         # PRINT
         print("=====================================")
         print("Hand: {}".format(hand['id']))
-        print("Player: {} | Blinds: {}".format(me['name'], me['bbs']))
+        bbs = me['bbs'] or ''
+        print("Player: {} | Blinds: {}".format(me['name'], bbs))
         print("Seat: {} | Group: {}".format(me['seat'], me['group']))
         print("")
         print("CARDS {}{}, {}{}".format(me['cards'][0]['value'], me['cards'][0]['suit'], me['cards'][1]['value'], me['cards'][1]['suit']))

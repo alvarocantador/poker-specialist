@@ -11,5 +11,6 @@ logging.debug("Finished loading language syntax")
 
 def interpret(hand_history, semantic=PokerSemantic()):
     hands = hand_history.split("\n\n\n")
-    tress = [ language.parse(hand) for hand in hands ]
-    for tree in tress: yield semantic.transform(tree)
+    for hand in hands:
+            tree = language.parse(hand)
+            yield semantic.transform(tree)
