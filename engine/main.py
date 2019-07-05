@@ -275,6 +275,13 @@ class PokerInference(KnowledgeEngine):
     def preflop_group_9_fold(self):
         self.declare(Suggestion(street='PREFLOP', message='Desistir da mão'))
 
+    
+    @Rule(AS.action << Action(street='PREFLOP', me=True, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 9),)
+    def preflop_someone_raised(self):
+        self.declare(Suggestion(street='PREFLOP', message='Alguém aumentou a aposta'))
+
     @Rule(AS.action << Action(street='FLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 1 or player['group'] == 2))
