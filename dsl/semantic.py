@@ -1,4 +1,4 @@
-from lark import Lark, Transformer, v_args
+from lark import Lark, Transformer, v_args, Tree
 from engine.main import *
 from engine.facts import *
 import ast
@@ -81,7 +81,7 @@ class PokerSemantic(Transformer):
         action_array = []
         for i, v in  enumerate(token):
             action = v.children[0]
-            if isinstance(action, type(None)) or action['action'] == 'timeout':
+            if isinstance(action, type(None)) or isinstance(action, Tree) or action['action'] == 'timeout':
                 continue
             act_array.append(action['player'])
             act = act_array.count(action['player'])

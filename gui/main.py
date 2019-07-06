@@ -24,13 +24,13 @@ class PokerConsole:
                 if 'me' in current_fact: 
                     me = current_fact
 
-        if(hand == None):
+        if(hand == None or me == None):
             return
 
         # PRINT
         print("=====================================")
         print("Hand: {}".format(hand['id']))
-        bbs = me['bbs'] or ''
+        bbs = me['bbs'] if not isinstance(me, type(None)) and 'bbs' in me else ''
         print("Player: {} | Blinds: {}".format(me['name'], bbs))
         print("Seat: {} | Group: {}".format(me['seat'], me['group']))
         print("")
