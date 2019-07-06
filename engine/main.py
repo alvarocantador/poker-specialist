@@ -7,9 +7,11 @@ BLINDS_TO_GO_ALL_IN_WHEN_IS_RAISED = 18
 
 # Mensagens padrao
 MSG_CALL = 'Pague a aposta'
-MSG_RAISE = 'Aumentar a aposta'
-MSG_FOLD = 'Desistir da mão'
-MSG_GO_ALL_IN = 'Deve ir ALL IN'
+MSG_CHECK = 'Apenas de mesa'
+MSG_RAISE = 'Aumente a aposta'
+MSG_RAISE_3X_THE_BET = 'Aumente 3x a aposta'
+MSG_FOLD = 'Desista da mão'
+MSG_GO_ALL_IN = 'Vá ALL IN'
 MSG_IS_RAISED = 'Alguém aumentou a aposta'
 MSG_POSITION = 'Posição atual {}'
 MSG_BLUFF_70_PERC_POT = 'Deve blefar - Aposte 0.7 do POT para roubar os blinds'
@@ -96,10 +98,6 @@ class PokerInference(KnowledgeEngine):
                     card_1_s=card_1_s, card_2_s=card_2_s,
                     suited=f_card['suit'] == s_card['suit'],
                     group=0)
-
-        # Descricao das cartas
-        # cards_desc = '{0}{1},{2}{3}'.format(f_card['value'], f_card['suit'], s_card['value'], s_card['suit'])
-        # self.declare(Suggestion(street='PREFLOP', message='Cartas recebidas: {0}'.format(cards_desc)))
 
     # Se uma ação tiver o mesmo nome do player principal
     # Marque as actions como a do player principal com a flag 'me'
@@ -322,7 +320,14 @@ class PokerInference(KnowledgeEngine):
     def preflop_define_group_9_not_otthers(self, player):
         self.modify(player, group=9)
 
-    # Regras Pre Flop
+    ######### REGRAS no PREFLOP #########
+
+    # Se estiver no pre-flop
+    # Informe a posição
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1))
+    def set_street_position_message_preflop(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_POSITION.format(action['position'])))
+
     # Se estiver o jogador principal, estiver no preflop e estiver raised na primeira ação
     # Informar raise
     @Rule(AS.action << Action(street='PREFLOP', me=True, is_raised=True, act=1),
@@ -363,6 +368,32 @@ class PokerInference(KnowledgeEngine):
           TEST(lambda player: player['group'] == 1 or player['group'] == 2),
           TEST(lambda player: player['bbs'] <= BLINDS_TO_GO_ALL_IN_WHEN_IS_RAISED))
     def preflop_group_1_2_reraise_allin(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_GO_ALL_IN))
+
+    # Se estiver o jogador principal, estiver no preflop e não estiver raised na segunda ação, e no grupo 1 ou 2, e com blinds maior q BLINDS_TO_GO_ALL_IN * 2
+    # Sugira raise
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=2, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 1 or player['group'] == 2),
+          TEST(lambda player: player['bbs'] > BLINDS_TO_GO_ALL_IN * 2))
+    def preflop_group_1_2_act2_raise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_RAISE_3X_THE_BET))
+
+    # Se estiver o jogador principal, estiver no preflop e não estiver raised na segunda ação, e no grupo 1 ou 2, e com blinds maior q BLINDS_TO_GO_ALL_IN * 2
+    # Sugira raise
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=2, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 1 or player['group'] == 2),
+          TEST(lambda player: player['bbs'] <= BLINDS_TO_GO_ALL_IN * 2))
+    def preflop_group_1_2_act2_allin(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_GO_ALL_IN))
+
+    # Se estiver o jogador principal, estiver no preflop e tem raised na segunda ação, e no grupo 1 ou 2, e com blinds
+    # Sugira raise
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=2, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 1 or player['group'] == 2))
+    def preflop_group_1_2_act2_reraise_allin(self, action):
         self.declare(Suggestion(street=action['street'], message=MSG_GO_ALL_IN))
 
     # Se estiver o jogador principal, estiver no preflop e não estiver raised na primeira ação, e no grupo 3, e com  blinds menor ou igual q BLINDS_TO_GO_ALL_IN
@@ -413,6 +444,33 @@ class PokerInference(KnowledgeEngine):
     def preflop_group_3_fold_to_raise(self, action):
         self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
 
+    # Se estiver o jogador principal, estiver no preflop e ninguem deu raise e estiver na segunda ação, e no grupo 3 e com blinds maior que BLINDS_TO_GO_ALL_IN
+    # Sugira check
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=2, is_raised=False),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['bbs'] > BLINDS_TO_GO_ALL_IN),
+          TEST(lambda player: player['group'] == 3))
+    def preflop_group_3_act2_allin(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_CHECK))
+
+    # Se estiver o jogador principal, estiver no preflop e estiver na segunda ação, e no grupo 3 e com blinds maior que BLINDS_TO_GO_ALL_IN
+    # Sugira call
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=2, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['bbs'] > BLINDS_TO_GO_ALL_IN),
+          TEST(lambda player: player['group'] == 3))
+    def preflop_group_3_act2_allin(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_CALL))
+
+    # Se estiver o jogador principal, estiver no preflop e estiver na segunda ação, e no grupo 3 e com blinds menor ou igual que BLINDS_TO_GO_ALL_IN
+    # Sugira all in
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=2),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['bbs'] <= BLINDS_TO_GO_ALL_IN),
+          TEST(lambda player: player['group'] == 3))
+    def preflop_group_3_act2_fold(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_GO_ALL_IN))
+
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 4),
@@ -459,6 +517,24 @@ class PokerInference(KnowledgeEngine):
     def preflop_group_4_fold_to_raise(self, action):
         self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
 
+    # Se estiver o jogador principal, estiver no preflop e estiver na segunda ação, e no grupo 4 e com blinds maior que BLINDS_TO_GO_ALL_IN
+    # Sugira fold
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=2),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 4),
+          TEST(lambda player: player['bbs'] > BLINDS_TO_GO_ALL_IN))
+    def preflop_group_4_act2_fold(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
+
+    # Se estiver o jogador principal, estiver no preflop e estiver na segunda ação, e no grupo 4 e com blinds menor que BLINDS_TO_GO_ALL_IN
+    # Sugira fold
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=2),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 4),
+          TEST(lambda player: player['bbs'] > BLINDS_TO_GO_ALL_IN))
+    def preflop_group_4_act2_allin(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_GO_ALL_IN))
+
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 5),
@@ -503,6 +579,14 @@ class PokerInference(KnowledgeEngine):
           TEST(lambda player: player['group'] == 5),
           TEST(lambda action: action['position'] == 'MP2' or action['position'] == 'HJ' or action['position'] == 'MP1' or action['position'] == 'UTG+1' or action['position'] == 'UTG' or action['position'] == 'BB'))
     def preflop_group_5_fold_to_raise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
+
+    # Se estiver o jogador principal, estiver no preflop e estiver na segunda ação, e no grupo 5 e teve raise
+    # Sugira fold
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=2, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 5))
+    def preflop_group_5_act2_fold(self, action):
         self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
 
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
@@ -551,6 +635,14 @@ class PokerInference(KnowledgeEngine):
     def preflop_group_6_fold_to_raise(self, action):
         self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
 
+    # Se estiver o jogador principal, estiver no preflop e estiver na segunda ação, e no grupo 6 e teve raise
+    # Sugira fold
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=2, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 6))
+    def preflop_group_6_act2_fold(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
+
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 7),
@@ -578,6 +670,14 @@ class PokerInference(KnowledgeEngine):
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 7))
     def preflop_group_7_fold_to_raise(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
+
+    # Se estiver o jogador principal, estiver no preflop e estiver na segunda ação, e no grupo 7 e teve raise
+    # Sugira fold
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=2, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 7))
+    def preflop_group_7_act2_fold(self, action):
         self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
 
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
@@ -609,6 +709,14 @@ class PokerInference(KnowledgeEngine):
     def preflop_group_8_fold_to_raise(self, action):
         self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
 
+    # Se estiver o jogador principal, estiver no preflop e estiver na segunda ação, e no grupo 8 e teve raise
+    # Sugira fold
+    @Rule(AS.action << Action(street='PREFLOP', me=True, act=2, is_raised=True),
+          AS.player << Player(me=True),
+          TEST(lambda player: player['group'] == 8))
+    def preflop_group_8_act2_fold(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
+
     @Rule(AS.action << Action(street='PREFLOP', me=True, act=1, is_raised=False),
           AS.player << Player(me=True),
           TEST(lambda player: player['group'] == 9),)
@@ -621,7 +729,14 @@ class PokerInference(KnowledgeEngine):
     def preflop_group_9_fold_to_raise(self, action):
         self.declare(Suggestion(street=action['street'], message=MSG_FOLD))
 
-    # REGRAS no FLOP
+    ######### REGRAS nO FLOP #########
+
+    # Se estiver no flop
+    # Informe a posição
+    @Rule(AS.action << Action(street='FLOP', me=True, act=1))
+    def set_street_position_message_flop(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_POSITION.format(action['position'])))
+
     # Se no flop alguem apostou
     # Informe a aposta
     @Rule(AS.action << Action(street='FLOP', me=True, is_raised=True, act=1),
@@ -653,7 +768,37 @@ class PokerInference(KnowledgeEngine):
     def flop_blef_btn(self, action):
         self.declare(Suggestion(street=action['street'], message=MSG_BLUFF_70_PERC_POT))
 
-    # Outras Regras
+    ######### REGRAS no TURN #########
+
+    # Se estiver no turn
+    # Informe a posição
+    @Rule(AS.action << Action(street='TURN', me=True, act=1))
+    def set_street_position_message_flop(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_POSITION.format(action['position'])))
+
+    # Se no turn alguem apostou
+    # Informe a aposta
+    @Rule(AS.action << Action(street='TURN', me=True, is_raised=True, act=1),
+          AS.player << Player(me=True))
+    def flop_someone_raised(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_IS_RAISED))
+
+    ######### REGRAS no RIVER #########
+
+    # Se estiver no river
+    # Informe a posição
+    @Rule(AS.action << Action(street='RIVER', me=True, act=1))
+    def set_street_position_message_flop(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_POSITION.format(action['position'])))
+
+    # Se no river alguem apostou
+    # Informe a aposta
+    @Rule(AS.action << Action(street='RIVER', me=True, is_raised=True, act=1),
+          AS.player << Player(me=True))
+    def flop_someone_raised(self, action):
+        self.declare(Suggestion(street=action['street'], message=MSG_IS_RAISED))
+
+    ######### OUTRAS REGRAS #########
     # Se o player nao tiver os blinds calculados
     # Calcule o blind para o player
     @Rule(AS.player << Player(bbs=None), AS.blind << Blind())
@@ -672,14 +817,3 @@ class PokerInference(KnowledgeEngine):
     def set_summary_bbs(self, game, blind):
         self.modify(game, bbs=game['pot']/blind['big'])
 
-    # Se estiver no pre-flop
-    # Informe a posição
-    @Rule(AS.action << Action(street='PREFLOP', me=True, act=1))
-    def set_street_position_message_preflop(self, action):
-        self.declare(Suggestion(street=action['street'], message=MSG_POSITION.format(action['position'])))
-
-    # Se estiver no flop
-    # Informe a posição
-    @Rule(AS.action << Action(street='FLOP', me=True, act=1))
-    def set_street_position_message_flop(self, action):
-        self.declare(Suggestion(street=action['street'], message=MSG_POSITION.format(action['position'])))
